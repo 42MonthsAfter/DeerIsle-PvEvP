@@ -1,0 +1,266 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "Oceanville",
+            "Positions": [
+                [
+                    10501.626953125,
+                    38.44813537597656,
+                    4838.28564453125
+                ],
+                [
+                    10264.2431640625,
+                    29.939361572265626,
+                    4646.568359375
+                ],
+                [
+                    10171.6025390625,
+                    33.86616134643555,
+                    4771.10986328125
+                ],
+                [
+                    10027.609375,
+                    46.279781341552737,
+                    5010.65966796875
+                ],
+                [
+                    10299.7255859375,
+                    43.08234786987305,
+                    5171.11865234375
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Westbrook",
+            "Positions": [
+                [
+                    3060.45,
+                    11.5116,
+                    6255.33
+                ],
+                [
+                    3258.81, 
+                    20.43, 
+                    6600.62
+                ],
+                [
+                    3469.29,  
+                    22.38,
+                    6083.92
+                ],
+                [
+                    3703.82,  
+                    20.43,
+                    6472.26
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Greenville",
+            "Positions": [
+                [
+                    4613.68,  
+                    14.7548,
+                    1560.6
+                ],
+                [
+                    4717.02,  
+                    9.86586, 
+                    1384.67
+                ],
+                [
+                    4867.34, 
+                    8.27,  
+                    1577.31 
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Portland",
+            "Positions": [
+                [
+                    6173.95,   
+                    26.86,
+                    13886.3 
+                ],
+                [
+                    6044.16,   
+                    5.88, 
+                    14872.6 
+                ],
+                [
+                    6439.28, 
+                    30.2671,  
+                    14425.6 
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Waldoboro",
+            "Positions": [
+                [
+                    8956.4,     
+                    5.13,
+                    8931.73 
+                ],
+                [
+                    9107.33,    
+                    6.64101,
+                    9493.71 
+                ],
+                [
+                    8330.19,  
+                    5.13,  
+                    9320.3
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Kushville",
+            "Positions": [
+                [
+                    7483.59,     
+                    22.7367,
+                    4065.65  
+                ],
+                [
+                    7508.88,    
+                    24.4603,
+                    3819.98   
+                ],
+                [
+                    7680.49,   
+                    10.6887,  
+                    3935.59 
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Stonington",
+            "Positions": [
+                [
+                    6913.92,       
+                    25.0189,
+                    1707.74
+                ],
+                [
+                    6936.18,      
+                    42.1,
+                    2250.15  
+                ],
+                [
+                    6496.99,    
+                    31.5625,  
+                    1900.01   
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "The Holler",
+            "Positions": [
+                [
+                    5638.89,      
+                    27.3497, 
+                    5438.06 
+                ],
+                [
+                    5630.99,       
+                    28.7019, 
+                    5347.68 
+                ],
+                [
+                    5665.17,     
+                    28.7088,  
+                    5392.49    
+                ]
+            ],
+            "UseCooldown": 1
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "DOC_TSHIRT_42"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "DOC_Jeans_Red42"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": []
+    },
+    "EnableSpawnSelection": 1,
+    "SpawnOnTerritory": 0,
+    "StartingGear": {
+        "EnableStartingGear": 1,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Apple",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Chemlight_White",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 500.0,
+    "SpawnWaterValue": 500.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 1,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 1,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}

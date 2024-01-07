@@ -1,0 +1,660 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Desktop\Deer-Isle\profiles\script_2024-01-06_19-06-48.log started at 06.01. 19:06:49
+
+SCRIPT       : Registered 401 temporary action enum(s), UAN==401
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 19:06:50 [EXPANSION LOG]: DayZGame<4126a8a0> Start time (local time) 2024-01-06 19:06:46
+SCRIPT       : 19:06:50 [EXPANSION LOG]: DayZGame<4126a8a0> Start time (UTC) 2024-01-07 00:06:46
+SCRIPT       : 19:06:50 [EXPANSION LOG]: DayZGame<4126a8a0> Runtime since start (seconds) 4.885
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,52": Missing ';' at the end of line
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,73": Missing ';' at the end of line
+SCRIPT    (W): @"Weapons/Scripts/4_World/itembase\jmc_prototype_optic.c,3": Missing ';' at the end of line
+SCRIPT    (W): @"crab/scripts/4_World/animal_crab.c,71": FIX-ME: Overriding function 'ResistContaminatedEffect' but not marked as 'override'
+SCRIPT    (W): @"crab/scripts/4_World/animal_crab.c,50": FIX-ME: Overriding function 'ResistContaminatedEffect' but not marked as 'override'
+SCRIPT    (W): @"Survivalists_TestMod/scripts/4_world/jmc_actionopencryptodoor.c,66": FIX-ME: Overriding function 'OnStartClient' but not marked as 'override'
+SCRIPT    (W): @"Weapons/Scripts/4_World/itembase\jmc_prototype_optic.c,76": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"deerisle/scripts/4_World/deerislebase\deerisle.c,422": Unsafe down-casting, use 'JMC_SmokeSpawn.Cast' for safe down-casting
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,635": Missing ';' at the end of line
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,637": Missing ';' at the end of line
+SCRIPT    (W): @"Grid_Mod/scripts/5_Mission/tempeldeckelinvisible.c,4": FIX-ME: Overriding function 'SpawnObject' but not marked as 'override'
+SCRIPT    (W): @"deerisle/scripts/5_Mission/missionserver.c,168": FIX-ME: Overriding function 'SpawnObject' but not marked as 'override'
+SCRIPT       : DeerisleWorld:Init() called.
+SCRIPT       : Expansion version: 1.8.36
+SCRIPT       : 19:07:08.726 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 19:07:08.726 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\empty.deerisle\init.c:110
+SCRIPT    (E): [::JsonLoadFile] :: [ERROR] :: Cannot load data from "$mission:expansion\settings\SafeZoneSettings.json":
+JSON ERROR:
+The document root must not be followed by other values.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:28
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\safezone\expansionsafezonesettings.c:184
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:294
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:112
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+SCRIPT       : 19:07:08.734 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 19:07:08.742 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 19:07:08.742 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 19:07:08.750 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 19:07:08.750 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 19:07:08.765 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Farming_Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Good_Good)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Launchers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Magazines)
+SCRIPT    (E): 
+Item surgicalmask has already been added to category Farming_Supplies (ID 25)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:193
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1127
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:294
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:112
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Pelts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Pokemon_Cards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (PreRolls)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Seeds)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Tools)
+SCRIPT    (E): 
+Item carbattery has already been added to category Batteries (ID 7)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:193
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1127
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:294
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:112
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 72 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 73 (Vests)
+SCRIPT       : 19:07:09.093 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 19:07:09.218 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 19:07:09.218 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 19:07:09.242 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] Load existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json
+SCRIPT       : 19:07:09.242 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 19:07:09.242 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 19:07:09.242 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 19:07:09.250 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 19:07:09.250 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 19:07:09.257 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 19:07:09.257 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 19:07:09.257 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 19:07:09.265 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 19:07:09.265 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 19:07:09.273 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : AM_Fog
+SCRIPT       : ArmA2_Props
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : Deerisle_Security_System
+SCRIPT       : lxFoodScripts
+SCRIPT       : Lighthouse
+SCRIPT       : bliss
+SCRIPT       : Grid_Mod
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : AreaTriggerEvents
+SCRIPT       : ClassicWalkScripts
+SCRIPT       : JMC_Reading
+SCRIPT       : JMC_Smokey
+SCRIPT       : STAG_Industries_Pack
+SCRIPT       : Survivalists_TestMod
+SCRIPT       : Survivalists_Weapons_JMC
+SCRIPT       : TDLScripts
+SCRIPT       : TK_Gear
+SCRIPT       : DeerIsle_Weapons
+SCRIPT       : DZ_Editor_Loader
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : DeerIsleScripts
+SCRIPT       : Animal_crab
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : DeerIsle_FinderOuter
+SCRIPT       : MjolnirScripts
+SCRIPT       : AdmiralsDivingMod
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : ClassicWalk: No config file found. Creating new ClassicWalkConfig.json
+SCRIPT       : DeerisleWorld:Init() called.
+SCRIPT       : [Deerisle Temple Cage] Spawning Objects...
+SCRIPT       : 19:07:09.820 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : Diving Settings Received From Server
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.187 [EXPANSION DEBUG]: ExpansionTraderHelga<68bc5580>::SetTraderObject ExpansionTraderObjectBase<6bf7f2e0> <5632.790039, 29.280001, 5394.209961>
+SCRIPT       : 19:07:12.187 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHelga<68bc5580> fileName Hunting
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.203 [EXPANSION DEBUG]: ExpansionTraderLewis<68bc1570>::SetTraderObject ExpansionTraderObjectBase<6c021f30> <5597.669922, 28.827499, 5351.970215>
+SCRIPT       : 19:07:12.203 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLewis<68bc1570> fileName Vehicles
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.218 [EXPANSION DEBUG]: ExpansionTraderIndar<68bad520>::SetTraderObject ExpansionTraderObjectBase<5c661610> <5634.100098, 29.280001, 5391.390137>
+SCRIPT       : 19:07:12.218 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIndar<68bad520> fileName BuildingSupplies
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.226 [EXPANSION DEBUG]: ExpansionTraderNaomi<68ba9510>::SetTraderObject ExpansionTraderObjectBase<5c754e80> <5592.470215, 29.746700, 5413.040039>
+SCRIPT       : 19:07:12.226 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<68ba9510> fileName Weed
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.234 [EXPANSION DEBUG]: ExpansionTraderOliver<68bd95d0>::SetTraderObject ExpansionTraderObjectBase<5c839160> <5620.430176, 29.100000, 5418.640137>
+SCRIPT       : 19:07:12.234 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderOliver<68bd95d0> fileName Weapons
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.242 [EXPANSION DEBUG]: ExpansionTraderEva<68bdd5e0>::SetTraderObject ExpansionTraderObjectBase<66835a30> <5618.149902, 32.139999, 5417.859863>
+SCRIPT       : 19:07:12.242 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderEva<68bdd5e0> fileName Special
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.250 [EXPANSION DEBUG]: ExpansionTraderLinda<68be15f0>::SetTraderObject ExpansionTraderObjectBase<669545c0> <5580.410156, 28.719999, 5389.890137>
+SCRIPT       : 19:07:12.250 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<68be15f0> fileName Medicals
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.257 [EXPANSION DEBUG]: ExpansionTraderElias<68bcd5a0>::SetTraderObject ExpansionTraderObjectBase<66a4c780> <5614.220215, 29.049999, 5417.919922>
+SCRIPT       : 19:07:12.257 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderElias<68bcd5a0> fileName Clothing_Accessories
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.265 [EXPANSION DEBUG]: ExpansionTraderQuinn<68be5600>::SetTraderObject ExpansionTraderObjectBase<66a986b0> <5637.350098, 32.023201, 5400.970215>
+SCRIPT       : 19:07:12.265 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderQuinn<68be5600> fileName Collectibles
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:727
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:692
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:676
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c:69
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c:46
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:41
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:157
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:30
+DayZEditorLoader/scripts/5_Mission/dayzeditorloader\mission\missionserver.c:104
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+SCRIPT       : 19:07:12.281 [EXPANSION DEBUG]: ExpansionTraderRolf<68bd15b0>::SetTraderObject ExpansionTraderObjectBase<66bcda10> <10319.200195, 1.455190, 5636.520996>
+SCRIPT       : 19:07:12.281 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderRolf<68bd15b0> fileName Boats
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_1.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_2.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_3.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_4.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_1.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_2.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_3.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_4.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_1.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_1.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_3.json
+SCRIPT       : [ExpansionQuestObjectiveTreasureHuntConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\TreasureHunt\Objective_TH_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_2.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIPatrolConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIPatrol\Objective_AIP_1.json
+SCRIPT       : [ExpansionQuestObjectiveAICampConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AICamp\Objective_AIC_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIEscortConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIVIP\Objective_AIESCORT_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_2.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_3.json
+SCRIPT       : [EditorLoader] File found: $mission:\EditorFiles\The Holler.dze
+SCRIPT       : [EditorLoader] Loaded files in 0.017s
+SCRIPT       : [EditorLoader] Object 'Mosin9130_Camo' is either private scope or does not exist
+SCRIPT       : [EditorLoader] Object 'CS_Military_CargoTower2' is either private scope or does not exist
+SCRIPT       : [EditorLoader] Object 'CS_Military_CargoTower1' is either private scope or does not exist
+SCRIPT       : [EditorLoader] Object 'CS_Military_CargoTower1' is either private scope or does not exist
+SCRIPT       : [EditorLoader] 3429 total objects created
+SCRIPT       : [EditorLoader] 3893 total objects deleted
+SCRIPT       : [EditorLoader] Deleted & Created all objects in 0.457s
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Paper".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\empty.deerisle\init.c:13
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<845bff00>
+SCRIPT       : int worth =   1
+SCRIPT       : Found 0 zones!
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:201
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2429
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:413
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:73
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:171
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:63
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:38
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:51
+scripts/3_Game/dayzgame.c:2817
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:242
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:201
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2429
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:413
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:73
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:171
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:63
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:38
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:51
+scripts/3_Game/dayzgame.c:2817
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:242
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 19:07:34.476 [EXPANSION DEBUG]: Clearing cached categories 73
+SCRIPT       : 19:07:34.476 [EXPANSION DEBUG]: Clearing cached traders 20
+SCRIPT       : ~DayZGame()

@@ -1,0 +1,1023 @@
+=====================================================================
+== C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\DayZServer_x64.exe
+== DayZServer_x64.exe -cpuCount=4 -mod=@DeerIsle;@CF;@CommunityOnlineTools;@DabsFramework;@DayZExpansionLicensed;@DayZExpansionBundle;@42MonthsAfterPvPDevelopment;@gebsfish;@GarbageSearch;@CollectableItems;@CannabisPlus;@TeddysWeaponPack;@MunghardsItempack;@DayZEditorLoader;@WindstridesClothingPack; -config=serverDZ.cfg -port=2302 -noFilePatching -profiles=profiles -scrAllowFileWrite -adminlog
+=====================================================================
+Exe timestamp: 2024/01/01 17:40:38
+Current time:  2024/01/06 03:05:04
+Version 1.23.157045
+=====================================================================
+
+ 3:05:04.388 [Inputs] Loading inputs default "bin/constants.xml"
+ 3:05:04.390 [Inputs] Loading inputs default "bin/specific.xml"
+ 3:05:04.391 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 3:05:04.391 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 3:05:04.391 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 3:05:04.392 [Inputs] Loading inputs default "LIVEN/PvZmoD_CustomisableZombies/inputs.xml"
+ 3:05:04.392 [Inputs] Loading inputs default "PVEZ/data/inputs.xml"
+ 3:05:04.392 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+ 3:05:04.394 [Inputs] Loading inputs default "deerisle/scripts/Inputs.xml"
+ 3:05:04.394 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+ 3:05:04.394 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+ 3:05:04.395 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 3:05:04.395 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+ 3:05:04.396 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 3:05:04.396 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+ 3:05:04.396 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 3:05:04.397 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+ 3:05:04.398 [Inputs] Loading inputs default "AdmiralsDivingMod/Scripts/Data/modded_Inputs.xml"
+ 3:05:04.399 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+ 3:05:04.399 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+ 3:05:04.399 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 3:05:04.400 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+ 3:05:04.400 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 3:05:04.401 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+ 3:05:04.401 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+ 3:05:04.402 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+ 3:05:04.403 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 3:05:04.403 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+ 3:05:04.403 [Inputs] Loading inputs cfg "bin/core.xml"
+ 3:05:04.404 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+ 3:05:04.406 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 3:05:36.673 [CE][Hive] :: Initializing OFFLINE
+ 3:05:36.673 [StorageDirs] :: Selected storage directory: C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\
+ 3:05:36.674 [CE][Hive] :: Loading core data ... 
+ 3:05:36.674 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+ 3:05:36.701 [CE][offlineDB] :: Conversion of characters started.
+ 3:05:36.716 [CE][offlineDB] :: Processing 0 players.
+ 3:05:36.716 [CE][offlineDB] :: Conversion of characters successfully completed.
+ 3:05:43.00 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+ 3:05:43.02 [CE][TypeSetup] :: 472 classes setuped...
+ 3:05:43.05 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+ 3:05:43.06 [CE][TypeSetup] :: 97 classes setuped...
+ 3:05:44.713 [CE][RegisterBind] :: 0 classes binded...
+ 3:05:44.714 [CE][RegisterConfig] :: 16043 config classes registered, 0 sub-counters...
+ 3:05:44.714 [CE][Hive] :: Loading map data ... 
+ 3:05:44.715 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.752 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:05:44.753 !!! [CE] :: Unknown usage: 'Fortknox'.
+ 3:05:44.753 !!! [CE] :: Unknown usage: 'Mine'.
+ 3:05:44.753 !!! [CE] :: Unknown usage: 'Mine'.
+ 3:05:44.753 !!! [CE] :: Unknown usage: 'Temple'.
+ 3:05:44.754 [CE][LoadPrototype] :: loaded 550 prototypes
+ 3:05:44.754   989 containers, 11581 points
+ 3:05:44.754   79 dispatches, 316 proxies
+ 3:05:44.754 !!! [CE][LoadPrototype] 4 groups have no points...
+ 3:05:44.754 !!! [CE][LoadPrototype] 2 groups have wrong points...
+ 3:05:44.754 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+ 3:05:44.754 [CE][LoadPrototype] :: last group name: Land_Underground_Storage_Workshop...
+ 3:05:44.759 [CE][LoadPrototype] :: loaded 0 prototypes
+ 3:05:44.759   55 containers, 232 points
+ 3:05:44.759   0 dispatches, 0 proxies
+ 3:05:44.759 [CE][LoadPrototype] :: last group name: Rail9...
+ 3:05:45.754 [CE][LoadMap] "Group" :: loaded 10479 groups, groups failed: 0, largest group range: 34.1
+ 3:05:45.758 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.1
+ 3:05:45.955 [CE][Links] found 2684 total links between groups, of 10479
+ 3:05:45.955 [CE][LoadClusters] "Cluster" :: Loading files...
+ 3:05:46.83 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 3:05:46.221 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 3:05:46.361 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 3:05:46.361   9790 failed - check prototype defaults 'clusterMatrix' setups !!!
+ 3:05:46.502 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 3:05:46.502   6758 failed - check prototype defaults 'clusterMatrix' setups !!!
+ 3:05:46.575 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 24035 instances
+ 3:05:46.575   2081 failed - check prototype defaults 'clusterMatrix' setups !!!
+ 3:05:46.580 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\types.bin"
+ 3:05:46.581 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\types.001"
+ 3:05:46.581 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\types.002"
+ 3:05:46.581 !!! [CE][offlineDB] :: No Shutdown message present.
+ 3:05:46.584 [CE][offlineDB] :: Loaded 52 dynamic events 261 total types.
+ 3:05:46.584 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+ 3:05:46.584 [CE][offlineDB] :: Loaded 62 dynamic events 318 total types.
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'Bandage' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BandanaMask_BlackPattern' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BandanaMask_CamoPattern' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BandanaMask_GreenPattern' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BandanaMask_PolkaPattern' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BandanaMask_RedPattern' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BomberJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BomberJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BomberJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BomberJacket_Grey' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BomberJacket_Maroon' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BomberJacket_Olive' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'BomberJacket_SkyBlue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'DallasMask' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.601 !!! [CE][offlineDB] :: Type 'GasMask' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'GorkaPants_Autumn' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'GorkaPants_Flat' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'GorkaPants_PautRev' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'GorkaPants_Summer' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'HoxtonMask' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'Jeans_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'Jeans_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'Jeans_BlueDark' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'Jeans_Brown' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'Jeans_Green' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'Jeans_Grey' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_Beige' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_Brown' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_Khaki' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_LightGrey' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'ManSuit_White' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.602 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_Green' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_White' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_Green' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_White' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'MountainBag_Red' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'Raincoat_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'Raincoat_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'Raincoat_Green' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'Raincoat_Orange' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'Raincoat_Pink' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'Raincoat_Red' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.603 !!! [CE][offlineDB] :: Type 'Raincoat_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SantasSleigh' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SharpLongWoodenStick' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'Shirt_BlueCheck' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'Shirt_BlueCheckBright' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'Shirt_GreenCheck' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'Shirt_PlaneBlack' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'Shirt_RedCheck' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'Shirt_WhiteCheck' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_Beige' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_Brown' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_Khaki' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_LightGrey' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'SlacksPants_White' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_Beige' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_Green' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_Grey' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_OrangeWhiteStripes' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_Red' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_RedBlackStripes' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TShirt_White' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'TransitBus' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'WolfMask' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'ttcelticaxe' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'tantosword' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'STAG_Flag_Gespiegelt' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.604 !!! [CE][offlineDB] :: Type 'STAG_Clothing_MountainBag' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.611 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.611 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.611 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Bocchi' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Metallia' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Pedro' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Violet' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_42Finger' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Squidward' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'Armband_DOC_Bocchi' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'Armband_DOC_Metallia' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'Armband_DOC_Pedro' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'Armband_DOC_42FINGERS' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'Armband_DOC_Violet' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'Armband_DOC_Squidward' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Jacket_Red42' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Raincoat_Red42' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_Jeans_Red42' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_TOP' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_BOTTOM' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_DOC_TOP' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_ADMIDOC_GHILLIE_REDGREY' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_GHILLIETOP_REDGREY' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_GUNWRAP_REDGREY' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_BLUEBLACK' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.618 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_GUNWRAP_BLUEBLAC' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DOC_GHILLIETOP_BLUEBLACK' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Airsoft_M4A1' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Airsoft_AK' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Airsoft_Sniper' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Mag_Airsoft_M4' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Mag_Airsoft_AK' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft762' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft556' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft308' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Prefab_Cabin' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Cabin_Kit' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Sk_Cabinet' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Cabin_Water_Pump' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Radioactive_bear_Meat' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'Radioactive_wolf_Meat' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_1' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_2' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_3' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_4' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_5' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_6' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_7' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_8' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_9' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_10' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'DXMediumTent_11' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'SWAT_Pants' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'SWAT_Balaclava' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'SWAT_Gloves' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'SWAT_Goggles' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'SWAT_Shirt' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'SWAT_Vest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'SWAT_Helmet' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'RFSolarPanel' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'RFSolarPanelKit' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Medical_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Medical_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Medical_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Pack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Pack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Pack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Pack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Pack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Pack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_Pakol_Comtac' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_canteen_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_canteen_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_canteen_Camp_Orange' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.619 !!! [CE][offlineDB] :: Type 'MVS_canteen_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_canteen_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_canteen_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Snow' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Balaclava_Wraith_Comtacs' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam_Tropic' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam_Black' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Black_Camo_Bunker2' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'mouse_grey_flag' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'toxic_green' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_Torch' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_LongTorch' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_AreaLight_White' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_AreaLight_Warm' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_1' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_2' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_3' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_4' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_5' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_cartman' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_gratefuldead' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_meatloaf' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_nirvana' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_skynyrd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_starbucks' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_sublime' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_billmurray' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_blackflag' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_cbgb' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_illuminati1' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_johndenver' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_joydivision' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_nin' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_zero' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_volcom' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_ironmaiden' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_lateralus' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_ledzeppelin' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_nickcage' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_opeth' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_scarface' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_syl' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_tyrone' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'bs_worstshirt' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorVault' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorSmall' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorSmallShanty' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorSmallMetal' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorVaultKit' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorSmallKit' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorSmallMetalKit' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorSmallShantyKit' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'MoreDoorSafe' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.620 !!! [CE][offlineDB] :: Type 'TacSatRadio' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.622 !!! [CE][offlineDB] :: Wrong xml format of types file 'ModTypes/42MADocsGuns/types.xml'.
+ 3:05:46.622 !!! [CE][offlineDB] :: Wrong xml format of types file 'ModTypes/42MADocsTextures/types.xml'.
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'TacticalShirt_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'CargoPants_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaEJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_Black_Camo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_Black_Camo2' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_Green_Camo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_Orange_Camo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_Tigr_Camo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'GorkaPants_Yellow_Camo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'HuntingJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'HunterPants_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'FirefighterJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'AssaultBag_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'HuntingBag_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'MountainBag_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'TortillaBag_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'PlateCarrierVest_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'PlateCarrierPouches_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'PlateCarrierHolster_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'SmershVest_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'SmershBag_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'UKAssVest_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'PoliceVest_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'HighCapacityVest_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'Mich2001Helmet_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.625 !!! [CE][offlineDB] :: Type 'DarkMotoHelmet_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.626 !!! [CE][offlineDB] :: Type 'GorkaHelmet_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.626 !!! [CE][offlineDB] :: Type 'BalaclavaMask_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.626 !!! [CE][offlineDB] :: Type 'TacticalGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.626 !!! [CE][offlineDB] :: Type 'OMNOGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.626 !!! [CE][offlineDB] :: Type 'WorkingGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.634 !!! [CE][offlineDB] :: Type 'TWP_Glock19M' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.634 !!! [CE][offlineDB] :: Type 'TWP_Glock19M_mag_15Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.634 !!! [CE][offlineDB] :: Type 'TWP_SRGlock_mag_33Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.635 !!! [CE][offlineDB] :: Type 'TWP_ACR' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.635 !!! [CE][offlineDB] :: Type 'TWP_ACR_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.635 !!! [CE][offlineDB] :: Type 'TWP_FG42' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.635 !!! [CE][offlineDB] :: Type 'TWP_FG42_mag_25Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_M16A3_mag_20Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_MK14_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotC' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotC_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotBGold' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotBGold_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'ScarLKBlueCamo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'ScarLKGreen' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'ScarLKGreenCamo' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'ScarLKTan' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_SG553_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_PumpkinHead' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_JasonMask' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Red' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Green' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Orange' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.636 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_yellow' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.640 !!! [CE][offlineDB] :: Type 'teddyhead_mung' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.640 !!! [CE][offlineDB] :: Type 'mag3_gasmask_mung' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.640 !!! [CE] :: Unknown usage: 'TempleCore'.
+ 3:05:46.640 !!! [CE] :: Unknown usage: 'TempleCore'.
+ 3:05:46.640 !!! [CE] :: Unknown usage: 'TempleCore'.
+ 3:05:46.640 !!! [CE][offlineDB] :: Type 'stalker_gasmask_white_mung' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.640 !!! [CE][offlineDB] :: Type 'stalker_gasmask_black_mung' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_HookBobber1Bait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_HookBobber2Bait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_HookBobber3Bait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_HookBobber4Bait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_VanillaHookRubberWormBait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_VanillaHookGrubWormBait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_VanillaHookGrassHopperBait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_VanillaHookFieldCricketBait' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_RedFishShirt' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_GreenFishShirt' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_BlueFishShirt' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.644 !!! [CE][offlineDB] :: Type 'geb_PurpleFishShirt' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.645 !!! [CE][offlineDB] :: Type 'CigarettePack_Chernamorka' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.645 !!! [CE][offlineDB] :: Type 'CigarettePack_Merkur' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.645 !!! [CE][offlineDB] :: Type 'CigarettePack_Partyzanka' will be ignored. (Type does not exist. (Typo?))
+ 3:05:46.808 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 3:05:46.808 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalDeer'.
+ 3:05:46.808 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalCow'.
+ 3:05:46.808 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalSheep'.
+ 3:05:46.808 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalRoeDeer'.
+ 3:05:46.808 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalWildBoar'.
+ 3:05:46.808 [CE][DE][SPAWNS] :: Total positions: 713
+ 3:05:46.808 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 0
+ 3:05:46.808 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\events.bin"
+ 3:05:46.809 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\events.001"
+ 3:05:46.809 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\events.002"
+ 3:05:46.809 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin"
+ 3:05:46.809 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_000.001"
+ 3:05:46.809 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_000.002"
+ 3:05:46.809 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin"
+ 3:05:46.809 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_001.001"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_001.002"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_002.001"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_002.002"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_003.001"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_003.002"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin"
+ 3:05:46.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_004.001"
+ 3:05:46.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_004.002"
+ 3:05:46.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin"
+ 3:05:46.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_005.001"
+ 3:05:46.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_005.002"
+ 3:05:46.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin"
+ 3:05:46.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_006.001"
+ 3:05:46.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_006.002"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_007.001"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_007.002"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_008.001"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_008.002"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_009.001"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_009.002"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin"
+ 3:05:46.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_010.001"
+ 3:05:46.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_010.002"
+ 3:05:46.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin"
+ 3:05:46.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_011.001"
+ 3:05:46.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_011.002"
+ 3:05:46.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\building.bin"
+ 3:05:46.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\building.001"
+ 3:05:46.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\building.002"
+ 3:05:46.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\vehicles.bin"
+ 3:05:46.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\vehicles.001"
+ 3:05:46.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\vehicles.002"
+ 3:05:46.814 [CE][Hive] :: Empty storage folder, reinitializing ... 
+ 3:05:46.816 [CE][Hive] :: Initializing ... 
+ 3:05:46.824 [CE][InitializeMap] :: initialized: 0
+ 3:05:46.824 [CE][Hive] :: Initializing spawners ... 
+ 3:05:47.87 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Chestplate"
+ 3:05:47.87 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Chestplate"
+ 3:05:47.87 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Chestplate"
+ 3:05:47.197 !!! [CE][Point] Removing 7197.000000, 11587.588867 from Land_jmc_military_lootcase
+ 3:05:47.346 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.346 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.347 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.347 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.347 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.347 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.348 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.348 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.348 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.348 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "ExpansionHelipadKit"
+ 3:05:47.410 !!! [CE][Point] Removing 1283.635010, 11991.413086 from Land_Boat_Small1
+ 3:05:47.432 !!! [CE][Point] Removing 7188.852539, 11591.756836 from Land_jmc_military_lootcase
+ 3:05:47.437 !!! [CE][Point] Removing 3659.596680, 9764.916992 from Land_jmc_cabin01
+ 3:05:47.443 !!! [CE][Point] Removing 4608.319824, 6996.845215 from Land_strazni_vez
+ 3:05:47.452 !!! [CE][Point] Removing 4510.918945, 7196.940430 from Land_strazni_vez
+ 3:05:47.494 !!! [CE][Point] Removing 7183.787109, 11600.882813 from Land_jmc_military_lootcase
+ 3:05:47.518 !!! [CE][Point] Removing 4589.254395, 7326.842773 from Land_strazni_vez
+ 3:05:47.554 !!! [CE][Point] Removing 3799.198730, 9728.458984 from Land_jmc_cabin01
+ 3:05:47.864 !!! [CE][Point] Removing 7166.823242, 11664.680664 from Land_BusStation_wall_bench
+ 3:05:47.870 !!! [CE][Point] Removing 7168.684082, 11588.274414 from Land_jmc_military_lootcase
+ 3:05:47.932 !!! [CE][Point] Removing 7144.925293, 11640.919922 from Land_BusStation_wall_bench
+ 3:05:47.988 !!! [CE][Point] Removing 2628.864502, 11904.063477 from Land_Boat_Small1
+ 3:05:48.242 !!! [CE][Point] Removing 7163.430664, 11589.820313 from Land_jmc_military_lootcase
+ 3:05:48.552 !!! [CE][Point] Removing 7174.354980, 11680.826172 from Land_BusStation_wall_bench
+ 3:05:48.729 !!! [CE][Point] Removing 7168.684082, 11588.274414 from Land_jmc_military_lootcase
+ 3:05:48.781 !!! [CE][Point] Removing 9036.928711, 7491.620605 from Land_Slum_House2
+ 3:05:48.797 !!! [CE][Point] Removing 7197.000000, 11587.588867 from Land_jmc_military_lootcase
+ 3:05:48.800 !!! [CE][Point] Removing 7188.852539, 11591.756836 from Land_jmc_military_lootcase
+ 3:05:48.992 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "geb_BigGameFishingline"
+ 3:05:48.992 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "geb_BigGameFishingline"
+ 3:05:48.992 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "geb_BigGameFishingline"
+ 3:05:48.993 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "geb_BigGameFishingline"
+ 3:05:48.993 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "geb_BigGameFishingline"
+ 3:05:48.993 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "geb_BigGameFishingline"
+ 3:05:48.993 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "geb_BigGameFishingline"
+ 3:05:49.78 !!! [CE][Point] Removing 3665.854492, 9737.577148 from Land_jmc_cabin01
+ 3:05:49.155 !!! [CE][Point] Removing 7163.430664, 11589.820313 from Land_jmc_military_lootcase
+ 3:05:49.227 !!! [CE][Point] Removing 4588.980469, 7324.826172 from Land_strazni_vez
+ 3:05:49.231 !!! [CE][Point] Removing 3825.572998, 9620.361328 from Land_jmc_cabin01
+ 3:05:49.270 !!! [CE][Point] Removing 4590.406738, 7325.298828 from Land_strazni_vez
+ 3:05:49.328 !!! [CE][Point] Removing 3833.055664, 9606.549805 from Land_jmc_cabin01
+ 3:05:49.494 !!! [CE][Point] Removing 10862.870117, 4350.839844 from Land_Boat_Small3
+ 3:05:49.683 !!! [CE][Point] Removing 7190.200195, 11587.917969 from Land_jmc_military_lootcase
+ 3:05:49.691 !!! [CE][Point] Removing 3814.755859, 9733.528320 from Land_jmc_cabin01
+ 3:05:49.721 !!! [CE][Point] Removing 4509.429688, 7196.737305 from Land_strazni_vez
+ 3:05:49.787 !!! [CE][Point] Removing 7190.200195, 11587.917969 from Land_jmc_military_lootcase
+ 3:05:49.807 !!! [CE][Point] Removing 5179.822754, 9112.897461 from Land_strazni_vez
+ 3:05:49.832 !!! [CE][Point] Removing 4610.249023, 6996.196777 from Land_strazni_vez
+ 3:05:49.835 !!! [CE][Point] Removing 3322.197754, 6255.008301 from Land_Mil_GuardShed
+ 3:05:49.855 !!! [CE][Point] Removing 7193.995605, 11575.596680 from Land_BusStation_wall_bench
+ 3:05:49.875 !!! [CE][Point] Removing 4508.708984, 7197.955078 from Land_strazni_vez
+ 3:05:49.887 !!! [CE][Point] Removing 7178.601563, 11668.685547 from Land_jmc_military_lootcase
+ 3:05:49.907 !!! [CE][Point] Removing 10954.425781, 2308.713623 from Land_Mil_GuardShed
+ 3:05:49.998 !!! [CE][Point] Removing 3459.897217, 13655.639648 from Land_Boat_Small1
+ 3:05:50.38 !!! [CE][Point] Removing 3322.200439, 6256.439453 from Land_Mil_GuardShed
+ 3:05:50.39 !!! [CE][Point] Removing 3814.652832, 9725.648438 from Land_jmc_cabin01
+ 3:05:50.73 !!! [CE][Point] Removing 7177.750488, 11586.165039 from Land_BusStation_wall_bench
+ 3:05:50.100 !!! [CE][Point] Removing 7180.963867, 11676.881836 from Land_BusStation_wall_bench
+ 3:05:50.104 !!! [CE][Point] Removing 7182.161621, 11595.199219 from Land_BusStation_wall_bench
+ 3:05:50.105 !!! [CE][Point] Removing 7166.795898, 11658.012695 from Land_BusStation_wall_bench
+ 3:05:50.185 !!! [CE][Point] Removing 5012.430664, 7031.604004 from Land_strazni_vez
+ 3:05:50.209 !!! [CE][Point] Removing 5013.819824, 7032.260742 from Land_strazni_vez
+ 3:05:50.214 !!! [CE][Point] Removing 4588.048340, 7325.891113 from Land_strazni_vez
+ 3:05:50.275 !!! [CE][Point] Removing 7178.601563, 11668.685547 from Land_jmc_military_lootcase
+ 3:05:50.275 !!! [CE][Point] Removing 7183.787109, 11600.882813 from Land_jmc_military_lootcase
+ 3:05:50.408 !!! [CE][Point] Removing 3839.265137, 9611.403320 from Land_jmc_cabin01
+ 3:05:50.470 !!! [CE][Point] Removing 2359.902588, 15099.051758 from Land_Boat_Small1
+ 3:05:50.533 !!! [CE][Point] Removing 7178.961426, 11586.178711 from Land_BusStation_wall_bench
+ 3:05:50.583 !!! [CE][Point] Removing 7180.932617, 11670.652344 from Land_BusStation_wall_bench
+ 3:05:50.635 !!! [CE][Point] Removing 4610.052734, 6997.686523 from Land_strazni_vez
+ 3:05:50.635 !!! [CE][Point] Removing 3323.343994, 6255.940918 from Land_Mil_GuardShed
+ 3:05:50.716 !!! [CE][Point] Removing 7602.687012, 9917.378906 from Land_jmc_cabin01
+ 3:05:50.734 !!! [CE][Point] Removing 3659.596680, 9764.916992 from Land_jmc_cabin01
+ 3:05:50.758 !!! [CE][Point] Removing 7602.687012, 9917.378906 from Land_jmc_cabin01
+ 3:05:50.779 !!! [CE][Point] Removing 4609.027344, 6995.481445 from Land_strazni_vez
+ 3:05:50.780 !!! [CE][Point] Removing 3670.696289, 9776.938477 from Land_jmc_cabin01
+ 3:05:50.834 !!! [CE][Point] Removing 3655.837891, 9771.842773 from Land_jmc_cabin01
+ 3:05:50.881 !!! [CE][Point] Removing 3800.797363, 9668.003906 from Land_jmc_cabin01
+ 3:05:50.881 !!! [CE][Point] Removing 5014.596680, 7030.498047 from Land_strazni_vez
+ 3:05:50.881 !!! [CE][Point] Removing 3682.018311, 9740.116211 from Land_jmc_cabin01
+ 3:05:50.889 !!! [CE][Point] Removing 3839.265137, 9611.403320 from Land_jmc_cabin01
+ 3:05:50.893 !!! [CE][Point] Removing 7623.883789, 9951.583984 from Land_jmc_cabin01
+ 3:05:50.894 !!! [CE][Point] Removing 3667.205322, 9745.340820 from Land_jmc_cabin01
+ 3:05:50.956 !!! [CE][Point] Removing 5177.536133, 9113.724609 from Land_strazni_vez
+ 3:05:50.959 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "PlateCarrierVest_Green"
+ 3:05:51.102 !!! [CE][Point] Removing 7174.402832, 11670.660156 from Land_BusStation_wall_bench
+ 3:05:51.184 !!! [CE][Point] Removing 7161.974609, 11576.686523 from Land_BusStation_wall_bench
+ 3:05:51.205 !!! [CE][Point] Removing 3800.797363, 9668.003906 from Land_jmc_cabin01
+ 3:05:51.234 !!! [CE][Point] Removing 10037.902344, 10715.535156 from Land_Misc_TrailRoof_Small
+ 3:05:51.328 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "CanvasBag_Olive"
+ 3:05:51.342 !!! [CE][Point] Removing 10039.771484, 10715.737305 from Land_Misc_TrailRoof_Small
+ 3:05:51.357 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "NBCJacketGray"
+ 3:05:51.357 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "NBCJacketGray"
+ 3:05:51.358 !!! [CE][Point] Removing 7595.527832, 9920.672852 from Land_jmc_cabin01
+ 3:05:51.360 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "ExpansionDeltapointOptic"
+ 3:05:51.541 !!! [CE][Point] Removing 5178.355957, 9112.571289 from Land_strazni_vez
+ 3:05:51.565 !!! [CE][Point] Removing 10955.789063, 2309.281982 from Land_Mil_GuardShed
+ 3:05:51.566 !!! [CE][Point] Removing 7604.373047, 9933.653320 from Land_jmc_cabin01
+ 3:05:51.590 !!! [CE][Point] Removing 1764.571167, 14735.247070 from Land_Boat_Small3
+ 3:05:51.600 !!! [CE][Point] Removing 2361.003662, 15098.915039 from Land_Boat_Small1
+ 3:05:51.656 !!! [CE][Point] Removing 10020.726563, 10717.083008 from Land_Misc_TrailRoof_Big
+ 3:05:51.656 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "GorkaEJacket_ELRD_Camo"
+ 3:05:51.662 !!! [CE][Point] Removing 7174.374023, 11679.615234 from Land_BusStation_wall_bench
+ 3:05:51.663 !!! [CE][Point] Removing 7195.206543, 11575.607422 from Land_BusStation_wall_bench
+ 3:05:51.677 !!! [CE][Point] Removing 7144.936035, 11639.708008 from Land_BusStation_wall_bench
+ 3:05:51.707 !!! [CE][Point] Removing 7160.763672, 11576.671875 from Land_BusStation_wall_bench
+ 3:05:51.765 !!! [CE][Point] Removing 5013.100586, 7030.356934 from Land_strazni_vez
+ 3:05:51.773 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "TWP_BenelliM4"
+ 3:05:51.808 !!! [CE][Point] Removing 5178.832520, 9114.549805 from Land_strazni_vez
+ 3:05:51.843 !!! [CE][Point] Removing 4510.069336, 7198.668945 from Land_strazni_vez
+ 3:05:51.865 !!! [CE][Point] Removing 3786.303955, 9675.597656 from Land_jmc_cabin01
+ 3:05:51.869 !!! [CE][Point] Removing 3814.755859, 9733.528320 from Land_jmc_cabin01
+ 3:05:51.883 !!! [CE][Point] Removing 10954.834961, 2310.084961 from Land_Mil_GuardShed
+ 3:05:51.902 !!! [CE][Point] Removing 3795.085693, 9662.574219 from Land_jmc_cabin01
+ 3:05:51.904 !!! [CE][Point] Removing 3740.359863, 9744.070313 from Land_jmc_cabin01
+ 3:05:51.905 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "SKS"
+ 3:05:51.928 !!! [CE][Point] Removing 7628.975098, 9945.568359 from Land_jmc_cabin01
+ 3:05:52.39 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "ExpansionSatchel"
+ 3:05:52.39 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "ExpansionSatchel"
+ 3:05:52.40 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "ExpansionSatchel"
+ 3:05:52.118 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "TWP_Dragunov_mag_8Rnd"
+ 3:05:52.129 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "GhillieSuit_Mossy"
+ 3:05:52.142 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "TWP_P90Shallow_Grave_mag_50Rnd"
+ 3:05:52.156 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "MVS_Combat_Vest_Snow"
+ 3:05:52.176 !!! [CE][Point] Removing 5216.154785, 8858.731445 from Land_Boat_Small3
+ 3:05:52.187 !!! [CE][Point] Removing 7186.425293, 11595.238281 from Land_BusStation_wall_bench
+ 3:05:52.213 !!! [CE][Point] Removing 7152.188965, 11606.745117 from Land_BusStation_wall_bench
+ 3:05:52.216 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "TWP_VSSK_mag_5Rnd"
+ 3:05:52.219 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "TWP_AA12HellDragon_mag_32Rnd"
+ 3:05:52.232 !!! [CE][Point] Removing 7615.466797, 9937.552734 from Land_jmc_cabin01
+ 3:05:52.240 !!! [CE][Point] Removing 3748.995850, 9730.172852 from Land_jmc_cabin01
+ 3:05:52.275 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "Mag_Saiga_8Rnd"
+ 3:05:52.277 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "Mag_Saiga_8Rnd"
+ 3:05:52.280 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "TWP_Ammo_40SW"
+ 3:05:52.292 !!! [CE][Point] Removing 3741.319092, 9728.391602 from Land_jmc_cabin01
+ 3:05:52.427 !!! [CE][Point] Removing 3748.995850, 9730.172852 from Land_jmc_cabin01
+ 3:05:52.431 !!! [CE][Point] Removing 7174.387207, 11673.659180 from Land_BusStation_wall_bench
+ 3:05:52.496 !!! [CE][Point] Removing 8729.523438, 9378.556641 from Land_Boat_Small1
+ 3:05:52.592 !!! [CE][Point] Removing 7153.399902, 11606.755859 from Land_BusStation_wall_bench
+ 3:05:52.656 !!! [CE][Point] Removing 7174.383789, 11671.871094 from Land_BusStation_wall_bench
+ 3:05:52.687 !!! [CE][Point] Removing 7623.883789, 9951.583984 from Land_jmc_cabin01
+ 3:05:52.756 !!! [CE][Point] Removing 10043.625000, 10431.607422 from Land_Misc_TrailRoof_Small
+ 3:05:52.867 !!! [CE][Point] Removing 10319.187500, 11985.223633 from Land_Shed_W4
+ 3:05:52.909 !!! [CE][Point] Removing 7166.809570, 11665.891602 from Land_BusStation_wall_bench
+ 3:05:53.214 !!! [CE][Point] Removing 7176.468750, 11682.575195 from Land_BusStation_wall_bench
+ 3:05:53.430 !!! [CE][Point] Removing 1970.588135, 9064.376953 from Land_Shed_Closed_Small2
+ 3:05:53.445 !!! [CE][Point] Removing 7179.458008, 11682.573242 from Land_BusStation_wall_bench
+ 3:05:53.449 !!! [CE][Point] Removing 7174.379883, 11676.623047 from Land_BusStation_wall_bench
+ 3:05:53.597 !!! [CE][Point] Removing 7180.955078, 11678.092773 from Land_BusStation_wall_bench
+ 3:05:53.741 !!! [CE][Point] Removing 4240.404785, 7269.215820 from Land_Garage_Tall
+ 3:05:53.830 !!! [CE][Point] Removing 7166.782227, 11659.223633 from Land_BusStation_wall_bench
+ 3:05:54.124 !!! [CE][Point] Removing 7614.565918, 4539.344238 from Land_Misc_TrailRoof_Big
+ 3:05:54.169 !!! [CE][Point] Removing 9525.183594, 6014.276855 from Land_Boat_Small1
+ 3:05:54.310 !!! [CE][Point] Removing 7180.969727, 11681.090820 from Land_BusStation_wall_bench
+ 3:05:54.311 !!! [CE][Point] Removing 7195.953125, 11600.767578 from Land_BusStation_wall_bench
+ 3:05:54.311 !!! [CE][Point] Removing 7180.932129, 11672.476563 from Land_BusStation_wall_bench
+ 3:05:54.316 !!! [CE][Point] Removing 7180.946777, 11669.441406 from Land_BusStation_wall_bench
+ 3:05:54.366 !!! [CE][Point] Removing 4239.257813, 7270.397461 from Land_Garage_Tall
+ 3:05:54.397 !!! [CE][Point] Removing 4238.690430, 7273.065430 from Land_Garage_Tall
+ 3:05:54.411 !!! [CE][Point] Removing 7174.360840, 11677.833984 from Land_BusStation_wall_bench
+ 3:05:54.412 !!! [CE][Point] Removing 7183.372559, 11595.216797 from Land_BusStation_wall_bench
+ 3:05:54.431 !!! [CE][Point] Removing 7617.349609, 4539.082031 from Land_Misc_TrailRoof_Big
+ 3:05:54.463 !!! [CE][Point] Removing 4242.120605, 7269.307129 from Land_Garage_Tall
+ 3:05:54.531 !!! [CE][Point] Removing 4236.143066, 7270.609375 from Land_Garage_Tall
+ 3:05:54.574 !!! [CE][Point] Removing 7178.247070, 11682.559570 from Land_BusStation_wall_bench
+ 3:05:54.597 !!! [CE][Point] Removing 4239.721191, 7268.412598 from Land_Garage_Tall
+ 3:05:54.601 !!! [CE][Point] Removing 7180.978516, 11679.879883 from Land_BusStation_wall_bench
+ 3:05:54.603 !!! [CE][Point] Removing 7194.742188, 11600.756836 from Land_BusStation_wall_bench
+ 3:05:54.603 !!! [CE][Point] Removing 7180.946289, 11671.265625 from Land_BusStation_wall_bench
+ 3:05:54.608 !!! [CE][Point] Removing 1431.563965, 14877.139648 from Land_Boat_Small1
+ 3:05:54.645 !!! [CE][Point] Removing 4240.561523, 7271.502441 from Land_Garage_Tall
+ 3:05:54.721 !!! [CE][Point] Removing 7175.257813, 11682.561523 from Land_BusStation_wall_bench
+ 3:05:54.726 !!! [CE][Point] Removing 8426.348633, 9089.399414 from Land_Boat_Small1
+ 3:05:54.740 !!! [CE][Point] Removing 4238.062988, 7268.545410 from Land_Garage_Tall
+ 3:05:54.767 !!! [CE][Point] Removing 4239.739746, 7266.772461 from Land_Garage_Tall
+ 3:05:54.833 !!! [CE][Point] Removing 7187.636230, 11595.255859 from Land_BusStation_wall_bench
+ 3:05:54.871 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:20371, Nominal:20727, Total in Map: 20930 at 7 (sec)
+ 3:05:54.871   tests:22597, repeats:1870 fails:356, overtime:505
+ 3:05:54.871 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 3:05:54.881 [CE][Links] found 0 total links between groups, of 1
+ 3:05:54.881 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+ 3:05:54.886 [CE][Links] found 0 total links between groups, of 2
+ 3:05:54.886 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+ 3:05:54.894 [CE][Links] found 0 total links between groups, of 3
+ 3:05:54.894 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+ 3:05:54.899 [CE][Links] found 0 total links between groups, of 4
+ 3:05:54.899 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+ 3:05:54.915 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+ 3:05:54.918 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+ 3:05:54.920 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+ 3:05:54.926 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+ 3:05:54.930 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+ 3:05:54.997 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Init: "VehicleHatchback02" - Failed to spawn the requested amount (8 < 10) within 30 attempts.
+ 3:05:55.220 [CE][Links] found 0 total links between groups, of 5
+ 3:05:55.220 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+ 3:05:55.225 [CE][Links] found 0 total links between groups, of 6
+ 3:05:55.225 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+ 3:05:55.238 [CE][Links] found 0 total links between groups, of 7
+ 3:05:55.238 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+ 3:05:55.245 [CE][Links] found 0 total links between groups, of 8
+ 3:05:55.245 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+ 3:05:55.251 [CE][Links] found 0 total links between groups, of 9
+ 3:05:55.251 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+ 3:05:55.253 [CE][Links] found 0 total links between groups, of 10
+ 3:05:55.253 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+ 3:05:55.269 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_clean_3" to types, please manually define in types.xml instead.
+ 3:05:55.272 [CE][Links] found 0 total links between groups, of 11
+ 3:05:55.272 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.275 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_old_2" to types, please manually define in types.xml instead.
+ 3:05:55.294 [CE][Links] found 0 total links between groups, of 12
+ 3:05:55.294 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.295 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_burned_4" to types, please manually define in types.xml instead.
+ 3:05:55.301 [CE][Links] found 0 total links between groups, of 13
+ 3:05:55.301 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.301 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_gnawed_3" to types, please manually define in types.xml instead.
+ 3:05:55.302 [CE][Links] found 0 total links between groups, of 14
+ 3:05:55.302 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.303 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_bloody_4" to types, please manually define in types.xml instead.
+ 3:05:55.304 [CE][Links] found 0 total links between groups, of 15
+ 3:05:55.304 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.305 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_bloody_3" to types, please manually define in types.xml instead.
+ 3:05:55.306 [CE][Links] found 0 total links between groups, of 16
+ 3:05:55.306 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.306 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_clean_5" to types, please manually define in types.xml instead.
+ 3:05:55.307 [CE][Links] found 0 total links between groups, of 17
+ 3:05:55.307 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.308 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_burned_1" to types, please manually define in types.xml instead.
+ 3:05:55.314 [CE][Links] found 0 total links between groups, of 18
+ 3:05:55.314 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.317 [CE][Links] found 0 total links between groups, of 19
+ 3:05:55.317 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.319 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_old_4" to types, please manually define in types.xml instead.
+ 3:05:55.321 [CE][Links] found 0 total links between groups, of 20
+ 3:05:55.321 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.323 [CE][Links] found 0 total links between groups, of 21
+ 3:05:55.323 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.325 [CE][Links] found 0 total links between groups, of 22
+ 3:05:55.325 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.325 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_bloody_5" to types, please manually define in types.xml instead.
+ 3:05:55.327 [CE][Links] found 0 total links between groups, of 23
+ 3:05:55.327 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.332 [CE][Links] found 0 total links between groups, of 24
+ 3:05:55.332 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.336 [CE][Links] found 0 total links between groups, of 25
+ 3:05:55.336 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.339 [CE][Links] found 0 total links between groups, of 26
+ 3:05:55.339 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.341 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_clean_1" to types, please manually define in types.xml instead.
+ 3:05:55.343 [CE][Links] found 0 total links between groups, of 27
+ 3:05:55.343 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.343 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_gnawed_5" to types, please manually define in types.xml instead.
+ 3:05:55.344 [CE][Links] found 0 total links between groups, of 28
+ 3:05:55.344 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.345 [CE][Links] found 0 total links between groups, of 29
+ 3:05:55.345 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.345 !!! [CE][DE] Programatically adding "Land_jmc_skeleton_old_1" to types, please manually define in types.xml instead.
+ 3:05:55.346 [CE][Links] found 0 total links between groups, of 30
+ 3:05:55.346 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+ 3:05:55.349 [CE][AnimalRespawner] (PRICrab) :: !!! Missing AI Template "HerdCrab" for DE: "AnimalCrab"
+ 3:05:55.375 !!! [CE][VehicleRespawner] (PRIUAZ) :: Init: "VehicleUAZ" - Failed to spawn the requested amount (3 < 5) within 15 attempts.
+ 3:05:55.382 !!! [CE][VehicleRespawner] (PRIBus) :: Init: "VehicleBus" - There are not enough positions in "cfgeventspawns.xml", 2 < 3
+ 3:05:55.429 !!! [CE][VehicleRespawner] (PRIBus) :: Init: "VehicleBus" - Failed to spawn the requested amount (2 < 3) within 9 attempts.
+ 3:05:55.442 !!! [CE][VehicleRespawner] (PRITractor) :: Init: "VehicleTractor" - Failed to spawn the requested amount (3 < 4) within 12 attempts.
+ 3:05:55.449 !!! [CE][VehicleRespawner] (PRIMH6Helicopter) :: Init: "VehicleMH6Helicopter" - Failed to spawn the requested amount (1 < 2) within 6 attempts.
+ 3:05:55.480 !!! [CE][VehicleRespawner] (PRIUh1hHelicopter) :: Init: "VehicleUh1hHelicopter" - Failed to spawn the requested amount (1 < 2) within 6 attempts.
+ 3:05:55.487 !!! [CE][VehicleRespawner] (PRIUtilityBoat) :: Init: "VehicleUtilityBoat" - There are not enough positions in "cfgeventspawns.xml", 1 < 3
+ 3:05:55.491 !!! [CE][VehicleRespawner] (PRIUtilityBoat) :: Init: "VehicleUtilityBoat" - Failed to spawn the requested amount (1 < 3) within 9 attempts.
+ 3:05:55.491 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Init: "VehicleZodiacBoat" - There are not enough positions in "cfgeventspawns.xml", 8 < 16
+ 3:05:55.497 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Init: "VehicleZodiacBoat" - Failed to spawn the requested amount (3 < 16) within 48 attempts.
+ 3:05:55.498 [CE][DynEvent] :: 62 types
+ 3:05:55.498 [00] AmbientHen
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [01] AmbientBear
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [02] AmbientPolarbear
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [03] AmbientCow
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [04] AmbientDeer
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [05] AmbientGoat
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [06] AmbientPig
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [07] AmbientRoeDeer
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [08] AmbientSheep
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [09] AmbientWildBoar
+ 3:05:55.498   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:05:55.498 [10] AnimalWolf
+ 3:05:55.498   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:05:55.498 [11] AnimalArcticWolf
+ 3:05:55.498   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:05:55.498 [12] InfectedArmy
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [13] InfectedArmyHard
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [14] InfectedArmyHardJMC
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [15] InfectedArmyHardJMCWinter
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [16] InfectedCity
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [17] InfectedFirefighter
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [18] InfectedIndustrial
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [19] InfectedMedic
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [20] InfectedNBC
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [21] InfectedNBCYellow
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [22] InfectedPolice
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [23] InfectedPoliceHard
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [24] InfectedPrisoner
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [25] InfectedReligious
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [26] InfectedSolitude
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [27] InfectedVillage
+ 3:05:55.498   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [28] ItemPlanks
+ 3:05:55.498   Primary Spawner: "Item", active: yes, repeat: 1
+ 3:05:55.498 [29] Loot
+ 3:05:55.498   Primary Spawner: "Loot", active: yes, repeat: 2
+ 3:05:55.498 [30] StaticContaminatedArea
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498 [31] StaticHeliCrash
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [32] StaticPoliceCar
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 3:05:55.498 [33] TrajectoryApple
+ 3:05:55.498   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:05:55.498 [34] TrajectoryConiferous
+ 3:05:55.498   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:05:55.498 [35] TrajectoryDeciduous
+ 3:05:55.498   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:05:55.498 [36] TrajectoryHumus
+ 3:05:55.498   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:05:55.498 [37] TrajectoryPear
+ 3:05:55.498   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:05:55.498 [38] TrajectoryPlum
+ 3:05:55.498   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:05:55.498 [39] TrajectoryStones
+ 3:05:55.498   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:05:55.498 [40] VehicleCivilianSedan
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [41] VehicleHatchback02
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [42] VehicleOffroadHatchback
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [43] VehicleSedan02
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [44] VehicleTruck01
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [45] StaticVanPinkies
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498 [46] StaticVanAmbulance
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498 [47] StaticSkeletonEventspawn
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498 [48] StaticPlantFernA
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498 [49] StaticPlantFernB
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498 [50] StaticPlantFernC
+ 3:05:55.498   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:05:55.498 [51] AnimalCrab
+ 3:05:55.498   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:05:55.498 [52] VehicleUAZ
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [53] VehicleVodnik
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [54] VehicleBus
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [55] VehicleTractor
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [56] VehicleMH6Helicopter
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [57] VehicleMerlinHelicopter
+ 3:05:55.498   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.498 [58] VehicleUh1hHelicopter
+ 3:05:55.499   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.499 [59] VehicleGyroHelicopter
+ 3:05:55.499   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.499 [60] VehicleUtilityBoat
+ 3:05:55.499   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.499 [61] VehicleZodiacBoat
+ 3:05:55.499   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:05:55.499 [CE][Hive] :: Initializing of spawners done.
+ 3:05:55.512 [CE][Hive] :: Init sequence finished.
+ 3:05:55.512 Player connect enabled
+ 3:05:56.938 [IdleMode] Entering IN - save processed
+ 3:06:09.891 [Login]: Adding player Bunker (2113054335) to login queue at position 0
+ 3:06:09.891 [LoginMachine]: Add player Bunker (2113054335 10.0.0.59:2316)
+ 3:06:09.891 [StateMachine]: Player Bunker (dpnid 2113054335 uid ) Entering AuthPlayerLoginState
+ 3:06:10.879 [StateMachine]: Player Bunker (dpnid 2113054335 uid ) Entering WaitAuthPlayerLoginState
+ 3:06:13.153 Player Bunker connected (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=).
+ 3:06:13.153 Player "Bunker" is connected (steamID=76561199112746320)
+ 3:06:13.153 [StateMachine]: Player Bunker (dpnid 2113054335 uid ) Entering WaitPlayerAssignedLoginState
+ 3:06:13.814 [IdleMode] Leaving OUT
+ 3:06:19.923 [StateMachine]: Player Bunker (dpnid 2113054335 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetLoginTimeLoginState
+ 3:06:19.932 [StateMachine]: Player Bunker (dpnid 2113054335 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBWaitLoginTimeLoginState
+ 3:06:24.933 [StateMachine]: Player Bunker (dpnid 2113054335 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetCharacterLoginState
+ 3:06:24.934 [StateMachine]: Player Bunker (dpnid 2113054335 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering CreateNetObjectsLoginState
+ 3:06:24.934 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 85734 | lt: 0 | ctr: 0)
+ 3:06:24.934 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } | idx: 0 (ct: 85734 | ut: 85734 | lt: 0 | ctr: 0)
+ 3:06:24.934 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } index: 0 (lt: 0 | ctr: 0)
+ 3:06:24.934 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 85734 | lt: 0 | ctr: 0)
+ 3:06:24.938 [StateMachine]: Player Bunker (dpnid 2113054335 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering PreloadCamLoginState
+ 3:06:24.939 [StateMachine]: Player Bunker (dpnid 2113054335 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering WaitPreloadCamLoginState
+ 3:06:27.848 [StateMachine]: Player Bunker (dpnid 2113054335 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering GetNewCharLoginState
+ 3:06:27.870 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 2113054335
+    uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+ 3:07:06.718 !!! [CE][Point] Removing 10353.240234, 5552.636230 from AppleTree1
+ 3:07:07.21 !!! [CE][Point] Removing 10276.667969, 5554.645996 from PiceaAbies_fallen
+ 3:07:30.418 !!! [CE][Point] Removing 3665.854492, 9737.577148 from Land_jmc_cabin01
+ 3:07:33.20 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (1 < 2) within 6 attempts.
+ 3:07:43.257 [Disconnect]: Start script disconnect 2113054335 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 3:07:44.716 [Disconnect]: Client 2113054335 disconnecting
+ 3:07:44.716 [Disconnect]: Client 2113054335 early disconnect
+ 3:07:44.717 [Disconnect]: Start script disconnect 2113054335 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 3:07:55.06 [Disconnect]: No packets from 2113054335
+ 3:07:55.06 Player Bunker (2113054335) kicked from server: 4 (Connection with host has been lost.)
+ 3:07:56.06 [Disconnect]: Remove player info 2113054335
+ 3:07:56.08 [Disconnect]: Player destroy 2113054335 

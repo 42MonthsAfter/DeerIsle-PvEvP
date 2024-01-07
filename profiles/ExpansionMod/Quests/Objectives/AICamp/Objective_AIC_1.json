@@ -1,0 +1,26 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill all 10 bandits at the marked location",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "West",
+        "NPCLoadoutFile": "BanditLoadout",
+        "NPCAccuracyMin": 0.0,
+        "NPCAccuracyMax": 0.0,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 500
+}

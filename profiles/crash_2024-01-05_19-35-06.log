@@ -1,0 +1,61 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\profiles\crash_2024-01-05_19-35-06.log started at 05.01. 19:35:57
+
+
+
+------------------------------------
+DESKTOP-876KUQ0, 05.01 2024 19:35:57
+NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:201
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2429
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:413
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:73
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:171
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:63
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:38
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:51
+PVEZ/5_Mission/missionserver.c:44
+scripts/3_Game/dayzgame.c:2817
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:242
+
+Runtime mode
+CLI params: cpuCount 4 mod @DeerIsle;@CF;@CommunityOnlineTools;@DabsFramework;@DayZExpansionLicensed;@DayZExpansionBundle;@42MonthsAfterPvPDevelopment;@SNAFUWeapons;@MunghardsItempack;@DayZEditorLoader;@WindstridesClothingPack; config serverDZ.cfg port 2302 noFilePatching  profiles profiles scrAllowFileWrite  adminlog  
+
+
+------------------------------------
+DESKTOP-876KUQ0, 05.01 2024 19:35:58
+NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:201
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2429
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:413
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:73
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:171
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:63
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:38
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:51
+PVEZ/5_Mission/missionserver.c:44
+scripts/3_Game/dayzgame.c:2817
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:242
+
+Runtime mode
+CLI params: cpuCount 4 mod @DeerIsle;@CF;@CommunityOnlineTools;@DabsFramework;@DayZExpansionLicensed;@DayZExpansionBundle;@42MonthsAfterPvPDevelopment;@SNAFUWeapons;@MunghardsItempack;@DayZEditorLoader;@WindstridesClothingPack; config serverDZ.cfg port 2302 noFilePatching  profiles profiles scrAllowFileWrite  adminlog  

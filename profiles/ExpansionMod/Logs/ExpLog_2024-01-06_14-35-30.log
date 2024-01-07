@@ -1,0 +1,21 @@
+14:36:12.804 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:36:12.804 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:36:12.804 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:36:12.804 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:36:22.066 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase expansionutilityboat x1 from the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>).
+14:36:22.105 [VehicleDeleted] ExpansionUtilityBoat (id=F632D10E0F46C998F8F4E2BE7EDC2213 pos=<0.008784, -0.028863, 0.325953>)
+14:36:22.109 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought expansionutilityboat x1 from the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>) for a price of 22240.
+14:36:28.523 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to sell expansionutilityboat x1 at the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>).
+14:36:28.558 [VehicleDeleted] ExpansionUtilityBoat (id=9A92EF12FB4064197A3073B7EAC2C5D5 pos=<10323.644531, 0.312897, 5640.854004>)
+14:36:28.558 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has sold expansionutilityboat x1 at the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>) and got 16680.
+14:36:41.515 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase expansionzodiacboat x1 from the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>).
+14:36:41.554 [VehicleDeleted] ExpansionZodiacBoat (id=A19A1FB93144FDAA4E2ADB8AA4594A07 pos=<-0.004868, 0.602199, -1.424386>)
+14:36:41.558 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought expansionzodiacboat x1 from the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>) for a price of 22240.
+14:36:58.511 [VehicleCarKey] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<10324.566406, 0.124797, 5639.884766>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=E9B68303994618751EB735AE257A4D21 pos=<10324.545898, 0.054819, 5638.912109>)
+14:37:02.683 [VehicleEnter] Player Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] entered vehicle PBX (id=E9B68303994618751EB735AE257A4D21 pos=<10325.578125, 0.533347, 5639.750977>) as driver
+14:37:05.554 [VehicleEngine] Player Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] started vehicle PBX (id=E9B68303994618751EB735AE257A4D21 pos=<10326.314453, 0.411354, 5640.149902>)
+14:37:46.210 [VehicleEngine] Player Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] stopped vehicle PBX (id=E9B68303994618751EB735AE257A4D21 pos=<10328.633789, 0.418150, 5639.707031>)
+14:37:48.664 [VehicleLeave] Player Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] left vehicle PBX (id=E9B68303994618751EB735AE257A4D21 pos=<10328.664063, 0.476553, 5639.689453>)
+14:37:56.777 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to sell expansionzodiacboat x1 at the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>).
+14:37:56.851 [VehicleDeleted] ExpansionZodiacBoat (id=E9B68303994618751EB735AE257A4D21 pos=<10328.664063, 0.476553, 5639.689453>)
+14:37:56.855 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has sold expansionzodiacboat x1 at the trader "Boats (Rolf [Boat Trader])" in market zone "Fisher Camp Boats" (pos=<10319.200195, 1.455190, 5636.520996>) and got 16680.

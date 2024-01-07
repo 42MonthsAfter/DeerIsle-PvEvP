@@ -1,0 +1,6 @@
+19:28:28.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:28:28.250 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+19:28:28.250 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:28:28.250 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:28:32.171 [AI Patrol] Spawning 3 Camp Bear Patrol bots at <8676.174805, 2.052777, 6100.525879>
+19:29:00.140 [SpawnSelection] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) spawned at <10266.131836, 8.428172, 5572.642578>

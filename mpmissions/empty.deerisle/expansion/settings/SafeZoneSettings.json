@@ -1,0 +1,32 @@
+{
+    "m_Version": 10,
+    "Enabled": 1,
+    "FrameRateCheckSafeZoneInMs": 0,
+    "CircleZones": [
+        {
+            "Center": [
+                    5632.7900390625,
+                    29.280000686645509,
+                    5394.2099609375
+                  ],
+                  "Radius": 140
+        },
+        {
+            "Center": [
+                    10319.2,
+                    1.45519,
+                    5636.521
+                  ],
+                  "Radius": 12
+        }
+    ],
+    "PolygonZones": [],
+    "CylinderZones": [],
+    "ActorsPerTick": 5,
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 1,
+    "ItemLifetimeInSafeZone": 3600.0,
+    "EnableForceSZCleanupVehicles": 0,
+    "VehicleLifetimeInSafeZone": 3888000.0,
+    "ForceSZCleanup_ExcludedItems": []
+}

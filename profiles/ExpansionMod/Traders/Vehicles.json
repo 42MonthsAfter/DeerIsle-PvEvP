@@ -1,0 +1,18 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Vehicle Trader",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Cars",
+        "Helicopters",
+        "Vehicle_Parts"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,263 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\profiles\script_2024-01-05_14-25-33.log started at 05.01. 14:25:34
+
+SCRIPT       : Registered 401 temporary action enum(s), UAN==401
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 14:25:35 [EXPANSION LOG]: DayZGame<174a8440> Start time (local time) 2024-01-05 14:25:28
+SCRIPT       : 14:25:35 [EXPANSION LOG]: DayZGame<174a8440> Start time (UTC) 2024-01-05 19:25:28
+SCRIPT       : 14:25:35 [EXPANSION LOG]: DayZGame<174a8440> Runtime since start (seconds) 7.571
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,52": Missing ';' at the end of line
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,73": Missing ';' at the end of line
+SCRIPT    (W): @"Weapons/Scripts/4_World/itembase\jmc_prototype_optic.c,3": Missing ';' at the end of line
+SCRIPT    (W): @"crab/scripts/4_World/animal_crab.c,71": FIX-ME: Overriding function 'ResistContaminatedEffect' but not marked as 'override'
+SCRIPT    (W): @"crab/scripts/4_World/animal_crab.c,50": FIX-ME: Overriding function 'ResistContaminatedEffect' but not marked as 'override'
+SCRIPT    (W): @"Survivalists_TestMod/scripts/4_world/jmc_actionopencryptodoor.c,66": FIX-ME: Overriding function 'OnStartClient' but not marked as 'override'
+SCRIPT    (W): @"Weapons/Scripts/4_World/itembase\jmc_prototype_optic.c,76": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"deerisle/scripts/4_World/deerislebase\deerisle.c,422": Unsafe down-casting, use 'JMC_SmokeSpawn.Cast' for safe down-casting
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,635": Missing ';' at the end of line
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,637": Missing ';' at the end of line
+SCRIPT    (W): @"Grid_Mod/scripts/5_Mission/tempeldeckelinvisible.c,4": FIX-ME: Overriding function 'SpawnObject' but not marked as 'override'
+SCRIPT    (W): @"deerisle/scripts/5_Mission/missionserver.c,168": FIX-ME: Overriding function 'SpawnObject' but not marked as 'override'
+SCRIPT       : DeerisleWorld:Init() called.
+SCRIPT       : Expansion version: 1.8.36
+SCRIPT       : 14:25:59.179 [EXPANSION DEBUG]: [ExpansionDebugSettings] No existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json. Creating defaults!
+SCRIPT       : [ExpansionDebugSettings] Saving settings
+SCRIPT       : 14:25:59.179 [EXPANSION DEBUG]: [ExpansionLogSettings] No existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json. Creating defaults!
+SCRIPT       : [ExpansionLogSettings] Saving settings
+SCRIPT       : 14:25:59.179 [EXPANSION DEBUG]: [ExpansionSafeZoneSettings] No existing setting file:$mission:expansion\settings\SafeZoneSettings.json. Creating defaults!
+SCRIPT       : [ExpansionSafeZoneSettings] Saving settings
+SCRIPT       : 14:25:59.179 [EXPANSION DEBUG]: [ExpansionNotificationSettings] No existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json. Creating defaults!
+SCRIPT       : [ExpansionNotificationSettings] Saving settings
+SCRIPT       : 14:25:59.179 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] No existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json. Creating defaults!
+SCRIPT       : [ExpansionMonitoringSettings] Saving settings
+SCRIPT       : 14:25:59.183 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] No existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json. Creating defaults!
+SCRIPT       : 14:25:59.183 [EXPANSION DEBUG]: [ExpansionPartySettings] No existing setting file:$profile:ExpansionMod\Settings\PartySettings.json. Creating defaults!
+SCRIPT       : [ExpansionPartySettings] Saving settings
+SCRIPT       : 14:25:59.183 [EXPANSION DEBUG]: [ExpansionHardlineSettings] No existing setting file:$mission:expansion\settings\HardlineSettings.json. Creating defaults!
+SCRIPT       : [ExpansionHardlineSettings] Saving settings
+SCRIPT       : 14:25:59.183 [EXPANSION DEBUG]: [ExpansionMarketSettings] No existing setting files:$mission:expansion\settings\MarketSettings.json. Creating defaults!
+SCRIPT       : 14:25:59.187 [EXPANSION DEBUG]: [ExpansionMarketSettings] No existing market category setting files at:$profile:ExpansionMod\Market\. Creating defaults!
+SCRIPT       : 14:25:59.226 [EXPANSION DEBUG]: [ExpansionMarketSettings] No existing trader setting files at:$profile:ExpansionMod\Traders\. Creating defaults!
+SCRIPT       : 14:25:59.230 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Gardening does not exist!
+SCRIPT       : 14:25:59.250 [EXPANSION DEBUG]: [ExpansionMarketSettings] No existing market zone setting files at:$mission:expansion\traderzones\. Creating defaults!
+SCRIPT       : [ExpansionMarketSettings] Saving settings
+SCRIPT       : 14:25:59.250 [EXPANSION DEBUG]: [ExpansionAirdropSettings] No existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json. Creating defaults!
+SCRIPT       : [ExpansionAirdropSettings] Saving settings
+SCRIPT       : 14:25:59.253 [EXPANSION DEBUG]: [ExpansionMissionSettings] No existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json. Creating defaults!
+SCRIPT       : [ExpansionMissionSettings] Saving settings
+SCRIPT       : 14:25:59.253 [EXPANSION DEBUG]: [ExpansionMapSettings] No existing setting file:$mission:expansion\settings\MapSettings.json. Creating defaults!
+SCRIPT       : [ExpansionMapSettings] Saving settings
+SCRIPT       : 14:25:59.257 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] No existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json. Creating defaults!
+SCRIPT       : [ExpansionPersonalStorageNewSettings] Saving settings
+SCRIPT       : 14:25:59.257 [EXPANSION DEBUG]: [ExpansionGeneralSettings] No existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json. Creating defaults!
+SCRIPT       : [ExpansionGeneralSettings] Saving settings
+SCRIPT       : 14:25:59.257 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] No existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json. Creating defaults!
+SCRIPT       : [ExpansionPlayerListSettings] Saving settings
+SCRIPT       : 14:25:59.257 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] No existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json. Creating defaults!
+SCRIPT       : [ExpansionSocialMediaSettings] Saving settings
+SCRIPT       : 14:25:59.257 [EXPANSION DEBUG]: [ExpansionTerritorySettings] No existing setting file:$mission:expansion\settings\SpawnSettings.json. Creating defaults!
+SCRIPT       : [ExpansionSpawnSettings] Saving settings
+SCRIPT       : 14:25:59.257 [EXPANSION DEBUG]: [ExpansionVehicleSettings] No existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json. Creating defaults!
+SCRIPT       : [ExpansionVehicleSettings] Saving settings
+SCRIPT       : 14:25:59.257 [EXPANSION DEBUG]: [ExpansionAISettings] No existing setting file:$profile:ExpansionMod\Settings\AISettings.json. Creating defaults!
+SCRIPT       : [ExpansionAISettings] Saving settings
+SCRIPT       : 14:25:59.261 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] No existing setting file:$mission:expansion\settings\AIPatrolSettings.json. Creating defaults!
+SCRIPT       : [ExpansionAIPatrolSettings] Saving settings
+SCRIPT       : 14:25:59.261 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] No existing setting file:$mission:expansion\settings\BaseBuildingSettings.json. Creating defaults!
+SCRIPT       : [ExpansionBaseBuildingSettings] Saving settings
+SCRIPT       : 14:25:59.261 [EXPANSION DEBUG]: [ExpansionRaidSettings] No existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json. Creating defaults!
+SCRIPT       : [ExpansionRaidSettings] Saving settings
+SCRIPT       : 14:25:59.261 [EXPANSION DEBUG]: [ExpansionTerritorySettings] No existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json. Creating defaults!
+SCRIPT       : [ExpansionTerritorySettings] Saving settings
+SCRIPT       : 14:25:59.265 [EXPANSION DEBUG]: [ExpansionChatSettings] No existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json. Creating defaults!
+SCRIPT       : [ExpansionChatSettings] Saving settings
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : AM_Fog
+SCRIPT       : ArmA2_Props
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : Deerisle_Security_System
+SCRIPT       : lxFoodScripts
+SCRIPT       : Lighthouse
+SCRIPT       : bliss
+SCRIPT       : Grid_Mod
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : AreaTriggerEvents
+SCRIPT       : ClassicWalkScripts
+SCRIPT       : JMC_Reading
+SCRIPT       : JMC_Smokey
+SCRIPT       : STAG_Industries_Pack
+SCRIPT       : Survivalists_TestMod
+SCRIPT       : Survivalists_Weapons_JMC
+SCRIPT       : TDLScripts
+SCRIPT       : TK_Gear
+SCRIPT       : DeerIsle_Weapons
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : DeerIsleScripts
+SCRIPT       : Animal_crab
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : DeerIsle_FinderOuter
+SCRIPT       : MjolnirScripts
+SCRIPT       : AdmiralsDivingMod
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : ClassicWalk: No config file found. Creating new ClassicWalkConfig.json
+SCRIPT       : DeerisleWorld:Init() called.
+SCRIPT       : [Deerisle Temple Cage] Spawning Objects...
+SCRIPT       : 14:25:59.480 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : Diving Settings Received From Server
+SCRIPT       : Found 0 zones!
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<89927350>
+SCRIPT       : int worth =   1
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:201
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2429
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:413
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:73
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:171
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:63
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:38
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:51
+scripts/3_Game/dayzgame.c:2817
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:242
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerImplementDiving'
+Function: 'DayZPlayerImplementDiving'
+Stack trace:
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_divingimp.c:9
+AdmiralsDivingMod\scripts\4_world/playerimp\adm_playerimp.c:8
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:201
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2429
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:413
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:73
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:171
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:63
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:38
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:51
+scripts/3_Game/dayzgame.c:2817
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:242
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.968749
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 14:28:28.558 [EXPANSION DEBUG]: Clearing cached categories 66
+SCRIPT       : 14:28:28.558 [EXPANSION DEBUG]: Clearing cached traders 17
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f1e30>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883ee5e0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f05c0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f1060>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883efb20>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f2050>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883ef190>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f06d0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883ee6f0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883ef5d0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883ee800>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883eeb30>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f07e0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883eec40>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f16c0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f1390>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883f08f0>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883eed50>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883eee60>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883ef080>~ExpansionQuestConfig
+SCRIPT       : 14:28:28.574 [EXPANSION DEBUG]: ExpansionQuestConfig<883efc30>~ExpansionQuestConfig
+SCRIPT       : ~DayZGame()

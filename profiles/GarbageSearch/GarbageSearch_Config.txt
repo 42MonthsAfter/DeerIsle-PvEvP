@@ -1,0 +1,66 @@
+//	------------------------------------------------------------------------------------------------------------------------------------------------------
+//	[Server_Config_GarbageSearch]- 	Auto Generated GarbageSearch_Config.txt, Created OnDate=2024/01/07 | Time=10:52:44
+//	<You MUST restart the server TWICE for chances to take effect. VERY IMPORTANT **ONLY CHANGE VARIABLES** >
+
+//Use this to create a NEW config from default
+//Warning: TRUE will create a NEW config file
+
+<NewConfig>	false
+
+//Use this to enable the DebugServerLogs
+//Disabled By Default
+
+<EnableDebugLogs>	false
+
+//Use this to enable the DebugGarbageLogs
+//Disabled By Default
+
+<EnableGarbageLogs>	false
+
+
+//You can use up to 40 objects, use only class names
+
+<ObjectArray>	SodaCan_Pipsi	// use class names such as SodaCan_Pipsi 
+<ObjectArray>	SodaCan_Cola
+<ObjectArray>	SodaCan_Spite
+<ObjectArray>	SodaCan_Kvass
+<ObjectArray>	SodaCan_Pipsi_Empty
+<ObjectArray>	SodaCan_Cola_Empty
+<ObjectArray>	SodaCan_Spite_Empty
+<ObjectArray>	SodaCan_Kvass_empty
+<ObjectArray>	AmmoBox_00buck_10rnd
+<ObjectArray>	AmmoBox_12gaSlug_10Rnd
+<ObjectArray>	AmmoBox_22_50Rnd
+<ObjectArray>	AmmoBox_308Win_20Rnd
+<ObjectArray>	AmmoBox_357_20Rnd
+<ObjectArray>	AmmoBox_380_35rnd
+<ObjectArray>	AmmoBox_45ACP_25rnd
+<ObjectArray>	AmmoBox_545x39_20Rnd
+<ObjectArray>	AmmoBox_556x45_20Rnd
+<ObjectArray>	AmmoBox_762x39_20Rnd
+<ObjectArray>	AmmoBox_762x54_20Rnd
+<ObjectArray>	Collectable_PokemonCard_Pikachu
+<ObjectArray>	Collectable_GameBoy_Mario
+<ObjectArray>	Collectable_MemoryCard
+<ObjectArray>	Collectable_GPU
+<ObjectArray>	PleurotusMushroom
+<ObjectArray>	Lard
+<ObjectArray>	SmallGuts
+<ObjectArray>	Guts
+<ObjectArray>	BakedBeansCan_Opened
+<ObjectArray>	PeachesCan_Opened
+<ObjectArray>	TacticalBaconCan_Opened
+<ObjectArray>	SpaghettiCan_Opened
+<ObjectArray>	SardinesCan_Opened
+<ObjectArray>	TunaCan_Opened
+<ObjectArray>	WaterBottle
+<ObjectArray>	Paper
+<ObjectArray>	DuctTape
+<ObjectArray>	BandageDressing
+<ObjectArray>	Rag
+<ObjectArray>	PowderedMilk
+<ObjectArray>	BoxCerealCrunchin
+
+<FileEnd>
+//	----------------------------------------------------------------------------------------------------
+

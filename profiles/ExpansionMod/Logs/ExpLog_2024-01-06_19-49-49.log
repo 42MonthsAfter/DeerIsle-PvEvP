@@ -1,0 +1,8 @@
+19:50:44.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:50:44.656 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+19:50:44.656 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:50:44.656 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:51:15.953 [Safezone] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<5658.674805, 28.807749, 5530.906738>) Entered the safezone
+19:52:01.984 [Safezone] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<10310.133789, 1.474372, 5607.649414>) Left the safezone
+19:52:07.304 [Safezone] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<10313.402344, 1.464410, 5628.532715>) Entered the safezone
+19:52:22.101 [Safezone] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<10312.745117, 1.467941, 5621.671387>) Left the safezone

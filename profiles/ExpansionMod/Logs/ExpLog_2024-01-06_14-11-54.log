@@ -1,0 +1,24 @@
+14:12:36.707 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:12:36.710 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:12:36.710 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:12:36.710 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:12:44.878 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase offroadhatchback x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:12:44.914 [VehicleDeleted] OffroadHatchback (id=E5946C54434543F148A1D38A82F541FD pos=<0.000717, 0.754533, 0.042504>)
+14:12:44.921 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought offroadhatchback x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 18500.
+14:13:10.304 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to sell offroadhatchback x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:13:10.339 [VehicleDeleted] OffroadHatchback (id=A8C7106AE546E49E92D162912BA9C59A pos=<5601.234375, 28.750704, 5358.006836>)
+14:13:10.343 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has sold offroadhatchback x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 13873.
+14:14:11.945 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase offroad_02 x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:14:11.976 [VehicleDeleted] Offroad_02 (id=6805071D054EF58083F197BBFB0D4D70 pos=<0.000509, 0.778205, 0.146761>)
+14:14:11.984 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought offroad_02 x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 55200.
+14:15:20.820 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to sell offroad_02 x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:15:20.855 [VehicleDeleted] Offroad_02 (id=04D26A885A4B79813E1FEAB2EE80CE5A pos=<5601.247070, 28.741232, 5358.107422>)
+14:15:20.859 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has sold offroad_02 x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 41397.
+14:15:27.085 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase expansionvodnik x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:15:27.156 [VehicleDeleted] ExpansionVodnik (id=BC77ABF7564F0DCA18930395C59920BB pos=<-0.166367, 1.071071, 0.473506>)
+14:15:27.164 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought expansionvodnik x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 103840.
+14:16:52.585 [VehicleCarKey] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<5603.343750, 28.722498, 5359.682129>) used the  ExpansionCarKey to unlock ExpansionVodnik (id=B28E896C124519E4484EFB904E49CA7D pos=<5601.075195, 28.687473, 5358.438477>)
+14:17:00.382 [VehicleCarKey] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<5603.343750, 28.722498, 5359.682129>) used the  ExpansionCarKey to lock ExpansionVodnik (id=B28E896C124519E4484EFB904E49CA7D pos=<5601.075195, 28.687473, 5358.438477>)
+14:17:24.078 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to sell expansionvodnik x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:17:24.113 [VehicleDeleted] ExpansionVodnik (id=B28E896C124519E4484EFB904E49CA7D pos=<5601.075195, 28.687473, 5358.438477>)
+14:17:24.117 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has sold expansionvodnik x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 77880.

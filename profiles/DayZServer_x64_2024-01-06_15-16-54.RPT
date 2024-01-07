@@ -1,0 +1,1859 @@
+=====================================================================
+== C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\DayZServer_x64.exe
+== DayZServer_x64.exe -cpuCount=4 -mod=@DeerIsle;@CF;@CommunityOnlineTools;@DabsFramework;@DayZExpansionLicensed;@DayZExpansionBundle;@42MonthsAfterPvPDevelopment;@gebsfish;@GarbageSearch;@CollectableItems;@CannabisPlus;@TeddysWeaponPack;@MunghardsItempack;@DayZEditorLoader;@WindstridesClothingPack; -config=serverDZ.cfg -port=2302 -noFilePatching -profiles=profiles -scrAllowFileWrite -adminlog
+=====================================================================
+Exe timestamp: 2024/01/01 17:40:38
+Current time:  2024/01/06 15:16:59
+Version 1.23.157045
+=====================================================================
+
+15:16:59.183 [Inputs] Loading inputs default "bin/constants.xml"
+15:16:59.186 [Inputs] Loading inputs default "bin/specific.xml"
+15:16:59.187 !!! [Inputs] Cannot load inputs default "", file does not exist
+15:16:59.187 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+15:16:59.187 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+15:16:59.187 [Inputs] Loading inputs default "LIVEN/PvZmoD_CustomisableZombies/inputs.xml"
+15:16:59.188 [Inputs] Loading inputs default "PVEZ/data/inputs.xml"
+15:16:59.188 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+15:16:59.189 [Inputs] Loading inputs default "deerisle/scripts/Inputs.xml"
+15:16:59.189 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+15:16:59.189 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+15:16:59.189 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:16:59.190 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+15:16:59.190 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:16:59.190 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+15:16:59.190 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:16:59.190 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+15:16:59.191 [Inputs] Loading inputs default "AdmiralsDivingMod/Scripts/Data/modded_Inputs.xml"
+15:16:59.191 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+15:16:59.191 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+15:16:59.191 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:16:59.191 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+15:16:59.191 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:16:59.192 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+15:16:59.192 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:16:59.192 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+15:16:59.192 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+15:16:59.192 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+15:16:59.192 [Inputs] Loading inputs cfg "bin/core.xml"
+15:16:59.192 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+15:16:59.194 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+15:17:29.832 [CE][Hive] :: Initializing OFFLINE
+15:17:29.833 [StorageDirs] :: Selected storage directory: C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\
+15:17:29.833 [CE][Hive] :: Loading core data ... 
+15:17:29.833 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+15:17:35.673 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+15:17:35.674 [CE][TypeSetup] :: 472 classes setuped...
+15:17:35.678 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+15:17:35.679 [CE][TypeSetup] :: 97 classes setuped...
+15:17:37.444 [CE][RegisterBind] :: 0 classes binded...
+15:17:37.444 [CE][RegisterConfig] :: 16043 config classes registered, 0 sub-counters...
+15:17:37.444 [CE][Hive] :: Loading map data ... 
+15:17:37.445 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+15:17:37.481 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.481 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.481 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.481 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown category: 'vehicleparts'.
+15:17:37.482 !!! [CE] :: Unknown usage: 'Fortknox'.
+15:17:37.482 !!! [CE] :: Unknown usage: 'Mine'.
+15:17:37.482 !!! [CE] :: Unknown usage: 'Mine'.
+15:17:37.482 !!! [CE] :: Unknown usage: 'Temple'.
+15:17:37.483 [CE][LoadPrototype] :: loaded 550 prototypes
+15:17:37.483   989 containers, 11581 points
+15:17:37.483   79 dispatches, 316 proxies
+15:17:37.483 !!! [CE][LoadPrototype] 4 groups have no points...
+15:17:37.483 !!! [CE][LoadPrototype] 2 groups have wrong points...
+15:17:37.483 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+15:17:37.483 [CE][LoadPrototype] :: last group name: Land_Underground_Storage_Workshop...
+15:17:37.487 [CE][LoadPrototype] :: loaded 0 prototypes
+15:17:37.487   55 containers, 232 points
+15:17:37.487   0 dispatches, 0 proxies
+15:17:37.487 [CE][LoadPrototype] :: last group name: Rail9...
+15:17:38.450 [CE][LoadMap] "Group" :: loaded 10479 groups, groups failed: 0, largest group range: 34.1
+15:17:38.453 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.1
+15:17:38.651 [CE][Links] found 2684 total links between groups, of 10479
+15:17:38.651 [CE][LoadClusters] "Cluster" :: Loading files...
+15:17:38.780 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+15:17:38.914 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+15:17:39.45 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+15:17:39.45   9790 failed - check prototype defaults 'clusterMatrix' setups !!!
+15:17:39.185 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+15:17:39.185   6758 failed - check prototype defaults 'clusterMatrix' setups !!!
+15:17:39.257 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 24035 instances
+15:17:39.257   2081 failed - check prototype defaults 'clusterMatrix' setups !!!
+15:17:39.261 [CE][Storage] ver:21 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\types.bin"
+15:17:39.261 [CE][Storage] ver:21 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\types.001"
+15:17:39.262 [CE][Storage] ver:21 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\types.002"
+15:17:39.262 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\types.bin".
+15:17:39.485 !!! [CE][offlineDB] :: No Shutdown message present.
+15:17:39.487 [CE][offlineDB] :: Loaded 52 dynamic events 261 total types.
+15:17:39.488 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+15:17:39.488 [CE][offlineDB] :: Loaded 62 dynamic events 318 total types.
+15:17:39.504 !!! [CE][offlineDB] :: Type 'Bandage' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BandanaMask_BlackPattern' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BandanaMask_CamoPattern' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BandanaMask_GreenPattern' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BandanaMask_PolkaPattern' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BandanaMask_RedPattern' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BomberJacket_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BomberJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BomberJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BomberJacket_Grey' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BomberJacket_Maroon' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BomberJacket_Olive' will be ignored. (Type does not exist. (Typo?))
+15:17:39.504 !!! [CE][offlineDB] :: Type 'BomberJacket_SkyBlue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'DallasMask' will be ignored. (Type does not exist. (Typo?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'GasMask' will be ignored. (Type does not exist. (Typo?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'GorkaPants_Autumn' will be ignored. (Type does not exist. (Typo?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'GorkaPants_Flat' will be ignored. (Type does not exist. (Typo?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'GorkaPants_PautRev' will be ignored. (Type does not exist. (Typo?))
+15:17:39.505 !!! [CE][offlineDB] :: Type 'GorkaPants_Summer' will be ignored. (Type does not exist. (Typo?))
+15:17:39.506 !!! [CE][offlineDB] :: Type 'HoxtonMask' will be ignored. (Type does not exist. (Typo?))
+15:17:39.506 !!! [CE][offlineDB] :: Type 'Jeans_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.506 !!! [CE][offlineDB] :: Type 'Jeans_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.506 !!! [CE][offlineDB] :: Type 'Jeans_BlueDark' will be ignored. (Type does not exist. (Typo?))
+15:17:39.506 !!! [CE][offlineDB] :: Type 'Jeans_Brown' will be ignored. (Type does not exist. (Typo?))
+15:17:39.506 !!! [CE][offlineDB] :: Type 'Jeans_Green' will be ignored. (Type does not exist. (Typo?))
+15:17:39.506 !!! [CE][offlineDB] :: Type 'Jeans_Grey' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_Beige' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_Brown' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_Khaki' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_LightGrey' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'ManSuit_White' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_Green' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_White' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_Green' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_White' will be ignored. (Type does not exist. (Typo?))
+15:17:39.507 !!! [CE][offlineDB] :: Type 'MountainBag_Red' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'Raincoat_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'Raincoat_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'Raincoat_Green' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'Raincoat_Orange' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'Raincoat_Pink' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'Raincoat_Red' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'Raincoat_Yellow' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'SantasSleigh' will be ignored. (Type does not exist. (Typo?))
+15:17:39.508 !!! [CE][offlineDB] :: Type 'SharpLongWoodenStick' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'Shirt_BlueCheck' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'Shirt_BlueCheckBright' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'Shirt_GreenCheck' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'Shirt_PlaneBlack' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'Shirt_RedCheck' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'Shirt_WhiteCheck' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_Beige' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_Brown' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_Khaki' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_LightGrey' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'SlacksPants_White' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'TShirt_Beige' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'TShirt_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'TShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+15:17:39.509 !!! [CE][offlineDB] :: Type 'TShirt_Green' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'TShirt_Grey' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'TShirt_OrangeWhiteStripes' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'TShirt_Red' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'TShirt_RedBlackStripes' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'TShirt_White' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'TransitBus' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.510 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+15:17:39.511 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+15:17:39.511 !!! [CE][offlineDB] :: Type 'WolfMask' will be ignored. (Type does not exist. (Typo?))
+15:17:39.511 !!! [CE][offlineDB] :: Type 'ttcelticaxe' will be ignored. (Type does not exist. (Typo?))
+15:17:39.511 !!! [CE][offlineDB] :: Type 'tantosword' will be ignored. (Type does not exist. (Typo?))
+15:17:39.511 !!! [CE][offlineDB] :: Type 'STAG_Flag_Gespiegelt' will be ignored. (Type does not exist. (Typo?))
+15:17:39.512 !!! [CE][offlineDB] :: Type 'STAG_Clothing_MountainBag' will be ignored. (Type does not exist. (Typo?))
+15:17:39.517 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.517 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.518 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Bocchi' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Metallia' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Pedro' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Violet' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_42Finger' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Squidward' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'Armband_DOC_Bocchi' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'Armband_DOC_Metallia' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'Armband_DOC_Pedro' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'Armband_DOC_42FINGERS' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'Armband_DOC_Violet' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'Armband_DOC_Squidward' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Jacket_Red42' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Raincoat_Red42' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_Jeans_Red42' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_TOP' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_BOTTOM' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_DOC_TOP' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_ADMIDOC_GHILLIE_REDGREY' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_GHILLIETOP_REDGREY' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_GUNWRAP_REDGREY' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_BLUEBLACK' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_GUNWRAP_BLUEBLAC' will be ignored. (Type does not exist. (Typo?))
+15:17:39.525 !!! [CE][offlineDB] :: Type 'DOC_GHILLIETOP_BLUEBLACK' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Airsoft_M4A1' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Airsoft_AK' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Airsoft_Sniper' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Mag_Airsoft_M4' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Mag_Airsoft_AK' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft762' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft556' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft308' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Prefab_Cabin' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Cabin_Kit' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Sk_Cabinet' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Cabin_Water_Pump' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Radioactive_bear_Meat' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'Radioactive_wolf_Meat' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'DXMediumTent_1' will be ignored. (Type does not exist. (Typo?))
+15:17:39.526 !!! [CE][offlineDB] :: Type 'DXMediumTent_2' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_3' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_4' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_5' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_6' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_7' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_8' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_9' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_10' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'DXMediumTent_11' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'SWAT_Pants' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'SWAT_Balaclava' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'SWAT_Gloves' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'SWAT_Goggles' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'SWAT_Shirt' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'SWAT_Vest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'SWAT_Helmet' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'RFSolarPanel' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'RFSolarPanelKit' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.527 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Medical_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Medical_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Medical_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.528 !!! [CE][offlineDB] :: Type 'MVS_Pack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Pack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Pack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Pack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Pack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Pack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.529 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_Pakol_Comtac' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_canteen_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_canteen_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_canteen_Camp_Orange' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_canteen_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_canteen_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.530 !!! [CE][offlineDB] :: Type 'MVS_canteen_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.531 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.531 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.531 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.531 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.531 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.531 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Snow' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.532 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.533 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.534 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.535 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.535 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.535 !!! [CE][offlineDB] :: Type 'MVS_Balaclava_Wraith_Comtacs' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam_Tropic' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam_Black' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.536 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.537 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.537 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.537 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.538 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.539 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.539 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.539 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.539 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.539 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Black_Camo_Bunker2' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.540 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Black_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Black_Camo2_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Camo_Orange_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Camo_Tigr_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_ELRD_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_Green_Camo_Bunker' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'mouse_grey_flag' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'toxic_green' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_Torch' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_LongTorch' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_AreaLight_White' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_AreaLight_Warm' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_1' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_2' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_3' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_4' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_5' will be ignored. (Not spawnable. (Scope is not public?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_cartman' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_gratefuldead' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_meatloaf' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_nirvana' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_skynyrd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_starbucks' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_sublime' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_billmurray' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_blackflag' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_cbgb' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_illuminati1' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_johndenver' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_joydivision' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_nin' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_zero' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_volcom' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_ironmaiden' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_lateralus' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_ledzeppelin' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_nickcage' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_opeth' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_scarface' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_syl' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_tyrone' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'bs_worstshirt' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorVault' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorSmall' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorSmallShanty' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorSmallMetal' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorVaultKit' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorSmallKit' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorSmallMetalKit' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorSmallShantyKit' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'MoreDoorSafe' will be ignored. (Type does not exist. (Typo?))
+15:17:39.541 !!! [CE][offlineDB] :: Type 'TacSatRadio' will be ignored. (Type does not exist. (Typo?))
+15:17:39.543 !!! [CE][offlineDB] :: Wrong xml format of types file 'ModTypes/42MADocsGuns/types.xml'.
+15:17:39.544 !!! [CE][offlineDB] :: Wrong xml format of types file 'ModTypes/42MADocsTextures/types.xml'.
+15:17:39.547 !!! [CE][offlineDB] :: Type 'TacticalShirt_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'CargoPants_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaEJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_Black_Camo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_Black_Camo2' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_Green_Camo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_Orange_Camo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_Tigr_Camo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'GorkaPants_Yellow_Camo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.547 !!! [CE][offlineDB] :: Type 'HuntingJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'HunterPants_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'FirefighterJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'AssaultBag_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'HuntingBag_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'MountainBag_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'TortillaBag_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'PlateCarrierVest_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'PlateCarrierPouches_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'PlateCarrierHolster_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'SmershVest_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'SmershBag_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'UKAssVest_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'PoliceVest_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'HighCapacityVest_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'Mich2001Helmet_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.548 !!! [CE][offlineDB] :: Type 'DarkMotoHelmet_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.549 !!! [CE][offlineDB] :: Type 'GorkaHelmet_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.549 !!! [CE][offlineDB] :: Type 'BalaclavaMask_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.549 !!! [CE][offlineDB] :: Type 'TacticalGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.549 !!! [CE][offlineDB] :: Type 'OMNOGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.549 !!! [CE][offlineDB] :: Type 'WorkingGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+15:17:39.558 !!! [CE][offlineDB] :: Type 'TWP_Glock19M' will be ignored. (Type does not exist. (Typo?))
+15:17:39.558 !!! [CE][offlineDB] :: Type 'TWP_Glock19M_mag_15Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.559 !!! [CE][offlineDB] :: Type 'TWP_SRGlock_mag_33Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.559 !!! [CE][offlineDB] :: Type 'TWP_ACR' will be ignored. (Type does not exist. (Typo?))
+15:17:39.559 !!! [CE][offlineDB] :: Type 'TWP_ACR_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.559 !!! [CE][offlineDB] :: Type 'TWP_FG42' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_FG42_mag_25Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_M16A3_mag_20Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_MK14_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotC' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotC_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotBGold' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotBGold_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'ScarLKBlueCamo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'ScarLKGreen' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'ScarLKGreenCamo' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'ScarLKTan' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_SG553_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+15:17:39.560 !!! [CE][offlineDB] :: Type 'TWP_PumpkinHead' will be ignored. (Type does not exist. (Typo?))
+15:17:39.561 !!! [CE][offlineDB] :: Type 'TWP_JasonMask' will be ignored. (Type does not exist. (Typo?))
+15:17:39.561 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Red' will be ignored. (Type does not exist. (Typo?))
+15:17:39.561 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Green' will be ignored. (Type does not exist. (Typo?))
+15:17:39.561 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Orange' will be ignored. (Type does not exist. (Typo?))
+15:17:39.561 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_yellow' will be ignored. (Type does not exist. (Typo?))
+15:17:39.566 !!! [CE][offlineDB] :: Type 'teddyhead_mung' will be ignored. (Type does not exist. (Typo?))
+15:17:39.566 !!! [CE][offlineDB] :: Type 'mag3_gasmask_mung' will be ignored. (Type does not exist. (Typo?))
+15:17:39.566 !!! [CE] :: Unknown usage: 'TempleCore'.
+15:17:39.566 !!! [CE] :: Unknown usage: 'TempleCore'.
+15:17:39.566 !!! [CE] :: Unknown usage: 'TempleCore'.
+15:17:39.567 !!! [CE][offlineDB] :: Type 'stalker_gasmask_white_mung' will be ignored. (Type does not exist. (Typo?))
+15:17:39.567 !!! [CE][offlineDB] :: Type 'stalker_gasmask_black_mung' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_HookBobber1Bait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_HookBobber2Bait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_HookBobber3Bait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_HookBobber4Bait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_VanillaHookRubberWormBait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_VanillaHookGrubWormBait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_VanillaHookGrassHopperBait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_VanillaHookFieldCricketBait' will be ignored. (Type does not exist. (Typo?))
+15:17:39.572 !!! [CE][offlineDB] :: Type 'geb_RedFishShirt' will be ignored. (Type does not exist. (Typo?))
+15:17:39.573 !!! [CE][offlineDB] :: Type 'geb_GreenFishShirt' will be ignored. (Type does not exist. (Typo?))
+15:17:39.573 !!! [CE][offlineDB] :: Type 'geb_BlueFishShirt' will be ignored. (Type does not exist. (Typo?))
+15:17:39.573 !!! [CE][offlineDB] :: Type 'geb_PurpleFishShirt' will be ignored. (Type does not exist. (Typo?))
+15:17:39.574 !!! [CE][offlineDB] :: Type 'CigarettePack_Chernamorka' will be ignored. (Type does not exist. (Typo?))
+15:17:39.574 !!! [CE][offlineDB] :: Type 'CigarettePack_Merkur' will be ignored. (Type does not exist. (Typo?))
+15:17:39.574 !!! [CE][offlineDB] :: Type 'CigarettePack_Partyzanka' will be ignored. (Type does not exist. (Typo?))
+15:17:39.727 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+15:17:39.727 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalDeer'.
+15:17:39.727 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalCow'.
+15:17:39.727 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalSheep'.
+15:17:39.727 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalRoeDeer'.
+15:17:39.727 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalWildBoar'.
+15:17:39.728 [CE][DE][SPAWNS] :: Total positions: 713
+15:17:39.728 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 0
+15:17:39.729 [CE][Storage] ver:21 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\events.bin"
+15:17:39.729 [CE][Storage] ver:21 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\events.001"
+15:17:39.730 [CE][Storage] ver:21 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\events.002"
+15:17:39.730 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\events.bin".
+15:17:39.730 [CE][DynamicEvent] Load  Events:[62] Primary spawners: 62 Secondary spawners: 2
+15:17:39.731 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin"
+15:17:39.731 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_000.001"
+15:17:39.732 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_000.002"
+15:17:39.732 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin" 1734 items.
+15:17:40.745   1734 items loaded. (0 failed)
+15:17:40.745 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin"
+15:17:40.746 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_001.001"
+15:17:40.746 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_001.002"
+15:17:40.746 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin" 1326 items.
+15:17:41.444   1326 items loaded. (0 failed)
+15:17:41.444 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin"
+15:17:41.445 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_002.001"
+15:17:41.445 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_002.002"
+15:17:41.445 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin" 1660 items.
+15:17:42.333   1660 items loaded. (0 failed)
+15:17:42.334 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin"
+15:17:42.334 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_003.001"
+15:17:42.335 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_003.002"
+15:17:42.335 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin" 1829 items.
+15:17:43.48   1829 items loaded. (0 failed)
+15:17:43.51 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin"
+15:17:43.51 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_004.001"
+15:17:43.51 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_004.002"
+15:17:43.51 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin" 2887 items.
+15:17:44.184   2887 items loaded. (0 failed)
+15:17:44.185 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin"
+15:17:44.185 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_005.001"
+15:17:44.185 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_005.002"
+15:17:44.185 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin" 2677 items.
+15:17:45.304   2677 items loaded. (0 failed)
+15:17:45.305 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin"
+15:17:45.305 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_006.001"
+15:17:45.306 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_006.002"
+15:17:45.306 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin" 2240 items.
+15:17:46.292   2240 items loaded. (0 failed)
+15:17:46.292 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin"
+15:17:46.293 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_007.001"
+15:17:46.293 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_007.002"
+15:17:46.293 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin" 1956 items.
+15:17:47.167   1956 items loaded. (0 failed)
+15:17:47.168 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin"
+15:17:47.168 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_008.001"
+15:17:47.168 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_008.002"
+15:17:47.168 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin" 736 items.
+15:17:47.507   736 items loaded. (0 failed)
+15:17:47.508 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin"
+15:17:47.508 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_009.001"
+15:17:47.509 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_009.002"
+15:17:47.509 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin" 1088 items.
+15:17:48.161   1088 items loaded. (0 failed)
+15:17:48.161 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin"
+15:17:48.162 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_010.001"
+15:17:48.162 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_010.002"
+15:17:48.162 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin" 743 items.
+15:17:48.570   743 items loaded. (0 failed)
+15:17:48.571 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin"
+15:17:48.571 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_011.001"
+15:17:48.572 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_011.002"
+15:17:48.572 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin" 437 items.
+15:17:48.856   437 items loaded. (0 failed)
+15:17:48.857 [CE][Storage] ver:26 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\building.bin"
+15:17:48.857 [CE][Storage] ver:26 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\building.001"
+15:17:48.857 [CE][Storage] ver:26 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\building.002"
+15:17:48.857 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\building.bin" 0 items.
+15:17:48.857   0 items loaded. (0 failed)
+15:17:48.857 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\vehicles.bin"
+15:17:48.858 [CE][Storage] ver:25 stamp:683, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\vehicles.001"
+15:17:48.858 [CE][Storage] ver:25 stamp:684, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\vehicles.002"
+15:17:48.858 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\mpmissions\empty.deerisle\storage_1\data\vehicles.bin" 116 items.
+15:17:49.594   116 items loaded. (0 failed)
+15:17:49.614 [CE][Hive] :: Storage load took:9.89 seconds, recovery stamp:684
+15:17:49.615   entity: 20793, building: 0
+15:17:49.615   no lifetime: 37
+15:17:49.615   ignored: 30
+15:17:49.615   pathgraph's: 447
+15:17:49.615 [CE][Hive] :: Initializing ... 
+15:17:49.651 [CE][InitializeMap] :: initialized: 0
+15:17:49.651 [CE][Hive] :: Initializing spawners ... 
+15:17:49.726 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:20727, Total in Map: 20001 at 0 (sec)
+15:17:49.726   tests:0, repeats:0 fails:0, overtime:0
+15:17:49.754 [CE][AnimalRespawner] (PRICrab) :: !!! Missing AI Template "HerdCrab" for DE: "AnimalCrab"
+15:17:49.754 [CE][DynEvent] :: 62 types
+15:17:49.754 [00] AmbientHen
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [01] AmbientBear
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [02] AmbientPolarbear
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [03] AmbientCow
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [04] AmbientDeer
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [05] AmbientGoat
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [06] AmbientPig
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [07] AmbientRoeDeer
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [08] AmbientSheep
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [09] AmbientWildBoar
+15:17:49.754   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:17:49.754 [10] AnimalWolf
+15:17:49.754   Primary Spawner: "Animal", active: yes, repeat: 1
+15:17:49.754 [11] AnimalArcticWolf
+15:17:49.754   Primary Spawner: "Animal", active: yes, repeat: 1
+15:17:49.754 [12] InfectedArmy
+15:17:49.754   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.754 [13] InfectedArmyHard
+15:17:49.754   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.754 [14] InfectedArmyHardJMC
+15:17:49.754   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.754 [15] InfectedArmyHardJMCWinter
+15:17:49.754   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.754 [16] InfectedCity
+15:17:49.754   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.754 [17] InfectedFirefighter
+15:17:49.754   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.754 [18] InfectedIndustrial
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [19] InfectedMedic
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [20] InfectedNBC
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [21] InfectedNBCYellow
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [22] InfectedPolice
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [23] InfectedPoliceHard
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [24] InfectedPrisoner
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [25] InfectedReligious
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [26] InfectedSolitude
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [27] InfectedVillage
+15:17:49.755   Primary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [28] ItemPlanks
+15:17:49.755   Primary Spawner: "Item", active: yes, repeat: 1
+15:17:49.755 [29] Loot
+15:17:49.755   Primary Spawner: "Loot", active: yes, repeat: 2
+15:17:49.755 [30] StaticContaminatedArea
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755 [31] StaticHeliCrash
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755   Secondary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [32] StaticPoliceCar
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755   Secondary Spawner: "Infected", active: yes, repeat: 1
+15:17:49.755 [33] TrajectoryApple
+15:17:49.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:17:49.755 [34] TrajectoryConiferous
+15:17:49.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:17:49.755 [35] TrajectoryDeciduous
+15:17:49.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:17:49.755 [36] TrajectoryHumus
+15:17:49.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:17:49.755 [37] TrajectoryPear
+15:17:49.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:17:49.755 [38] TrajectoryPlum
+15:17:49.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:17:49.755 [39] TrajectoryStones
+15:17:49.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:17:49.755 [40] VehicleCivilianSedan
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [41] VehicleHatchback02
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [42] VehicleOffroadHatchback
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [43] VehicleSedan02
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [44] VehicleTruck01
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [45] StaticVanPinkies
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755 [46] StaticVanAmbulance
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755 [47] StaticSkeletonEventspawn
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755 [48] StaticPlantFernA
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755 [49] StaticPlantFernB
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755 [50] StaticPlantFernC
+15:17:49.755   Primary Spawner: "Static", active: yes, repeat: 1
+15:17:49.755 [51] AnimalCrab
+15:17:49.755   Primary Spawner: "Animal", active: yes, repeat: 1
+15:17:49.755 [52] VehicleUAZ
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [53] VehicleVodnik
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [54] VehicleBus
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [55] VehicleTractor
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [56] VehicleMH6Helicopter
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [57] VehicleMerlinHelicopter
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [58] VehicleUh1hHelicopter
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [59] VehicleGyroHelicopter
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [60] VehicleUtilityBoat
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [61] VehicleZodiacBoat
+15:17:49.755   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:17:49.755 [CE][Hive] :: Initializing of spawners done.
+15:17:49.768 [CE][Hive] :: Init sequence finished.
+15:17:49.769 Player connect enabled
+15:17:50.998 [IdleMode] Entering IN - save processed
+15:26:41.655 [Login]: Adding player Bunker (1759186549) to login queue at position 0
+15:26:41.655 [LoginMachine]: Add player Bunker (1759186549 10.0.0.59:2316)
+15:26:41.655 [StateMachine]: Player Bunker (dpnid 1759186549 uid ) Entering AuthPlayerLoginState
+15:26:41.842 [IdleMode] Leaving OUT
+15:26:42.637 [StateMachine]: Player Bunker (dpnid 1759186549 uid ) Entering WaitAuthPlayerLoginState
+15:26:44.833 Player Bunker connected (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=).
+15:26:44.833 Player "Bunker" is connected (steamID=76561199112746320)
+15:26:44.833 [StateMachine]: Player Bunker (dpnid 1759186549 uid ) Entering WaitPlayerAssignedLoginState
+15:26:51.944 [StateMachine]: Player Bunker (dpnid 1759186549 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetLoginTimeLoginState
+15:26:51.945 [StateMachine]: Player Bunker (dpnid 1759186549 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBWaitLoginTimeLoginState
+15:26:56.960 [StateMachine]: Player Bunker (dpnid 1759186549 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetCharacterLoginState
+15:26:56.963 [StateMachine]: Player Bunker (dpnid 1759186549 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering CreateNetObjectsLoginState
+15:26:56.968 [StateMachine]: Player Bunker (dpnid 1759186549 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering PreloadCamLoginState
+15:26:56.968 [StateMachine]: Player Bunker (dpnid 1759186549 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering WaitPreloadCamLoginState
+15:27:00.294 [StateMachine]: Player Bunker (dpnid 1759186549 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering GetLoadedCharLoginState
+15:27:00.332 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1759186549
+    uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+15:27:03.945 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Mag_Expansion_M9_15Rnd"
+15:27:04.45 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Expansion_Taser_Yellow"
+15:27:04.145 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "Mag_Expansion_AWM_5rnd"
+15:27:04.145 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "Mag_Expansion_AWM_5rnd"
+15:27:04.145 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "Mag_Expansion_AWM_5rnd"
+15:27:04.146 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Mag_Expansion_AWM_5rnd"
+15:27:04.246 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Mag_Expansion_Taser"
+15:27:04.445 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "ExpansionHelipadKit"
+15:27:04.546 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "ExpansionHescoKit"
+15:27:04.646 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "ExpansionCamoTentKit"
+15:27:04.745 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "ExpansionCamoBoxKit"
+15:27:04.845 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "ExpansionBarrierGateKit"
+15:27:04.946 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "geb_BigGameFishingline"
+15:27:05.45 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "geb_FlyFishingLine"
+15:27:05.145 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "geb_SaltwaterFishingLine"
+15:27:05.445 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Chestplate"
+15:27:05.545 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "GhillieBushrag_Tan"
+15:27:05.645 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "GhillieTop_Tan"
+15:27:05.745 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "Sword"
+15:27:30.763 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Sword"
+15:27:30.863 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Mace"
+15:27:30.963 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Chainmail"
+15:27:31.163 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Chainmail_Leggings"
+15:27:31.884 !!! [CE][Point] Removing 7178.601563, 11668.685547 from Land_jmc_military_lootcase
+15:27:31.887 !!! [CE][Point] Removing 7197.000000, 11587.588867 from Land_jmc_military_lootcase
+15:27:32.563 !!! [CE][Point] Removing 7183.787109, 11600.882813 from Land_jmc_military_lootcase
+15:27:33.762 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+15:27:34.371 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+15:27:34.371 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+15:27:34.371 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+15:27:34.378 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+15:27:34.385 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+15:27:57.695 !!! [CE][Point] Removing 7166.823242, 11664.680664 from Land_BusStation_wall_bench
+15:27:58.897 !!! [CE][Point] Removing 7190.200195, 11587.917969 from Land_jmc_military_lootcase
+15:27:59.96 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "MVS_CombatPants_Forest_Bunker"
+15:27:59.96 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "MVS_CombatPants_Forest_Bunker"
+15:28:01.04 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:28:25.04 !!! [CE][Point] Removing 7179.458008, 11682.573242 from Land_BusStation_wall_bench
+15:28:25.305 !!! [CE][Point] Removing 7168.684082, 11588.274414 from Land_jmc_military_lootcase
+15:28:26.204 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "MVS_ChestRig_ERDL"
+15:28:26.204 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "MVS_ChestRig_ERDL"
+15:28:26.204 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "MVS_ChestRig_ERDL"
+15:28:26.304 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "HighCapacityVest_Black_Camo"
+15:28:26.304 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "HighCapacityVest_Black_Camo"
+15:28:28.204 !!! [CE][VehicleRespawner] (PRIUAZ) :: Respawning: "VehicleUAZ" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+15:28:28.803 !!! [CE][VehicleRespawner] (PRIBus) :: Respawning: "VehicleBus" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:28:29.103 !!! [CE][VehicleRespawner] (PRITractor) :: Respawning: "VehicleTractor" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:28:29.403 !!! [CE][VehicleRespawner] (PRIMH6Helicopter) :: Respawning: "VehicleMH6Helicopter" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:28:51.509 !!! [CE][Point] Removing 7161.974609, 11576.686523 from Land_BusStation_wall_bench
+15:28:53.903 !!! [CE][VehicleRespawner] (PRIUh1hHelicopter) :: Respawning: "VehicleUh1hHelicopter" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:28:54.503 !!! [CE][VehicleRespawner] (PRIUtilityBoat) :: Respawning: "VehicleUtilityBoat" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+15:28:54.803 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 13) within 39 attempts.
+15:29:19.315 !!! [CE][Point] Removing 7175.257813, 11682.561523 from Land_BusStation_wall_bench
+15:29:45.624 !!! [CE][Point] Removing 4610.052734, 6997.686523 from Land_strazni_vez
+15:29:45.624 !!! [CE][Point] Removing 4508.708984, 7197.955078 from Land_strazni_vez
+15:29:45.626 !!! [CE][Point] Removing 5013.100586, 7030.356934 from Land_strazni_vez
+15:29:45.628 !!! [CE][Point] Removing 4588.048340, 7325.891113 from Land_strazni_vez
+15:29:50.120 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:30:12.971 !!! [CE][Point] Removing 7168.684082, 11588.274414 from Land_jmc_military_lootcase
+15:30:13.970 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "HighCapacityVest_ELRD_Camo"
+15:30:13.970 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "HighCapacityVest_ELRD_Camo"
+15:30:13.974 !!! [CE][Point] Removing 3814.755859, 9733.528320 from Land_jmc_cabin01
+15:30:40.469 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "PlateCarrierVest_Tigr_Camo"
+15:30:40.768 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "MVS_Assault_Pack_OD"
+15:30:40.869 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "MVS_CombatPants_Snow"
+15:30:40.869 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "MVS_CombatPants_Snow"
+15:30:40.869 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "MVS_CombatPants_Snow"
+15:30:41.368 !!! [CE][VehicleRespawner] (PRIUAZ) :: Respawning: "VehicleUAZ" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+15:30:41.969 !!! [CE][VehicleRespawner] (PRIBus) :: Respawning: "VehicleBus" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:30:42.268 !!! [CE][VehicleRespawner] (PRITractor) :: Respawning: "VehicleTractor" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:30:42.569 !!! [CE][VehicleRespawner] (PRIMH6Helicopter) :: Respawning: "VehicleMH6Helicopter" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:30:43.169 !!! [CE][VehicleRespawner] (PRIUh1hHelicopter) :: Respawning: "VehicleUh1hHelicopter" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:30:43.769 !!! [CE][VehicleRespawner] (PRIUtilityBoat) :: Respawning: "VehicleUtilityBoat" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+15:30:44.68 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 13) within 39 attempts.
+15:31:03.943 [Disconnect]: Start script disconnect 1759186549 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+15:31:06.380 !!! [CE][Point] Removing 7180.946289, 11671.265625 from Land_BusStation_wall_bench
+15:31:06.480 !!! [CE][Point] Removing 3741.319092, 9728.391602 from Land_jmc_cabin01
+15:31:06.481 !!! [CE][Point] Removing 3665.854492, 9737.577148 from Land_jmc_cabin01
+15:31:18.947 [Disconnect]: Finish script disconnect 1759186549 (BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=)
+15:31:18.947 [Disconnect]: DisconnectPlayerFinish 1759186549
+15:31:19.304 [Disconnect]: Remove player info 1759186549
+15:31:19.305 [Disconnect]: Player destroy 1759186549 
+15:31:36.463 [CE][Links] found 0 total links between groups, of 1
+15:31:36.463 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+15:32:03.353 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:32:27.588 !!! [CE][Point] Removing 610.639221, 12601.198242 from Land_BusStation_wall_bench
+15:32:28.188 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "PoliceVest_Black_Camo2"
+15:32:30.586 !!! [CE][VehicleRespawner] (PRIUAZ) :: Respawning: "VehicleUAZ" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+15:32:31.186 !!! [CE][VehicleRespawner] (PRIBus) :: Respawning: "VehicleBus" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:32:31.486 !!! [CE][VehicleRespawner] (PRITractor) :: Respawning: "VehicleTractor" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:32:31.786 !!! [CE][VehicleRespawner] (PRIMH6Helicopter) :: Respawning: "VehicleMH6Helicopter" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+15:32:38.601 [IdleMode] Entering IN - save processed
+=======================================================
+-------------------------------------------------------
+Time: 15:45:42
+Exception code: C0000005 ACCESS_VIOLATION at DBBAF4C3
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  AK47Blue in MachineGuns\ak47blue\, SVT38 in Sniper\svt38\
+  Admirals_Diving_Gear in AdmiralsDivingMod\gear\
+  DZ_Sounds_Effects_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\sounds\hpp\
+  DayZExpansion_Objects_BaseBuilding_Safes in DayZExpansion\Objects\Basebuilding\Safes\
+  DayZExpansion_Sounds_Ground_Vehicle_Sedan_02 in DayZExpansion\Sounds\Vehicles\Ground\Sedan_02\
+  DesertEagleFalcon in Guns\deserteagle\deserteaglefalcon\
+  DayZExpansion_SpawnSelection_GUI in DayZExpansion\SpawnSelection\GUI\
+  DayZExpansion_Market_Structures in DayZExpansion\Market\Structures\
+  CP_PlasticWrapper in CannabisPlus\plasticwrapper\
+  DayZExpansion_Vehicles_Air_C130J in DayZExpansion\Vehicles\Air\C130J\
+  Survivalists_Weapons_JMC_Melee_Blunt in Survivalists_Weapons_JMC\melee\blunt\
+  AK47 in MachineGuns\ak47\
+  DayZExpansion_Objects_Structures_Debug in DayZExpansion\Objects\Structures\Debug\
+  DayZExpansion_Sounds_Ground_Vehicle_Hatchback_02 in DayZExpansion\Sounds\Vehicles\Ground\Hatchback_02\
+  CP_CBD in CannabisPlus\cbd\, G56 in MachineGuns\g56\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  Munghardsvinegar in MunghardsItems\vinegar\
+  Round_Glasses in WindstrideClothing\models\round_glasses\
+  DayZExpansion_Vehicles_Objects_Gear in DayZExpansion\Vehicles\Objects\Gear\
+  MunghardsKetchup in MunghardsItems\ketchup\, Glock18Honor in Guns\glock18honor\
+  MachineGuns in Guns\kacpdw\
+  DayZExpansion_LanguageCore_Groups in DayZExpansion\languagecore\Groups\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  MunghardsStalkergasmask in MunghardsItems\stalker_gasmask\
+  DayZExpansion_Sounds_Items_Spraycan in DayZExpansion\Sounds\Items\SprayCan\
+  Munghardsoillamp in MunghardsItems\oillamp\
+  DayZExpansion_PersonalStorageNew_Scripts in DayZExpansion\PersonalStorageNew\Scripts\
+  Survivalists_Weapons_JMC_Smgs_ttp90 in Survivalists_Weapons_JMC\smgs\ttp90\
+  Survivalists_Weapons_JMC_Rifles_ttstg44 in Survivalists_Weapons_JMC\rifles\ttstg44\
+  PSG1 in Sniper\psg1\, DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\, XM8 in MachineGuns\xm8\
+  DayZExpansion_Sounds_Airdrop in DayZExpansion\Sounds\Airdrop\
+  DayZExpansion_Weapons_Rifles_M14 in DayZExpansion\Objects\Weapons\Firearms\Rifles\M14\
+  DayZExpansion_Weapons_Shotguns_BenelliM4 in DayZExpansion\Objects\Weapons\Firearms\Shotguns\Remore\
+  Benelli in Shotguns\benelli\
+  Survivalists_Weapons_JMC in Survivalists_Weapons_JMC\, SST30 in Guns\sst30\
+  jmc_objects in deerisle\objects\jmc_di_objects\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Characters_Zombies in DZ\characters\zombies\
+  DZ_Structures_Military in DZ\structures\military\, PGM in Sniper\pgm\
+  FR_F2BlackDragon in Sniper\fr-f2blackdragon\
+  Ragged_Eyepatch in WindstrideClothing\models\ragged_eyepatch\
+  DayZExpansion_BaseBuilding_Scripts in DayZExpansion\BaseBuilding\Scripts\
+  Glock17 in Guns\glock17\
+  Survivalists_Weapons_JMC_Smgs_tec9 in Survivalists_Weapons_JMC\smgs\tec9\
+  ParaSA58 in MachineGuns\parasa58\
+  DayZExpansion_Longhorn in DayZExpansion\Objects\Weapons\Firearms\Pistols\Longhorn\
+  DayZExpansion_Weapons_Sniper_AWM in DayZExpansion\Objects\Weapons\Firearms\Sniper\AWM\
+  STAG_CoyoteBag in STAG_Industries\data\cybag\
+  DayZExpansion_Chat_GUI in DayZExpansion\Chat\GUI\
+  Characters_Zombies_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\characters\zombies\
+  TK_Billboards in TK\buildings\misc\misc_billboards\
+  DayZExpansion_Weapons_Rifles_M16 in DayZExpansion\Objects\Weapons\Firearms\Rifles\M16\
+  Sniper in Sniper\, Glock18 in Guns\glock18\
+  DayZExpansion_Core in DayZExpansion\Core\Stub\
+  DayZExpansion_Sounds_Common in DayZExpansion\Sounds\Vehicles\Common\
+  DZ_Gear_Tools in DZ\gear\tools\, G36x in MachineGuns\g36x\
+  STAG_Cap in STAG_Industries\data\baseballcap\, piglets in piglets\
+  RadioactiveWolf in wolf\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  A2_Props_UH60Wreck in ArmA2_Props\uh60wreck\
+  DayZExpansion_Sounds_AI in DayZExpansion\AI\Sounds\
+  DayZExpansion_Structures_Residential_Misc in DayZExpansion\Structures\Residential\Misc\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  Expansion_Headgear in DayZExpansion\Data\Characters\Headgear\
+  DayZExpansion_Objects_Gear_Consumables in DayZExpansion\Objects\Gear\Consumables\
+  DayZExpansion_Dta_Game in DayZExpansion\Dta\Game\
+  DayZExpansion_Vehicles_Ground_Vodnik in DayZExpansion\Vehicles\Ground\Vodnik\
+  SawedShotgun in Shotguns\sawedshotgun\
+  Survivalists_Weapons_JMC_Rifles_ttrpg7 in Survivalists_Weapons_JMC\rifles\ttrpg7\
+  BuilderItems_Misc in DayZExpansion\Objects\Structures\BuilderItems\DZ\misc\
+  DayZExpansion_NotificationScheduler_Scripts in DayZExpansion\NotificationScheduler\Scripts\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DayZExpansion_Objects_Gear_Gps in DayZExpansion\Objects\Gear\Gps\
+  Type64 in MachineGuns\type64\
+  DeerIsle_AbandonedBuilding in deerisle\objects\abandoned_building\
+  STAG_Flag in STAG_Industries\data\flag\
+  DayZExpansion_Objects_Firearms_LAW in DayZExpansion\Objects\Weapons\Firearms\LAW\
+  SV98 in Sniper\sv98\, DZ_Rocks in DZ\rocks\
+  DoubleBarrelShotgun in Shotguns\doublebarrelshotgun\
+  DayZExpansion_Worlds_ChernarusPlus_Rays in DayZExpansion\Worlds\ChernarusPlus\VanillaRays\
+  Munghardsguitar in MunghardsItems\guitar\
+  BuilderItems_StaticItems_Core in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\core\
+  DeerIsle_Textures in deerisle\objects\jmc_di_objects\textures\
+  PindadSS2 in MachineGuns\pindadss2\, ScarLK in MachineGuns\scarlk\
+  Munghardsbearhead in MunghardsItems\bearhead\
+  DayZExpansion_Sounds_Ground_OffroadHatchback in DayZExpansion\Sounds\Vehicles\Ground\OffroadHatchback\
+  zisb_modular_caves_for_deerisle in deerisle\objects\zisb_modular_caves_for_deerisle\
+  DayZExpansion_EXPS3HoloOptic in DayZExpansion\Objects\Weapons\Attachments\Optics\exps3\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  SkullMask in WindstrideClothing\models\skull_mask\
+  DayZExpansion_Sounds_Vehicles_Water_LHD in DayZExpansion\Sounds\Vehicles\Water\LHD\
+  DayZExpansion_Vehicles_Air_Gyro in DayZExpansion\Vehicles\Air\Gyro\
+  Winter_Parka in WindstrideClothing\models\winter_parka\
+  smpl_structures_doors in deerisle\Deerisle_Security_System\items\testhouse\
+  DayZExpansion_BaseBuilding_Preload in 0_DayZExpansion_BaseBuilding_Preload\
+  BuilderItems_Bliss_Industrial in DayZExpansion\Objects\Structures\BuilderItems\Bliss\industrial\
+  DZ_Structures_Bliss_Underground in DZ\structures_bliss\underground\
+  jmc_SnowOwl_Optic in Weapons\data\attachments\snowowloptic\
+  Munghardsnbc_longcoat in MunghardsItems\nbc_longcoat\
+  DayZExpansion_Dta_World in DayZExpansion\Dta\World\
+  High_Knee_Sneakers in WindstrideClothing\models\high_knee_sneakers\
+  Layered_Shirt in WindstrideClothing\models\layered_shirt\
+  DayZExpansion_LanguageCore_Book in DayZExpansion\languagecore\Book\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DayZExpansion_Objects_Misc in DayZExpansion\Objects\Misc\
+  DZ_Gear_Food in DZ\gear\food\, DZ_Weapons_Lights in DZ\weapons\attachments\light\
+  CS_Military in Military\
+  DayZExpansion_Vehicles_Air_HatchBird in DayZExpansion\Vehicles\Air\HatchBird\
+  STAG_Cargo_Pants in STAG_Industries\data\pants\, TK_Buildings in TK\buildings\
+  PKP in MachineGuns\pkp\, GS in Guns\gs\
+  BuilderItems_Rocks in DayZExpansion\Objects\Structures\BuilderItems\DZ\rocks\
+  M4A1Black in MachineGuns\m4a1black\, Halloween in Halloween\pumpkinmask\
+  Sterling in MachineGuns\sterling\
+  DayZExpansion_Sounds_Vehicles_Water_Utility in DayZExpansion\Sounds\Vehicles\Water\Utility\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  P90shallow_grave in Guns\p90shallow_grave\, Colt1911Holy in Guns\colt1911holy\
+  DayZExpansion_Objects_Structures_HangedBody in DayZExpansion\Objects\Structures\hanged_body\
+  Munghardsrifleholster in MunghardsItems\rifleholster\
+  Munghardsdynamitestick in MunghardsItems\dynamitestick\
+  DayZExpansion_Objects_BaseBuilding_Walls in DayZExpansion\Objects\Basebuilding\Walls\
+  GearPDA_scripts in GearPDA\
+  DayZExpansion_LanguageCore_Quests in DayZExpansion\languagecore\Quests\
+  STG58 in MachineGuns\stg58\, SG550 in MachineGuns\sg550\, DZ_Plants in DZ\plants\
+  DZ_Server_Data in DZ\server\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DayZExpansion_Weapons_Rifles_G36 in DayZExpansion\Objects\Weapons\Firearms\Rifles\G36\
+  Munghardsleatherwallet in MunghardsItems\leatherwallet\
+  AK103 in MachineGuns\ak103\
+  Survivalists_Weapons_JMC_Ammunition in Survivalists_Weapons_JMC\ammunition\
+  Survivalists_Weapons_JMC_Attachments_Optics in Survivalists_Weapons_JMC\attachments\optics\
+  DZ_Structures_Walls in DZ\structures\walls\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  DayZExpansion_ReflexOptic in DayZExpansion\Objects\Weapons\Attachments\Optics\Reflex\
+  Forever_Burning_Campfire in Forever_Burning_Campfire\
+  jmc_deerisle_misc in deerisle\objects\misc\, deerisle_data in deerisle\data\
+  Arisaka in Sniper\arisaka\, ARX160 in MachineGuns\arx160\
+  Expansion_Backpacks in DayZExpansion\Data\Characters\Backpacks\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  SG553 in MachineGuns\sg553\, Thompson in MachineGuns\thompson\
+  Survivalists_Weapons_JMC_Rifles_Higgins in Survivalists_Weapons_JMC\rifles\higgins\
+  AK105 in MachineGuns\ak105\, Docstextures in Docstextures\
+  Survivalists_Weapons_JMC_Rifles_Marlin in Survivalists_Weapons_JMC\rifles\marlin\
+  DayZExpansion_Weapons_Rifles_M1A in DayZExpansion\Objects\Weapons\Firearms\Rifles\M1A\
+  CP_Plants in CannabisPlus\plants\
+  dzr_disinfect_by_boiling in dzr_disinfect_by_boiling\
+  STAG_Clothing_Army in STAG_Industries\data\armybackpack\
+  DayZExpansion_ModStorage_CF_Scripts in JM\CF\Scripts\4_World\CommunityFramework\ModStorage\
+  DeerIsle_FinderOuter_Sounds_Music in deerisle\DeerIsle_FinderOuter\sounds\
+  BuilderItems_Ruins in DayZExpansion\Objects\Structures\BuilderItems\DZ\ruins\
+  IthacaM37 in Shotguns\ithacam37\, jmc_sciencelab in deerisle\objects\sciencelab\
+  RPC_Scripts in JM\CF\Defines\, DZ_Weapons_Explosives in DZ\weapons\explosives\
+  MunghardsSandwich in MunghardsItems\sandwich\, ridersjacket in BandShirts\
+  Survivalists_Weapons_JMC_Shotguns in Survivalists_Weapons_JMC\shotguns\
+  Beretta92FS in Guns\beretta92fs\, TK_Ind_Shed in TK\buildings\ind\ind_shed\
+  shotguns in Shotguns\, Munghardssleepingbag in MunghardsItems\sleepingbag\
+  AK107 in MachineGuns\ak107\
+  DayZExpansion_Sounds_Vehicles_Water_Zodiac in DayZExpansion\Sounds\Vehicles\Water\Zodiac\
+  OTSGroza in MachineGuns\otsgroza\
+  DayZExpansion_Objects_Gear_Electricity in DayZExpansion\Objects\Gear\Electricity\
+  DayZExpansion_Objects_Structures_Editor in DayZExpansion\Objects\Structures\Editor\
+  DayZExpansion_Sounds_Vehicles_Air_Uh1h in DayZExpansion\Sounds\Vehicles\Air\Uh1h\
+  SG556 in MachineGuns\sg556\
+  BuilderItems_Bliss_Military in DayZExpansion\Objects\Structures\BuilderItems\Bliss\military\
+  DayZExpansion_Scripts in DayZExpansion\Scripts\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  BuilderItems_Furniture in DayZExpansion\Objects\Structures\BuilderItems\DZ\furniture\
+  DayZExpansion_Vehicles_GUI in DayZExpansion\Vehicles\GUI\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\, M200 in Sniper\m200\
+  STAG_PlateCarrierHolster in STAG_Industries\data\holster\
+  DayZExpansion_Objects_Gravecross in DayZExpansion\Objects\Gear\GraveCross\
+  DayZExpansion_LanguageCore_Main in DayZExpansion\languagecore\Main\
+  DayZExpansion_Objects_TemporaryOwnedContainer in DayZExpansion\Core\Objects\TemporaryOwnedContainer\
+  MunghardsBrain in MunghardsItems\brain\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  DZ_Gear_Containers in DZ\gear\containers\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\
+  WinchesterRifle in Sniper\winchesterrifle\, Sten in MachineGuns\sten\
+  CP_Bricks in CannabisPlus\bricks\, TK_Gear in TK\gear\, P90 in Guns\p90\
+  Munghardsplayerhead in MunghardsItems\playerhead\, TWP_AN94 in MachineGuns\an94\
+  Expansion_Gloves in DayZExpansion\Data\Characters\Gloves\
+  MunghardsSAK in MunghardsItems\sak\, DZ_Characters_Tops in DZ\characters\tops\
+  DayZExpansion_Chat_Preload in 0_DayZExpansion_Chat_Preload\
+  AA12Dragon in Shotguns\aa12dragon\
+  Survivalists_Weapons_JMC_Rifles_ESP_M14 in Survivalists_Weapons_JMC\rifles\esp_m14\
+  JM_COT_Scripts in JM\COT\Scripts\
+  DayZExpansion_Core_GUI in DayZExpansion\Core\GUI\, FN57Toxic in Guns\fn57toxic\
+  czzzz_DzrNotes in dzr_notes\, Munghardscsmcmillan in MunghardsItems\csmcmillan\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DayZExpansion_Navigation_Worlds in DayZExpansion\Navigation\Worlds\
+  jmc_fiberplant in deerisle\objects\fiberplant\, CX8Storm in Guns\cx8storm\
+  M24Snow in Sniper\m24snow\
+  BuilderItems_Military in DayZExpansion\Objects\Structures\BuilderItems\DZ\military\
+  DayZExpansion_Sounds_Music in DayZExpansion\Sounds\Music\
+  DZ_Characters_Pants in DZ\characters\pants\
+  Survivalists_Weapons_JMC_Pistols in Survivalists_Weapons_JMC\pistols\
+  Survivalists_Weapons_JMC_rifles_ttkrp39 in Survivalists_Weapons_JMC\rifles\ttkrp39\
+  Tactical_Leg_Holster in WindstrideClothing\models\tactical_leg_holster\
+  DayZExpansion_LanguageCore_Market in DayZExpansion\languagecore\Market\
+  BuilderItems_StaticItems_Weapons in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\weapons\
+  czzzz_DzrNotesScripts in czzzz_DzrNotesScripts\
+  Survivalists_Weapons_JMC_Pistols_Flintlock in Survivalists_Weapons_JMC\pistols\flintlock\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\, Taurus in Guns\taurus\
+  Fingerless_Gloves in WindstrideClothing\models\fingerless_gloves\
+  SurgicalMask in Covid\surgicalmask\, MP5A3 in Guns\mp5a3\
+  DayZExpansion_Weapons_SMG_MPX in DayZExpansion\Objects\Weapons\Firearms\SMG\GTM\
+  DayZExpansion_Preload in 0_DayZExpansion_Preload\
+  cype_Policestation in TK\buildings\policestation\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  BuilderItems_Bliss_Roads in DayZExpansion\Objects\Structures\BuilderItems\Bliss\roads\
+  RadioactiveBear in bear\, MunghardsItems in MunghardsItems\
+  BoostZombiesVisionAddon in LIVEN\PvZmoD_CustomisableZombies\dz\ai\
+  DayZExpansion_Objects_Structures_BuilderItems_DZ in DayZExpansion\Objects\Structures\BuilderItems\DZ\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DayZExpansion_Navigation_GUI in DayZExpansion\Navigation\GUI\
+  Munghardsfurcowl in MunghardsItems\furcowl\
+  Admirals_Diving_Sounds in AdmiralsDivingMod\sounds\
+  Browning1928 in MachineGuns\browning1928\, TK_Objects in TK\
+  AmericanRifle in Sniper\americanrifle\
+  Munghardssherlockpipe in MunghardsItems\sherlockpipe\
+  BuilderItems_Bliss_Ruins in DayZExpansion\Objects\Structures\BuilderItems\Bliss\ruins\
+  DZ_Structures_Specific in DZ\structures\specific\, LAR in MachineGuns\lar\
+  STAG_TacticalGloves in STAG_Industries\data\golves\
+  MunghardsKatana in MunghardsItems\katana\, ArmA2_Props in ArmA2_Props\
+  BuilderItems_Residential in DayZExpansion\Objects\Structures\BuilderItems\DZ\residential\
+  Howa in MachineGuns\howa\, Munghardscastironpan in MunghardsItems\castironpan\
+  DayZExpansion_PersonalStorage_GUI in DayZExpansion\PersonalStorage\GUI\
+  Munghardssimplebackpack in MunghardsItems\simplebackpack\
+  Komrad12 in Shotguns\komrad12\
+  BuilderItems_Sidewalks in DayZExpansion\Objects\Structures\BuilderItems\DZ\sidewalks\
+  DayZExpansion_AI_Preload in 0_DayZExpansion_AI_Preload\
+  Munghardsthermos in MunghardsItems\thermos\, M4V5 in MachineGuns\m4v5\
+  P8 in Guns\p8\, M40A5 in Sniper\m40a5\
+  Munghardsswmodel3 in MunghardsItems\swmodel3\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\, KSG in Shotguns\ksg\
+  Munghardsstielhandgranate in MunghardsItems\decoygrenade\
+  Bullets in MachineGuns\bullets\, Glock18Wolf in Guns\glock18wolf\
+  JM_COT_GUI in JM\COT\GUI\, MunghardsWonderbread in MunghardsItems\wonderbread\
+  AR15 in Guns\tokarev\a1r5\
+  DeerIsle_Classic_Objects in deerisle\objects\classic_objects\
+  DayZExpansion_Core_Objects_CircuitBoard in DayZExpansion\Core\Objects\CircuitBoard\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\, SAR in Guns\sar\
+  Survivalists_Weapons_JMC_Rifles_ESPAR22 in Survivalists_Weapons_JMC\rifles\espar22\
+  DayZExpansion_Worlds_ChernarusPlus_Gloom in DayZExpansion\Worlds\ChernarusPlus\Gloom\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  IA2 in MachineGuns\ia2\, BulletStacksPlusPlus in BulletStacksPlusPlus\
+  DayZExpansion_LanguageCore_Vehicles in DayZExpansion\languagecore\Vehicles\
+  BuilderItems_Specific in DayZExpansion\Objects\Structures\BuilderItems\DZ\specific\
+  DayZExpansion_Sounds_Vehicles_Air_HatchBird in DayZExpansion\Sounds\Vehicles\Air\HatchBird\
+  DayZExpansion_Objects_Structures_Grass_Sample in DayZExpansion\Objects\Structures\Grass_Sample\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DayZExpansion_Sounds_Weapons_Ricochet in DayZExpansion\Sounds\Weapons\Ricochet\
+  LMG in MachineGuns\lmg\, MP443 in Guns\mp443\
+  Benni_CatFood in deerisle\objects\catfood\
+  DayZExpansion_Sounds_UI in DayZExpansion\Sounds\UI\, TK_Ind in TK\buildings\ind\
+  ColtPython in Guns\coltpython\
+  DayZExpansion_Market_GUI in DayZExpansion\Market\GUI\
+  jmc_iceland in deerisle\objects\iceland\
+  DeerIsle_Data in deerisle\objects\jmc_di_objects\data\
+  Survivalists_TestMod_Sounds in Survivalists_TestMod\sounds\
+  DZ_Gear_Drinks in DZ\gear\drinks\, Anzio in Sniper\anzio\
+  Remington870Tactical in Shotguns\remington870tactical\
+  DayZExpansion_Chat_Scripts in DayZExpansion\Chat\Scripts\
+  VANILLA_Retexture_Bunker in VANILLA_Retexture_Bunker\
+  NRX_Magnum in Guns\nrx_magnum\, FlipFlops in WindstrideClothing\models\flip_flops\
+  DayZExpansion_Worlds_enoch_Gloom in DayZExpansion\Worlds\enoch\Gloom\
+  DayZExpansion_Vehicles_Ground_Tractor in DayZExpansion\Vehicles\Ground\Tractor\
+  Survivalists_Weapons_JMC_Adapters in Survivalists_Weapons_JMC\attachments\adapters\
+  DayZExpansion_M9 in DayZExpansion\Objects\Weapons\Firearms\Pistols\M9\
+  DayZExpansion_Vehicles_Ground_Hatchback_02 in DayZExpansion\Vehicles\Ground\Hatchback_02\
+  ModularVestSystem_Black_Camo2 in 42MAMVSGear\black_camo2_bunker\
+  Munghardssushiknife in MunghardsItems\sushiknife\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  gebsfish in gebsfish\, Munghardslebedev in MunghardsItems\lebedev_pl15\
+  M249 in MachineGuns\m249\
+  DeerIsle_AncientRuin in deerisle\objects\jmc_di_objects\ancientruin\
+  BuilderItems_Expansion_BaseBuilding in DayZExpansion\Objects\Structures\BuilderItems\Expansion\BaseBuilding\
+  Fwinkies_OBJECT in deerisle\objects\Fwinkies\, DZ_Animals in DZ\animals\
+  AK47WhiteWolf in MachineGuns\ak47whitewolf\attachment\
+  DayZExpansion_Vehicles_Skins in DayZExpansion\Skins\Vehicles\, Optics in Optics\
+  DayZExpansion_Objects_Gear_Spraycans in DayZExpansion\Objects\Gear\Spraycans\
+  Survivalists_Weapons_JMC_Rifles_ttar9 in Survivalists_Weapons_JMC\rifles\ttar9\
+  SR1Gyrza in Guns\sr1gyrza\, MG42 in MachineGuns\mg42\
+  DZ_Expansion_AI_Weapons_Debug in DayZExpansion\AI\DebugWeapons\
+  SG550S in Sniper\sg550s\
+  DayZExpansion_Objects_BaseBuilding_Tents_Kits in DayZExpansion\Objects\Basebuilding\Tents_Kits\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  DayZExpansion_Objects_BaseBuilding_Items in DayZExpansion\Objects\Basebuilding\Items\
+  jmc_fastfood in deerisle\objects\fastfood\
+  CS_Military_DragonTeeth in Military\dragonteeth\, AK9 in MachineGuns\ak9\
+  DayZExpansion_Weapons_Scripts in DayZExpansion\Weapons\Scripts\
+  TK_Rocks in TK\rocks\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  Munghardsteddyhead in MunghardsItems\teddyhead\
+  DayZExpansion_AI_Scripts in DayZExpansion\AI\Scripts\
+  BerettaSwordCutlass in Guns\berettaswordcutlass\
+  CP_Rollingpaper in CannabisPlus\rolling\
+  zeroy_custom_buildings in deerisle\objects\wind_turbine\
+  DayZExpansion_Sounds_BaseBuilding in DayZExpansion\Sounds\BaseBuilding\
+  CannabisPlus_Cigarette in CannabisPlus\cigarettes\
+  Munghardsnagant in MunghardsItems\nagant1895\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DayZExpansion_Quests_Objects_Containers in DayZExpansion\Quests\Dta\Objects\Containers\
+  Mossberg590a1 in Shotguns\mossberg590a1\
+  DayZExpansion_Sounds_Vehicles_Air_Gyro in DayZExpansion\Sounds\Vehicles\Air\Gyro\
+  jmc_SnowOwl_Ammo in Weapons\data\ammunition\snowowl\
+  DayZExpansion_Groups_Scripts in DayZExpansion\Groups\Scripts\
+  M1912 in Shotguns\m1912\, MosinNagant in Sniper\mosinnagant\
+  ACE in MachineGuns\ace\, ASVal in MachineGuns\asval\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  STAG_Vest in STAG_Industries\data\vest\, GalilSAR in MachineGuns\galilsar\
+  deerisle_navmesh in deerisle\navmesh\
+  TK_Misc_Lamp in TK\buildings\misc\misc_lamp\
+  DayZExpansion_VanillaFixes_Scripts in DayZExpansion\VanillaFixes\Scripts\
+  CZ75 in Guns\cz75\
+  BuilderItems_Expansion_Airdrop in DayZExpansion\Objects\Structures\BuilderItems\Expansion\Airdrop\
+  DayZExpansion_Weapons_Shotguns_DT11 in DayZExpansion\Objects\Weapons\Firearms\Shotguns\DT11\
+  Deerisle_Security_System in deerisle\Deerisle_Security_System\
+  DZ_AI_Bliss in DZ\AI_bliss\, Admirals_Diving_Objects in AdmiralsDivingMod\object\
+  DayZExpansion_Objects_BaseBuilding_Tents in DayZExpansion\Objects\Basebuilding\Tents\
+  TK_Roads in TK\roads\
+  DayZExpansion_Sounds_Ground_Truck_01_Base in DayZExpansion\Sounds\Vehicles\Ground\Truck_01_Base\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  Munghardsdapperhat in MunghardsItems\dapperhat\
+  Munghardsmilipants in MunghardsItems\milipants\
+  Expansion_Lasers_Impacts in DayZExpansion\Objects\Weapons\Attachments\Lasers\impacts\
+  DayZExpansion_Sounds_Ground_Bus in DayZExpansion\Sounds\Vehicles\Ground\Bus\
+  MVS_Retexture_Bunker in 42MAMVSGear\
+  BuilderItems_Bliss_Specific in DayZExpansion\Objects\Structures\BuilderItems\Bliss\specific\
+  QBZ03 in MachineGuns\qbz03\, CannabixPlus_Boxes in CannabisPlus\boxes\
+  DayZExpansion_GUI in DayZExpansion\GUI\
+  jmc_infinity in deerisle\objects\infinity\
+  InfectedSoldierHardJMC in deerisle\ai\ai\
+  DesertEagleSacred in Guns\deserteagle\deserteaglesacred\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  CP_Cigarettepacks in CannabisPlus\cigarettepacks\
+  DayZExpansion_Objects_Structures_BMX in DayZExpansion\Objects\Structures\BMX\
+  DayZExpansion_Weapons_Preload in 0_DayZExpansion_Weapons_Preload\
+  ImprovisedShotgun in Shotguns\improvisedshotgun\
+  TK_Misc_Powerline in TK\buildings\misc\misc_powerline\
+  Beretta92FSDesert in Guns\beretta92fsdesert\
+  DayZExpansion_Animals_lepus_europaeus in DayZExpansion\Animals\lepus_europaeus\
+  Desinfectant in Covid\desinfectant\
+  DeerIsle_Proxies in deerisle\objects\jmc_di_objects\proxies\
+  VR80 in Shotguns\vr80\, TK_Cave in TK\cave\, Nighthawk in Guns\nighthawk\
+  Survivalists_Weapons_JMC_Smgs in Survivalists_Weapons_JMC\smgs\
+  CP_Dry_Post in CannabisPlus\furniture\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  DayZExpansion_Book_Scripts in DayZExpansion\Book\Scripts\
+  BenelliM4 in Shotguns\benellim4\
+  DayZExpansion_Sounds_Vehicles_Water_Vodnik in DayZExpansion\Sounds\Vehicles\Ground\Vodnik\
+  JM_COT_LanguageCore in JM\COT\languagecore\
+  DayZExpansion_Groups_Preload in 0_DayZExpansion_Groups_Preload\
+  DayZExpansion_Sounds_Weapons_M79 in DayZExpansion\Sounds\Weapons\M79\
+  Doom in Shotguns\doom\
+  BuilderItems_Bridges in DayZExpansion\Objects\Structures\BuilderItems\DZ\bridges\
+  DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DayZExpansion_Stanag60RND in DayZExpansion\Objects\Weapons\Attachments\Support\Stanag60\
+  G3A3 in MachineGuns\g3a3\, DZ_Weapons_Shotguns in DZ\weapons\shotguns\
+  DF_GUI in DabsFramework\GUI\, JM_CF_Scripts in JM\CF\Scripts\
+  BarrettM82Desert in Sniper\barrettm82desert\
+  DayZExpansion_VirtualContainerStorage_Scripts in DayZExpansion\VirtualContainerStorage\Scripts\
+  MP5Silenced in MachineGuns\mp5silenced\
+  jmc_Prototype_Optic in Weapons\data\attachments\prototypeoptic\
+  M24BrownTan in Sniper\m24browntan\
+  Munghardsoxygentank in MunghardsItems\oxygentankrig\, Fabarm in Shotguns\fabarm\
+  jmc_iceland_facility in deerisle\objects\iceland_facility\
+  jmc_SnowOwl in Weapons\data\snowowl\
+  Expansion_Tops in DayZExpansion\Data\Characters\Tops\
+  deerisle_ai_spawner in deerisle\ai\spawner\
+  Munghardsfannypack in MunghardsItems\fannypack\
+  DayZExpansion_Objects_Firearms_Flaregun in DayZExpansion\Objects\Weapons\Firearms\Flaregun\
+  UMPPrimalSaber in MachineGuns\umpprimalsaber\, CP_Fruits in CannabisPlus\fruits\
+  Uzi in Guns\uzi\, Munghardsbaseballbatsaw in MunghardsItems\baseballbatsaw\
+  STAG_Pouches in STAG_Industries\data\pouches\
+  DZ_Structures in DZ\structures\data\
+  DayZExpansion_Objects_Firearms_RPG7 in DayZExpansion\Objects\Weapons\Firearms\RPG7\
+  DayZExpansion_Navigation_Preload in 0_DayZExpansion_Navigation_Preload\
+  Munghards6B38 in MunghardsItems\6b38\
+  DayZExpansion_Objects_Structures_Props in DayZExpansion\Objects\Structures\Props\
+  Scar in MachineGuns\scar\, Glock18Rebel in Guns\glock18rebel\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Weapons_Firearms_M14 in DZ\weapons\firearms\m14\
+  P90Colored in Guns\p90colored\, SP1Vektor in Guns\sp1vektor\
+  MunghardsVesuri in MunghardsItems\vesuri\, AWMGreen in Sniper\awmgreen\
+  BuilderItems_Bliss_Signs in DayZExpansion\Objects\Structures\BuilderItems\Bliss\signs\
+  M14 in Sniper\m14\, M134 in MachineGuns\m134\, DZ_Gear_Cooking in DZ\gear\cooking\
+  CovidSigns in Covid\covidsigns\
+  DayZExpansion_P2PMarket_Scripts in DayZExpansion\P2PMarket\Scripts\
+  MunghardsM52 in MunghardsItems\m52helmet\
+  DayZExpansion_Book_Preload in 0_DayZExpansion_Book_Preload\
+  ScarDragon in MachineGuns\scardragon\
+  DayZExpansion_VanillaFixes_GUI in DayZExpansion\VanillaFixes\GUI\
+  Munghardsriflesling in MunghardsItems\riflesling\
+  BuilderItemsBliss_Rocks in DayZExpansion\Objects\Structures\BuilderItems\Bliss\rocks\
+  DayZExpansion_Vehicles_Ground_Offroad_02 in DayZExpansion\Vehicles\Ground\Offroad_02\
+  Benelli_Supernova in Shotguns\benelli_supernova\, SSG69 in Sniper\ssg69\
+  Survivalists_Weapons_JMC_Shotguns_Boomstick in Survivalists_Weapons_JMC\shotguns\boomstick\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  Survivalists_Weapons_JMC_Rifles in Survivalists_Weapons_JMC\rifles\
+  jmc_alc in deerisle\objects\alc\, AEK919 in Guns\aek919\
+  DayZExpansion_Kar98ScopeOptic in DayZExpansion\Objects\Weapons\Attachments\Optics\Kar98Scope\
+  SR3 in Guns\sr-3\, M16 in MachineGuns\m16\attachments\
+  DZ_Gear_Consumables in LIVEN\PvZmoD_CustomisableZombies\dz\gear\consumables\
+  Survivalists_TestMod in Survivalists_TestMod\
+  DayZExpansion_Vehicles_Ground_TT650 in DayZExpansion\Vehicles\Ground\TT650\
+  AM_Fog in AM_Fog\, DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DayZExpansion_Weapons_Pistols_Taser in DayZExpansion\Objects\Weapons\Firearms\Pistols\X2Taser\
+  Expansion_Armbands in DayZExpansion\Data\Characters\Armbands\
+  DayZExpansion_Kar98 in DayZExpansion\Objects\Weapons\Firearms\Sniper\Kar98\
+  JMC_Water in deerisle\objects\water\
+  DayZExpansion_P2PMarket_Objects in DayZExpansion\P2PMarket\Objects\
+  TK_Construction in TK\buildings\misc\misc_construction\
+  Survivalists_Weapons_JMC_Explosives in Survivalists_Weapons_JMC\explosives\
+  Admirals_Diving_Base in AdmiralsDivingMod\
+  TK_Misc_Market in TK\buildings\misc\misc_market\
+  Munghardsizh54 in MunghardsItems\izh54\
+  Survivalists_Weapons_JMC_Smgs_ots71 in Survivalists_Weapons_JMC\smgs\ots71\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\
+  Survivalists_Weapons_JMC_Attachments_Muzzles in Survivalists_Weapons_JMC\attachments\muzzle\
+  DMR25 in Sniper\dmr25\
+  DayZExpansion_Objects_Structures_Signs in DayZExpansion\Objects\Structures\Signs\
+  Burton in Guns\berettadoubleedge\burton\
+  STAG_Clothing_6sh118 in STAG_Industries\data\6sh118\
+  Sheriff_Badge in WindstrideClothing\models\pins\sheriff_badge\
+  AA12 in Shotguns\aa12\, DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  jmc_military_mountain_boots in JMC_ClassicWalk\scripts\4_world\classicwalk\
+  DayZExpansion_Objects_BaseBuilding_Stairs in DayZExpansion\Objects\Basebuilding\Stairs\
+  Survivalists_Weapons_JMC_Attachments_supports in Survivalists_Weapons_JMC\attachments\support\
+  Windstrideclothing in WindstrideClothing\, lamb in lamb\, MP40 in Guns\mp40\
+  STAG_PlateCarrier in STAG_Industries\data\vest2\
+  DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  Survivalists_Weapons_JMC_Rifles_Kar98 in Survivalists_Weapons_JMC\rifles\kar98\
+  DayZExpansion_P2PMarket_Preload in 0_DayZExpansion_P2PMarket_Preload\
+  DayZExpansion_Structures_Industrial_Misc in DayZExpansion\Structures\Industrial\Misc\
+  TK_Gear_hat in TK\gear\hats\
+  DayZExpansion_HAMROptic in DayZExpansion\Objects\Weapons\Attachments\Optics\Hamr\
+  Survivalists_Weapons_JMC_Shotguns_ttbecker in Survivalists_Weapons_JMC\shotguns\ttbecker\
+  DayZExpansion_Weapons_Animations in DayZExpansion\Weapons\Animations\Player\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  BarrettM82Snow in Sniper\barrettm82snow\, SR47 in MachineGuns\sr47\
+  DayZExpansion_Sounds_Ground_TT650 in DayZExpansion\Sounds\Vehicles\Ground\TT650\
+  T5000 in Sniper\t5000\, gebsCfgPatches in gebsfish\data\
+  DayZExpansion_Sounds_Weapons_Crossbow in DayZExpansion\Sounds\Weapons\Crossbow\
+  Survivalists_Weapons_JMC_Rifles_ESP_G36C in Survivalists_Weapons_JMC\rifles\esp_g36c\
+  SteyrAug in MachineGuns\steyraug\, MP5 in Guns\mp5\, DeerIsle_Weapons in Weapons\
+  Grenades in Grenades\
+  BuilderItems_Expansion_Vehicles in DayZExpansion\Objects\Structures\BuilderItems\Expansion\Vehicles\
+  BuilderItems_Traffic in DayZExpansion\Objects\Structures\BuilderItems\DZ\traffic\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  Survivalists_Weapons_JMC_Pistols_ttm9 in Survivalists_Weapons_JMC\pistols\ttm9\
+  DayZExpansion_LanguageCore_Chat in DayZExpansion\languagecore\Chat\
+  Crossbow in Guns\crossbow\
+  DayZExpansion_Navigation_Scripts in DayZExpansion\Navigation\Scripts\
+  DayZExpansion_Objects_BaseBuilding_Data in DayZExpansion\Objects\Basebuilding\Data\
+  DayZExpansion_NameTags_GUI in DayZExpansion\NameTags\GUI\
+  Button_Pin_Radioactive in WindstrideClothing\models\pins\button_pin\
+  Survivalists_Weapons_JMC_Pistols_ttl35 in Survivalists_Weapons_JMC\pistols\ttl35\
+  DZ_Structures_Roads in DZ\structures\roads\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  RareAnimals in RareAnimals\
+  Survivalists_Weapons_JMC_Smgs_ttagram in Survivalists_Weapons_JMC\smgs\ttagram\
+  DayZExpansion_Objects_Structures_Grass in DayZExpansion\Objects\Structures\Grass\
+  MP7 in Guns\mp7\, DZ_Structures_Ruins in DZ\structures\ruins\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  DayZExpansion_Vehicles_Data in DayZExpansion\Vehicles\Data\
+  Windstride_Poncho in WindstrideClothing\models\poncho\
+  MunghardsWeldingglasses in MunghardsItems\weldinggoggles\
+  Sako75 in Sniper\sako75\
+  DayZExpansion_Hardline_Scripts in DayZExpansion\Hardline\Scripts\
+  M24Wood in Sniper\m24wood\, Munghardsmag3gasmask in MunghardsItems\mag3_gasmask\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\, FNM29 in MachineGuns\fnm29\
+  Munghardsponcho in MunghardsItems\poncho\, G36 in MachineGuns\g36\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DesertEagle in Guns\deserteagle\
+  MunghardsHannibalmask in MunghardsItems\hannibalmask\
+  Slouch_Hat in WindstrideClothing\models\slouch_hat\, AR60 in MachineGuns\ar60\
+  DayZExpansion_Sounds_Weapons_Kar98 in DayZExpansion\Sounds\Weapons\Kar98\
+  CS5 in Sniper\cs5\
+  ExpansionProp_AntiAir in DayZExpansion\Vehicles\Objects\AntiAir\
+  HK33 in MachineGuns\hk33\
+  BuilderItems_Garbage in DayZExpansion\Objects\Structures\BuilderItems\DZ\garbage\
+  UMP in MachineGuns\ump\, AR15_CQB in MachineGuns\ar15_cqb\
+  DZ_Gear_Books in DZ\gear\books\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  DayZExpansion_Objects_Gear_Breifcase in DayZExpansion\Core\Objects\Briefcase\
+  Guns in Guns\sigsauerp250peacock\, DeerIsle_Fences in deerisle\objects\fences\
+  Munghardscricket_bat in MunghardsItems\cricket_bat\
+  Munghardsscope in MunghardsItems\scope2\
+  DayZExpansion_Vehicles_Air_Merlin in DayZExpansion\Vehicles\Air\Merlin\
+  Munghardszenitco_pt3 in MunghardsItems\zenitco_pt3\, BlueCollarBoys in BCBFlag\
+  GarbageSearch in GarbageSearch\, Munghardslogcabin in MunghardsItems\logcabin\
+  jmc_military_lootcases in deerisle\objects\Lugge_Raft\, cows in cows\
+  Leggings in WindstrideClothing\models\leggings\
+  CP_Workbench in CannabisPlus\workbench\, WaltherP99 in Guns\waltherp99\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\, M1Carabine in Sniper\m1carabine\
+  AR15_SLR in MachineGuns\ar15_slr\
+  DayZExpansion_Objects_Structures_ExpansionFlag in DayZExpansion\Objects\Structures\ExpansionFlag\
+  ThompsonMK2 in MachineGuns\thompsonmk2\
+  DayZExpansion_Groups_GUI in DayZExpansion\Groups\GUI\
+  ModularVestSystem_Black_Camo in 42MAMVSGear\black_camo_bunker\
+  DayZExpansion_Objects_BaseBuilding_Gates in DayZExpansion\Objects\Basebuilding\Gates\
+  RPK16 in MachineGuns\rpk16\, DZ_Water in DZ\water\
+  BuilderItemsBliss_Plants in DayZExpansion\Objects\Structures\BuilderItems\Bliss\plants\
+  Frame in Guns\glockconversionkit\frame\, L96A1 in Sniper\l96a1\
+  Military_Sweater in WindstrideClothing\models\military_sweater\
+  Tokarev in Guns\tokarev\
+  DayZExpansion_VanillaFixes_Sounds in DayZExpansion\VanillaFixes\Sounds\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  jmc_Prototype in Weapons\data\prototype\
+  DayZExpansion_Dta_Core in DayZExpansion\Dta\Core\
+  DayZExpansion_Hardline_Preload in 0_DayZExpansion_Hardline_Preload\
+  DayZExpansion_PersonalStorage_Objects in DayZExpansion\PersonalStorage\Objects\
+  CPtoken in CPTOKENS\
+  DayZExpansion_Sounds_Ground_N250 in DayZExpansion\Sounds\Vehicles\Ground\N250\
+  Wool_GreatCoat in WindstrideClothing\models\wool_greatcoat\
+  deerisle in deerisle\world\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Radio in DZ\gear\radio\, L115A3 in Sniper\l115a3\
+  Leather_cloak in WindstrideClothing\models\leather_cloak\
+  Survivalists_Weapons_JMC_Attachments_Lights in Survivalists_Weapons_JMC\attachments\lights\
+  DayZExpansion_Objects_Kits in DayZExpansion\Objects\Kits\
+  DayZExpansion_Objects_BaseBuilding_Misc in DayZExpansion\Objects\Basebuilding\Misc\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\
+  deerisle_objects_FW190 in deerisle\objects\FW190\
+  JMC_DeerIsle_ClassicWalk in JMC_ClassicWalk\, CP_Pouch in CannabisPlus\pouch\
+  MAB38 in MachineGuns\mab38\, PVEZ in PVEZ\
+  BuilderItems_StaticItems_Expansion in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\expansion\
+  ASW338 in Sniper\asw338\
+  Survivalists_Weapons_JMC_Pistols_ttmauser1914 in Survivalists_Weapons_JMC\pistols\ttmauser1914\
+  Munghardshikingbag in MunghardsItems\hikingbag\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  DZ_Sounds_AI in DZ\sounds\ai\, Munghardsdappercane in MunghardsItems\dappercane\
+  DayZExpansion_Quests_Dta_Core in DayZExpansion\Quests\Dta\Core\
+  Remington700 in Sniper\remington700\
+  Kneepads_Jeans in WindstrideClothing\models\kneepads_jeans\
+  ScarH in MachineGuns\scarh\, DZ_AI in DZ\AI\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_Sounds_Effects in DZ\sounds\hpp\, DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  Munghardskv5 in MunghardsItems\kv5\
+  DayZExpansion_Vehicles_Ground_Hatchback in DayZExpansion\Vehicles\Ground\OffroadHatchback\
+  DayZExpansion_Sounds_Vehicles_Air_An2 in DayZExpansion\Sounds\Vehicles\Air\An2\
+  M24GreenTan in Sniper\m24greentan\
+  DZ_Pistols_mkii_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\pistols\mkii\
+  DayZExpansion_Animations_Animals in DayZExpansion\Animations\Animals\
+  STAG_M65_Jacket in STAG_Industries\data\jacket\
+  DZ_Weapons_Muzzles_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\attachments\muzzle\
+  RemingtonMSR in Sniper\remingtonmsr\, FG42Old in MachineGuns\fg42old\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  Beowulf in Sniper\beowulf\
+  DayZExpansion_NameTags_Scripts in DayZExpansion\NameTags\Scripts\
+  DayZExpansion_Weapons_SMG_VityazSN in DayZExpansion\Objects\Weapons\Firearms\SMG\VityazSN\
+  DayZExpansion_Vehicles_Air_An2 in DayZExpansion\Vehicles\Air\An2\
+  DeerIsle_Shaman in deerisle\objects\shaman\
+  Munghardsballgrill in MunghardsItems\ballgrill\, ASR in MachineGuns\asr\
+  Collectables_Icons in Collectables_Icons\
+  CS_Military_Camonet in Military\camonet\, Aug in MachineGuns\aug\
+  BuilderItems_Parts in DayZExpansion\Objects\Structures\BuilderItems\DZ\parts\
+  BuilderItems_Whywouldanyoneusethese in DayZExpansion\Objects\Structures\BuilderItems\DZ\water\
+  A2_Props_LHD in ArmA2_Props\lhd\, Covid19Head in Covid\covid19head\
+  Tec9 in Guns\tec9\, jmc_Weapons_Sounds in Weapons\sounds\
+  AX_Collectables in Collectables\models\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DayZExpansion_Vehicles_Ground_CivilianSedan in DayZExpansion\Vehicles\Ground\CivillianSedan\
+  LR300 in MachineGuns\lr300\, CP_Bags in CannabisPlus\bags\
+  CS_Military_CargoTower in Military\cargotower\
+  DayZExpansion_Objects_Structures_Flags in DayZExpansion\Objects\Structures\Flags\
+  chicks in chicks\
+  DayZExpansion_Structures_Industrial_Power in DayZExpansion\Structures\Industrial\Power\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Pistols in DZ\weapons\pistols\
+  DayZExpansion_Weapons_Optics_DeltaPoint in DayZExpansion\Objects\Weapons\Attachments\Optics\Deltapoint\
+  DayZExpansion_LanguageCore_Hardline in DayZExpansion\languagecore\Hardline\
+  SR_2 in Guns\sr-2\, Kriss in Guns\kriss\
+  Munghardsbandana in MunghardsItems\bandana\, PPSH in MachineGuns\ppsh\
+  DZ_Worlds_Deerisle_CE in deerisle\ce\
+  DayZExpansion_Hardline_GUI in DayZExpansion\Hardline\GUI\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  ModularVestSystem_Orange in 42MAMVSGear\orange_camo_bunker\
+  CZ805 in MachineGuns\cz805\, DayZExpansion_DefineTest in DayZExpansion\DefineTest\
+  BerettaGoldenFlower in Guns\berettagoldenflower\, doc_guns in DOCguns\
+  DayZExpansion_LanguageCore_Missions in DayZExpansion\languagecore\Missions\
+  DayZExpansion_SmokeGrenades in DayZExpansion\Objects\Weapons\Throwables\Smokes\
+  Munghardsbaseballbatbarb in MunghardsItems\baseballbatbarb\
+  DZ_Weapons_Shotguns_Izh18Shotgun in DZ\weapons\shotguns\izh18shotgun\
+  DayZExpansion_Vehicles_Ground_LandRover in DayZExpansion\Vehicles\Ground\LandRover\
+  STAG_MountainBag in STAG_Industries\data\mtnbag\
+  Glock18Egyptian in Guns\glock18egyptian\, CannabisPlus in CannabisPlus\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\
+  DZ_Gear_Optics in DZ\gear\optics\, AEK97 in MachineGuns\aek971\
+  DayZExpansion_NameTags_Preload in 0_DayZExpansion_NameTags_Preload\
+  JMC_Mjolnir in deerisle\objects\mjolnir\
+  Munghardsjaakari in MunghardsItems\jaakari\
+  USPPsychodelic in Guns\usppsychodelic\
+  DZ_Weapons_Projectiles_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\projectiles\
+  DayZExpansion_ModStorage_CF_Scripts_Entities in JM\CF\Scripts\4_World\CommunityFramework\Entities\
+  BenelliM90 in Shotguns\benellim90\
+  Golden_Winged_Pin in WindstrideClothing\models\pins\golden_winged_pin\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\, DZ_Anims_Cfg in DZ\anims\cfg\
+  Munghardsclownmask in MunghardsItems\clownmask\
+  Munghardsjoint in MunghardsItems\joint\, FN57Pink in Guns\fn57pink\
+  Type89 in MachineGuns\type89\
+  DayZExpansion_PlayerList_GUI in DayZExpansion\PlayerList\GUI\
+  K2C in MachineGuns\k2c\
+  DayZExpansion_Parachute in DayZExpansion\Objects\Gear\Parachute\
+  Survivalists_Weapons_JMC_Smgs_ttmp5 in Survivalists_Weapons_JMC\smgs\ttmp5\
+  AK47Boar in MachineGuns\ak47boar\attachment\
+  DeerIsle_Basement in deerisle\objects\jmc_di_objects\basement\
+  M1Garand in Sniper\m1garand\, WaltherPPK in Guns\waltherppk\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Characters_Gloves in DZ\characters\gloves\, Stuff in Stuff\Cosmetics\
+  CP_Bagger in CannabisPlus\bagger\, MPK in Guns\mpk\, TK_Plants in TK\vegetation\
+  DayZExpansion_Vehicles_Water_Carrier in DayZExpansion\Vehicles\Water\Carrier\
+  ModularVestSystem_Green_Camo in 42MAMVSGear\green_camo_bunker\
+  DayZExpansion_Kar98Bayonet in DayZExpansion\Objects\Weapons\Attachments\Support\kar98bayonet\
+  DZ_Characters_Data_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\characters\data\
+  DZ_Water_Bliss in DZ\water_bliss\, DZ_Gear_Camping in DZ\gear\camping\
+  M107 in Sniper\m107\
+  DayZExpansion_PersonalStorage_Scripts in DayZExpansion\PersonalStorage\Scripts\
+  DayZExpansion_LanguageCore_Garage in DayZExpansion\languagecore\Garage\
+  DZ_Surfaces_Deerisle in deerisle\surfaces\, FNS9 in Guns\fns9\
+  PP19 in MachineGuns\pp19\, STAG_Armband in STAG_Industries\data\armband\
+  DayZExpansion_MapAssets_Scripts in DayZExpansion\MapAssets\Scripts\
+  Survivalists_Weapons_JMC_Pistols_Kingcobra in Survivalists_Weapons_JMC\pistols\kingcobra\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DayZExpansion_Weapons_SMG_Kedr in DayZExpansion\Objects\Weapons\Firearms\SMG\P99\
+  DayZExpansion_LanguageCore_Navigation in DayZExpansion\languagecore\Navigation\
+  TK_Ind_Oil_Mine in TK\buildings\ind\ind_oil_mine\
+  jmc_dungeon2 in deerisle\objects\dungeon2\
+  Munghardshazmatsuit in MunghardsItems\hazmatsuit\
+  BuilderItems_Military_Imp in DayZExpansion\Objects\Structures\BuilderItems\DZ\military\improvised\
+  Munghardswoodenhammer in MunghardsItems\woodenhammer\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  Survivalists_Weapons_JMC_Rifles_ttscarl in Survivalists_Weapons_JMC\rifles\ttscarl\
+  DayZExpansion_BaseBuilding_GUI in DayZExpansion\BaseBuilding\GUI\
+  DayZExpansion_Objects_Gear_Guitar in DayZExpansion\Objects\Gear\Guitar\
+  DayZExpansion_Objects_BaseBuilding_Floors in DayZExpansion\Objects\Basebuilding\Floors\
+  MK23Socom in Guns\mk23socom\, TK_WallK in TK\buildings\wall\wall_k\
+  TK_WallL in TK\buildings\wall\wall_l\, M60 in MachineGuns\m60\
+  Spectre in Guns\spectre\, DZ_Structures_Signs in DZ\structures\signs\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  BuilderItems_Panels in DayZExpansion\Objects\Structures\BuilderItems\DZ\panels\
+  WaltherPPQ in Guns\waltherppq\
+  DayZExpansion_Objects_BaseBuilding_Pillars in DayZExpansion\Objects\Basebuilding\Pillars\
+  DayZExpansion_LanguageCore_SpawnSelection in DayZExpansion\languagecore\SpawnSelection\
+  BuilderItems_Billboards in DayZExpansion\Objects\Structures\BuilderItems\DZ\billboards\
+  Munghardsdappervest in MunghardsItems\dappervest\
+  Glock18Jungle in Guns\glock18jungle\, Munghardspickles in MunghardsItems\pickles\
+  goat in goat\
+  Survivalists_Weapons_JMC_Rifles_ESP_M110 in Survivalists_Weapons_JMC\rifles\esp_m110\
+  SST30Orange in Guns\sst30orange\
+  PMK_5A_Gas_Mask in WindstrideClothing\models\pmk-5a_gas_mask\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\, DZ_Surfaces in DZ\surfaces\
+  DZ_Weapons_Misc in DZ\weapons\misc\, DZ_Scripts in scripts\, AX50 in Sniper\ax50\
+  DeerIsle_Deadbodies in deerisle\objects\jmc_di_objects\deadbodies\
+  Eyepatch in WindstrideClothing\models\eyepatch\
+  Munghardsbowieknife in MunghardsItems\bowieknife\
+  DayZExpansion_Vehicles_Ground_Ikarus in DayZExpansion\Vehicles\Ground\Bus\
+  Editor_Loader_Scripts in DayZEditorLoader\Scripts\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DayZExpansion_PersonalStorage_Preload in 0_DayZExpansion_PersonalStorage_Preload\
+  Survivalists_Weapons_JMC_Rifles_Junkak in Survivalists_Weapons_JMC\rifles\junkak\
+  ClassicShotgun in Shotguns\classicshotgun\, LugerP08 in Guns\lugerp08\
+  DayZExpansion_Market_Scripts in DayZExpansion\Market\Scripts\
+  DayZExpansion_Objects_Gear_ExampleOpenableLockableContainers in DayZExpansion\Objects\Gear\ExampleOpenableLockableContainers\
+  DayZExpansion_MapAssets_Preload in 0_DayZExpansion_MapAssets_Preload\
+  DayZExpansion_Garage_GUI in DayZExpansion\Garage\GUI\, M200Old in Sniper\m200old\
+  DayZExpansion_Objects_Structures_IndustrialProps in DayZExpansion\Objects\Structures\IndustrialProps\
+  MiniGun in MachineGuns\minigun\hook\, JMC_TrackedDivingContainer in TD\
+  DayZExpansion_Vehicles_Preload in 0_DayZExpansion_Vehicles_Preload\
+  DF_Objects in DabsFramework\Objects\, jmc_rocks in deerisle\objects\rocks\
+  Stoner63 in MachineGuns\stoner63\, ArexZero in Guns\arexzero\
+  Leuchtturm in deerisle\objects\lighthouse\
+  Munghardscarrierrig in MunghardsItems\carrierrig\
+  DZ_Characters_Vests in DZ\characters\vests\, ModTac in Sniper\modtac\
+  JM_CF_GUI in JM\CF\GUI\
+  DayZExpansion_Market_Objects in DayZExpansion\Market\Objects\
+  LIVEN_PvZmoD_CustomisableZombies in LIVEN\PvZmoD_CustomisableZombies\
+  DayZExpansion_Weapons_Firearms_Vanilla_Override in DayZExpansion\Objects\Weapons\Firearms\Vanilla\Override\
+  Munghardsflashlights in MunghardsItems\maglite\
+  STAG_Boots in STAG_Industries\data\boots\
+  DayZExpansion_Sounds_Book in DayZExpansion\Sounds\Book\
+  TK_Ind_PowerStation in TK\buildings\ind\ind_pipes\
+  DayZExpansion_AI_GUI in DayZExpansion\AI\GUI\, ACWR in MachineGuns\acwr\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Sounds_Characters in DZ\sounds\Characters\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  TK_WallS in TK\buildings\wall\
+  DayZExpansion_Sounds_Explosions in DayZExpansion\Sounds\Explosions\
+  FAL in MachineGuns\fal\, CS_Military_Tower in Military\tower\, G43 in Sniper\g43\
+  Auto9 in Guns\auto9\, Ash12 in MachineGuns\ash12\, R5 in MachineGuns\r5\
+  Munghardstacvest in MunghardsItems\tacvest\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  VeprSok in MachineGuns\veprsok\
+  DayZExpansion_LanguageCore_Licensed in DayZExpansion\languagecore\Licensed\
+  ModularVestSystem in ModularVestSystem\, AK47Wolf in MachineGuns\ak47wolf\
+  Munghardsjesterhat in MunghardsItems\jesterhat\
+  Plague_Mask in WindstrideClothing\models\plague_mask\
+  SST30Halloween in Guns\sst30halloween\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Sounds_Vehicles in DZ\sounds\vehicles\, DZ_Weapons_Melee in DZ\weapons\melee\
+  M16A1 in MachineGuns\m16a1\, MPX in Guns\mpx\, M4A1 in MachineGuns\m4a1\
+  DayZExpansion_Navigation_LocationTypes in DayZExpansion\Navigation\Worlds\locationtypes\
+  DayZExpansion_Market_Preload in 0_DayZExpansion_Market_Preload\
+  ModularVestSystem_Tigr in 42MAMVSGear\tigr_camo_bunker\
+  M16A2 in MachineGuns\m16a2\
+  DayZExpansion_LanguageCore_MapAssets in DayZExpansion\languagecore\MapAssets\
+  DZ_Weapons_Firearms_VSS_PvzCZ in LIVEN\PvZmoD_CustomisableZombies\dz\weapons\firearms\vss\
+  AK47Dragon in MachineGuns\ak47dragon\, Animal_crab in crab\
+  DZ_Characters_Heads in DZ\characters\heads\, PP19Vityaz in MachineGuns\pp19vityaz\
+  RK95 in MachineGuns\rk95\, M16A3 in MachineGuns\m16a3\
+  Survivalists_Weapons_JMC_Pistols_ttmakarov in Survivalists_Weapons_JMC\pistols\ttmakarov\
+  DayZExpansion_Core_Objects_Currencies in DayZExpansion\Core\Objects\Currencies\
+  CharminBox in Covid\charminbox\
+  DeerisleStag_Billboards in deerisle\objects\billboards\, AR70 in MachineGuns\ar70\
+  USPChromatic in Guns\uspchromatic\
+  Expansion_Lasers_ANPEQ15 in DayZExpansion\Objects\Weapons\Attachments\Lasers\ANPEQ\
+  DZ_UI in DZ\ui\, DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  MP7Eagle in Guns\mp7eagle\
+  Survivalists_Weapons_JMC_Pistols_ttglock18c in Survivalists_Weapons_JMC\pistols\ttglock18c\
+  ToiletRoll in Covid\toiletroll\
+  DayZExpansion_Objects_Structures_BuilderItems_Bliss in DayZExpansion\Objects\Structures\BuilderItems\Bliss\
+  HoneyBadgerGold in MachineGuns\honeybadgergold\, JMC_Reading in JMC_Reading\
+  M16A4 in MachineGuns\m16a4\
+  DayZExpansion_Vehicles_Ground_Truck_01 in DayZExpansion\Vehicles\Ground\Truck_01\
+  Covid in Covid\, DayZExpansion_LanguageCore_AI in DayZExpansion\languagecore\AI\
+  Munghardswoodaxe in MunghardsItems\woodaxe\, AK74 in MachineGuns\ak74\
+  DayZExpansion_Weapons_Firearms_Vanilla_Skins in DayZExpansion\Objects\Weapons\Firearms\Vanilla\Skins\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\
+  Assets_Shemagh in WindstrideClothing\models\shemagh\
+  Munghardshardigg in MunghardsItems\hardigg\
+  Munghardslennonglasses in MunghardsItems\lennon_glasses\
+  DayZExpansion_Sounds_Ground_Vehicle_CivilianSedan in DayZExpansion\Sounds\Vehicles\Ground\CivilianSedan\
+  Kar98 in Sniper\kar98\
+  DayZExpansion_P2PMarket_GUI in DayZExpansion\P2PMarket\GUI\
+  DayZExpansion_LanguageCore_Weapons in DayZExpansion\languagecore\Weapons\
+  DayZExpansion_Quests_Objects_Boards in DayZExpansion\Quests\Dta\Objects\Board\
+  DZ_Data in DZ\data\, DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  AKS74U in MachineGuns\aks74u\, Glock42 in Guns\glock42\
+  DayZExpansion_Quests_Scripts in DayZExpansion\Quests\Scripts\
+  Marlin in Sniper\marlin\
+  Medium_Sleeves_Shirt in WindstrideClothing\models\medium_sleeves_shirt\
+  Survivalists_Weapons_JMC_Rifles_ttsok94 in Survivalists_Weapons_JMC\rifles\ttsok94\
+  BuilderItems_Walls in DayZExpansion\Objects\Structures\BuilderItems\DZ\walls\
+  BuilderItems_Rail in DayZExpansion\Objects\Structures\BuilderItems\DZ\rail\
+  DayZExpansion_Sounds_Church in DayZExpansion\Sounds\Church\
+  DayZExpansion_Vehicles_Scripts in DayZExpansion\Vehicles\Scripts\
+  DZ_Sounds_Environment in DZ\sounds\environment\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\, A2_Props_CH47 in ArmA2_Props\ch47\
+  JMC_Smokey in smk\, BarrettM82 in Sniper\barrettm82\, HK47 in Guns\hk47\
+  DayZExpansion_Crossbow in DayZExpansion\Objects\Weapons\Firearms\Archery\Crossbow\
+  Munghardspilotjacket in MunghardsItems\pilotjacket\
+  BuilderItems_Wrecks in DayZExpansion\Objects\Structures\BuilderItems\DZ\wrecks\
+  DayZExpansion_PlayerList_Scripts in DayZExpansion\PlayerList\Scripts\
+  DayZExpansion_Sounds_Vehicles_Air_Merlin in DayZExpansion\Sounds\Vehicles\Air\Merlin\
+  DZ_Sounds_Bliss in DZ\sounds_bliss\, MP153 in Shotguns\mp153\
+  DayZExpansion_SpawnSelection_Scripts in DayZExpansion\SpawnSelection\Scripts\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, Mossberg500 in Shotguns\mossberg500\
+  Survivalists_Weapons_JMC_Melee_Blade in Survivalists_Weapons_JMC\melee\blade\
+  CS_Military_Fence in Military\fence\, Scarf in WindstrideClothing\models\scarf\
+  CannabisPlus_GhostIcons in CannabisPlusGUI\
+  Munghardsdiana_m27 in MunghardsItems\diana_m27\
+  AK47Spider in MachineGuns\ak47spider\attachment\
+  DayZExpansion_LanguageCore_Core in DayZExpansion\languagecore\Core\
+  Bullpup in MachineGuns\bullpup\
+  Survivalists_Weapons_JMC_Pistols_ttp38 in Survivalists_Weapons_JMC\pistols\ttp38\
+  Survivalists_Weapons_JMC_Rifles_ESPAR47 in Survivalists_Weapons_JMC\rifles\espar47\
+  DayZExpansion_LanguageCore_PlayerList in DayZExpansion\languagecore\PlayerList\
+  BerettaSamuraiEdge in Guns\berettasamuraiedge\
+  DayZExpansion_Garage_Objects in DayZExpansion\Garage\Objects\
+  Armsan in Shotguns\armsan\, DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DayZExpansion_Objects_BaseBuilding_Flags in DayZExpansion\Objects\Basebuilding\Flags\
+  Munghardsstrawhat in MunghardsItems\strawhat\
+  DF_Scripts in DabsFramework\Scripts\, CannabisPlus_Joint in CannabisPlus\joints\
+  DayZExpansion_Quests_Particles in DayZExpansion\Quests\Particles\
+  DZ_Data_Bliss in DZ\data_bliss\, MunghardsCigar in MunghardsItems\cigar\
+  DayZExpansion_Missions_Scripts in DayZExpansion\Missions\Scripts\
+  DayZExpansion_Vehicles_Ground_Sedan_02 in DayZExpansion\Vehicles\Ground\Sedan_02\
+  GlockConversionKit in Guns\glockconversionkit\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  BuilderItems_Industrial in DayZExpansion\Objects\Structures\BuilderItems\DZ\industrial\
+  Survivalists_Weapons_JMC_Rifles_aek in Survivalists_Weapons_JMC\rifles\aek\
+  DZ_Plants_Bliss in DZ\plants_bliss\, STG44 in MachineGuns\stg44\
+  JM_CF_Defines in JM\CF\Defines\, FNFNC in MachineGuns\fnfnc\
+  DayZExpansion_Quests_Preload in 0_DayZExpansion_Quests_Preload\
+  Defender_Vest in WindstrideClothing\models\defender_vest\
+  SK8_Sneakers in WindstrideClothing\models\sk8_sneakers\
+  SVDDragunov in Sniper\svddragunov\, HoneyBadger in MachineGuns\honeybadger\
+  CarUpdate in InventoryInCar\, Munghardsdutchoven in MunghardsItems\dutchoven\
+  DayZExpansion_ModStorage_Scripts in DayZExpansion\ModStorage\Scripts\
+  MK14 in MachineGuns\mk14\, DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  AMDSpaceship in MachineGuns\amdspaceship\
+  DayZExpansion_Core_Objects_Bases in DayZExpansion\Core\Objects\Bases\
+  Munghardshardigg2 in MunghardsItems\hardigg2\
+  DayZExpansion_SpawnSelection_Preload in 0_DayZExpansion_SpawnSelection_Preload\
+  CS_Military_Wall in Military\wall\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\, M24GreenTan2 in Sniper\m24greentan2\
+  TK_Misc in TK\misc\
+  DayZExpansion_KillFeed_Preload in 0_DayZExpansion_Killfeed_Preload\
+  DayZExpansion_Worlds_IntroScenes in DayZExpansion\Worlds\IntroScenes\
+  Light in Guns\light\, DZ_Characters_Masks in DZ\characters\masks\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DayZExpansion_Core_Scripts in DayZExpansion\Core\Scripts\
+  DayZExpansion_Vehicles_Ground_UAZ in DayZExpansion\Vehicles\Ground\UAZ\
+  SKS in Sniper\sks\, M110 in Sniper\m110\
+  Munghardsclawhammer in MunghardsItems\clawhammer\
+  Canvas_Backpack in WindstrideClothing\models\canvas_backpack\
+  Suppressor in MachineGuns\suppressor\, FR_F2 in Sniper\fr-f2\
+  HK416 in MachineGuns\hk416\
+  BuilderItems_Bliss_Rail in DayZExpansion\Objects\Structures\BuilderItems\Bliss\rail\
+  ModularVestSystem_Yellow in 42MAMVSGear\yellow_camo_bunker\
+  BuilderItems_Bliss_Walls in DayZExpansion\Objects\Structures\BuilderItems\Bliss\walls\
+  DayZExpansion_Skins in DayZExpansion\Skins\Weapons\
+  ServerConfig_GS in ServerConfig_GS\
+  FamasSpecialOps in MachineGuns\famasspecialops\
+  jmc_skeletons in deerisle\objects\Skeleton\
+  DayZExpansion_Vehicles_Water_Boat_Utility in DayZExpansion\Vehicles\Water\Utility\
+  DayZExpansion_Missions_Preload in 0_DayZExpansion_Missions_Preload\
+  HK417 in MachineGuns\hk417\
+  Survivalists_Weapons_JMC_Proxy in Survivalists_Weapons_JMC\proxy\
+  MK18 in MachineGuns\mk18\, Galife_Pants in WindstrideClothing\models\galife_pants\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Spawn_Proxies in DZ\data\proxies\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  DayZExpansion_Vehicles_Water_Boat_Zodiac in DayZExpansion\Vehicles\Water\Zodiac\
+  STAG_Beret in STAG_Industries\data\beret\
+  DeerIsle_Plants in deerisle\objects\jmc_di_objects\plants\
+  JM_COT_Objects_Debug in JM\COT\Objects\Debug\
+  STAG_Industries_Pack in STAG_Industries\, TK_HouseA in TK\buildings\housea\
+  CP_Composter in CannabisPlus\compost\
+  DayZExpansion_M79 in DayZExpansion\Objects\Weapons\Firearms\M79\
+  Survivalists_Weapons_JMC_Rifles_ttgarand in Survivalists_Weapons_JMC\rifles\ttgarand\
+  TWP_HKCarabine in MachineGuns\hkcarabine\
+  DeerIsle_Subway in deerisle\objects\jmc_di_objects\subway\
+  StaminaSettings in StaminaSettings\
+  DeerIsle_Sewer in deerisle\objects\jmc_di_objects\sewer\, kids in kids\
+  jmc_lab in deerisle\objects\lab\, Munghardsbikervest in MunghardsItems\bikervest\
+  Survivalists_Weapons_JMC_Rifles_Ferguson in Survivalists_Weapons_JMC\rifles\ferguson\
+  AreaTriggerEvents in JMC_AreaTriggerEvents\
+  DayZExpansion_ModStorage_Preload in 0_DayZExpansion_ModStorage_Preload\
+  DayZExpansion_Objects_BaseBuilding_Vanilla_Tents in DayZExpansion\Objects\Basebuilding\Vanilla\Tents\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  BerettaPx4 in Guns\berettapx4\
+  Survivalists_Weapons_JMC_Shotguns_ttitacha in Survivalists_Weapons_JMC\shotguns\ttitacha\
+  DayZExpansion_Hardline_Objects_Gear in DayZExpansion\Hardline\Objects\Gear\
+  SV98NovaPriam in Sniper\sv98novapriam\
+  DayZExpansion_BaseBuilding_Objects_Explosives in DayZExpansion\BaseBuilding\Objects\Explosives\
+  TK_HouseC in TK\buildings\housec\, TK_Cables in TK\buildings\misc\misc_cables\
+  MunghardsCigarette in MunghardsItems\cigarette\
+  Survivalists_Weapons_JMC_Rifles_ttrpd in Survivalists_Weapons_JMC\rifles\ttrpd\
+  CalifasNomad in MachineGuns\califasnomad\, CZScorpion in MachineGuns\czskorpion\
+  R700 in Sniper\r700\
+  Survivalists_Weapons_JMC_Crafting in Survivalists_Weapons_JMC\crafting\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  Munghardsgewehr43 in MunghardsItems\gewehr43\, G36c in MachineGuns\g36c\
+  DeerIsle_Signs in deerisle\objects\jmc_di_objects\signs\
+  DayZExpansion_Vehicles_Ground_oldbike in DayZExpansion\Vehicles\Ground\OldBike\
+  MSBSGrotC in MachineGuns\msbsgrotc\
+  DayZExpansion_Core_Preload in 0_DayZExpansion_Core_Preload\
+  Survivalists_Weapons_JMC_Rifles_ttbar in Survivalists_Weapons_JMC\rifles\ttbar\
+  CP_Seeds in CannabisPlus\seeds\, TK_Garbage in TK\buildings\misc\misc_garbage\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Weapons_Firearms_SSG82 in DZ\weapons\firearms\ssg82\
+  Survivalists_Weapons_JMC_Attachments in Survivalists_Weapons_JMC\attachments\
+  Survivalists_Weapons_JMC_Pistols_tt57 in Survivalists_Weapons_JMC\pistols\tt57\
+  DayZExpansion_Particles in DayZExpansion\Particles\
+  BuilderItems_Plants in DayZExpansion\Objects\Structures\BuilderItems\DZ\plants\
+  DeerIsle_Aeggs in deerisle\objects\jmc_di_objects\aeggs\, AMD in MachineGuns\amd\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  Vanilla_Welliton_Retexture in VANILLA_Retexture_Bunker\green_camo_bunker\
+  BerettaDoubleEdge in Guns\berettadoubleedge\
+  DayZExpansion_Garage_Scripts in DayZExpansion\Garage\Scripts\
+  SPAS in Shotguns\spas\, AK47Tactical in MachineGuns\ak47tactical\
+  DayZExpansion_PersonalStorageNew_Objects in DayZExpansion\PersonalStorageNew\Objects\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DayZExpansion_Objects_BaseBuilding_Ramps in DayZExpansion\Objects\Basebuilding\Ramps\
+  DayZExpansion_Objects_Explosives_Licensed in DayZExpansion\Objects\Weapons\Explosives\
+  TK_Misc_Mil in TK\buildings\mil\
+  jmc_snow_vegetation in deerisle\objects\SnowVegetation\
+  DayZExpansion_LanguageCore_BaseBuilding in DayZExpansion\languagecore\BaseBuilding\
+  Tac21 in Sniper\tac21\, DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Gear_Crafting in DZ\gear\crafting\
+  DZ_Structures_Residential in DZ\structures\residential\
+  BuilderItems_Bliss_Residential in DayZExpansion\Objects\Structures\BuilderItems\Bliss\residential\
+  Survivalists_Weapons_JMC_Rifles_avs36 in Survivalists_Weapons_JMC\rifles\avs36\
+  Mac10 in Guns\mac10\
+  DayZExpansion_Vehicles_Air_Uh1h in DayZExpansion\Vehicles\Air\Uh1h\
+  DesertEagleSky in Guns\deserteagle\deserteaglesky\
+  DeerIsle_Ruinwalls in deerisle\objects\jmc_di_objects\ruinedwalls\
+  DayZExpansion_Objects_Structures_Wreck in DayZExpansion\Objects\Structures\Wreck\
+  DayZExpansion_Objects_Airdrop in DayZExpansion\Objects\Airdrop\
+  DayZExpansion_Navigation_Worlds_ChernarusPlus in DayZExpansion\Navigation\Worlds\chernarusplus\
+  Munghardsshroud in MunghardsItems\shroud\
+  jmc_dungeon in deerisle\objects\dungeon\
+  DayZExpansion_Weapons_SMG_MP5 in DayZExpansion\Objects\Weapons\Firearms\SMG\MP5\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\, Airbow in Sniper\airbow\
+  DayZExpansion_Sounds_PropaneTorch in DayZExpansion\Sounds\Items\PropaneTorch\
+  DayZExpansion_Sounds_Vehicles_Air_Mh6 in DayZExpansion\Sounds\Vehicles\Air\Mh6\
+  DayZExpansion_AI_Animations in DayZExpansion\AI\Animations\
+  DayZExpansion_Objects_Structures_IvyAutumn in DayZExpansion\Objects\Structures\IvyAutumn\
+  MunghardsShelter in MunghardsItems\makeshifttent\
+  Animal_JMC_PolarBear in deerisle\animals\polarbear\
+  DayZExpansion_Vehicles_Ground_250N in DayZExpansion\Vehicles\Ground\250N\
+  BuilderItems_Military_Misc in DayZExpansion\Objects\Structures\BuilderItems\DZ\military\misc\
+  Winchester1873 in Sniper\winchester1873\
+  DayZExpansion_PMII25Optic in DayZExpansion\Objects\Weapons\Attachments\Optics\PMII25x\
+  ModularVestSystem_Forest in 42MAMVSGear\forest_bunker\
+  FNF2000 in MachineGuns\fnf2000\
+  DayZExpansion_Vehicles_Air_Mh6 in DayZExpansion\Vehicles\Air\Mh6\
+  TK_HouseK in TK\buildings\housek\
+  DayZExpansion_Book_GUI in DayZExpansion\Book\GUI\
+  DayZExpansion_Weapons_SMG_MP7 in DayZExpansion\Objects\Weapons\Firearms\SMG\mp7\
+  DayZExpansion_Quests_GUI in DayZExpansion\Quests\GUI\
+  Survivalists_Weapons_JMC_Pistols_Derringer in Survivalists_Weapons_JMC\pistols\derringer\
+  DZ_Characters in DZ\characters\data\, DZ_Gear_Traps in DZ\gear\traps\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  Munghardstacticalvest in MunghardsItems\tacticalvest\
+  Munghardsshovel in MunghardsItems\shovel\, FMG9 in Guns\fmg9\
+  Munghardsstalkerpants in MunghardsItems\stalkerpants\, Spas15 in Shotguns\spas15\
+  MunghardsZippo in MunghardsItems\zippo\, Famas in MachineGuns\famas\
+  ZenCatchRain in ZenCatchRain\
+  Survivalists_Weapons_JMC_Rifles_ttr700 in Survivalists_Weapons_JMC\rifles\ttr700\
+  TK_HouseL in TK\buildings\housel\, RK62 in MachineGuns\rk62\
+  Survivalists_Weapons_JMC_Shotguns_tt870 in Survivalists_Weapons_JMC\shotguns\tt870\
+  DZ_Structures_Rail in DZ\structures\rail\
+  JMC_DeerIsle_Scripts in deerisle\scripts\
+  Munghardsgunwall in MunghardsItems\gunwall\, A2_Props_MV22 in ArmA2_Props\mv22\
+  DayZExpansion_Garage_Preload in 0_DayZExpansion_Garage_Preload\
+  Glock18Weasel in Guns\glock18weasel\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  BuilderItems_Items in DayZExpansion\Objects\Structures\BuilderItems\DZ\statics\vanillaitems\
+  DayZExpansion_BaseBuilding_Electricity in DayZExpansion\Objects\Basebuilding\Electricity\
+  AA12Black in Shotguns\aa12black\, Ruger556 in MachineGuns\ruger556\
+  Munghardsdollmask in MunghardsItems\dollmask\
+  DayZExpansion_Objects_Gear_Box in DayZExpansion\Objects\Gear\Box\
+  Colt1911Gold in Guns\colt1911gold\
+  DayZExpansion_AI_Gear in DayZExpansion\AI\Gear\
+  DayZExpansion_Sounds_Weapons_RPG7 in DayZExpansion\Sounds\Weapons\RPG7\
+  P90Arctic in Guns\p90arctic\, DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  Dragunov in Sniper\dragunov\, TK_Misc_Well in TK\buildings\misc\misc_well\
+  MagnumCompetitor in Guns\magnumcompetitor\
+  MunghardsScythe in MunghardsItems\scythe\, Grid_Mod in Grid_Mod\
+  Toz34 in Shotguns\toz34\, STAG_DryBag in STAG_Industries\data\drybag\
+  DZ_Gear_Medical in DZ\gear\medical\, DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DeerIsle_FinderOuter in deerisle\DeerIsle_FinderOuter\
+  Survivalists_Weapons_JMC_Rifles_ttak458 in Survivalists_Weapons_JMC\rifles\ttak458\
+  Munghardsmeleesling in MunghardsItems\meleesling\, L85A2 in MachineGuns\l85a2\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+Mods: @WindstridesClothingPack
+Version 1.23.157045
+Fault address:  DBBAF4C3 00:DBBAF4C3 Unknown module
+file:     empty
+world:    deerisle
+Prev. code bytes: 48 8B CB EB 03 49 8B 0E 48 85 C9 74 0D 48 8B 01
+Fault code bytes: FF 50 20 48 8B 35 13 20 B6 00 48 8B CF E8 3B FD
+=======================================================
+note: Minidump has been generated into the file profiles\DayZServer_x64_2024-01-06_15-16-54_2024-01-06_15-45-42.mdmp

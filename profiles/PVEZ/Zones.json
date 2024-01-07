@@ -1,0 +1,226 @@
+[
+    {
+        "Type": 0,
+        "Name": "Airfield",
+        "X": 5494.0,
+        "Z": 3714.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Paris Island",
+        "X": 2946.0,
+        "Z": 3848.0,
+        "Radius": 900,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "RCFI",
+        "X": 3729.0,
+        "Z": 8824.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Area 42",
+        "X": 13395.0,
+        "Z": 9878.0,
+        "Radius": 650,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Alcatraz",
+        "X": 15767.0,
+        "Z": 4815.0,
+        "Radius": 600,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "KMUC",
+        "X": 7219.0,
+        "Z": 11619.0,
+        "Radius": 300,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Prison Island",
+        "X": 5435.0,
+        "Z": 797.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Camp Eagle",
+        "X": 8820.0,
+        "Z": 3780.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Camp Bear",
+        "X": 8930.0,
+        "Z": 5952.0,
+        "Radius": 460,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Old Town",
+        "X": 1936.0,
+        "Z": 8990.0,
+        "Radius": 250,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Temple",
+        "X": 109.0,
+        "Z": 530.0,
+        "Radius": 1800,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "The Artic",
+        "X": 14404.0,
+        "Z": 14429.0,
+        "Radius": 2450,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Deepwater",
+        "X": 1660.0,
+        "Z": 12709.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Rogue Wave",
+        "X": 2155.0,
+        "Z": 14610.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Horizon",
+        "X": 4144.0,
+        "Z": 15464.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Crater",
+        "X": 13500.0,
+        "Z": 2619.0,
+        "Radius": 2000,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    }
+]

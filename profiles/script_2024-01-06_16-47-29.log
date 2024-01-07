@@ -1,0 +1,49 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server-Deer-Isle\profiles\script_2024-01-06_16-47-29.log started at 06.01. 16:47:30
+
+SCRIPT       : Registered 402 temporary action enum(s), UAN==402
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 16:47:31 [EXPANSION LOG]: DayZGame<8b8bd040> Start time (local time) 2024-01-06 16:47:25
+SCRIPT       : 16:47:31 [EXPANSION LOG]: DayZGame<8b8bd040> Start time (UTC) 2024-01-06 21:47:25
+SCRIPT       : 16:47:31 [EXPANSION LOG]: DayZGame<8b8bd040> Runtime since start (seconds) 6.883
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,52": Missing ';' at the end of line
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,73": Missing ';' at the end of line
+SCRIPT    (W): @"Weapons/Scripts/4_World/itembase\jmc_prototype_optic.c,3": Missing ';' at the end of line
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,36": Missing ';' at the end of line
+SCRIPT    (E): @"DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c,278": Unknown type 'BTR'
+SCRIPT    (E): Can't compile "World" script module!
+
+DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c(278): Unknown type 'BTR'
+SCRIPT    (E): Failed to load entities script!
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,52": Missing ';' at the end of line
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,73": Missing ';' at the end of line
+SCRIPT    (W): @"Weapons/Scripts/4_World/itembase\jmc_prototype_optic.c,3": Missing ';' at the end of line
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,36": Missing ';' at the end of line
+SCRIPT    (E): @"DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c,278": Unknown type 'BTR'
+SCRIPT    (E): Can't compile "World" script module!
+
+DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c(278): Unknown type 'BTR'
+SCRIPT    (E): Failed to load entities script!
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,52": Missing ';' at the end of line
+SCRIPT    (W): @"deerisle/Deerisle_Security_System/scripts/4_World/deerisle-security-system\config\securityconfig.c,73": Missing ';' at the end of line
+SCRIPT    (W): @"Weapons/Scripts/4_World/itembase\jmc_prototype_optic.c,3": Missing ';' at the end of line
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,36": Missing ';' at the end of line
+SCRIPT    (E): @"DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c,278": Unknown type 'BTR'
+SCRIPT    (E): Can't compile "World" script module!
+
+DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c(278): Unknown type 'BTR'
+SCRIPT    (E): Failed to load entities script!
+SCRIPT       : ~DayZGame()

@@ -1,0 +1,312 @@
+=====================================================================
+== C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\DayZServer_x64.exe
+== DayZServer_x64.exe -cpuCount=4 -mod=@DeerIsle;@CF;@CommunityOnlineTools;@DabsFramework;@DayZExpansionLicensed;@DayZExpansionBundle; -config=serverDZ.cfg -port=2302 -noFilePatching -profiles=profiles -scrAllowFileWrite -adminlog
+=====================================================================
+Exe timestamp: 2024/01/01 17:40:38
+Current time:  2024/01/05 14:28:47
+Version 1.23.157045
+=====================================================================
+
+14:28:47.715 [Inputs] Loading inputs default "bin/constants.xml"
+14:28:47.721 [Inputs] Loading inputs default "bin/specific.xml"
+14:28:47.722 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+14:28:47.722 [Inputs] Loading inputs default "deerisle/scripts/Inputs.xml"
+14:28:47.722 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+14:28:47.722 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+14:28:47.723 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:28:47.723 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+14:28:47.723 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:28:47.723 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+14:28:47.723 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:28:47.723 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+14:28:47.724 [Inputs] Loading inputs default "AdmiralsDivingMod/Scripts/Data/modded_Inputs.xml"
+14:28:47.724 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+14:28:47.724 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+14:28:47.725 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:28:47.725 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+14:28:47.725 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:28:47.725 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+14:28:47.725 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:28:47.725 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+14:28:47.726 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+14:28:47.726 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+14:28:47.726 [Inputs] Loading inputs cfg "bin/core.xml"
+14:28:47.726 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+14:28:47.728 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+14:29:13.386 [CE][Hive] :: Initializing OFFLINE
+14:29:13.386 [StorageDirs] :: Selected storage directory: C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\
+14:29:13.387 [CE][Hive] :: Loading core data ... 
+14:29:13.387 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+14:29:18.73 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+14:29:18.74 [CE][TypeSetup] :: 519 classes setuped...
+14:29:19.222 [CE][RegisterBind] :: 0 classes binded...
+14:29:19.222 [CE][RegisterConfig] :: 13067 config classes registered, 0 sub-counters...
+14:29:19.222 [CE][Hive] :: Loading map data ... 
+14:29:19.223 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.258 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:29:19.259 !!! [CE] :: Unknown usage: 'Fortknox'.
+14:29:19.259 !!! [CE] :: Unknown usage: 'Mine'.
+14:29:19.259 !!! [CE] :: Unknown usage: 'Mine'.
+14:29:19.259 !!! [CE] :: Unknown usage: 'Temple'.
+14:29:19.260 [CE][LoadPrototype] :: loaded 550 prototypes
+14:29:19.260   989 containers, 11581 points
+14:29:19.260   79 dispatches, 316 proxies
+14:29:19.260 !!! [CE][LoadPrototype] 4 groups have no points...
+14:29:19.260 !!! [CE][LoadPrototype] 2 groups have wrong points...
+14:29:19.260 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+14:29:19.260 [CE][LoadPrototype] :: last group name: Land_Underground_Storage_Workshop...
+14:29:19.265 [CE][LoadPrototype] :: loaded 0 prototypes
+14:29:19.265   55 containers, 232 points
+14:29:19.265   0 dispatches, 0 proxies
+14:29:19.265 [CE][LoadPrototype] :: last group name: Rail9...
+14:29:20.204 [CE][LoadMap] "Group" :: loaded 10479 groups, groups failed: 0, largest group range: 34.1
+14:29:20.206 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.1
+14:29:20.400 [CE][Links] found 2684 total links between groups, of 10479
+14:29:20.400 [CE][LoadClusters] "Cluster" :: Loading files...
+14:29:20.523 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+14:29:20.658 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+14:29:20.788 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+14:29:20.788   9790 failed - check prototype defaults 'clusterMatrix' setups !!!
+14:29:20.928 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+14:29:20.928   6758 failed - check prototype defaults 'clusterMatrix' setups !!!
+14:29:21.01 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 24035 instances
+14:29:21.01   2081 failed - check prototype defaults 'clusterMatrix' setups !!!
+14:29:21.06 [CE][Storage] ver:21 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\types.bin"
+14:29:21.06 [CE][Storage] ver:21 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\types.001"
+14:29:21.06 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\types.002"
+14:29:21.06 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\types.bin".
+14:29:21.118 !!! [CE][offlineDB] :: No Shutdown message present.
+14:29:21.120 [CE][offlineDB] :: Loaded 52 dynamic events 261 total types.
+14:29:21.136 !!! [CE][offlineDB] :: Type 'Bandage' will be ignored. (Type does not exist. (Typo?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'BandanaMask_BlackPattern' will be ignored. (Type does not exist. (Typo?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'BandanaMask_CamoPattern' will be ignored. (Type does not exist. (Typo?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'BandanaMask_GreenPattern' will be ignored. (Type does not exist. (Typo?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'BandanaMask_PolkaPattern' will be ignored. (Type does not exist. (Typo?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'BandanaMask_RedPattern' will be ignored. (Type does not exist. (Typo?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+14:29:21.137 !!! [CE][offlineDB] :: Type 'DallasMask' will be ignored. (Type does not exist. (Typo?))
+14:29:21.138 !!! [CE][offlineDB] :: Type 'HoxtonMask' will be ignored. (Type does not exist. (Typo?))
+14:29:21.138 !!! [CE][offlineDB] :: Type 'MountainBag_Red' will be ignored. (Type does not exist. (Typo?))
+14:29:21.138 !!! [CE][offlineDB] :: Type 'SantasSleigh' will be ignored. (Type does not exist. (Typo?))
+14:29:21.138 !!! [CE][offlineDB] :: Type 'SharpLongWoodenStick' will be ignored. (Type does not exist. (Typo?))
+14:29:21.138 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+14:29:21.138 !!! [CE][offlineDB] :: Type 'TransitBus' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'WolfMask' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'ttcelticaxe' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'tantosword' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'STAG_Flag_Gespiegelt' will be ignored. (Type does not exist. (Typo?))
+14:29:21.139 !!! [CE][offlineDB] :: Type 'STAG_Clothing_MountainBag' will be ignored. (Type does not exist. (Typo?))
+14:29:21.281 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+14:29:21.281 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalDeer'.
+14:29:21.281 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalCow'.
+14:29:21.281 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalSheep'.
+14:29:21.281 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalRoeDeer'.
+14:29:21.281 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalWildBoar'.
+14:29:21.281 [CE][DE][SPAWNS] :: Total positions: 668
+14:29:21.282 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 0
+14:29:21.282 [CE][Storage] ver:21 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\events.bin"
+14:29:21.282 [CE][Storage] ver:21 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\events.001"
+14:29:21.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\events.002"
+14:29:21.282 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\events.bin".
+14:29:21.282 [CE][DynamicEvent] Load  Events:[52] Primary spawners: 52 Secondary spawners: 2
+14:29:21.283 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin"
+14:29:21.283 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_000.001"
+14:29:21.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_000.002"
+14:29:21.283 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin" 1321 items.
+14:29:21.810   1321 items loaded. (0 failed)
+14:29:21.811 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin"
+14:29:21.811 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_001.001"
+14:29:21.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_001.002"
+14:29:21.811 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin" 974 items.
+14:29:22.155   974 items loaded. (0 failed)
+14:29:22.156 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin"
+14:29:22.156 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_002.001"
+14:29:22.156 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_002.002"
+14:29:22.156 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin" 1234 items.
+14:29:22.586   1234 items loaded. (0 failed)
+14:29:22.587 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin"
+14:29:22.587 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_003.001"
+14:29:22.587 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_003.002"
+14:29:22.587 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin" 1615 items.
+14:29:23.99   1615 items loaded. (0 failed)
+14:29:23.99 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin"
+14:29:23.100 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_004.001"
+14:29:23.100 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_004.002"
+14:29:23.100 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin" 2565 items.
+14:29:23.927   2565 items loaded. (0 failed)
+14:29:23.928 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin"
+14:29:23.928 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_005.001"
+14:29:23.928 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_005.002"
+14:29:23.928 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin" 2309 items.
+14:29:24.707   2309 items loaded. (0 failed)
+14:29:24.712 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin"
+14:29:24.712 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_006.001"
+14:29:24.713 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_006.002"
+14:29:24.713 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin" 1970 items.
+14:29:25.374   1970 items loaded. (0 failed)
+14:29:25.375 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin"
+14:29:25.375 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_007.001"
+14:29:25.375 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_007.002"
+14:29:25.375 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin" 1741 items.
+14:29:25.984   1741 items loaded. (0 failed)
+14:29:25.985 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin"
+14:29:25.988 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_008.001"
+14:29:25.988 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_008.002"
+14:29:25.988 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin" 599 items.
+14:29:26.187   599 items loaded. (0 failed)
+14:29:26.188 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin"
+14:29:26.189 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_009.001"
+14:29:26.189 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_009.002"
+14:29:26.189 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin" 550 items.
+14:29:26.391   550 items loaded. (0 failed)
+14:29:26.394 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin"
+14:29:26.399 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_010.001"
+14:29:26.399 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_010.002"
+14:29:26.399 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin" 504 items.
+14:29:26.600   504 items loaded. (0 failed)
+14:29:26.601 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin"
+14:29:26.601 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_011.001"
+14:29:26.601 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_011.002"
+14:29:26.601 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin" 227 items.
+14:29:26.718   227 items loaded. (0 failed)
+14:29:26.718 [CE][Storage] ver:26 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\building.bin"
+14:29:26.718 [CE][Storage] ver:26 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\building.001"
+14:29:26.718 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\building.002"
+14:29:26.718 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\building.bin" 0 items.
+14:29:26.718   0 items loaded. (0 failed)
+14:29:26.720 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\vehicles.bin"
+14:29:26.731 [CE][Storage] ver:25 stamp:26, valid:yes, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\vehicles.001"
+14:29:26.731 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\vehicles.002"
+14:29:26.732 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Desktop\Expansion-Dev-Server\mpmissions\empty.deerisle\storage_1\data\vehicles.bin" 85 items.
+14:29:27.104   85 items loaded. (0 failed)
+14:29:27.178 [CE][Hive] :: Storage load took:5.89 seconds, recovery stamp:26
+14:29:27.178   entity: 16710, building: 0
+14:29:27.178   no lifetime: 10
+14:29:27.178   ignored: 20
+14:29:27.178   pathgraph's: 402
+14:29:27.178 [CE][Hive] :: Initializing ... 
+14:29:27.208 [CE][InitializeMap] :: initialized: 0
+14:29:27.208 [CE][Hive] :: Initializing spawners ... 
+14:29:35.16 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:15567, Total in Map: 16243 at 0 (sec)
+14:29:35.16   tests:0, repeats:0 fails:0, overtime:0
+14:29:35.39 [CE][AnimalRespawner] (PRICrab) :: !!! Missing AI Template "HerdCrab" for DE: "AnimalCrab"
+14:29:35.39 [CE][DynEvent] :: 52 types
+14:29:35.39 [00] AmbientHen
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [01] AmbientBear
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [02] AmbientPolarbear
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [03] AmbientCow
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [04] AmbientDeer
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [05] AmbientGoat
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [06] AmbientPig
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [07] AmbientRoeDeer
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [08] AmbientSheep
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [09] AmbientWildBoar
+14:29:35.39   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:29:35.39 [10] AnimalWolf
+14:29:35.40   Primary Spawner: "Animal", active: yes, repeat: 1
+14:29:35.40 [11] AnimalArcticWolf
+14:29:35.40   Primary Spawner: "Animal", active: yes, repeat: 1
+14:29:35.40 [12] InfectedArmy
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [13] InfectedArmyHard
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [14] InfectedArmyHardJMC
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [15] InfectedArmyHardJMCWinter
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [16] InfectedCity
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [17] InfectedFirefighter
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [18] InfectedIndustrial
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [19] InfectedMedic
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [20] InfectedNBC
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [21] InfectedNBCYellow
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [22] InfectedPolice
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [23] InfectedPoliceHard
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [24] InfectedPrisoner
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [25] InfectedReligious
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [26] InfectedSolitude
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [27] InfectedVillage
+14:29:35.40   Primary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [28] ItemPlanks
+14:29:35.40   Primary Spawner: "Item", active: yes, repeat: 1
+14:29:35.40 [29] Loot
+14:29:35.40   Primary Spawner: "Loot", active: yes, repeat: 2
+14:29:35.40 [30] StaticContaminatedArea
+14:29:35.40   Primary Spawner: "Static", active: yes, repeat: 1
+14:29:35.40 [31] StaticHeliCrash
+14:29:35.40   Primary Spawner: "Static", active: yes, repeat: 1
+14:29:35.40   Secondary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [32] StaticPoliceCar
+14:29:35.40   Primary Spawner: "Static", active: yes, repeat: 1
+14:29:35.40   Secondary Spawner: "Infected", active: yes, repeat: 1
+14:29:35.40 [33] TrajectoryApple
+14:29:35.40   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:29:35.40 [34] TrajectoryConiferous
+14:29:35.40   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:29:35.40 [35] TrajectoryDeciduous
+14:29:35.40   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:29:35.40 [36] TrajectoryHumus
+14:29:35.40   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:29:35.40 [37] TrajectoryPear
+14:29:35.40   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:29:35.40 [38] TrajectoryPlum
+14:29:35.40   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:29:35.40 [39] TrajectoryStones
+14:29:35.40   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:29:35.40 [40] VehicleCivilianSedan
+14:29:35.40   Primary Spawner: "Vehicle", active: yes, repeat: 1
+14:29:35.40 [41] VehicleHatchback02
+14:29:35.40   Primary Spawner: "Vehicle", active: yes, repeat: 1
+14:29:35.40 [42] VehicleOffroadHatchback
+14:29:35.40   Primary Spawner: "Vehicle", active: yes, repeat: 1

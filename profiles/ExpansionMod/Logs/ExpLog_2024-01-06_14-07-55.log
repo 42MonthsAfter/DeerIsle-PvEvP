@@ -1,0 +1,11 @@
+14:09:48.105 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:09:48.105 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:09:48.105 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:09:48.105 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+14:09:59.488 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase offroadhatchback x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:09:59.562 [VehicleDeleted] OffroadHatchback (id=5D44EBFB5C4998BFA265DC903CC72FB8 pos=<0.000717, 0.754533, 0.042504>)
+14:09:59.570 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought offroadhatchback x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 18500.
+14:10:01.902 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase offroadhatchback x1 from the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:10:39.742 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to sell offroadhatchback x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+14:10:39.777 [VehicleDeleted] OffroadHatchback (id=CB0E8412764EA447DB6691B0FE330FE6 pos=<5601.250000, 28.750702, 5357.972656>)
+14:10:39.781 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has sold offroadhatchback x1 at the trader "Vehicles (Lewis [Vehicle Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 13873.

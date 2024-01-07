@@ -1,0 +1,34 @@
+{
+    "m_Version": 11,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Rifles",
+        "Pistols",
+        "Sniper_Rifles",
+        "Shotguns",
+        "Crossbows",
+        "Melee_Weapons",
+        "Ammo",
+        "Ammo_Boxes",
+        "Knifes",
+        "Explosives_And_Grenades",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Optics:3",
+        "Buttstocks:3",
+        "Handguards:3"
+    ],
+    "Items": {
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "m_Version": 4,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "ShowHaBStats": 1,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "General",
+            "Rules": [
+                {
+                    "RuleParagraph": "No Greifing",
+                    "RuleText": "Getting your kicks at the expense of others is considered griefing. Lowering flags is considered griefing and will result in a ban."
+                },
+                {
+                    "RuleParagraph": "No Hate Speech",
+                    "RuleText": "All are welcome here. Any hate speech will result in an immediate ban."
+                },
+                {
+                    "RuleParagraph": "Join the Discord",
+                    "RuleText": "A full list of rules is posted in the Discord at http://discord.42MonthsAfter.com"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Building Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "One Base Per Player / Group",
+                    "RuleText": "Groups & individual players are allowed one (1) base at a time."
+                },
+                {
+                    "RuleParagraph": "Base Raiding Rules",
+                    "RuleText": "Only bases within PvP zones can be raided. Only groups & players who base in PvP zones can raid other bases."
+                },
+                {
+                    "RuleParagraph": "Base Raiding Times",
+                    "RuleText": "Base raiding is only on the weekends from Friday at 6 pm EST to Sunday at 11:59 pm EST."
+                },
+                {
+                    "RuleParagraph": "Unsecured Tents / Stashes in PvE Zones",
+                    "RuleText": "Unsecured tents / stashes in PvE areas are open to raiding."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Raiding Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "No PvE Base Raiding",
+                    "RuleText": "Bases with flags in PvE zones CAN NOT be raided, even if you access them."
+                },
+                {
+                    "RuleParagraph": "PvP Bases",
+                    "RuleText": "Only bases within PvP zones can be raided."
+                },
+                {
+                    "RuleParagraph": "Who Can Raid",
+                    "RuleText": "Only players / groups who base in PvP zones can raid other bases."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Vehicles + Helis",
+            "Rules": [
+                {
+                    "RuleParagraph": "Us at Your Own Risk",
+                    "RuleText": "DayZ vehicles + helis are a mess, always have been, there for all are use at your own risk."
+                },
+                {
+                    "RuleParagraph": "Admin Help",
+                    "RuleText": "Admins will NOT replace lost vehicles due to lag, crashes, getting stuck, etc. See rule above."
+                },
+                {
+                    "RuleParagraph": "Zombie Damage",
+                    "RuleText": "Zombies can damage vehicles, based on chance, so don't just drive over them without being prepared to lose your car to damage."
+                }
+            ]
+        },
+        {
+            "CategoryName": "PvP Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "PvE Zones",
+                    "RuleText": "There is no killing of other players in PvE zones."
+                },
+                {
+                    "RuleParagraph": "PvP Zones",
+                    "RuleText": "Anything goes in PvP zones including kill on sight. Be warned."
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://www.42MonthsAfter.com/",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Feedback",
+            "URL": "https://discord.42MonthsAfter.com",
+            "IconName": "Forums",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://discord.42MonthsAfter.com/",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "Reddit",
+            "URL": "https://www.reddit.com/user/42_Months_After",
+            "IconName": "Reddit",
+            "IconColor": -12386303
+        },
+        {
+            "Name": "GitHub",
+            "URL": "https://github.com/42MonthsAfter",
+            "IconName": "GitHub",
+            "IconColor": -16777216
+        },
+        {
+            "Name": "YouTube",
+            "URL": "https://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
+            "IconName": "YouTube",
+            "IconColor": -65536
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "About 42 Months After",
+            "Descriptions": [
+                {
+                    "DescriptionText": "We are a true community server where our players voices matter. We define our gameplay, mods, rules, etc as a group. Join the Discord at discord.42MonthsAfter.com to help shape our world."
+                },
+                {
+                    "DescriptionText": "We are self hosted meaning our servers run on individual rigs that we own, maintain and (every so often) upgrade. This is how we get maximum performance."
+                },
+                {
+                    "DescriptionText": "We host 3 PC servers, 1 Xbox and 1 PlayStation server. Be sure to check out our other 100% custom flavors of DayZ! www.42MonthsAfter.com"
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white",
+                "eyepatch_improvised"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "fencekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Modifications",
+            "Results": [
+                "sawedoffizh18shotgun"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ]
+}

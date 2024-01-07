@@ -1,0 +1,7 @@
+20:58:03.085 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+20:58:03.085 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+20:58:03.085 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+20:58:03.085 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+20:58:03.085 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+21:02:39.890 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer
+21:02:45.195 [AI Patrol] Spawning 3 West bots at <13898.831055, 7.541815, 2101.326416>

@@ -1,0 +1,5 @@
+14:38:11.644 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:38:11.644 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:38:11.656 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 14
+14:38:22.089 [SpawnSelection] Player "Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) spawned at <9130.750977, 27.931656, 5132.872070>
+14:40:44.437 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Military

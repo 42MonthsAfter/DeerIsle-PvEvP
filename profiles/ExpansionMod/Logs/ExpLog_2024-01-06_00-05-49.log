@@ -1,0 +1,8 @@
+00:06:24.510 [VehicleDestroyed] ExpansionVodnik (id=5BF6003BBE4EB48559A011BD620C87B9 pos=<2917.963623, 21.077803, 3425.310303>)
+00:22:35.946 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+00:22:35.947 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:22:35.947 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+00:22:35.947 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+00:22:38.718 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8900.571289, 45.759998, 3844.812012>
+00:22:48.157 [SpawnSelection] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) spawned at <10299.725586, 43.082348, 5171.118652>
+00:27:14.243 [VehicleDeleted] ExpansionVodnik (id=5BF6003BBE4EB48559A011BD620C87B9 pos=<2917.963623, 21.077803, 3425.310303>)

@@ -1,0 +1,25 @@
+{
+  "m_defaultZone": {
+    "m_id": 0,
+    "m_displayName": "Default Zone",
+    "m_position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "m_radius": 0.0,
+    "m_height": 0.0,
+    "m_enterMessage": "",
+    "m_leaveMessage": "",
+    "m_leaveTime": 0.0,
+    "m_godMode": 0,
+    "m_inverseDammage": 0,
+    "m_blockBuildingMode": 0,
+    "m_blockInteractionWithPlayers": 0,
+    "m_radiation": 0.0,
+    "m_psi": 0.0,
+    "m_gas": 0.0,
+    "m_spawnChance": 1.0
+  },
+  "m_customZones": []
+}

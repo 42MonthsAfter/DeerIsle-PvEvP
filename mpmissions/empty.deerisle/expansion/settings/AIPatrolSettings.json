@@ -1,0 +1,829 @@
+{
+    "m_Version": 16,
+    "Enabled": 1,
+    "DespawnTime": 600.0,
+    "RespawnTime": -1.0,
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 1000.0,
+    "DespawnRadius": 1100.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "NoiseInvestigationDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "ObjectPatrols": [
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_UH1Y"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_Mi8_Crashed"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "NBCLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "ContaminatedArea_Static"
+        }
+    ],
+    "Patrols": [
+        {
+        "Name": "Power Plant Patrol",
+        "Faction": "Shamans",
+        "Formation": "File",
+        "FormationLooseness": 3.0,
+        "LoadoutFile": "NBCLoadout",
+        "NumberOfAI": 3,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 0,
+        "SniperProneDistanceThreshold": 0.0,
+        "AccuracyMin": -1.0,
+        "AccuracyMax": -1.0,
+        "ThreatDistanceLimit": -1.0,
+        "NoiseInvestigationDistanceLimit": -1.0,
+        "DamageMultiplier": -1.0,
+        "MinDistRadius": -2.0,
+        "MaxDistRadius": -2.0,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 1.0,
+        "MaxSpreadRadius": 100.0,
+        "Chance": 1.0,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1.0,
+        "RespawnTime": -2.0,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+            [
+                4794.8,
+                20.43,
+                7233.85
+            ],
+            [
+                4651.78,
+                20.43,
+                7164.22
+            ],
+            [
+                4718.61,
+                20.43,
+                7022.99
+            ],
+            [
+                4604.78,
+                20.43,
+                6965.7
+            ],
+            [
+                4479,
+                20.43,
+                7230.02
+            ]
+        ]
+        },
+        {
+            "Name": "RCFI Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3730.11,
+                    9.39208,
+                    8888.56
+                ],
+                [
+                    3731.21,
+                    12.9679,
+                    8730.4
+                ],
+                [
+                    3775.73,
+                    11.4682,
+                    8729.96
+                ],
+                [
+                    3775.27,
+                    15.9835,
+                    8945.52
+                ]
+            ]
+            },
+            {
+                "Name": "Paris Island Patrol",
+                "Faction": "Shamans",
+                "Formation": "File",
+                "FormationLooseness": 3.0,
+                "LoadoutFile": "GorkaLoadout",
+                "NumberOfAI": 3,
+                "Behaviour": "ALTERNATE",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "CanBeLooted": 1,
+                "UnlimitedReload": 0,
+                "SniperProneDistanceThreshold": 0.0,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": -1.0,
+                "DamageMultiplier": -1.0,
+                "MinDistRadius": -2.0,
+                "MaxDistRadius": -2.0,
+                "DespawnRadius": -2.200000047683716,
+                "MinSpreadRadius": 1.0,
+                "MaxSpreadRadius": 100.0,
+                "Chance": 1.0,
+                "WaypointInterpolation": "",
+                "DespawnTime": -1.0,
+                "RespawnTime": -2.0,
+                "UseRandomWaypointAsStartPoint": 1,
+                "Waypoints": [
+                    [
+                        3124.77,
+                        22.45,
+                        4241.55
+                    ],
+                    [
+                        3011.66,
+                        22.45,
+                        3976.87
+                    ],
+                    [
+                        3079.44,
+                        22.45,
+                        3949.9
+                    ],
+                    [
+                        3186.65,
+                        24.7424,
+                        4210.21
+                    ]
+                ]
+                },
+                {
+                    "Name": "Paris Island Patrol",
+                    "Faction": "Shamans",
+                    "Formation": "File",
+                    "FormationLooseness": 3.0,
+                    "LoadoutFile": "GorkaLoadout",
+                    "NumberOfAI": 3,
+                    "Behaviour": "ALTERNATE",
+                    "Speed": "WALK",
+                    "UnderThreatSpeed": "SPRINT",
+                    "CanBeLooted": 1,
+                    "UnlimitedReload": 0,
+                    "SniperProneDistanceThreshold": 0.0,
+                    "AccuracyMin": -1.0,
+                    "AccuracyMax": -1.0,
+                    "ThreatDistanceLimit": -1.0,
+                    "NoiseInvestigationDistanceLimit": -1.0,
+                    "DamageMultiplier": -1.0,
+                    "MinDistRadius": -2.0,
+                    "MaxDistRadius": -2.0,
+                    "DespawnRadius": -2.200000047683716,
+                    "MinSpreadRadius": 1.0,
+                    "MaxSpreadRadius": 100.0,
+                    "Chance": 1.0,
+                    "WaypointInterpolation": "",
+                    "DespawnTime": -1.0,
+                    "RespawnTime": -2.0,
+                    "UseRandomWaypointAsStartPoint": 1,
+                    "Waypoints": [
+                        [
+                            2952.98,
+                            22.45,
+                            3449.07
+                        ],
+                        [
+                            2881.43,
+                            22.45,
+                            3515.64
+                        ],
+                        [
+                            2969,
+                            22.45,
+                            3603.26
+                        ],
+                        [
+                            3030.07,
+                            24.7424,
+                            3547.98
+                        ]
+                    ]
+                    },
+                    {
+                        "Name": "Prison Island Patrol",
+                        "Faction": "Shamans",
+                        "Formation": "File",
+                        "FormationLooseness": 3.0,
+                        "LoadoutFile": "GorkaLoadout",
+                        "NumberOfAI": 3,
+                        "Behaviour": "ALTERNATE",
+                        "Speed": "WALK",
+                        "UnderThreatSpeed": "SPRINT",
+                        "CanBeLooted": 1,
+                        "UnlimitedReload": 0,
+                        "SniperProneDistanceThreshold": 0.0,
+                        "AccuracyMin": -1.0,
+                        "AccuracyMax": -1.0,
+                        "ThreatDistanceLimit": -1.0,
+                        "NoiseInvestigationDistanceLimit": -1.0,
+                        "DamageMultiplier": -1.0,
+                        "MinDistRadius": -2.0,
+                        "MaxDistRadius": -2.0,
+                        "DespawnRadius": -2.200000047683716,
+                        "MinSpreadRadius": 1.0,
+                        "MaxSpreadRadius": 100.0,
+                        "Chance": 1.0,
+                        "WaypointInterpolation": "",
+                        "DespawnTime": -1.0,
+                        "RespawnTime": -2.0,
+                        "UseRandomWaypointAsStartPoint": 1,
+                        "Waypoints": [
+                            [
+                                5354.13,
+                                34.7389,
+                                637.378
+                            ],
+                            [
+                                5248.86,
+                                17.8618,
+                                618.79
+                            ],
+                            [
+                                5228.51,
+                                16.418,
+                                664.259
+                            ],
+                            [
+                                5248.03,
+                                14.89,
+                                730.112
+                            ],
+                            [
+                                5461.75,
+                                10.0618,
+                                804.058
+                            ]
+                        ]
+                        },
+                        {
+                            "Name": "Camp Eagle Patrol",
+                            "Faction": "Shamans",
+                            "Formation": "File",
+                            "FormationLooseness": 3.0,
+                            "LoadoutFile": "GorkaLoadout",
+                            "NumberOfAI": 3,
+                            "Behaviour": "ALTERNATE",
+                            "Speed": "WALK",
+                            "UnderThreatSpeed": "SPRINT",
+                            "CanBeLooted": 1,
+                            "UnlimitedReload": 0,
+                            "SniperProneDistanceThreshold": 0.0,
+                            "AccuracyMin": -1.0,
+                            "AccuracyMax": -1.0,
+                            "ThreatDistanceLimit": -1.0,
+                            "NoiseInvestigationDistanceLimit": -1.0,
+                            "DamageMultiplier": -1.0,
+                            "MinDistRadius": -2.0,
+                            "MaxDistRadius": -2.0,
+                            "DespawnRadius": -2.200000047683716,
+                            "MinSpreadRadius": 1.0,
+                            "MaxSpreadRadius": 100.0,
+                            "Chance": 1.0,
+                            "WaypointInterpolation": "",
+                            "DespawnTime": -1.0,
+                            "RespawnTime": -2.0,
+                            "UseRandomWaypointAsStartPoint": 1,
+                            "Waypoints": [
+                                [
+                                    8891.93,
+                                    45.4894,
+                                    3816.82
+                                ],
+                                [
+                                    8817.85,
+                                    45.4726,
+                                    3819.11
+                                ],
+                                [
+                                    8814.25,
+                                    45.42,
+                                    3781.32
+                                ],
+                                [
+                                    8890.92,
+                                    45.431,
+                                    3764.4
+                                ]
+                            ]
+                            },
+                            {
+                                "Name": "Camp Bear Patrol",
+                                "Faction": "Shamans",
+                                "Formation": "File",
+                                "FormationLooseness": 3.0,
+                                "LoadoutFile": "GorkaLoadout",
+                                "NumberOfAI": 3,
+                                "Behaviour": "ALTERNATE",
+                                "Speed": "WALK",
+                                "UnderThreatSpeed": "SPRINT",
+                                "CanBeLooted": 1,
+                                "UnlimitedReload": 0,
+                                "SniperProneDistanceThreshold": 0.0,
+                                "AccuracyMin": -1.0,
+                                "AccuracyMax": -1.0,
+                                "ThreatDistanceLimit": -1.0,
+                                "NoiseInvestigationDistanceLimit": -1.0,
+                                "DamageMultiplier": -1.0,
+                                "MinDistRadius": -2.0,
+                                "MaxDistRadius": -2.0,
+                                "DespawnRadius": -2.200000047683716,
+                                "MinSpreadRadius": 1.0,
+                                "MaxSpreadRadius": 100.0,
+                                "Chance": 1.0,
+                                "WaypointInterpolation": "",
+                                "DespawnTime": -1.0,
+                                "RespawnTime": -2.0,
+                                "UseRandomWaypointAsStartPoint": 1,
+                                "Waypoints": [
+                                    [
+                                        9112.11,
+                                        5.74944,
+                                        5937.27
+                                    ],
+                                    [
+                                        9056.54,
+                                        6.3433,
+                                        5921.14
+                                    ],
+                                    [
+                                        8970.55,
+                                        16.8345,
+                                        5926.55
+                                    ],
+                                    [
+                                        8954.61,
+                                        18.4027,
+                                        5946.43
+                                    ],
+                                    [
+                                        8924.93,
+                                        19.9333,
+                                        5949.46
+                                    ],
+                                    [
+                                        8886.26,
+                                        22.2298,
+                                        5984.65
+                                    ],
+                                    [
+                                        8793.88,
+                                        19.0823,
+                                        5974.28
+                                    ],
+                                    [
+                                        8745,
+                                        14.37,
+                                        5995.65
+                                    ],
+                                    [
+                                        8655.95,
+                                        7.46277,
+                                        6014.91
+                                    ],
+                                    [
+                                        8581.81,
+                                        3.15783,
+                                        6037.62
+                                    ]
+                                ]
+                                },
+                                {
+                                    "Name": "Area 42 Patrol",
+                                    "Faction": "Shamans",
+                                    "Formation": "File",
+                                    "FormationLooseness": 3.0,
+                                    "LoadoutFile": "GorkaLoadout",
+                                    "NumberOfAI": 3,
+                                    "Behaviour": "ALTERNATE",
+                                    "Speed": "WALK",
+                                    "UnderThreatSpeed": "SPRINT",
+                                    "CanBeLooted": 1,
+                                    "UnlimitedReload": 0,
+                                    "SniperProneDistanceThreshold": 0.0,
+                                    "AccuracyMin": -1.0,
+                                    "AccuracyMax": -1.0,
+                                    "ThreatDistanceLimit": -1.0,
+                                    "NoiseInvestigationDistanceLimit": -1.0,
+                                    "DamageMultiplier": -1.0,
+                                    "MinDistRadius": -2.0,
+                                    "MaxDistRadius": -2.0,
+                                    "DespawnRadius": -2.200000047683716,
+                                    "MinSpreadRadius": 1.0,
+                                    "MaxSpreadRadius": 100.0,
+                                    "Chance": 1.0,
+                                    "WaypointInterpolation": "",
+                                    "DespawnTime": -1.0,
+                                    "RespawnTime": -2.0,
+                                    "UseRandomWaypointAsStartPoint": 1,
+                                    "Waypoints": [
+                                        [
+                                            13704.5,
+                                            12.9225,
+                                            9875.58
+                                        ],
+                                        [
+                                            13486.3,
+                                            12.91,
+                                            9873.4
+                                        ],
+                                        [
+                                            13345.1,
+                                            12.91,
+                                            9880.99
+                                        ],
+                                        [
+                                            13036.9,
+                                            12.94,
+                                            9893
+                                        ]
+                                    ]
+                                    },
+                                    {
+                                        "Name": "Alcatraz Patrol",
+                                        "Faction": "Shamans",
+                                        "Formation": "File",
+                                        "FormationLooseness": 3.0,
+                                        "LoadoutFile": "GorkaLoadout",
+                                        "NumberOfAI": 3,
+                                        "Behaviour": "ALTERNATE",
+                                        "Speed": "WALK",
+                                        "UnderThreatSpeed": "SPRINT",
+                                        "CanBeLooted": 1,
+                                        "UnlimitedReload": 0,
+                                        "SniperProneDistanceThreshold": 0.0,
+                                        "AccuracyMin": -1.0,
+                                        "AccuracyMax": -1.0,
+                                        "ThreatDistanceLimit": -1.0,
+                                        "NoiseInvestigationDistanceLimit": -1.0,
+                                        "DamageMultiplier": -1.0,
+                                        "MinDistRadius": -2.0,
+                                        "MaxDistRadius": -2.0,
+                                        "DespawnRadius": -2.200000047683716,
+                                        "MinSpreadRadius": 1.0,
+                                        "MaxSpreadRadius": 100.0,
+                                        "Chance": 1.0,
+                                        "WaypointInterpolation": "",
+                                        "DespawnTime": -1.0,
+                                        "RespawnTime": -2.0,
+                                        "UseRandomWaypointAsStartPoint": 1,
+                                        "Waypoints": [
+                                            [
+                                                15768.5,
+                                                10.9089,
+                                                4420.55
+                                            ],
+                                            [
+                                                15691.6,
+                                                16.4901,
+                                                4498.67
+                                            ],
+                                            [
+                                                15674.4,
+                                                16.4901,
+                                                4587.59
+                                            ],
+                                            [
+                                                15628.4,
+                                                4.42642,
+                                                4817.31
+                                            ]
+                                        ]
+                                        },
+                                        {
+                                            "Name": "Old Town Patrol",
+                                            "Faction": "Shamans",
+                                            "Formation": "File",
+                                            "FormationLooseness": 3.0,
+                                            "LoadoutFile": "GorkaLoadout",
+                                            "NumberOfAI": 3,
+                                            "Behaviour": "ALTERNATE",
+                                            "Speed": "WALK",
+                                            "UnderThreatSpeed": "SPRINT",
+                                            "CanBeLooted": 1,
+                                            "UnlimitedReload": 0,
+                                            "SniperProneDistanceThreshold": 0.0,
+                                            "AccuracyMin": -1.0,
+                                            "AccuracyMax": -1.0,
+                                            "ThreatDistanceLimit": -1.0,
+                                            "NoiseInvestigationDistanceLimit": -1.0,
+                                            "DamageMultiplier": -1.0,
+                                            "MinDistRadius": -2.0,
+                                            "MaxDistRadius": -2.0,
+                                            "DespawnRadius": -2.200000047683716,
+                                            "MinSpreadRadius": 1.0,
+                                            "MaxSpreadRadius": 100.0,
+                                            "Chance": 1.0,
+                                            "WaypointInterpolation": "",
+                                            "DespawnTime": -1.0,
+                                            "RespawnTime": -2.0,
+                                            "UseRandomWaypointAsStartPoint": 1,
+                                            "Waypoints": [
+                                                [
+                                                    1864.89,  
+                                                    9.19,
+                                                    9083.74
+                                                ],
+                                                [
+                                                    2043.93,  
+                                                    9.19,
+                                                    9048.1
+                                                ],
+                                                [
+                                                    1932.59,  
+                                                    9.19,
+                                                    8918.94
+                                                ],
+                                                [
+                                                    1835.49,  
+                                                    9.19,
+                                                    8965.35
+                                                ]
+                                            ]
+                                            },
+                                            {
+                                                "Name": "Crater Patrol",
+                                                "Faction": "Shamans",
+                                                "Formation": "File",
+                                                "FormationLooseness": 3.0,
+                                                "LoadoutFile": "GorkaLoadout",
+                                                "NumberOfAI": 3,
+                                                "Behaviour": "ALTERNATE",
+                                                "Speed": "WALK",
+                                                "UnderThreatSpeed": "SPRINT",
+                                                "CanBeLooted": 1,
+                                                "UnlimitedReload": 0,
+                                                "SniperProneDistanceThreshold": 0.0,
+                                                "AccuracyMin": -1.0,
+                                                "AccuracyMax": -1.0,
+                                                "ThreatDistanceLimit": -1.0,
+                                                "NoiseInvestigationDistanceLimit": -1.0,
+                                                "DamageMultiplier": -1.0,
+                                                "MinDistRadius": -2.0,
+                                                "MaxDistRadius": -2.0,
+                                                "DespawnRadius": -2.200000047683716,
+                                                "MinSpreadRadius": 1.0,
+                                                "MaxSpreadRadius": 100.0,
+                                                "Chance": 1.0,
+                                                "WaypointInterpolation": "",
+                                                "DespawnTime": -1.0,
+                                                "RespawnTime": -2.0,
+                                                "UseRandomWaypointAsStartPoint": 1,
+                                                "Waypoints": [
+                                                    [
+                                                        13228.7, 
+                                                        25.6162, 
+                                                        4381.6  
+                                                    ],
+                                                    [
+                                                        12611.5,   
+                                                        15.3372,
+                                                        3623.91 
+                                                    ],
+                                                    [
+                                                        12042.9,   
+                                                        5.81971,
+                                                        2402.44 
+                                                    ]
+                                                ]
+                                                },
+                                                {
+                                                    "Name": "Crater Patrol",
+                                                    "Faction": "Shamans",
+                                                    "Formation": "File",
+                                                    "FormationLooseness": 3.0,
+                                                    "LoadoutFile": "GorkaLoadout",
+                                                    "NumberOfAI": 3,
+                                                    "Behaviour": "ALTERNATE",
+                                                    "Speed": "WALK",
+                                                    "UnderThreatSpeed": "SPRINT",
+                                                    "CanBeLooted": 1,
+                                                    "UnlimitedReload": 0,
+                                                    "SniperProneDistanceThreshold": 0.0,
+                                                    "AccuracyMin": -1.0,
+                                                    "AccuracyMax": -1.0,
+                                                    "ThreatDistanceLimit": -1.0,
+                                                    "NoiseInvestigationDistanceLimit": -1.0,
+                                                    "DamageMultiplier": -1.0,
+                                                    "MinDistRadius": -2.0,
+                                                    "MaxDistRadius": -2.0,
+                                                    "DespawnRadius": -2.200000047683716,
+                                                    "MinSpreadRadius": 1.0,
+                                                    "MaxSpreadRadius": 100.0,
+                                                    "Chance": 1.0,
+                                                    "WaypointInterpolation": "",
+                                                    "DespawnTime": -1.0,
+                                                    "RespawnTime": -2.0,
+                                                    "UseRandomWaypointAsStartPoint": 1,
+                                                    "Waypoints": [
+                                                        [
+                                                            14138.6,  
+                                                            137.368,
+                                                            2609.86  
+                                                        ],
+                                                        [
+                                                            14289.4, 
+                                                            127.077, 
+                                                            2673.51  
+                                                        ]
+                                                    ]
+                                                    },
+                                                    {
+                                                        "Name": "Crater Patrol",
+                                                        "Faction": "Shamans",
+                                                        "Formation": "File",
+                                                        "FormationLooseness": 3.0,
+                                                        "LoadoutFile": "GorkaLoadout",
+                                                        "NumberOfAI": 3,
+                                                        "Behaviour": "ALTERNATE",
+                                                        "Speed": "WALK",
+                                                        "UnderThreatSpeed": "SPRINT",
+                                                        "CanBeLooted": 1,
+                                                        "UnlimitedReload": 0,
+                                                        "SniperProneDistanceThreshold": 0.0,
+                                                        "AccuracyMin": -1.0,
+                                                        "AccuracyMax": -1.0,
+                                                        "ThreatDistanceLimit": -1.0,
+                                                        "NoiseInvestigationDistanceLimit": -1.0,
+                                                        "DamageMultiplier": -1.0,
+                                                        "MinDistRadius": -2.0,
+                                                        "MaxDistRadius": -2.0,
+                                                        "DespawnRadius": -2.200000047683716,
+                                                        "MinSpreadRadius": 1.0,
+                                                        "MaxSpreadRadius": 100.0,
+                                                        "Chance": 1.0,
+                                                        "WaypointInterpolation": "",
+                                                        "DespawnTime": -1.0,
+                                                        "RespawnTime": -2.0,
+                                                        "UseRandomWaypointAsStartPoint": 1,
+                                                        "Waypoints": [
+                                                            [
+                                                                13229.8, 
+                                                                26.4769, 
+                                                                4323.78  
+                                                            ],
+                                                            [
+                                                                13766.9,  
+                                                                9.78998, 
+                                                                23923.45  
+                                                            ]
+                                                        ]
+                                                        },
+                                                        {
+                                                            "Name": "Crater Patrol",
+                                                            "Faction": "Shamans",
+                                                            "Formation": "File",
+                                                            "FormationLooseness": 3.0,
+                                                            "LoadoutFile": "GorkaLoadout",
+                                                            "NumberOfAI": 3,
+                                                            "Behaviour": "ALTERNATE",
+                                                            "Speed": "WALK",
+                                                            "UnderThreatSpeed": "SPRINT",
+                                                            "CanBeLooted": 1,
+                                                            "UnlimitedReload": 0,
+                                                            "SniperProneDistanceThreshold": 0.0,
+                                                            "AccuracyMin": -1.0,
+                                                            "AccuracyMax": -1.0,
+                                                            "ThreatDistanceLimit": -1.0,
+                                                            "NoiseInvestigationDistanceLimit": -1.0,
+                                                            "DamageMultiplier": -1.0,
+                                                            "MinDistRadius": -2.0,
+                                                            "MaxDistRadius": -2.0,
+                                                            "DespawnRadius": -2.200000047683716,
+                                                            "MinSpreadRadius": 1.0,
+                                                            "MaxSpreadRadius": 100.0,
+                                                            "Chance": 1.0,
+                                                            "WaypointInterpolation": "",
+                                                            "DespawnTime": -1.0,
+                                                            "RespawnTime": -2.0,
+                                                            "UseRandomWaypointAsStartPoint": 1,
+                                                            "Waypoints": [
+                                                                [
+                                                                    13139.7, 
+                                                                    21.1, 
+                                                                    1588.83  
+                                                                ],
+                                                                [
+                                                                    13078.3, 
+                                                                    21.1, 
+                                                                    1427.2 
+                                                                ],
+                                                                [
+                                                                    12818.7,  
+                                                                    21.1, 
+                                                                    1426.79  
+                                                                ]
+                                                            ]
+                                                            }
+    ]
+}

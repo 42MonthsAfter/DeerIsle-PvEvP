@@ -1,0 +1,8 @@
+15:11:55.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+15:11:55.511 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+15:11:55.511 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+15:11:55.511 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+15:12:09.546 [ATM] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has withdrawn 3403832 from his ATM account.
+15:12:39.890 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase expansion_m1a x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+15:12:39.921 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought expansion_m1a x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 720.
+15:13:06.140 [ATM] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has deposited 3403112 on his ATM account.

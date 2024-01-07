@@ -1,0 +1,7 @@
+21:22:12.804 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+21:22:12.804 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+21:22:12.812 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+21:22:12.812 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+21:22:12.812 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+21:26:48.890 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Basebuilding
+21:37:14.187 [AI Patrol] Spawning 4 West bots at <4591.117676, 20.430000, 7231.395020>

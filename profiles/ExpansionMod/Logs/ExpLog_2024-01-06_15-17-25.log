@@ -1,0 +1,9 @@
+15:27:00.152 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+15:27:00.152 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+15:27:00.152 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+15:27:00.156 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+15:28:01.492 [ATM] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has withdrawn 10000 from his ATM account.
+15:29:01.699 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase collectable_floppydisks_mtv x1 from the trader "Special (Eva [Specialty Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+15:29:01.750 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought collectable_floppydisks_mtv x1 from the trader "Special (Eva [Specialty Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 30.
+15:29:24.531 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase collectable_pokemoncard_center x1 from the trader "Collectibles (Quinn [Collectible Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+15:29:24.570 [Market] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought collectable_pokemoncard_center x1 from the trader "Collectibles (Quinn [Collectible Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.

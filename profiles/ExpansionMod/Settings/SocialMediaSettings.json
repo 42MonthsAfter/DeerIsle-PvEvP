@@ -1,0 +1,16 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "Welcome to 42 Months After",
+            "m_Text": "Join our Discord for events, scavenger hunts and more!"
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "http://discord.42MonthsAfter.com/"
+        }
+    ]
+}

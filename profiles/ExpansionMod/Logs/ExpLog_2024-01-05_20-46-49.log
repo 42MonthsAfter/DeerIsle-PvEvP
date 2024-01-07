@@ -1,0 +1,6 @@
+20:47:41.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+20:47:41.820 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+20:47:41.820 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+20:47:41.820 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+20:47:41.820 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+20:52:14.484 [MissionAirdrop] An airdrop is heading towards "Old-Town" (pos=<1849.000000, 0.000000, 8830.000000> type=Random_Old-Town) with a ExpansionAirdropContainer_Medical

@@ -1,0 +1,10 @@
+22:27:55.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+22:27:55.250 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+22:27:55.250 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+22:27:55.250 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+22:27:55.250 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+22:32:29.476 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+22:32:59.960 [AI Patrol] Spawning 3 Area 42 Patrol bots at <13350.014648, 12.910000, 9966.983398>
+22:35:42.562 [Expansion Quests] - CompleteQuest - Player with UID BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= has completed quest 8
+22:47:13.257 [Killfeed] Bunker got killed.
+22:47:23.828 [SpawnSelection] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) spawned at <10339.783203, 7.476208, 5502.157227>

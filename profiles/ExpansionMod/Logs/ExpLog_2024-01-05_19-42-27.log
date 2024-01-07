@@ -1,0 +1,12 @@
+19:44:32.375 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:44:32.375 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+19:44:32.375 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:44:32.375 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:44:32.375 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:44:39.718 [SpawnSelection] Player "Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) spawned at <10264.243164, 29.939362, 4646.568359>
+19:47:52.093 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Medical
+19:57:36.023 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:57:36.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:57:36.023 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:57:36.023 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+19:57:36.023 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
