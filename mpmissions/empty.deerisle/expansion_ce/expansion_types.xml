@@ -456,7 +456,7 @@
     <!-- M3S -->
     <type name="Truck_01_Covered_Red">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -502,7 +502,7 @@
     </type>
     <type name="Truck_01_Covered_White">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -548,7 +548,7 @@
     </type>
     <type name="Truck_01_Covered_Black">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -594,7 +594,7 @@
     </type>
     <type name="Truck_01_Covered_Wine">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -640,7 +640,7 @@
     </type>
     <type name="Truck_01_Covered_Lime">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -686,7 +686,7 @@
     </type>
     <type name="Truck_01_Covered_Yellow">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -732,7 +732,7 @@
     </type>
     <type name="Truck_01_Covered_YellowBright">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1086,7 +1086,7 @@
     </type>
     <type name="ExpansionZodiacBoat_Orange">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1096,7 +1096,7 @@
     </type>
     <type name="ExpansionZodiacBoat_Black">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1106,7 +1106,7 @@
     </type>
     <type name="ExpansionZodiacBoat_Green">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1207,7 +1207,7 @@
     </type>
     <type name="ExpansionUAZCargoRoofless_Black">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1217,7 +1217,7 @@
     </type>
     <type name="ExpansionUAZCargoRoofless_LightGreen">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1227,7 +1227,7 @@
     </type>
     <type name="ExpansionUAZRoofless_Black">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1237,7 +1237,7 @@
     </type>
     <type name="ExpansionUAZRoofless_LightGreen">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
