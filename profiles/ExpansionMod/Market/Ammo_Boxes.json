@@ -250,7 +250,7 @@
             "Variants": []
         },
         {
-            "ClassName": "ammobox_expansion_338_15rnd",
+            "ClassName": "TWP_AmmoBox_20x76_10rnd",
             "MaxPriceThreshold": 48,
             "MinPriceThreshold": 24,
             "SellPricePercent": -1.0,
@@ -261,7 +261,150 @@
             "Variants": []
         },
         {
-            "ClassName": "expansion_ammobox_8mm_15rnd",
+            "ClassName": "TWP_AmmoBox_50BMG_10rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_3006_20Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_44mag_30Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_50AE_20Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_762x25_30Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_40SW_30Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_46x30_30Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_57x28_30Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammobox_408Cheytac_10Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammobox_6x35_20Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_30Carbine_30Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_300WinMag_20Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_20x102mm_10Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_792x57_20Rnd",
             "MaxPriceThreshold": 48,
             "MinPriceThreshold": 24,
             "SellPricePercent": -1.0,

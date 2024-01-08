@@ -2908,9 +2908,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier17" />
-    <value name="Tier13" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
   </type>
   <type name="AugShort">
     <nominal>5</nominal>
@@ -2923,19 +2926,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier14" />
-    <value name="Tier1" />
-    <value name="Tier17" />
-    <value name="Tier4" />
-    <value name="Tier7" />
-    <value name="Tier9" />
-    <value name="Tier13" />
-    <value name="Tier8" />
-    <value name="Tier5" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier6" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
   </type>
   <type name="AuriculariaMushroom">
     <nominal>0</nominal>
@@ -5016,11 +5012,12 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
     <category name="explosives" />
-    <value name="Tier15" />
-    <value name="Tier1" />
-    <value name="Tier7" />
-    <value name="Tier13" />
-    <value name="Tier6" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
     <usage name="Military" />
   </type>
   <type name="Cleaver">
@@ -7868,7 +7865,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier7" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
   </type>
   <type name="FangeKnife">
     <nominal>5</nominal>
@@ -7953,8 +7955,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier13" />
-    <value name="Tier7" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
   </type>
   <type name="Fal_OeBttstck">
     <nominal>10</nominal>
@@ -7967,8 +7973,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier13" />
-    <value name="Tier7" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
   </type>
   <type name="FAMAS">
     <nominal>6</nominal>
@@ -7981,11 +7991,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier17" />
-    <value name="Tier4" />
-    <value name="Tier9" />
-    <value name="Tier13" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
   </type>
   <type name="Fence">
     <nominal>0</nominal>
@@ -8674,14 +8685,12 @@
     <category name="explosives" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier15" />
-    <value name="Tier4" />
-    <value name="Tier8" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier3" />
-    <value name="Tier6" />
-    <value name="Tier2" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="Flashlight">
     <nominal>50</nominal>
@@ -9663,22 +9672,12 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
     <category name="explosives" />
-    <value name="Tier15" />
-    <value name="Tier14" />
-    <value name="Tier1" />
-    <value name="Tier17" />
-    <value name="Tier4" />
-    <value name="Tier7" />
-    <value name="Tier9" />
-    <value name="Tier16" />
-    <value name="Tier18" />
-    <value name="Tier13" />
-    <value name="Tier8" />
-    <value name="Tier5" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier6" />
-    <value name="Tier10" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
     <usage name="Military" />
   </type>
   <type name="Guts">
@@ -11594,6 +11593,12 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="explosives" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="ImprovisedFishingRod">
     <nominal>0</nominal>
@@ -12209,6 +12214,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
     <category name="tools" />
     <usage name="Military" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="Land_Wreck_hb01_aban1_police">
     <nominal>0</nominal>
@@ -12837,6 +12848,16 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="M18SmokeGrenade_Purple">
     <nominal>10</nominal>
@@ -12849,6 +12870,16 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="M18SmokeGrenade_Red">
     <nominal>10</nominal>
@@ -12861,6 +12892,16 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="M18SmokeGrenade_White">
     <nominal>10</nominal>
@@ -12873,6 +12914,16 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="M18SmokeGrenade_Yellow">
     <nominal>10</nominal>
@@ -12885,6 +12936,16 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="M16A2">
     <nominal>2</nominal>
@@ -13169,6 +13230,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="M68Optic">
     <nominal>4</nominal>
@@ -16728,7 +16795,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier10" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="PlateCarrierHolster">
     <nominal>8</nominal>
@@ -17480,12 +17552,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier1" />
-    <value name="Tier17" />
-    <value name="Tier7" />
-    <value name="Tier13" />
-    <value name="Tier10" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="RabbitLegMeat">
     <nominal>0</nominal>
@@ -17796,8 +17868,12 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
-    <value name="Tier17" />
-    <value name="Tier7" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
     <usage name="Military" />
   </type>
   <type name="RemoteDetonatorReceiver">
@@ -17821,6 +17897,12 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="Repeater">
     <nominal>20</nominal>
@@ -18236,6 +18318,12 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
   </type>
   <type name="SawedoffIzh18">
     <nominal>0</nominal>

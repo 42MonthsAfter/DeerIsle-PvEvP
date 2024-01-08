@@ -422,6 +422,193 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_20x76",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_50BMG",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_408Cheytac",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_762x25",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_6x35",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_500SW_Mag",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_50AE",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_44Mag",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_57x28",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_46x30",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_3006",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_40SW",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_Arrow",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_20x102mm",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_300WinMag",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_30Carbine",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Ammo_792x57",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

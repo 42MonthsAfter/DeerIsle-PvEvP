@@ -3467,9 +3467,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier8" />
-        <value name="Tier9" />
-        <value name="Tier13" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
     </type>
 	<!-- CROSSBOWS -->
     <type name="Expansion_Crossbow">
@@ -3743,9 +3746,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier13" />
-        <value name="Tier4" />
-        <value name="Tier7" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
     </type>
     <type name="Expansion_M1A">
         <nominal>9</nominal>
@@ -4037,9 +4043,12 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier8" />
-        <value name="Tier9" />
-        <value name="Tier13" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
     </type>
 	<type name="Ammo_Expansion_M203_Sticky_Smoke_White">
         <nominal>10</nominal>
@@ -4133,9 +4142,12 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier8" />
-        <value name="Tier9" />
-        <value name="Tier13" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
     </type>
 	<type name="Ammo_Expansion_M203_HE">
         <nominal>10</nominal>
@@ -4303,9 +4315,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier8" />
-        <value name="Tier9" />
-        <value name="Tier13" />
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
     </type>
 	<type name="Mag_Expansion_Kedr_20Rnd">
 	    <nominal>30</nominal>
