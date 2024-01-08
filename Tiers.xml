@@ -1,0 +1,28 @@
+// Main Island (Low Tier PvE)
+
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
+
+// Driveable PvP Locations (Medium Tier PvP)
+
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
+
+// Boats / Keycard Need + Temple (High Tier PvP)
+
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+
+// Crypt tag
+		
+		<usage name="Crypt" />	
