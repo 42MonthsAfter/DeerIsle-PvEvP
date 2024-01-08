@@ -2972,9 +2972,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <value name="Tier8" />
-    <value name="Tier3" />
-    <value name="Tier2" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     <usage name="Town" />
     <usage name="Farm" />
     <usage name="Village" />
@@ -14977,14 +14978,10 @@
     <category name="weapons" />
     <usage name="Farm" />
     <usage name="Hunting" />
-    <value name="Tier1" />
-    <value name="Tier4" />
-    <value name="Tier8" />
-    <value name="Tier5" />
-    <value name="Tier11" />
-    <value name="Tier3" />
-    <value name="Tier6" />
-    <value name="Tier10" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="Mosin9130_Black">
     <nominal>0</nominal>
@@ -14996,6 +14993,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="Mosin9130_Camo">
     <nominal>0</nominal>
@@ -15007,6 +15008,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="Mosin9130_Green">
     <nominal>0</nominal>
@@ -15018,6 +15023,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="Mosin_Bayonet">
     <nominal>6</nominal>
@@ -15031,17 +15040,10 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Farm" />
-    <value name="Tier1" />
-    <value name="Tier4" />
-    <value name="Tier7" />
-    <value name="Tier13" />
-    <value name="Tier8" />
-    <value name="Tier5" />
-    <value name="Tier11" />
-    <value name="Tier3" />
-    <value name="Tier6" />
-    <value name="Tier2" />
-    <value name="Tier9" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="Mosin_Compensator">
     <nominal>8</nominal>
@@ -15059,14 +15061,10 @@
     <usage name="Village" />
     <usage name="Coast" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier1" />
-    <value name="Tier4" />
-    <value name="Tier9" />
-    <value name="Tier13" />
-    <value name="Tier5" />
-    <value name="Tier12" />
-    <value name="Tier11" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="MotoHelmet_Black">
     <nominal>8</nominal>
@@ -17981,13 +17979,12 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier1" />
-    <value name="Tier4" />
-    <value name="Tier9" />
-    <value name="Tier5" />
-    <value name="Tier12" />
-    <value name="Tier11" />
+	    <value name="Tier1"/>
+	    <value name="Tier4"/>
+	    <value name="Tier5"/>
+	    <value name="Tier11"/>
+	    <value name="Tier12"/>
+	    <value name="Tier13"/>
   </type>
   <type name="SKS_Bayonet">
     <nominal>6</nominal>
@@ -18202,6 +18199,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="SawedoffIzh18Shotgun">
     <nominal>0</nominal>
@@ -18268,6 +18269,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="SawedoffMosin9130_Black">
     <nominal>0</nominal>
@@ -18279,6 +18284,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="SawedoffMosin9130_Camo">
     <nominal>0</nominal>
@@ -18290,6 +18299,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="SawedoffMosin9130_Green">
     <nominal>0</nominal>
@@ -18301,6 +18314,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
   </type>
   <type name="Screwdriver">
     <nominal>30</nominal>

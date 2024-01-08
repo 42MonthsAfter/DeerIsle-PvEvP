@@ -3469,12 +3469,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_M1Garand">
         <nominal>1</nominal>
@@ -3487,12 +3485,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_L96A1">
         <nominal>1</nominal>
@@ -3685,12 +3681,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_RemingtonMSR">
         <nominal>1</nominal>
@@ -3739,12 +3733,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_SG550S">
         <nominal>1</nominal>
@@ -3757,12 +3749,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_SSG69">
         <nominal>1</nominal>
@@ -3901,12 +3891,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_WinchesterRifle">
         <nominal>1</nominal>
@@ -3919,12 +3907,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_ASW338">
         <nominal>1</nominal>
@@ -4225,12 +4211,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_Anzio">
         <nominal>1</nominal>
@@ -4279,12 +4263,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_G43">
         <nominal>1</nominal>
@@ -4441,12 +4423,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_PSG1">
         <nominal>1</nominal>
@@ -4747,12 +4727,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier2"/>
+	    <value name="Tier3"/>
+	    <value name="Tier6"/>
+	    <value name="Tier8"/>
     </type>
 	<type name="TWP_SKS">
         <nominal>1</nominal>
