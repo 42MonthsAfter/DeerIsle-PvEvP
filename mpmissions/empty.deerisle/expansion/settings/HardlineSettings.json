@@ -16,7 +16,7 @@
     "UseItemRarityOnInventoryIcons": 1,
     "UseItemRarityForMarketPurchase": 1,
     "UseItemRarityForMarketSell": 1,
-    "MaxReputation": 20000,
+    "MaxReputation": 42000,
     "ReputationLossOnDeath": 500,
     "DefaultItemRarity": 2,
     "EntityReputation": {
