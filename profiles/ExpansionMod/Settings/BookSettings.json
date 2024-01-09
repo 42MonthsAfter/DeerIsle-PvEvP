@@ -94,6 +94,19 @@
                     "RuleText": "Anything goes in PvP zones including kill on sight. Be warned."
                 }
             ]
+        },
+        {
+            "CategoryName": "Trader Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "Limited Inventory",
+                    "RuleText": "Limited items are available to be bought and sold at the trader. For example, high tier weapons and clothing can only be bought and sold to / from other players via the P2P trader."
+                },
+                {
+                    "RuleParagraph": "P2P Trader (WIP)",
+                    "RuleText": "THIS IS A WORK IN PROGRESS, launch date TBD. The P2P trader allows individuals to sell rare items at prices they set to other players. The transaction will be automatic and not require both players to be online. The funds will be deposited directly into the seller's account."
+                }
+            ]
         }
     ],
     "DisplayServerSettingsInServerInfoTab": 1,
