@@ -96,7 +96,7 @@
             ]
         },
         {
-            "CategoryName": "Trader Rules",
+            "CategoryName": "Trader Info",
             "Rules": [
                 {
                     "RuleParagraph": "Limited Inventory",
