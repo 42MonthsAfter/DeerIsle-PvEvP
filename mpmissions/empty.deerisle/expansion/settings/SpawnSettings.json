@@ -218,17 +218,17 @@
         "SetRandomHealth": 1,
         "UpperGear": [
             {
-                "ClassName": "Bandage",
-                "Quantity": 1,
+                "ClassName": "Rag",
+                "Quantity": 4,
                 "Attachments": []
             },
             {
                 "ClassName": "PeachesCan_Opened",
-                "Quantity": 1,
+                "Quantity": -1,
                 "Attachments": []
             },
             {
-                "ClassName": "Flashlist",
+                "ClassName": "Flashlight",
                 "Quantity": 1,
                 "Attachments": [
                     "Battery9V"
