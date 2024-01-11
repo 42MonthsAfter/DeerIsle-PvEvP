@@ -191,29 +191,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Kukri_Sakura",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Kukri_Engraved",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "TWP_Kukri_Sakura",
+                "TWP_Kukri_Engraved"
+            ]
         },
         {
             "ClassName": "TWP_SmithWesson_Knife_Green",
@@ -224,18 +205,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_SmithWesson_Knife_Black",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "TWP_SmithWesson_Knife_Black"
+            ]
         },
         {
             "ClassName": "TWP_Holymackerel",
@@ -303,11 +275,12 @@
             "SpawnAttachments": [],
             "Variants": [
                 "TWP_FlySwatter_Grey",
-                "TWP_FlySwatter_Red"
+                "TWP_FlySwatter_Red",
+                "TWP_Machete_Black"
             ]
         },
         {
-            "ClassName": "TWP_Machete_Black",
+            "ClassName": "TWP_Machete_Camouflage",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
@@ -316,7 +289,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "TWP_Machete_Camouflage",
                 "TWP_Machete_USA",
                 "TWP_Machete_Brazil"
             ]

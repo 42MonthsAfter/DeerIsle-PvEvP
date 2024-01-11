@@ -140,7 +140,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TWP_Winchester1873",
+            "ClassName": "expansion_m1a",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
@@ -148,126 +148,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_WinchesterRifle",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Marlin",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Arisaka",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_MosinNagant",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_MosinNagant_Wrapped",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_SG550S",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Sako75",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Remington700",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_M1Garand",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Kar98",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+                "mag_expansion_m14_10rnd"
             ],
             "Variants": []
         }
