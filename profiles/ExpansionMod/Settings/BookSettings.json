@@ -94,19 +94,6 @@
                     "RuleText": "Anything goes in PvP zones including kill on sight. Be warned."
                 }
             ]
-        },
-        {
-            "CategoryName": "Trader Info",
-            "Rules": [
-                {
-                    "RuleParagraph": "Limited Inventory",
-                    "RuleText": "Limited items are available to be bought and sold at the trader. For example, high tier weapons and clothing can only be bought and sold to / from other players via the P2P trader."
-                },
-                {
-                    "RuleParagraph": "P2P Trader (WIP)",
-                    "RuleText": "THIS IS A WORK IN PROGRESS, launch date TBD. The P2P trader allows individuals to sell rare items at prices they set to other players. The transaction will be automatic and not require both players to be online. The funds will be deposited directly into the seller's account."
-                }
-            ]
         }
     ],
     "DisplayServerSettingsInServerInfoTab": 1,
@@ -210,37 +197,37 @@
     "Links": [
         {
             "Name": "Homepage",
-            "URL": "http://www.42MonthsAfter.com/",
+            "URL": "https://www.42MonthsAfter.com/",
             "IconName": "Homepage",
             "IconColor": -14473430
         },
         {
             "Name": "Feedback",
-            "URL": "http://discord.42MonthsAfter.com",
+            "URL": "https://discord.42MonthsAfter.com",
             "IconName": "Forums",
             "IconColor": -14473430
         },
         {
             "Name": "Discord",
-            "URL": "https//discord.42MonthsAfter.com/",
+            "URL": "https://discord.42MonthsAfter.com/",
             "IconName": "Discord",
             "IconColor": -9270822
         },
         {
             "Name": "Reddit",
-            "URL": "http://www.reddit.com/user/42_Months_After",
+            "URL": "https://www.reddit.com/user/42_Months_After",
             "IconName": "Reddit",
             "IconColor": -12386303
         },
         {
             "Name": "GitHub",
-            "URL": "http://github.com/42MonthsAfter",
+            "URL": "https://github.com/42MonthsAfter",
             "IconName": "GitHub",
             "IconColor": -16777216
         },
         {
             "Name": "YouTube",
-            "URL": "http://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
+            "URL": "https://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
             "IconName": "YouTube",
             "IconColor": -65536
         }

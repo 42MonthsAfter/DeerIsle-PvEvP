@@ -250,19 +250,6 @@
             "Variants": []
         },
         {
-            "ClassName": "TWP_ACR",
-            "MaxPriceThreshold": 5600,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_ACR_mag_30Rnd"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "TWP_ACWR",
             "MaxPriceThreshold": 5600,
             "MinPriceThreshold": 5000,
@@ -588,19 +575,6 @@
             "Variants": []
         },
         {
-            "ClassName": "TWP_FG42",
-            "MaxPriceThreshold": 5600,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_FG42_mag_25Rnd"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "TWP_FNF2000",
             "MaxPriceThreshold": 5600,
             "MinPriceThreshold": 5000,
@@ -881,32 +855,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "TWP_MK18_mag_100Rnd"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_MSBSGrotC",
-            "MaxPriceThreshold": 5600,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_MSBSGrotC_mag_30Rnd"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_MSBSGrotBGold",
-            "MaxPriceThreshold": 5600,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_MSBSGrotBGold_mag_30Rnd"
             ],
             "Variants": []
         },

@@ -25,7 +25,7 @@
     "ActorsPerTick": 5,
     "DisableVehicleDamageInSafeZone": 1,
     "EnableForceSZCleanup": 0,
-    "ItemLifetimeInSafeZone": 3888000.0,
+    "ItemLifetimeInSafeZone": 3600.0,
     "EnableForceSZCleanupVehicles": 0,
     "VehicleLifetimeInSafeZone": 3888000.0,
     "ForceSZCleanup_ExcludedItems": []
