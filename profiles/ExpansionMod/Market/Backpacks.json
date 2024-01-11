@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "childbag_red",
+            "ClassName": "MVS_Pack_OD",
             "MaxPriceThreshold": 40,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
@@ -16,257 +16,183 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "childbag_blue",
-                "childbag_green"
+                "MVS_Pack_Black_Camo_Bunker",
+                "MVS_Pack_Black_Camo2_Bunker",
+                "MVS_Pack_Camo_Orange_Bunker",
+                "MVS_Pack_Camo_Tigr_Bunker",
+                "MVS_Pack_ELRD_Camo_Bunker",
+                "MVS_Pack_Forest_Bunker",
+                "MVS_Pack_Green_Camo_Bunker",
+                "MVS_Pack_Yellow_Camo_Bunker",
+                "MVS_Pack_Tan",
+                "MVS_Pack_Black",
+                "MVS_Pack_Snow",
+                "MVS_Pack_ERDL",
+                "MVS_Pack_Multicam",
+                "MVS_Pack_Multicam_Tropic",
+                "MVS_Pack_Multicam_Black"
             ]
         },
         {
-            "ClassName": "childbag_green",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 25,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "drybag_orange",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "ClassName": "MVS_Pack_OD",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "drybag_yellow",
-                "drybag_blue",
-                "drybag_black",
-                "drybag_red",
-                "drybag_green"
+                "MVS_Assault_Pack_Tan",
+                "MVS_Assault_Pack_Black",
+                "MVS_Assault_Pack_Snow",
+                "MVS_Assault_Pack_ERDL",
+                "MVS_Assault_Pack_Multicam",
+                "MVS_Assault_Pack_Multicam_Tropic",
+                "MVS_Assault_Pack_Multicam_Black",
+                "MVS_Assault_Pack_Black_Camo_Bunker",
+                "MVS_Assault_Pack_Black_Camo2_Bunker",
+                "MVS_Assault_Pack_Camo_Orange_Bunker",
+                "MVS_Assault_Pack_Camo_Tigr_Bunker",
+                "MVS_Assault_Pack_ELRD_Camo_Bunker",
+                "MVS_Assault_Pack_Forest_Bunker",
+                "MVS_Assault_Pack_Green_Camo_Bunker",
+                "MVS_Assault_Pack_Yellow_Camo_Bunker"
             ]
         },
         {
-            "ClassName": "drybag_green",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "taloonbag_blue",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "ClassName": "MVS_Radio_Pack_OD",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "taloonbag_orange",
-                "taloonbag_violet",
-                "taloonbag_green"
+                "MVS_Radio_Pack_Tan",
+                "MVS_Radio_Pack_Black",
+                "MVS_Radio_Pack_Snow",
+                "MVS_Radio_Pack_ERDL",
+                "MVS_Radio_Pack_Multicam",
+                "MVS_Radio_Pack_Multicam_Tropic",
+                "MVS_Radio_Pack_Multicam_Black",
+                "MVS_Assault_Pack_Black_Camo_Bunker",
+                "MVS_Assault_Pack_Black_Camo2_Bunker",
+                "MVS_Assault_Pack_Camo_Orange_Bunker",
+                "MVS_Assault_Pack_Camo_Tigr_Bunker",
+                "MVS_Assault_Pack_ELRD_Camo_Bunker",
+                "MVS_Assault_Pack_Forest_Bunker",
+                "MVS_Assault_Pack_Green_Camo_Bunker",
+                "MVS_Assault_Pack_Yellow_Camo_Bunker"
             ]
         },
         {
-            "ClassName": "taloonbag_green",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "smershbag",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "assaultbag_black",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 110,
+            "ClassName": "MVS_Rucksack_OD",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "assaultbag_green",
-                "assaultbag_ttsko"
+                "MVS_Rucksack_Black_Camo_Bunker",
+                "MVS_Rucksack_Black_Camo2_Bunker",
+                "MVS_Rucksack_Camo_Orange_Bunker",
+                "MVS_Rucksack_Camo_Tigr_Bunker",
+                "MVS_Rucksack_ELRD_Camo_Bunker",
+                "MVS_Rucksack_Forest_Bunker",
+                "MVS_Rucksack_Green_Camo_Bunker",
+                "MVS_Rucksack_Yellow_Camo_Bunker",
+                "MVS_Rucksack_ERDL",
+                "MVS_Rucksack_Tan",
+                "MVS_Rucksack_Black",
+                "MVS_Rucksack_Snow",
+                "MVS_Rucksack_Multicam",
+                "MVS_Rucksack_Multicam_Tropic",
+                "MVS_Rucksack_Multicam_Black"
             ]
         },
         {
-            "ClassName": "assaultbag_ttsko",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "huntingbag",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tortillabag",
-            "MaxPriceThreshold": 360,
-            "MinPriceThreshold": 180,
+            "ClassName": "MVS_Compact_1_OD",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "expansiondeserttortilla"
+                "MVS_Compact_1_Tan",
+                "MVS_Compact_1_Black",
+                "MVS_Compact_1_ERDL",
+                "MVS_Compact_1_Snow",
+                "MVS_Compact_1_Multicam",
+                "MVS_Compact_1_Multicam_Tropic",
+                "MVS_Compact_1_Multicam_Black",
+                "MVS_Compact_1_Yellow_Camo_Bunker",
+                "MVS_Compact_1_Green_Camo_Bunker",
+                "MVS_Compact_1_Forest_Bunker",
+                "MVS_Compact_1_ELRD_Camo_Bunker",
+                "MVS_Compact_1_Camo_Tigr_Bunker",
+                "MVS_Compact_1_Camo_Orange_Bunker",
+                "MVS_Compact_1_Black_Camo2_Bunker",
+                "MVS_Compact_1_Black_Camo_Bunker"
             ]
         },
         {
-            "ClassName": "coyotebag_brown",
-            "MaxPriceThreshold": 360,
-            "MinPriceThreshold": 180,
+            "ClassName": "MVS_Compact_2_OD",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "coyotebag_green",
-                "expansioncoyoteblack"
+                "MVS_Compact_2_Tan",
+                "MVS_Compact_2_Black",
+                "MVS_Compact_2_Snow",
+                "MVS_Compact_2_ERDL",
+                "MVS_Compact_2_Multicam",
+                "MVS_Compact_2_Multicam_Tropic",
+                "MVS_Compact_2_Multicam_Black",
+                "MVS_Compact_2_Yellow_Camo_Bunker",
+                "MVS_Compact_2_Green_Camo_Bunker",
+                "MVS_Compact_2_Forest_Bunker",
+                "MVS_Compact_2_ELRD_Camo_Bunker",
+                "MVS_Compact_2_Camo_Tigr_Bunker",
+                "MVS_Compact_2_Camo_Orange_Bunker",
+                "MVS_Compact_2_Black_Camo2_Bunker",
+                "MVS_Compact_2_Black_Camo_Bunker"
             ]
         },
         {
-            "ClassName": "mountainbag_red",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "ClassName": "MVS_SlingPack_OD",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "mountainbag_blue",
-                "mountainbag_orange",
-                "mountainbag_green"
-            ]
-        },
-        {
-            "ClassName": "alicebag_green",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "alicebag_black",
-                "alicebag_camo"
-            ]
-        },
-        {
-            "ClassName": "alicebag_camo",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "slingbag_black",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "slingbag_brown",
-                "slingbag_gray"
-            ]
-        },
-        {
-            "ClassName": "duffelbagsmall_camo",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "duffelbagsmall_green",
-                "duffelbagsmall_medical"
-            ]
-        },
-        {
-            "ClassName": "canvasbag_medical",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "canvasbag_olive"
-            ]
-        },
-        {
-            "ClassName": "armypouch_beige",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "armypouch_black",
-                "armypouch_camo",
-                "armypouch_green"
-            ]
-        },
-        {
-            "ClassName": "drysackbag_green",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "drysackbag_orange",
-                "drysackbag_yellow"
+                "MVS_SlingPack_Tan",
+                "MVS_SlingPack_Black",
+                "MVS_SlingPack_Multicam",
+                "MVS_SlingPack_Multicam_Black",
+                "MVS_SlingPack_Multicam_Tropic",
+                "MVS_SlingPack_ERDL",
+                "MVS_SlingPack_Snow",
+                "MVS_SlingPack_Yellow_Camo_Bunker",
+                "MVS_SlingPack_Green_Camo_Bunker",
+                "MVS_SlingPack_Forest_Bunker",
+                "MVS_SlingPack_ELRD_Camo_Bunker",
+                "MVS_SlingPack_Camo_Tigr_Bunker",
+                "MVS_SlingPack_Camo_Orange_Bunker",
+                "MVS_SlingPack_Black_Camo2_Bunker",
+                "MVS_SlingPack_Black_Camo_Bunker"
             ]
         }
     ]

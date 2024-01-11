@@ -1,13 +1,13 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SHIRTS & #STR_EXPANSION_MARKET_CATEGORY_TSHIRTS",
+    "DisplayName": "TACTICAL SHIRTS & JACKETS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "tshirt_blue",
+            "ClassName": "MVS_Shirt_BDU",
             "MaxPriceThreshold": 16,
             "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
@@ -16,184 +16,54 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "tshirt_orangewhitestripes",
-                "tshirt_red",
-                "tshirt_redblackstripes",
-                "tshirt_beige",
-                "tshirt_grey",
-                "tshirt_black",
-                "tshirt_green",
-                "tshirt_white"
+                "MVS_Shirt_BDU_Snow",
+                "MVS_Shirt_BDU_Multicam",
+                "MVS_Shirt_BDU_Multicam_Tropic",
+                "MVS_Shirt_BDU_Multicam_Black"
             ]
         },
         {
-            "ClassName": "tshirt_beige",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_grey",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_black",
-            "MaxPriceThreshold": 24,
-            "MinPriceThreshold": 12,
+            "ClassName": "MVS_GorkaJacket",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "tshirt_10thanniversary"
+                "MVS_GorkaJacket_Snow",
+                "MVS_GorkaJacket_Multicam",
+                "MVS_GorkaJacket_Multicam_Tropic",
+                "MVS_GorkaJacket_Multicam_Black"
             ]
         },
         {
-            "ClassName": "tshirt_green",
-            "MaxPriceThreshold": 24,
-            "MinPriceThreshold": 12,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "telnyashkashirt",
-            "MaxPriceThreshold": 28,
-            "MinPriceThreshold": 14,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shirt_bluecheck",
-            "MaxPriceThreshold": 32,
-            "MinPriceThreshold": 16,
+            "ClassName": "MVS_CombatShirt_OD",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "shirt_bluecheckbright",
-                "shirt_redcheck",
-                "shirt_whitecheck",
-                "shirt_planeblack",
-                "shirt_greencheck"
+                "MVS_CombatShirt_Black_Camo_Bunker",
+                "MVS_CombatShirt_Black_Camo2_Bunker",
+                "MVS_CombatShirt_Camo_Orange_Bunker",
+                "MVS_CombatShirt_Camo_Tigr_Bunker",
+                "MVS_CombatShirt_ELRD_Camo_Bunker",
+                "MVS_CombatShirt_Forest_Bunker",
+                "MVS_CombatShirt_Green_Camo_Bunker",
+                "MVS_CombatShirt_Yellow_Camo_Bunker",
+                "MVS_CombatShirt_Tan",
+                "MVS_CombatShirt_Black",
+                "MVS_CombatShirt_Snow",
+                "MVS_CombatShirt_ERDL",
+                "MVS_CombatShirt_Multicam",
+                "MVS_CombatShirt_Multicam_Tropic",
+                "MVS_CombatShirt_Multicam_Black"
             ]
-        },
-        {
-            "ClassName": "shirt_planeblack",
-            "MaxPriceThreshold": 34,
-            "MinPriceThreshold": 17,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shirt_greencheck",
-            "MaxPriceThreshold": 36,
-            "MinPriceThreshold": 18,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "medicalscrubsshirt_blue",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "medicalscrubsshirt_green",
-                "medicalscrubsshirt_white"
-            ]
-        },
-        {
-            "ClassName": "chernarussportshirt",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 25,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalshirt_grey",
-            "MaxPriceThreshold": 72,
-            "MinPriceThreshold": 36,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "tacticalshirt_tan",
-                "tacticalshirt_black",
-                "tacticalshirt_olive"
-            ]
-        },
-        {
-            "ClassName": "tacticalshirt_tan",
-            "MaxPriceThreshold": 74,
-            "MinPriceThreshold": 37,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalshirt_black",
-            "MaxPriceThreshold": 76,
-            "MinPriceThreshold": 38,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalshirt_olive",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }

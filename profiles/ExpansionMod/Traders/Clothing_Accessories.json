@@ -11,18 +11,10 @@
     ],
     "Categories": [
         "Helmets",
-        "Caps",
-        "Hats_And_Hoods",
         "Armbands",
         "Backpacks",
-        "Eyewear",
-        "Gloves",
-        "Bandanas",
-        "Masks",
         "Vests",
-        "Holsters_And_Pouches",
-        "Ghillies",
-        "Belts"
-    ],
+        "Holsters_And_Pouches"
+            ],
     "Items": {}
 }
