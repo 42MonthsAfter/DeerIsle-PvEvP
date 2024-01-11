@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BACKPACKS",
+    "DisplayName": "BACKPACKS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -16,13 +16,12 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "MVS_Pack_Black_Camo_Bunker",
-                "MVS_Pack_Black_Camo2_Bunker",
-                "MVS_Pack_Camo_Orange_Bunker",
-                "MVS_Pack_Camo_Tigr_Bunker",
-                "MVS_Pack_ELRD_Camo_Bunker",
+                "MVS_Pack_Black_Camo",
+                "MVS_Pack_Black_Camo2",
+                "MVS_Pack_Orange_Camo_Bunker",
+                "MVS_Pack_Tigr_Camo_Bunker",
                 "MVS_Pack_Forest_Bunker",
-                "MVS_Pack_Green_Camo_Bunker",
+                "MVS_Pack_Green_Camo",
                 "MVS_Pack_Yellow_Camo_Bunker",
                 "MVS_Pack_Tan",
                 "MVS_Pack_Black",
@@ -34,7 +33,7 @@
             ]
         },
         {
-            "ClassName": "MVS_Pack_OD",
+            "ClassName": "MVS_Assault_Pack_OD",
             "MaxPriceThreshold": 40,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
@@ -50,13 +49,12 @@
                 "MVS_Assault_Pack_Multicam",
                 "MVS_Assault_Pack_Multicam_Tropic",
                 "MVS_Assault_Pack_Multicam_Black",
-                "MVS_Assault_Pack_Black_Camo_Bunker",
-                "MVS_Assault_Pack_Black_Camo2_Bunker",
-                "MVS_Assault_Pack_Camo_Orange_Bunker",
-                "MVS_Assault_Pack_Camo_Tigr_Bunker",
-                "MVS_Assault_Pack_ELRD_Camo_Bunker",
+                "MVS_Assault_Pack_Black_Camo",
+                "MVS_Assault_Pack_Black_Camo2",
+                "MVS_Assault_Pack_Orange_Camo_Bunker",
+                "MVS_Assault_Pack_Tigr_Camo_Bunker",
                 "MVS_Assault_Pack_Forest_Bunker",
-                "MVS_Assault_Pack_Green_Camo_Bunker",
+                "MVS_Assault_Pack_Green_Camo",
                 "MVS_Assault_Pack_Yellow_Camo_Bunker"
             ]
         },
@@ -76,15 +74,7 @@
                 "MVS_Radio_Pack_ERDL",
                 "MVS_Radio_Pack_Multicam",
                 "MVS_Radio_Pack_Multicam_Tropic",
-                "MVS_Radio_Pack_Multicam_Black",
-                "MVS_Assault_Pack_Black_Camo_Bunker",
-                "MVS_Assault_Pack_Black_Camo2_Bunker",
-                "MVS_Assault_Pack_Camo_Orange_Bunker",
-                "MVS_Assault_Pack_Camo_Tigr_Bunker",
-                "MVS_Assault_Pack_ELRD_Camo_Bunker",
-                "MVS_Assault_Pack_Forest_Bunker",
-                "MVS_Assault_Pack_Green_Camo_Bunker",
-                "MVS_Assault_Pack_Yellow_Camo_Bunker"
+                "MVS_Radio_Pack_Multicam_Black"
             ]
         },
         {
@@ -97,13 +87,12 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "MVS_Rucksack_Black_Camo_Bunker",
-                "MVS_Rucksack_Black_Camo2_Bunker",
-                "MVS_Rucksack_Camo_Orange_Bunker",
-                "MVS_Rucksack_Camo_Tigr_Bunker",
-                "MVS_Rucksack_ELRD_Camo_Bunker",
+                "MVS_Rucksack_Black_Camo",
+                "MVS_Rucksack_Black_Camo2",
+                "MVS_Rucksack_Orange_Camo_Bunker",
+                "MVS_Rucksack_Tigr_Camo_Bunker",
                 "MVS_Rucksack_Forest_Bunker",
-                "MVS_Rucksack_Green_Camo_Bunker",
+                "MVS_Rucksack_Green_Camo",
                 "MVS_Rucksack_Yellow_Camo_Bunker",
                 "MVS_Rucksack_ERDL",
                 "MVS_Rucksack_Tan",
@@ -132,13 +121,12 @@
                 "MVS_Compact_1_Multicam_Tropic",
                 "MVS_Compact_1_Multicam_Black",
                 "MVS_Compact_1_Yellow_Camo_Bunker",
-                "MVS_Compact_1_Green_Camo_Bunker",
+                "MVS_Compact_1_Green_Camo",
                 "MVS_Compact_1_Forest_Bunker",
-                "MVS_Compact_1_ELRD_Camo_Bunker",
-                "MVS_Compact_1_Camo_Tigr_Bunker",
-                "MVS_Compact_1_Camo_Orange_Bunker",
-                "MVS_Compact_1_Black_Camo2_Bunker",
-                "MVS_Compact_1_Black_Camo_Bunker"
+                "MVS_Compact_1_Tigr_Camo_Bunker",
+                "MVS_Compact_1_Orange_Camo_Bunker",
+                "MVS_Compact_1_Black_Camo2",
+                "MVS_Compact_1_Black_Camo"
             ]
         },
         {
@@ -159,13 +147,12 @@
                 "MVS_Compact_2_Multicam_Tropic",
                 "MVS_Compact_2_Multicam_Black",
                 "MVS_Compact_2_Yellow_Camo_Bunker",
-                "MVS_Compact_2_Green_Camo_Bunker",
+                "MVS_Compact_2_Green_Camo",
                 "MVS_Compact_2_Forest_Bunker",
-                "MVS_Compact_2_ELRD_Camo_Bunker",
-                "MVS_Compact_2_Camo_Tigr_Bunker",
-                "MVS_Compact_2_Camo_Orange_Bunker",
-                "MVS_Compact_2_Black_Camo2_Bunker",
-                "MVS_Compact_2_Black_Camo_Bunker"
+                "MVS_Compact_2_Tigr_Camo_Bunker",
+                "MVS_Compact_2_Orange_Camo_Bunker",
+                "MVS_Compact_2_Black_Camo2",
+                "MVS_Compact_2_Black_Camo"
             ]
         },
         {
@@ -186,13 +173,12 @@
                 "MVS_SlingPack_ERDL",
                 "MVS_SlingPack_Snow",
                 "MVS_SlingPack_Yellow_Camo_Bunker",
-                "MVS_SlingPack_Green_Camo_Bunker",
+                "MVS_SlingPack_Green_Camo",
                 "MVS_SlingPack_Forest_Bunker",
-                "MVS_SlingPack_ELRD_Camo_Bunker",
-                "MVS_SlingPack_Camo_Tigr_Bunker",
-                "MVS_SlingPack_Camo_Orange_Bunker",
-                "MVS_SlingPack_Black_Camo2_Bunker",
-                "MVS_SlingPack_Black_Camo_Bunker"
+                "MVS_SlingPack_Tigr_Camo_Bunker",
+                "MVS_SlingPack_Orange_Camo_Bunker",
+                "MVS_SlingPack_Black_Camo2",
+                "MVS_SlingPack_Black_Camo"
             ]
         }
     ]

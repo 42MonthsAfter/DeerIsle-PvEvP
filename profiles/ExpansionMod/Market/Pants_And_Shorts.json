@@ -53,13 +53,12 @@
                 "MVS_CombatPants_Multicam_Tropic",
                 "MVS_CombatPants_Multicam_Black",
                 "MVS_CombatPants_Yellow_Camo_Bunker",
-                "MVS_CombatPants_Green_Camo_Bunker",
+                "MVS_CombatPants_Green_Camo",
                 "MVS_CombatPants_Forest_Bunker",
-                "MVS_CombatPants_ELRD_Camo_Bunker",
-                "MVS_CombatPants_Camo_Tigr_Bunker",
-                "MVS_CombatPants_Camo_Orange_Bunker",
-                "MVS_CombatPants_Black_Camo2_Bunker",
-                "MVS_CombatPants_Black_Camo_Bunker"
+                "MVS_CombatPants_Tigr_Camo_Bunker",
+                "MVS_CombatPants_Orange_Camo_Bunker",
+                "MVS_CombatPants_Black_Camo2",
+                "MVS_CombatPants_Black_Camo"
             ]
         }
     ]

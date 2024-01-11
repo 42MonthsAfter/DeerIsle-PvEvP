@@ -1397,7 +1397,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Black_Camo_Bunker">
+  <type name="MVS_Combat_Vest_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1415,7 +1415,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Black_Camo2_Bunker">
+  <type name="MVS_Combat_Vest_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1433,7 +1433,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Camo_Orange_Bunker">
+  <type name="MVS_Combat_Vest_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1451,7 +1451,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Camo_Tigr_Bunker">
+  <type name="MVS_Combat_Vest_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1505,7 +1505,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Green_Camo_Bunker">
+  <type name="MVS_Combat_Vest_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1613,7 +1613,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Magazine_Pouch_Black_Camo_Bunker">
+  <type name="MVS_Magazine_Pouch_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1631,7 +1631,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Magazine_Pouch_Black_Camo2_Bunker">
+  <type name="MVS_Magazine_Pouch_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1649,7 +1649,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Magazine_Pouch_Camo_Orange_Bunker">
+  <type name="MVS_Magazine_Pouch_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1667,7 +1667,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Magazine_Pouch_Camo_Tigr_Bunker">
+  <type name="MVS_Magazine_Pouch_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1685,7 +1685,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Magazine_Pouch_ELRD_Camo_Bunker">
+  <type name="MVS_Magazine_Pouch_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1721,7 +1721,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Magazine_Pouch_Green_Camo_Bunker">
+  <type name="MVS_Magazine_Pouch_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1829,7 +1829,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-    <type name="MVS_Admin_Pouch_Black_Camo_Bunker">
+    <type name="MVS_Admin_Pouch_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1847,7 +1847,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Admin_Pouch_Black_Camo2_Bunker">
+  <type name="MVS_Admin_Pouch_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1865,7 +1865,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Admin_Pouch_Camo_Orange_Bunker">
+  <type name="MVS_Admin_Pouch_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1883,7 +1883,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Admin_Pouch_Camo_Tigr_Bunker">
+  <type name="MVS_Admin_Pouch_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1901,7 +1901,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Admin_Pouch_ELRD_Camo_Bunker">
+  <type name="MVS_Admin_Pouch_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -1937,7 +1937,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Admin_Pouch_Green_Camo_Bunker">
+  <type name="MVS_Admin_Pouch_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2045,7 +2045,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-    <type name="MVS_Utility_Pouch_Black_Camo_Bunker">
+    <type name="MVS_Utility_Pouch_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2063,7 +2063,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Utility_Pouch_Black_Camo2_Bunker">
+  <type name="MVS_Utility_Pouch_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2081,7 +2081,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Utility_Pouch_Camo_Orange_Bunker">
+  <type name="MVS_Utility_Pouch_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2099,7 +2099,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Utility_Pouch_Camo_Tigr_Bunker">
+  <type name="MVS_Utility_Pouch_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2117,7 +2117,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Utility_Pouch_ELRD_Camo_Bunker">
+  <type name="MVS_Utility_Pouch_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2153,7 +2153,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Utility_Pouch_Green_Camo_Bunker">
+  <type name="MVS_Utility_Pouch_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2261,7 +2261,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-    <type name="MVS_Medical_Pouch_Camo_Orange_Bunker">
+    <type name="MVS_Medical_Pouch_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2279,7 +2279,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Medical_Pouch_Camo_Tigr_Bunker">
+  <type name="MVS_Medical_Pouch_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2297,7 +2297,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Medical_Pouch_ELRD_Camo_Bunker">
+  <type name="MVS_Medical_Pouch_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2441,7 +2441,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-    <type name="MVS_Pack_Black_Camo_Bunker">
+    <type name="MVS_Pack_Black_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2459,7 +2459,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Pack_Black_Camo2_Bunker">
+  <type name="MVS_Pack_Black_Camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2477,7 +2477,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Pack_Camo_Orange_Bunker">
+  <type name="MVS_Pack_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2495,7 +2495,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Pack_Camo_Tigr_Bunker">
+  <type name="MVS_Pack_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2513,7 +2513,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Pack_ELRD_Camo_Bunker">
+  <type name="MVS_Pack_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -2549,7 +2549,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Pack_Green_Camo_Bunker">
+  <type name="MVS_Pack_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3035,7 +3035,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Heavy_Black_Camo_Bunker">
+  <type name="MVS_Combat_Vest_Heavy_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3053,7 +3053,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Heavy_Black_Camo2_Bunker">
+  <type name="MVS_Combat_Vest_Heavy_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3071,7 +3071,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Heavy_Camo_Orange_Bunker">
+  <type name="MVS_Combat_Vest_Heavy_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3089,7 +3089,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Heavy_Camo_Tigr_Bunker">
+  <type name="MVS_Combat_Vest_Heavy_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3107,7 +3107,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Heavy_ELRD_Camo_Bunker">
+  <type name="MVS_Combat_Vest_Heavy_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3143,7 +3143,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Combat_Vest_Heavy_Green_Camo_Bunker">
+  <type name="MVS_Combat_Vest_Heavy_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3323,7 +3323,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-    <type name="MVS_Taco_Pouch_Black_Camo_Bunker">
+    <type name="MVS_Taco_Pouch_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3341,7 +3341,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Taco_Pouch_Black_Camo2_Bunker">
+  <type name="MVS_Taco_Pouch_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3359,7 +3359,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Taco_Pouch_Camo_Orange_Bunker">
+  <type name="MVS_Taco_Pouch_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3377,7 +3377,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Taco_Pouch_Camo_Tigr_Bunker">
+  <type name="MVS_Taco_Pouch_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3395,7 +3395,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Taco_Pouch_ELRD_Camo_Bunker">
+  <type name="MVS_Taco_Pouch_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3431,7 +3431,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Taco_Pouch_Green_Camo_Bunker">
+  <type name="MVS_Taco_Pouch_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3665,7 +3665,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_canteen_Black_Camo_Bunker">
+  <type name="MVS_canteen_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3682,7 +3682,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_canteen_Black_Camo2_Bunker">
+  <type name="MVS_canteen_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3716,7 +3716,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_canteen_Camo_Tigr_Bunker">
+  <type name="MVS_canteen_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3733,7 +3733,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_canteen_ELRD_Camo_Bunker">
+  <type name="MVS_canteen_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3767,7 +3767,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_canteen_Green_Camo_Bunker">
+  <type name="MVS_canteen_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3887,7 +3887,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_OpsCore_Black_Camo_Bunker">
+  <type name="MVS_OpsCore_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3905,7 +3905,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_OpsCore_Black_Camo2_Bunker">
+  <type name="MVS_OpsCore_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3923,7 +3923,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_OpsCore_Camo_Orange_Bunker">
+  <type name="MVS_OpsCore_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3941,7 +3941,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_OpsCore_Camo_Tigr_Bunker">
+  <type name="MVS_OpsCore_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3959,7 +3959,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_OpsCore_ELRD_Camo_Bunker">
+  <type name="MVS_OpsCore_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -3995,7 +3995,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_OpsCore_Green_Camo_Bunker">
+  <type name="MVS_OpsCore_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4606,7 +4606,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ArmoredHelmet_Black_Camo_Bunker">
+  <type name="MVS_ArmoredHelmet_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4624,7 +4624,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ArmoredHelmet_Black_Camo2_Bunker">
+  <type name="MVS_ArmoredHelmet_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4642,7 +4642,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ArmoredHelmet_Camo_Orange_Bunker">
+  <type name="MVS_ArmoredHelmet_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4660,7 +4660,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ArmoredHelmet_Camo_Tigr_Bunker">
+  <type name="MVS_ArmoredHelmet_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4678,7 +4678,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ArmoredHelmet_ELRD_Camo_Bunker">
+  <type name="MVS_ArmoredHelmet_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4714,7 +4714,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ArmoredHelmet_Green_Camo_Bunker">
+  <type name="MVS_ArmoredHelmet_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4858,6 +4858,132 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
+  <type name="MVS_WarriorHelmet_Black_Camo">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military"/>
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+  </type>
+  <type name="MVS_WarriorHelmet_Black_Camo2">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military"/>
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+  </type>
+  <type name="MVS_WarriorHelmet_Forest_Bunker">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military"/>
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+  </type>
+  <type name="MVS_WarriorHelmet_Green_Camo">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military"/>
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+  </type>
+  <type name="MVS_WarriorHelmet_Orange_Camo_Bunker">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military"/>
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+  </type>
+  <type name="MVS_WarriorHelmet_Tigr_Camo_Bunker">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military"/>
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+  </type>
+  <type name="MVS_WarriorHelmet_Yellow_Camo_Bunker">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military"/>
+	    <value name="Tier7"/>
+	    <value name="Tier10"/>
+	    <value name="Tier14"/>
+	    <value name="Tier16"/>
+	    <value name="Tier17"/>
+	    <value name="Tier18"/>
+  </type>
   <type name="MVS_WarriorHelmet_OD">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
@@ -4930,7 +5056,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Rucksack_Black_Camo_Bunker">
+  <type name="MVS_Rucksack_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4948,7 +5074,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Rucksack_Black_Camo2_Bunker">
+  <type name="MVS_Rucksack_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4966,7 +5092,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Rucksack_Camo_Orange_Bunker">
+  <type name="MVS_Rucksack_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -4984,7 +5110,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Rucksack_Camo_Tigr_Bunker">
+  <type name="MVS_Rucksack_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5002,7 +5128,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Rucksack_ELRD_Camo_Bunker">
+  <type name="MVS_Rucksack_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5038,7 +5164,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Rucksack_Green_Camo_Bunker">
+  <type name="MVS_Rucksack_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5164,7 +5290,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_1_Black_Camo_Bunker">
+  <type name="MVS_Compact_1_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5182,7 +5308,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_1_Black_Camo2_Bunker">
+  <type name="MVS_Compact_1_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5200,7 +5326,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_1_Camo_Orange_Bunker">
+  <type name="MVS_Compact_1_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5218,7 +5344,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_1_Camo_Tigr_Bunker">
+  <type name="MVS_Compact_1_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5236,7 +5362,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_1_ELRD_Camo_Bunker">
+  <type name="MVS_Compact_1_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5272,7 +5398,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_1_Green_Camo_Bunker">
+  <type name="MVS_Compact_1_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5398,7 +5524,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_2_Black_Camo_Bunker">
+  <type name="MVS_Compact_2_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5416,7 +5542,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_2_Black_Camo2_Bunker">
+  <type name="MVS_Compact_2_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5434,7 +5560,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_2_Camo_Orange_Bunker">
+  <type name="MVS_Compact_2_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5452,7 +5578,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_2_Camo_Tigr_Bunker">
+  <type name="MVS_Compact_2_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5470,7 +5596,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_2_ELRD_Camo_Bunker">
+  <type name="MVS_Compact_2_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5506,7 +5632,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Compact_2_Green_Camo_Bunker">
+  <type name="MVS_Compact_2_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5632,7 +5758,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ChestRig_Black_Camo_Bunker">
+  <type name="MVS_ChestRig_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5650,7 +5776,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ChestRig_Black_Camo2_Bunker">
+  <type name="MVS_ChestRig_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5668,7 +5794,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ChestRig_Camo_Orange_Bunker">
+  <type name="MVS_ChestRig_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5686,7 +5812,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ChestRig_Camo_Tigr_Bunker">
+  <type name="MVS_ChestRig_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5704,7 +5830,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ChestRig_ELRD_Camo_Bunker">
+  <type name="MVS_ChestRig_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -5740,7 +5866,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_ChestRig_Green_Camo_Bunker">
+  <type name="MVS_ChestRig_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -6763,7 +6889,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-    <type name="MVS_Assault_Pack_Black_Camo_Bunker">
+    <type name="MVS_Assault_Pack_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -6781,7 +6907,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Assault_Pack_Black_Camo2_Bunker">
+  <type name="MVS_Assault_Pack_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -6799,7 +6925,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Assault_Pack_Camo_Orange_Bunker">
+  <type name="MVS_Assault_Pack_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -6817,7 +6943,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-    <type name="MVS_Assault_Pack_Camo_Tigr_Bunker">
+    <type name="MVS_Assault_Pack_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -6835,7 +6961,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Assault_Pack_ELRD_Camo_Bunker">
+  <type name="MVS_Assault_Pack_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -6871,7 +6997,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Assault_Pack_Green_Camo_Bunker">
+  <type name="MVS_Assault_Pack_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7609,7 +7735,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatPants_Black_Camo_Bunker">
+  <type name="MVS_CombatPants_Black_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7627,7 +7753,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatPants_Black_Camo2_Bunker">
+  <type name="MVS_CombatPants_Black_Camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7645,7 +7771,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatPants_Camo_Orange_Bunker">
+  <type name="MVS_CombatPants_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7663,7 +7789,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatPants_Camo_Tigr_Bunker">
+  <type name="MVS_CombatPants_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7681,7 +7807,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatPants_ELRD_Camo_Bunker">
+  <type name="MVS_CombatPants_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7717,7 +7843,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatPants_Green_Camo_Bunker">
+  <type name="MVS_CombatPants_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7897,7 +8023,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatShirt_Black_Camo_Bunker">
+  <type name="MVS_CombatShirt_Black_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7915,7 +8041,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatShirt_Black_Camo2_Bunker">
+  <type name="MVS_CombatShirt_Black_Camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7933,7 +8059,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatShirt_Camo_Orange_Bunker">
+  <type name="MVS_CombatShirt_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7951,7 +8077,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatShirt_Camo_Tigr_Bunker">
+  <type name="MVS_CombatShirt_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -7967,9 +8093,9 @@
 	    <value name="Tier14"/>
 	    <value name="Tier16"/>
 	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	    <value name="Tier18"/>R
   </type>
-  <type name="MVS_CombatShirt_ELRD_Camo_Bunker">
+  <type name="MVS_CombatShirt_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -8005,7 +8131,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_CombatShirt_Green_Camo_Bunker">
+  <type name="MVS_CombatShirt_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -8743,7 +8869,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Molle_Panel_Black_Camo_Bunker">
+  <type name="MVS_Molle_Panel_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -8761,7 +8887,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Molle_Panel_Black_Camo2_Bunker">
+  <type name="MVS_Molle_Panel_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -8779,7 +8905,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Molle_Panel_Camo_Orange_Bunker">
+  <type name="MVS_Molle_Panel_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -8797,7 +8923,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Molle_Panel_Camo_Tigr_Bunker">
+  <type name="MVS_Molle_Panel_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -8815,7 +8941,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Molle_Panel_ELRD_Camo_Bunker">
+  <type name="MVS_Molle_Panel_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -8851,7 +8977,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Molle_Panel_Green_Camo_Bunker">
+  <type name="MVS_Molle_Panel_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9121,7 +9247,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_6B47_Helmet_Black_Camo_Bunker">
+  <type name="MVS_6B47_Helmet_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9139,7 +9265,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_6B47_Helmet_Black_Camo2_Bunker">
+  <type name="MVS_6B47_Helmet_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9157,7 +9283,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_6B47_Helmet_Camo_Orange_Bunker">
+  <type name="MVS_6B47_Helmet_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9175,7 +9301,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_6B47_Helmet_Camo_Tigr_Bunker">
+  <type name="MVS_6B47_Helmet_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9193,7 +9319,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_6B47_Helmet_ELRD_Camo_Bunker">
+  <type name="MVS_6B47_Helmet_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9229,7 +9355,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_6B47_Helmet_Green_Camo_Bunker">
+  <type name="MVS_6B47_Helmet_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9463,7 +9589,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Helmet_02_Black_Camo_Bunker">
+  <type name="MVS_Helmet_02_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9481,7 +9607,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Helmet_02_Black_Camo_Bunker2">
+  <type name="MVS_Helmet_02_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9499,7 +9625,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Helmet_02_Camo_Orange_Bunker">
+  <type name="MVS_Helmet_02_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9517,7 +9643,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Helmet_02_Camo_Tigr_Bunker">
+  <type name="MVS_Helmet_02_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9535,7 +9661,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Helmet_02_ELRD_Camo_Bunker">
+  <type name="MVS_Helmet_02_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9571,7 +9697,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_Helmet_02_Green_Camo_Bunker">
+  <type name="MVS_Helmet_02_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9607,7 +9733,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_SlingPack_Black_Camo_Bunker">
+  <type name="MVS_SlingPack_black_camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9625,7 +9751,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_SlingPack_Black_Camo2_Bunker">
+  <type name="MVS_SlingPack_black_camo2">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9643,7 +9769,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_SlingPack_Camo_Orange_Bunker">
+  <type name="MVS_SlingPack_Orange_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9661,7 +9787,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_SlingPack_Camo_Tigr_Bunker">
+  <type name="MVS_SlingPack_Tigr_Camo_Bunker">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9679,7 +9805,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_SlingPack_ELRD_Camo_Bunker">
+  <type name="MVS_SlingPack_ELRD_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -9715,7 +9841,7 @@
 	    <value name="Tier17"/>
 	    <value name="Tier18"/>
   </type>
-  <type name="MVS_SlingPack_Green_Camo_Bunker">
+  <type name="MVS_SlingPack_Green_Camo">
     <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
