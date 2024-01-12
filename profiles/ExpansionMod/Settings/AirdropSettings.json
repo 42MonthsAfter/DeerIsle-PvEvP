@@ -1954,7 +1954,7 @@
             ],
             "ItemCount": 30,
             "InfectedCount": 25,
-            "SpawnInfectedForPlayerCalledDrops": 0
+            "SpawnInfectedForPlayerCalledDrops": 1
         },
         {
             "Container": "ExpansionAirdropContainer_Medical",
@@ -2459,7 +2459,7 @@
             ],
             "ItemCount": 25,
             "InfectedCount": 15,
-            "SpawnInfectedForPlayerCalledDrops": 0
+            "SpawnInfectedForPlayerCalledDrops":1
         },
         {
             "Container": "ExpansionAirdropContainer_Basebuilding",
@@ -2964,7 +2964,7 @@
             ],
             "ItemCount": 50,
             "InfectedCount": 10,
-            "SpawnInfectedForPlayerCalledDrops": 0
+            "SpawnInfectedForPlayerCalledDrops":1
         },
         {
             "Container": "ExpansionAirdropContainer_Military",
@@ -5049,7 +5049,7 @@
             ],
             "ItemCount": 50,
             "InfectedCount": 50,
-            "SpawnInfectedForPlayerCalledDrops": 0
+            "SpawnInfectedForPlayerCalledDrops":1
         }
     ]
 }
