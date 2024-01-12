@@ -40,7 +40,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
-	<ce folder="ModTypes/42MAPModPack">
+	<ce folder="ModTypes/42MAModPack">
 		<file name="types.xml" type="types" />
 	</ce>
 	<ce folder="ModTypes/42MADocsGuns">

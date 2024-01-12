@@ -2,7 +2,7 @@
     "m_Version": 3,
     "EnableTerritories": 1,
     "UseWholeMapForInviteList": 1,
-    "TerritorySize": 60.0,
+    "TerritorySize": 120.0,
     "TerritoryPerimeterSize": 60.0,
     "MaxMembersInTerritory": 0,
     "MaxTerritoryPerPlayer": 1,

@@ -1,0 +1,553 @@
+[COT 2024-01-08 01:08:23] 76561199108250772: Spawned Entity ADMIN GEAR-BLUE-TOP (DOC_ADMIN_BLUE_TOP<aac4b80>, 100, 70, 0) at <6057.497559, 31.767284, 5250.804199>
+[COT 2024-01-08 01:08:27] 76561199108250772: Spawned Entity ADMIN GEAR-BLUE-BOTTOM (DOC_ADMIN_BLUE_BOTTOM<235e4cf0>, 100, 130, 0) at <6057.522949, 31.944447, 5250.712891>
+[COT 2024-01-08 01:08:43] 76561199108250772: Spawned Entity Blue's Personal Sidearm - ADMIN EDITION (DOC_ADMIN_BLUE_GLOCK<fb255c60>, 150, 3000, 0) at <6056.217773, 31.782280, 5250.602051>
+[COT 2024-01-08 01:08:47] 76561199108250772: Spawned Entity Blue's Glock Mag (DOC_ADMIN_MAG_BLUE_GLOCK<239fc060>, 150, 100, 0) at <6056.271484, 31.851004, 5250.578125>
+[COT 2024-01-08 01:09:17] 76561199108250772: Set GodMode To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-01-08 01:09:17] 76561199108250772: Set cannot be targeted by AI to true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-01-08 01:09:18] 76561199108250772: Set UnlimitedStamina To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-01-08 01:09:18] 76561199108250772: Set UnlimitedAmmo To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-01-08 01:09:32] 76561199108250772: Teleported to position <8296.774414, 25.387260, 4232.233398>
+[COT 2024-01-08 01:12:21] 76561199108250772: Spawned Entity Blood Test Kit (BloodTestKit<431df6b0>, 100, 15, 0) at <7955.869141, 6.835612, 4257.041992>
+[COT 2024-01-08 01:12:21] 76561199108250772: Spawned Entity Blood Test Kit (BloodTestKit<431e47a0>, 100, 15, 0) at <7955.818359, 6.891889, 4257.025879>
+[COT 2024-01-08 01:12:22] 76561199108250772: Spawned Entity Blood Test Kit (BloodTestKit<431e5330>, 100, 15, 0) at <7955.768066, 6.947606, 4257.009766>
+[COT 2024-01-08 01:12:26] 76561199108250772: Spawned Entity Blood Collection Kit (BloodBagEmpty<431f68b0>, 500, 20, 3) at <7955.719238, 7.001990, 4256.994141>
+[COT 2024-01-08 01:12:30] 76561199108250772: Spawned Entity Blood Collection Kit (BloodBagEmpty<553d5fa0>, 500, 20, 3) at <7955.656738, 7.071265, 4256.974121>
+[COT 2024-01-08 01:12:38] 76561199108250772: Spawned Entity IV Start Kit (StartKitIV<553d1a40>, 500, 20, 0) at <7955.594727, 7.140541, 4256.954102>
+[COT 2024-01-08 01:14:26] 76561199108250772: Teleported to position <6650.274902, 15.090000, 6296.057617>
+[COT 2024-01-08 01:21:43] 76561199108250772: Teleported to position <4359.094727, 29.367105, 7617.393555>
+[COT 2024-01-08 01:22:01] 76561199108250772: Teleported to position <4460.333008, 28.870430, 7656.719727>
+[COT 2024-01-08 01:22:17] 76561199108250772: Teleported to position <4259.014648, 20.434927, 7267.607422>
+[COT 2024-01-08 01:22:29] 76561199108250772: Teleported [guid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] to <4248.065918, 20.607616, 7277.062500>
+[COT 2024-01-08 01:24:29] 76561199108250772: Spawned Entity Flag Pole Kit (TerritoryFlagKit<44fa30d0>, 100, 200, 0) at <4251.476563, 20.607626, 7278.238770>
+[COT 2024-01-08 01:29:37] 76561199108250772: Spawned Entity Wall Kit (ExpansionWallKit<521481c0>, 1000, 100, 0) at <4257.645020, 20.607624, 7286.997559>
+[COT 2024-01-08 01:30:18] 76561199108250772: Spawned Entity Admin Hammer (Hammer<4c3c7f10>, 150, 100, 0) at <4260.302734, 20.607624, 7287.189453>
+[COT 2024-01-08 01:31:56] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 01:31:59] 76561199108250772: ESP index=0 target=ExpansionWall6x3:30484 position=<4263.334961, 20.567625, 7285.577637> action=delete
+[COT 2024-01-08 01:31:59] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:32:01] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 01:33:07] 76561199108250772: Entered the Free Camera
+[COT 2024-01-08 01:33:12] 76561199108250772: Left the Free Camera
+[COT 2024-01-08 01:33:36] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 01:34:14] 76561199108250772: ESP index=0 target=ExpansionWall6x3:8927 position=<4262.379883, 23.570381, 7284.487305> action=delete
+[COT 2024-01-08 01:34:14] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:35:01] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 01:35:17] 76561199108250772: Spawned Entity Splitting Axe (WoodAxe<884c7a50>, 100, 250, 0) at <4255.639160, 20.607624, 7288.019531>
+[COT 2024-01-08 01:35:18] 76561199108250772: Spawned Entity Splitting Axe (WoodAxe<884cb420>, 100, 250, 0) at <4255.630371, 20.719725, 7288.038574>
+[COT 2024-01-08 01:35:45] 76561199108250772: Spawned Entity Hand Saw (HandSaw<3b190650>, 100, 100, 0) at <4257.708496, 20.607624, 7290.067383>
+[COT 2024-01-08 01:36:23] 76561199108250772: Spawned Entity Code Lock (ExpansionCodeLock<4ccf9fd0>, 100, 100, 0) at <4258.925781, 20.607624, 7288.991699>
+[COT 2024-01-08 01:36:24] 76561199108250772: Spawned Entity Code Lock (ExpansionCodeLock<4ccf4ee0>, 100, 100, 0) at <4258.914551, 20.629244, 7288.989746>
+[COT 2024-01-08 01:38:55] 76561199108250772: Entered the Free Camera
+[COT 2024-01-08 01:38:59] 76561199108250772: Left the Free Camera
+[COT 2024-01-08 01:40:28] 76561199108250772: Spawned Entity Code Lock (ExpansionCodeLock<fdc3ec40>, 100, 100, 0) at <4249.190918, 13.712920, 7282.871582>
+[COT 2024-01-08 01:41:13] 76561199108250772: Spawned Entity Watchtower Kit (WatchtowerKit<29c0f540>, 100, 200, 0) at <4254.028809, 20.454420, 7267.618652>
+[COT 2024-01-08 01:42:39] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 01:42:45] 76561199108250772: ESP target=Watchtower<43b67b0> action=built part=level_1_base required_materials=false
+[COT 2024-01-08 01:42:47] 76561199108250772: ESP target=Watchtower<43b67b0> action=built part=level_1_wall_3_base_down required_materials=false
+[COT 2024-01-08 01:42:51] 76561199108250772: ESP target=Watchtower<43b67b0> action=built part=level_1_wall_2_base_up required_materials=false
+[COT 2024-01-08 01:42:56] 76561199108250772: ESP index=0 target=Watchtower:8603 position=<4269.289551, 23.169655, 7264.848633> action=delete
+[COT 2024-01-08 01:42:56] 76561199108250772: ESP index=1 target=Watchtower:10765 position=<4269.385254, 20.429966, 7264.927246> action=delete
+[COT 2024-01-08 01:42:56] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:43:38] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 01:43:40] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 01:43:40] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 01:43:44] 76561199108250772: Entered the Free Camera
+[COT 2024-01-08 01:43:47] 76561199108250772: Left the Free Camera
+[COT 2024-01-08 01:44:09] 76561199108250772: Spawned Entity Watchtower Kit (WatchtowerKit<46100350>, 100, 200, 0) at <4272.384766, 20.430021, 7268.762695>
+[COT 2024-01-08 01:44:29] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 01:44:34] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_base required_materials=false
+[COT 2024-01-08 01:44:36] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_3_base_down required_materials=false
+[COT 2024-01-08 01:44:39] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_2_base_up required_materials=false
+[COT 2024-01-08 01:44:43] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_3_metal_down required_materials=false
+[COT 2024-01-08 01:44:45] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_2_base_down required_materials=false
+[COT 2024-01-08 01:44:48] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_3_base_up required_materials=false
+[COT 2024-01-08 01:44:50] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_2_wood_up required_materials=false
+[COT 2024-01-08 01:44:53] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_2_wood_down required_materials=false
+[COT 2024-01-08 01:44:55] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_3_metal_up required_materials=false
+[COT 2024-01-08 01:45:01] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2024-01-08 01:45:03] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_1_wood_up required_materials=false
+[COT 2024-01-08 01:45:06] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_roof required_materials=false
+[COT 2024-01-08 01:45:07] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_1_base_down required_materials=false
+[COT 2024-01-08 01:45:13] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_wall_1_wood_down required_materials=false
+[COT 2024-01-08 01:45:14] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_1_stairs required_materials=false
+[COT 2024-01-08 01:45:17] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_base required_materials=false
+[COT 2024-01-08 01:45:18] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_3_base_up required_materials=false
+[COT 2024-01-08 01:45:21] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_3_metal_up required_materials=false
+[COT 2024-01-08 01:45:25] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_2_base_up required_materials=false
+[COT 2024-01-08 01:45:26] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_2_wood_up required_materials=false
+[COT 2024-01-08 01:45:28] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_1_base_down required_materials=false
+[COT 2024-01-08 01:45:31] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_1_base_up required_materials=false
+[COT 2024-01-08 01:45:38] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_1_metal_up required_materials=false
+[COT 2024-01-08 01:45:43] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_roof required_materials=false
+[COT 2024-01-08 01:45:47] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_stairs required_materials=false
+[COT 2024-01-08 01:46:02] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_1_metal_down required_materials=false
+[COT 2024-01-08 01:46:07] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_2_base_down required_materials=false
+[COT 2024-01-08 01:46:09] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_base required_materials=false
+[COT 2024-01-08 01:46:12] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_3_base_down required_materials=false
+[COT 2024-01-08 01:46:14] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_3_wood_down required_materials=false
+[COT 2024-01-08 01:46:15] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_2_base_down required_materials=false
+[COT 2024-01-08 01:46:18] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_1_base_up required_materials=false
+[COT 2024-01-08 01:46:20] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_2_wall_2_metal_down required_materials=false
+[COT 2024-01-08 01:46:22] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_3_base_up required_materials=false
+[COT 2024-01-08 01:46:24] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_roof required_materials=false
+[COT 2024-01-08 01:46:25] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_2_metal_down required_materials=false
+[COT 2024-01-08 01:46:28] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_3_base_down required_materials=false
+[COT 2024-01-08 01:46:32] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_2_base_up required_materials=false
+[COT 2024-01-08 01:46:33] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_1_base_down required_materials=false
+[COT 2024-01-08 01:46:35] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_3_wood_down required_materials=false
+[COT 2024-01-08 01:46:37] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_1_metal_up required_materials=false
+[COT 2024-01-08 01:46:39] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_1_metal_down required_materials=false
+[COT 2024-01-08 01:46:42] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_2_metal_up required_materials=false
+[COT 2024-01-08 01:46:57] 76561199108250772: ESP target=Watchtower<3b5ceac0> action=built part=level_3_wall_3_wood_up required_materials=false
+[COT 2024-01-08 01:47:01] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 01:47:55] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 01:47:56] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 01:48:01] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 01:48:05] 76561199108250772: ESP index=0 target=BarbedWire:30840 position=<4254.028809, 20.529310, 7267.618652> action=delete
+[COT 2024-01-08 01:48:05] 76561199108250772: ESP index=1 target=CamoNet:30837 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:05] 76561199108250772: ESP index=2 target=WoodenPlank:14671 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:05] 76561199108250772: ESP index=3 target=Shovel:9683 position=<4254.028809, 20.780190, 7267.618652> action=delete
+[COT 2024-01-08 01:48:05] 76561199108250772: ESP action=delete_all count=4 attempted=4
+[COT 2024-01-08 01:48:09] 76561199108250772: ESP index=0 target=BarbedWire:30843 position=<4254.028809, 20.529310, 7267.618652> action=delete
+[COT 2024-01-08 01:48:09] 76561199108250772: ESP index=1 target=WoodenPlank:8951 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:09] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:12] 76561199108250772: ESP index=0 target=BarbedWire:30842 position=<4254.028809, 20.529310, 7267.618652> action=delete
+[COT 2024-01-08 01:48:12] 76561199108250772: ESP index=1 target=CamoNet:30835 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:12] 76561199108250772: ESP index=2 target=WoodenPlank:24894 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:12] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:48:15] 76561199108250772: ESP index=0 target=BarbedWire:30841 position=<4254.028809, 20.529310, 7267.618652> action=delete
+[COT 2024-01-08 01:48:15] 76561199108250772: ESP index=1 target=CamoNet:30829 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:15] 76561199108250772: ESP index=2 target=WoodenPlank:25020 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:15] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:48:18] 76561199108250772: ESP index=0 target=BarbedWire:30839 position=<4254.028809, 20.529310, 7267.618652> action=delete
+[COT 2024-01-08 01:48:18] 76561199108250772: ESP index=1 target=CamoNet:30834 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:18] 76561199108250772: ESP index=2 target=WoodenPlank:25799 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:18] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:48:20] 76561199108250772: ESP index=0 target=CamoNet:30833 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:20] 76561199108250772: ESP index=1 target=Nail:30828 position=<4254.028809, 20.559944, 7267.618652> action=delete
+[COT 2024-01-08 01:48:20] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:24] 76561199108250772: ESP index=0 target=BarbedWire:30838 position=<4254.028809, 20.529310, 7267.618652> action=delete
+[COT 2024-01-08 01:48:24] 76561199108250772: ESP index=1 target=CamoNet:30830 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:24] 76561199108250772: ESP index=2 target=WoodenPlank:30803 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:24] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:48:27] 76561199108250772: ESP index=0 target=WoodenPlank:9016 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:27] 76561199108250772: ESP index=1 target=CamoNet:30832 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:27] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:28] 76561199108250772: ESP index=0 target=CamoNet:30836 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:28] 76561199108250772: ESP index=1 target=WoodenPlank:13340 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:28] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:31] 76561199108250772: ESP index=0 target=WoodenPlank:28704 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:31] 76561199108250772: ESP index=1 target=CamoNet:30831 position=<4254.028809, 20.574610, 7267.618652> action=delete
+[COT 2024-01-08 01:48:31] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:33] 76561199108250772: ESP index=0 target=WoodenPlank:14703 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:33] 76561199108250772: ESP index=1 target=WoodenLog:30807 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:48:33] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:35] 76561199108250772: ESP index=0 target=WoodenPlank:14083 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:35] 76561199108250772: ESP index=1 target=WoodenLog:30805 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:48:35] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:38] 76561199108250772: ESP index=0 target=WoodenLog:30806 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:48:38] 76561199108250772: ESP index=1 target=Hammer:10716 position=<4254.028809, 20.604860, 7267.618652> action=delete
+[COT 2024-01-08 01:48:38] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:43] 76561199108250772: ESP index=0 target=Hammer:30750 position=<4254.028809, 20.604860, 7267.618652> action=delete
+[COT 2024-01-08 01:48:43] 76561199108250772: ESP index=1 target=WoodenLog:30804 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:48:43] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:53] 76561199108250772: ESP index=0 target=Hammer:8837 position=<4254.028809, 20.604860, 7267.618652> action=delete
+[COT 2024-01-08 01:48:53] 76561199108250772: ESP index=1 target=WoodenLog:30813 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:48:53] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:48:56] 76561199108250772: ESP index=0 target=WoodenPlank:28025 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:56] 76561199108250772: ESP index=1 target=Hammer:23268 position=<4254.028809, 20.604860, 7267.618652> action=delete
+[COT 2024-01-08 01:48:56] 76561199108250772: ESP index=2 target=WoodenLog:30812 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:48:56] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:48:59] 76561199108250772: ESP index=0 target=WoodenPlank:21238 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:48:59] 76561199108250772: ESP index=1 target=WoodenLog:30811 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:48:59] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:49:03] 76561199108250772: ESP index=0 target=WoodenPlank:21505 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:03] 76561199108250772: ESP index=1 target=WoodenLog:30808 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:49:03] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:49:05] 76561199108250772: ESP index=0 target=WoodenPlank:21698 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:05] 76561199108250772: ESP index=1 target=WoodenLog:30809 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:49:05] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:49:11] 76561199108250772: ESP index=0 target=WoodenPlank:20694 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:11] 76561199108250772: ESP index=1 target=Pliers:24452 position=<4254.028809, 20.606533, 7267.618652> action=delete
+[COT 2024-01-08 01:49:11] 76561199108250772: ESP index=2 target=WoodenLog:30810 position=<4254.028809, 20.560648, 7267.618652> action=delete
+[COT 2024-01-08 01:49:11] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:49:13] 76561199108250772: ESP index=0 target=WoodenPlank:29754 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:13] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:15] 76561199108250772: ESP index=0 target=WoodenPlank:24195 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:15] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:17] 76561199108250772: ESP index=0 target=WoodenPlank:8835 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:17] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:18] 76561199108250772: ESP index=0 target=WoodenPlank:10001 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:18] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:19] 76561199108250772: ESP index=0 target=WoodenPlank:16150 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:19] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:21] 76561199108250772: ESP index=0 target=WoodenPlank:23676 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:21] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:22] 76561199108250772: ESP index=0 target=WoodenPlank:12763 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:22] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:23] 76561199108250772: ESP index=0 target=WoodenPlank:14085 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:23] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:25] 76561199108250772: ESP index=0 target=WoodenPlank:29624 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:25] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:26] 76561199108250772: ESP index=0 target=WoodenPlank:18265 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:26] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:27] 76561199108250772: ESP index=0 target=WoodenPlank:10197 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:27] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:29] 76561199108250772: ESP index=0 target=WoodenPlank:24516 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:29] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:30] 76561199108250772: ESP index=0 target=WoodenPlank:25410 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:30] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:32] 76561199108250772: ESP index=0 target=WoodenPlank:14511 position=<4254.028809, 20.628262, 7267.618652> action=delete
+[COT 2024-01-08 01:49:32] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:47] 76561199108250772: ESP index=0 target=WatchtowerKit:30816 position=<4269.289551, 23.258514, 7264.848633> action=delete
+[COT 2024-01-08 01:49:47] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:49:51] 76561199108250772: ESP index=0 target=WatchtowerKit:30996 position=<4276.543945, 20.503056, 7271.710938> action=delete
+[COT 2024-01-08 01:49:51] 76561199108250772: ESP index=1 target=CamoNet:25979 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:49:51] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:49:54] 76561199108250772: ESP index=0 target=CamoNet:28125 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:49:54] 76561199108250772: ESP index=1 target=Broom:18080 position=<4278.054199, 20.539471, 7260.672852> action=delete
+[COT 2024-01-08 01:49:54] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:49:56] 76561199108250772: ESP index=0 target=CamoNet:27453 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:49:56] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:50:03] 76561199108250772: ESP index=0 target=Shovel:25182 position=<4272.384766, 20.739986, 7268.762695> action=delete
+[COT 2024-01-08 01:50:03] 76561199108250772: ESP index=1 target=CamoNet:12063 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:50:03] 76561199108250772: ESP index=2 target=Nail:25484 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:03] 76561199108250772: ESP index=3 target=WoodenPlank:15892 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:50:03] 76561199108250772: ESP action=delete_all count=4 attempted=4
+[COT 2024-01-08 01:50:05] 76561199108250772: ESP index=0 target=BarbedWire:23552 position=<4272.384766, 20.489107, 7268.762695> action=delete
+[COT 2024-01-08 01:50:05] 76561199108250772: ESP index=1 target=Nail:18795 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:05] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:09] 76561199108250772: ESP index=0 target=BarbedWire:25067 position=<4272.384766, 20.489107, 7268.762695> action=delete
+[COT 2024-01-08 01:50:09] 76561199108250772: ESP index=1 target=CamoNet:11599 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:50:09] 76561199108250772: ESP index=2 target=WoodenPlank:23188 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:50:09] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:50:13] 76561199108250772: ESP index=0 target=BarbedWire:18598 position=<4272.384766, 20.489107, 7268.762695> action=delete
+[COT 2024-01-08 01:50:13] 76561199108250772: ESP index=1 target=CamoNet:22039 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:50:13] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:16] 76561199108250772: ESP index=0 target=BarbedWire:22775 position=<4272.384766, 20.489107, 7268.762695> action=delete
+[COT 2024-01-08 01:50:16] 76561199108250772: ESP index=1 target=CamoNet:25272 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:50:16] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:18] 76561199108250772: ESP index=0 target=BarbedWire:12207 position=<4272.384766, 20.489107, 7268.762695> action=delete
+[COT 2024-01-08 01:50:18] 76561199108250772: ESP index=1 target=CamoNet:28342 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:50:18] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:20] 76561199108250772: ESP index=0 target=BarbedWire:15698 position=<4272.384766, 20.489107, 7268.762695> action=delete
+[COT 2024-01-08 01:50:20] 76561199108250772: ESP index=1 target=CamoNet:18636 position=<4272.384766, 20.534407, 7268.762695> action=delete
+[COT 2024-01-08 01:50:20] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:22] 76561199108250772: ESP index=0 target=WoodenLog:17937 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:50:22] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:50:24] 76561199108250772: ESP index=0 target=WoodenLog:14201 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:50:24] 76561199108250772: ESP index=1 target=WoodenPlank:15994 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:50:24] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:26] 76561199108250772: ESP index=0 target=WoodenLog:11144 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:50:26] 76561199108250772: ESP index=1 target=WoodenPlank:10876 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:50:26] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:28] 76561199108250772: ESP index=0 target=WoodenLog:18797 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:50:28] 76561199108250772: ESP index=1 target=WoodenPlank:21578 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:50:28] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:30] 76561199108250772: ESP index=0 target=Nail:24364 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:30] 76561199108250772: ESP index=1 target=WoodenPlank:13192 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:50:30] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:32] 76561199108250772: ESP index=0 target=Nail:24254 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:32] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:50:33] 76561199108250772: ESP index=0 target=Nail:13903 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:33] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:50:35] 76561199108250772: ESP index=0 target=Nail:22802 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:35] 76561199108250772: ESP index=1 target=Hammer:14022 position=<4272.384766, 20.564657, 7268.762695> action=delete
+[COT 2024-01-08 01:50:35] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:50:37] 76561199108250772: ESP index=0 target=Nail:16899 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:37] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:50:38] 76561199108250772: ESP index=0 target=Nail:11496 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:38] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:50:40] 76561199108250772: ESP index=0 target=Nail:19390 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:40] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:50:41] 76561199108250772: ESP index=0 target=Nail:14129 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:50:41] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:51:04] 76561199108250772: ESP index=0 target=Hammer:16104 position=<4272.384766, 20.564657, 7268.762695> action=delete
+[COT 2024-01-08 01:51:04] 76561199108250772: ESP index=1 target=Nail:12024 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:51:04] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:07] 76561199108250772: ESP index=0 target=Hammer:21625 position=<4272.384766, 20.564657, 7268.762695> action=delete
+[COT 2024-01-08 01:51:07] 76561199108250772: ESP index=1 target=Nail:23186 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:51:07] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:09] 76561199108250772: ESP index=0 target=Hammer:8399 position=<4272.384766, 20.564657, 7268.762695> action=delete
+[COT 2024-01-08 01:51:09] 76561199108250772: ESP index=1 target=WoodenPlank:15020 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:09] 76561199108250772: ESP index=2 target=WoodenLog:24688 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:51:09] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 01:51:11] 76561199108250772: ESP index=0 target=WoodenPlank:11150 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:11] 76561199108250772: ESP index=1 target=WoodenLog:17296 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:51:11] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:13] 76561199108250772: ESP index=0 target=WoodenPlank:8377 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:13] 76561199108250772: ESP index=1 target=WoodenLog:17365 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:51:13] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:16] 76561199108250772: ESP index=0 target=WoodenPlank:10330 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:16] 76561199108250772: ESP index=1 target=Nail:20562 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:51:16] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:18] 76561199108250772: ESP index=0 target=Nail:17432 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:51:18] 76561199108250772: ESP index=1 target=WoodenPlank:19077 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:18] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:21] 76561199108250772: ESP index=0 target=WoodenPlank:28016 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:21] 76561199108250772: ESP index=1 target=WoodenLog:21309 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:51:21] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:22] 76561199108250772: ESP index=0 target=WoodenPlank:18522 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:22] 76561199108250772: ESP index=1 target=WoodenLog:24123 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:51:22] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:27] 76561199108250772: ESP index=0 target=Nail:20864 position=<4272.384766, 20.519741, 7268.762695> action=delete
+[COT 2024-01-08 01:51:27] 76561199108250772: ESP index=1 target=WoodenPlank:10908 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:27] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:51:29] 76561199108250772: ESP index=0 target=WoodenLog:24984 position=<4272.384766, 20.520445, 7268.762695> action=delete
+[COT 2024-01-08 01:51:29] 76561199108250772: ESP index=1 target=WoodenPlank:18887 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:51:29] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 01:52:51] 76561199108250772: ESP index=0 target=WoodenPlank:25457 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:52:51] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:52:53] 76561199108250772: ESP index=0 target=WoodenPlank:12638 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:52:53] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:52:54] 76561199108250772: ESP index=0 target=WoodenPlank:19819 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:52:54] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:52:56] 76561199108250772: ESP index=0 target=WoodenPlank:14274 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:52:56] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:52:57] 76561199108250772: ESP index=0 target=WoodenPlank:19123 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:52:57] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:02] 76561199108250772: ESP index=0 target=WoodenPlank:20044 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:02] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:04] 76561199108250772: ESP index=0 target=WoodenPlank:27916 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:04] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:06] 76561199108250772: ESP index=0 target=WoodenPlank:9146 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:06] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:08] 76561199108250772: ESP index=0 target=WoodenPlank:14811 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:08] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:10] 76561199108250772: ESP index=0 target=WoodenPlank:12071 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:10] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:11] 76561199108250772: ESP index=0 target=WoodenPlank:18730 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:11] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:13] 76561199108250772: ESP index=0 target=WoodenPlank:10412 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:13] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:14] 76561199108250772: ESP index=0 target=WoodenPlank:24383 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:14] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:16] 76561199108250772: ESP index=0 target=WoodenPlank:16644 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:16] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:17] 76561199108250772: ESP index=0 target=WoodenPlank:25975 position=<4272.384766, 20.588058, 7268.762695> action=delete
+[COT 2024-01-08 01:53:17] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 01:53:19] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 01:56:43] 76561199108250772: Spawned Entity Land Rover Defender (Expansion_Landrover_Orange<e986e9c0>, 100, 3000, 0) at <4243.352051, 20.607624, 7276.323242>
+[COT 2024-01-08 01:58:14] 76561199108250772: Spawned Entity Mercedes-Benz W140 Blue (MBw140_blue<38abe0a0>, 100, 10000, 0) at <4241.710938, 20.607626, 7280.867188>
+[COT 2024-01-08 01:58:45] 76561199108250772: Spawned Entity PAZ (PAZ<38acbcf0>, 100, 10000, 0) at <4240.459473, 20.607624, 7285.911133>
+[COT 2024-01-08 02:00:19] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP index=0 target=Hammer:11131 position=<4257.645020, 20.758064, 7286.997559> action=delete
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP index=1 target=Shovel:11250 position=<4257.645020, 20.933393, 7286.997559> action=delete
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP index=2 target=ExpansionLumber3:23622 position=<4259.183105, 20.644190, 7288.642090> action=delete
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP index=3 target=WoodenPlank:24322 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP index=4 target=WoodenPlank:8496 position=<4257.645020, 20.656073, 7286.997559> action=delete
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP index=5 target=HandSaw:25135 position=<4259.161133, 20.578535, 7288.142578> action=delete
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP index=6 target=CamoNet:16507 position=<4257.645020, 20.602421, 7286.997559> action=delete
+[COT 2024-01-08 02:00:26] 76561199108250772: ESP action=delete_all count=7 attempted=7
+[COT 2024-01-08 02:00:30] 76561199108250772: ESP index=0 target=WoodenLog:21940 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:00:30] 76561199108250772: ESP index=1 target=WoodenPlank:22410 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:30] 76561199108250772: ESP index=2 target=WoodenPlank:9943 position=<4257.323730, 20.656073, 7286.298828> action=delete
+[COT 2024-01-08 02:00:30] 76561199108250772: ESP index=3 target=CamoNet:16505 position=<4257.645020, 20.602421, 7286.997559> action=delete
+[COT 2024-01-08 02:00:30] 76561199108250772: ESP action=delete_all count=4 attempted=4
+[COT 2024-01-08 02:00:34] 76561199108250772: ESP index=0 target=Hammer:9480 position=<4257.645020, 20.758064, 7286.997559> action=delete
+[COT 2024-01-08 02:00:34] 76561199108250772: ESP index=1 target=WoodenLog:21568 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:00:34] 76561199108250772: ESP index=2 target=WoodenPlank:14508 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:34] 76561199108250772: ESP index=3 target=BarbedWire:20316 position=<4257.645020, 20.682514, 7286.997559> action=delete
+[COT 2024-01-08 02:00:34] 76561199108250772: ESP action=delete_all count=4 attempted=4
+[COT 2024-01-08 02:00:37] 76561199108250772: ESP index=0 target=Hammer:8616 position=<4257.645020, 20.758064, 7286.997559> action=delete
+[COT 2024-01-08 02:00:37] 76561199108250772: ESP index=1 target=WoodenLog:12593 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:00:37] 76561199108250772: ESP index=2 target=WoodenPlank:12710 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:37] 76561199108250772: ESP index=3 target=BarbedWire:22922 position=<4257.645020, 20.682514, 7286.997559> action=delete
+[COT 2024-01-08 02:00:37] 76561199108250772: ESP action=delete_all count=4 attempted=4
+[COT 2024-01-08 02:00:40] 76561199108250772: ESP index=0 target=WoodenLog:29036 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:00:40] 76561199108250772: ESP index=1 target=WoodenPlank:26090 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:40] 76561199108250772: ESP index=2 target=BarbedWire:11088 position=<4257.645020, 20.682514, 7286.997559> action=delete
+[COT 2024-01-08 02:00:40] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 02:00:43] 76561199108250772: ESP index=0 target=WoodenPlank:11202 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:43] 76561199108250772: ESP index=1 target=BarbedWire:22924 position=<4257.645020, 20.682514, 7286.997559> action=delete
+[COT 2024-01-08 02:00:43] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:00:48] 76561199108250772: ESP index=0 target=Pliers:18776 position=<4257.645020, 20.759737, 7286.997559> action=delete
+[COT 2024-01-08 02:00:48] 76561199108250772: ESP index=1 target=WoodenPlank:30339 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:48] 76561199108250772: ESP index=2 target=BarbedWire:25150 position=<4257.645020, 20.682514, 7286.997559> action=delete
+[COT 2024-01-08 02:00:48] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 02:00:51] 76561199108250772: ESP index=0 target=WoodenPlank:24559 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:51] 76561199108250772: ESP index=1 target=BarbedWire:24584 position=<4257.645020, 20.682514, 7286.997559> action=delete
+[COT 2024-01-08 02:00:51] 76561199108250772: ESP index=2 target=CamoNet:26159 position=<4257.645020, 20.727814, 7286.997559> action=delete
+[COT 2024-01-08 02:00:51] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-01-08 02:00:54] 76561199108250772: ESP index=0 target=WoodenPlank:22582 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:54] 76561199108250772: ESP index=1 target=CamoNet:26299 position=<4257.645020, 20.727814, 7286.997559> action=delete
+[COT 2024-01-08 02:00:54] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:00:56] 76561199108250772: ESP index=0 target=Hammer:28001 position=<4257.645020, 20.758064, 7286.997559> action=delete
+[COT 2024-01-08 02:00:56] 76561199108250772: ESP index=1 target=WoodenPlank:22698 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:56] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:00:58] 76561199108250772: ESP index=0 target=WoodenPlank:16714 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:00:58] 76561199108250772: ESP index=1 target=CamoNet:25315 position=<4257.645020, 20.727814, 7286.997559> action=delete
+[COT 2024-01-08 02:00:58] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:00] 76561199108250772: ESP index=0 target=WoodenPlank:20550 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:00] 76561199108250772: ESP index=1 target=CamoNet:10979 position=<4257.645020, 20.727814, 7286.997559> action=delete
+[COT 2024-01-08 02:01:00] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:02] 76561199108250772: ESP index=0 target=WoodenPlank:10355 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:02] 76561199108250772: ESP index=1 target=CamoNet:24823 position=<4257.645020, 20.727814, 7286.997559> action=delete
+[COT 2024-01-08 02:01:02] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:04] 76561199108250772: ESP index=0 target=WoodenPlank:14521 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:04] 76561199108250772: ESP index=1 target=Nail:16441 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:04] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:06] 76561199108250772: ESP index=0 target=WoodenPlank:17051 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:06] 76561199108250772: ESP index=1 target=Nail:16157 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:06] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:07] 76561199108250772: ESP index=0 target=WoodenPlank:30356 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:07] 76561199108250772: ESP index=1 target=CamoNet:15179 position=<4257.645020, 20.727814, 7286.997559> action=delete
+[COT 2024-01-08 02:01:07] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:11] 76561199108250772: ESP index=0 target=WoodenPlank:16717 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:11] 76561199108250772: ESP index=1 target=CamoNet:11415 position=<4257.645020, 20.727814, 7286.997559> action=delete
+[COT 2024-01-08 02:01:11] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:13] 76561199108250772: ESP index=0 target=WoodenPlank:18678 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:13] 76561199108250772: ESP index=1 target=Nail:18045 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:13] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:15] 76561199108250772: ESP index=0 target=WoodenPlank:23257 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:15] 76561199108250772: ESP index=1 target=Nail:18798 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:15] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:16] 76561199108250772: ESP index=0 target=Nail:13520 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:16] 76561199108250772: ESP index=1 target=WoodenPlank:17868 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:16] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:18] 76561199108250772: ESP index=0 target=Nail:18760 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:18] 76561199108250772: ESP index=1 target=WoodenPlank:13376 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:18] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:20] 76561199108250772: ESP index=0 target=WoodenPlank:25606 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:20] 76561199108250772: ESP index=1 target=Nail:11229 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:20] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:21] 76561199108250772: ESP index=0 target=Nail:30538 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:21] 76561199108250772: ESP index=1 target=WoodenPlank:26808 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:21] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:23] 76561199108250772: ESP index=0 target=Nail:29194 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:23] 76561199108250772: ESP index=1 target=WoodenPlank:24281 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:23] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:25] 76561199108250772: ESP index=0 target=Nail:20082 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:25] 76561199108250772: ESP index=1 target=WoodenPlank:17292 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:25] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:27] 76561199108250772: ESP index=0 target=WoodenPlank:19590 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:27] 76561199108250772: ESP index=1 target=WoodenLog:30278 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:01:27] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:29] 76561199108250772: ESP index=0 target=WoodenLog:17873 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:01:29] 76561199108250772: ESP index=1 target=WoodenPlank:8555 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:29] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:31] 76561199108250772: ESP index=0 target=Nail:13640 position=<4257.645020, 20.713148, 7286.997559> action=delete
+[COT 2024-01-08 02:01:31] 76561199108250772: ESP index=1 target=WoodenPlank:25096 position=<4257.645020, 20.781466, 7286.997559> action=delete
+[COT 2024-01-08 02:01:31] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-01-08 02:01:34] 76561199108250772: ESP index=0 target=WoodenLog:20547 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:01:34] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 02:01:35] 76561199108250772: ESP index=0 target=WoodenLog:21211 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:01:35] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 02:01:37] 76561199108250772: ESP index=0 target=WoodenLog:26519 position=<4257.645020, 20.713852, 7286.997559> action=delete
+[COT 2024-01-08 02:01:37] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 02:01:50] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 02:02:13] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 02:02:16] 76561199108250772: ESP index=0 target=Expansion_Landrover_Orange:23452 position=<4243.389648, 20.576124, 7276.314941> action=delete
+[COT 2024-01-08 02:02:16] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 02:02:18] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 02:05:05] 76561199108250772: Spawned Entity MVS - Snow (ModularVestSystem_Base<431f2ee0>, 1000, 225, 0) at <4237.230957, 20.607624, 7283.843750>
+[COT 2024-01-08 02:05:10] 76561199108250772: Spawned Entity MVS Heavy - Snow (ModularVestSystem_Heavy<4e86fe40>, 1000, 300, 0) at <4238.415039, 20.607622, 7282.893555>
+[COT 2024-01-08 02:05:23] 76561199108250772: Spawned Entity MVS Chestrig - Snow (ModularChestRig_Base<42e35c50>, 1000, 100, 0) at <4238.801758, 20.607624, 7284.057129>
+[COT 2024-01-08 02:05:29] 76561199108250772: Spawned Entity MVS Magazine Pouch - Snow (MVS_Pouch_Base<713f080>, 1000, 100, 0) at <4238.683105, 20.607622, 7285.141113>
+[COT 2024-01-08 02:05:33] 76561199108250772: Spawned Entity MVS Molle Panel - Snow (MVS_Pouch_Base<7141330>, 1000, 100, 0) at <4238.566895, 20.714542, 7285.096680>
+[COT 2024-01-08 02:05:45] 76561199108250772: Spawned Entity MVS Raid Pouch - Snow (Modular_Pouch_Base_Taco<7146fb0>, 1000, 100, 0) at <4238.450684, 20.821463, 7285.052246>
+[COT 2024-01-08 02:05:49] 76561199108250772: Spawned Entity MVS Admin Pouch - Snow (MVS_Pouch_Base<40da0dd0>, 1000, 100, 0) at <4238.339355, 20.923496, 7285.009766>
+[COT 2024-01-08 02:05:59] 76561199108250772: Spawned Entity MVS Heavy LMG Pouch - Snow (MVS_Pouch_Base<40dc7e30>, 1000, 100, 0) at <4238.241699, 21.013227, 7284.972656>
+[COT 2024-01-08 02:06:03] 76561199108250772: Spawned Entity MVS Utility Pouch - Snow (MVS_Pouch_Base<40dae980>, 1000, 100, 0) at <4238.134277, 21.112017, 7284.931641>
+[COT 2024-01-08 02:06:07] 76561199108250772: Spawned Entity MVS Medical Pouch - Snow (MVS_Pouch_Base<40db7fd0>, 1000, 100, 0) at <4238.039063, 21.199369, 7284.895508>
+[COT 2024-01-08 02:06:12] 76561199108250772: Spawned Entity MVS Combat Helmet - Snow (Mich2001Helmet<1bfc000>, 1000, 50, 0) at <4237.958008, 21.273964, 7284.864258>
+[COT 2024-01-08 02:06:17] 76561199108250772: Spawned Entity MVS Combat Helmet - Snow (Mich2001Helmet<517ed330>, 1000, 50, 0) at <4238.668457, 20.607624, 7286.263672>
+[COT 2024-01-08 02:06:21] 76561199108250772: Spawned Entity MVS High Cut Helmet - Snow (Mich2001Helmet<517f5df0>, 1000, 50, 0) at <4238.556152, 20.715811, 7286.152832>
+[COT 2024-01-08 02:06:26] 76561199108250772: Spawned Entity MVS Armored Helmet - Snow (Mich2001Helmet<51800b60>, 1000, 100, 0) at <4239.151855, 20.607624, 7287.039551>
+[COT 2024-01-08 02:06:36] 76561199108250772: Spawned Entity MVS Warrior Helmet - Snow (Mich2001Helmet<517ff440>, 1000, 100, 0) at <4237.921387, 20.607624, 7285.425293>
+[COT 2024-01-08 02:06:42] 76561199108250772: Spawned Entity MVS Raider Pack - Snow (MountainBag_ColorBase<26ec8180>, 1000, 300, 0) at <4237.563965, 20.607624, 7286.636230>
+[COT 2024-01-08 02:06:47] 76561199108250772: Spawned Entity MVS Sling Pack - Snow (MountainBag_ColorBase<4440f410>, 1000, 300, 0) at <4236.809082, 20.607622, 7286.463867>
+[COT 2024-01-08 02:06:51] 76561199108250772: Spawned Entity MVS Compact Pack 1 - Snow (MountainBag_ColorBase<444307f0>, 1000, 300, 0) at <4237.147461, 20.607622, 7287.434570>
+[COT 2024-01-08 02:06:58] 76561199108250772: Spawned Entity MVS Compact Pack 2 - Snow (MountainBag_ColorBase<44437b90>, 1000, 300, 0) at <4237.314453, 20.607624, 7285.601074>
+[COT 2024-01-08 02:07:04] 76561199108250772: Spawned Entity MVS Radio Pack - Snow (MountainBag_ColorBase<22c95780>, 1000, 300, 0) at <4235.340332, 20.607624, 7285.849609>
+[COT 2024-01-08 02:07:11] 76561199108250772: Spawned Entity MVS Combat Pack - Snow (MountainBag_ColorBase<29c27e60>, 1000, 300, 0) at <4234.665039, 20.607624, 7284.598145>
+[COT 2024-01-08 02:07:15] 76561199108250772: Spawned Entity MVS Combat Belt - Snow (Modular_Belt_Base<484477a0>, 1000, 100, 0) at <4234.665039, 20.607624, 7284.598145>
+[COT 2024-01-08 02:07:21] 76561199108250772: Spawned Entity MVS Holster - Snow (PlateCarrierHolster<48464620>, 1000, 100, 0) at <4235.221191, 20.607624, 7283.899414>
+[COT 2024-01-08 02:07:25] 76561199108250772: Spawned Entity MVS Sheath - Snow (NylonKnifeSheath<4846e800>, 1000, 100, 0) at <4235.542969, 20.607624, 7283.595703>
+[COT 2024-01-08 02:07:45] 76561199108250772: Spawned Entity MVS Admin Pouch - Snow (MVS_Pouch_Base<2982bf00>, 1000, 100, 0) at <4238.665039, 20.607624, 7284.383789>
+[COT 2024-01-08 02:08:28] 76561199108250772: Spawned Entity MVS Gorka Top - Snow (GorkaEJacket_Flat<ac1805d0>, 1000, 130, 0) at <4238.665039, 20.607624, 7284.383789>
+[COT 2024-01-08 02:08:36] 76561199108250772: Spawned Entity MVS Gorka Pants - Snow (GorkaPants_Flat<891f9070>, 1000, 130, 0) at <4239.382813, 20.607624, 7284.797363>
+[COT 2024-01-08 02:08:41] 76561199108250772: Spawned Entity MVS Combat Shirt - Snow (TacticalShirt_ColorBase<891ff880>, 1000, 100, 0) at <4240.155273, 20.607624, 7284.761719>
+[COT 2024-01-08 02:08:48] 76561199108250772: Spawned Entity MVS Combat Pants - Snow (BDUPants<89200410>, 1000, 100, 0) at <4240.098633, 20.607624, 7283.849121>
+[COT 2024-01-08 02:09:04] 76561199108250772: Spawned Entity MVS Balaclava - Snow (BalaclavaMask_ColorBase<51b8fc60>, 1000, 100, 0) at <4239.998535, 20.607624, 7282.953125>
+[COT 2024-01-08 02:09:08] 76561199108250772: Spawned Entity PMK-2 Respirator - Snow (GP5GasMask<51b91f10>, 1000, 100, 0) at <4239.998535, 20.607624, 7282.953125>
+[COT 2024-01-08 02:10:32] 76561199108250772: Spawned Entity HoneyBadgerGold (300WinMag) (M4A1_Base<4e3f5050>, 40, 200, 0) at <4237.066406, 20.607624, 7284.920898>
+[COT 2024-01-08 02:10:35] 76561199108250772: Spawned Entity HoneyBadgerGold_mag_40Rnd (Mag_STANAG_30Rnd<ce4bd10>, 40, 100, 0) at <4237.050293, 20.667711, 7284.910156>
+[COT 2024-01-08 02:10:35] 76561199108250772: Spawned Entity HoneyBadgerGold_mag_40Rnd (Mag_STANAG_30Rnd<ce46c20>, 40, 100, 0) at <4237.035645, 20.721170, 7284.900879>
+[COT 2024-01-08 02:10:36] 76561199108250772: Spawned Entity HoneyBadgerGold_mag_40Rnd (Mag_STANAG_30Rnd<ce4dfc0>, 40, 100, 0) at <4237.020996, 20.774204, 7284.891113>
+[COT 2024-01-08 02:10:36] 76561199108250772: Spawned Entity HoneyBadgerGold_mag_40Rnd (Mag_STANAG_30Rnd<ce477b0>, 40, 100, 0) at <4237.006348, 20.827663, 7284.881836>
+[COT 2024-01-08 02:10:38] 76561199108250772: Spawned Entity HoneyBadgerGold_mag_40Rnd (Mag_STANAG_30Rnd<ce4eb50>, 40, 100, 0) at <4236.991699, 20.880697, 7284.872070>
+[COT 2024-01-08 02:10:39] 76561199108250772: Spawned Entity HoneyBadgerGold_mag_40Rnd (Mag_STANAG_30Rnd<ce75bb0>, 40, 100, 0) at <4236.977539, 20.933731, 7284.862793>
+[COT 2024-01-08 02:12:08] 76561199108250772: Spawned Entity Military-Mountain-Boots (MilitaryBoots_Bluerock<8a362e30>, 100, 180, 0) at <4235.581543, 20.607624, 7284.614746>
+[COT 2024-01-08 02:12:59] 76561199108250772: Spawned Entity Fire Barrel (BarrelHoles_Yellow<b06c6280>, 60000, 900, 0) at <4236.497559, 20.607624, 7278.605469>
+[COT 2024-01-08 02:13:14] 76561199108250772: Spawned Entity MVS Magazine Pouch - Snow (MVS_Pouch_Base<3f60b450>, 100, 100, 0) at <4236.347656, 20.607624, 7284.365723>
+[COT 2024-01-08 02:13:24] 76561199108250772: Spawned Entity MVS Medical Pouch - Snow (MVS_Pouch_Base<3f615630>, 150, 100, 0) at <4236.347656, 20.607624, 7284.365723>
+[COT 2024-01-08 02:13:38] 76561199108250772: Spawned Entity Firewood (Firewood<4677f650>, 1, 500, 0) at <4237.287109, 20.607624, 7278.501953>
+[COT 2024-01-08 02:13:38] 76561199108250772: Spawned Entity Firewood (Firewood<46778e40>, 1, 500, 0) at <4237.337891, 20.784235, 7278.558105>
+[COT 2024-01-08 02:13:39] 76561199108250772: Spawned Entity Firewood (Firewood<467801e0>, 1, 500, 0) at <4237.389160, 20.960848, 7278.614258>
+[COT 2024-01-08 02:13:40] 76561199108250772: Spawned Entity Firewood (Firewood<46784740>, 1, 500, 0) at <4237.439941, 21.137072, 7278.670898>
+[COT 2024-01-08 02:13:40] 76561199108250772: Spawned Entity Firewood (Firewood<46782490>, 1, 500, 0) at <4237.491211, 21.313683, 7278.727051>
+[COT 2024-01-08 02:13:41] 76561199108250772: Spawned Entity Firewood (Firewood<46783020>, 1, 500, 0) at <4237.542480, 21.490294, 7278.783203>
+[COT 2024-01-08 02:13:59] 76561199108250772: Spawned Entity Identifier Patch - US (Clothing<54b96530>, 100, 100, 0) at <4235.884766, 20.607624, 7285.676758>
+[COT 2024-01-08 02:14:00] 76561199108250772: Spawned Entity Identifier Patch - US (Clothing<54b8fd20>, 100, 100, 0) at <4235.884766, 20.607624, 7285.676758>
+[COT 2024-01-08 02:14:00] 76561199108250772: Spawned Entity Identifier Patch - US (Clothing<54b970c0>, 100, 100, 0) at <4235.884766, 20.607624, 7285.676758>
+[COT 2024-01-08 02:14:01] 76561199108250772: Spawned Entity Identifier Patch - US (Clothing<54b908b0>, 100, 100, 0) at <4235.884766, 20.607624, 7285.676758>
+[COT 2024-01-08 02:14:01] 76561199108250772: Spawned Entity Identifier Patch - US (Clothing<54b97c50>, 100, 100, 0) at <4235.884766, 20.607624, 7285.676758>
+[COT 2024-01-08 02:14:02] 76561199108250772: Spawned Entity Identifier Patch - US (Clothing<54b91440>, 100, 100, 0) at <4235.884766, 20.607624, 7285.676758>
+[COT 2024-01-08 02:16:44] 76561199108250772: Set the date to 2024/9/27 12:0
+[COT 2024-01-08 02:16:44] 76561199108250772: Set rain to 0 0 0
+[COT 2024-01-08 02:16:44] 76561199108250772: Set storm to 0 0.8 4000
+[COT 2024-01-08 02:16:44] 76561199108250772: Set fog to 0 0 0
+[COT 2024-01-08 02:16:44] 76561199108250772: Set overcast to 0 0 0
+[COT 2024-01-08 02:16:44] 76561199108250772: Set wind to 0 0 1
+[COT 2024-01-08 02:21:59] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dca0e0>, 40, 100, 0) at <4242.326660, 20.607626, 7281.853027>
+[COT 2024-01-08 02:21:59] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dcc390>, 40, 100, 0) at <4242.312988, 20.624044, 7281.845703>
+[COT 2024-01-08 02:22:00] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dc5b80>, 40, 100, 0) at <4242.299316, 20.640463, 7281.837891>
+[COT 2024-01-08 02:22:00] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dc7e30>, 40, 100, 0) at <4242.285645, 20.656883, 7281.830566>
+[COT 2024-01-08 02:22:01] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dccf20>, 40, 100, 0) at <4242.271484, 20.673302, 7281.824219>
+[COT 2024-01-08 02:22:01] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dc6710>, 40, 100, 0) at <4242.258301, 20.689720, 7281.815918>
+[COT 2024-01-08 02:22:02] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dce640>, 40, 100, 0) at <4242.244141, 20.706139, 7281.808594>
+[COT 2024-01-08 02:22:02] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dc89c0>, 40, 100, 0) at <4242.230469, 20.722559, 7281.801270>
+[COT 2024-01-08 02:22:03] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40dd3730>, 40, 100, 0) at <4242.216309, 20.738977, 7281.793457>
+[COT 2024-01-08 02:22:03] 76561199108250772: Spawned Entity AmmoBox_300WinMag_20Rnd (TWP_AmmoBox_300WinMag_20Rnd<40d96060>, 40, 100, 0) at <4242.203125, 20.755398, 7281.786621>
+[COT 2024-01-08 02:26:30] 76561199108250772: Entered the Free Camera
+[COT 2024-01-08 02:27:02] 76561199108250772: Left the Free Camera
+[COT 2024-01-08 02:35:37] 76561199108250772: Teleported to position <5649.516602, 28.709999, 5415.408203>
+[COT 2024-01-08 02:35:54] 76561199108250772: Teleported [guid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] to <5651.500000, 28.722494, 5416.277344>
+[COT 2024-01-08 02:40:35] 76561199108250772: Spawned Entity HEMTT red (HEMTT_red<38b39e70>, 100, 10000, 0) at <5653.789551, 28.710003, 5416.536621>
+[COT 2024-01-08 03:32:31] 76561199108250772: Spawned Entity Campfire (FBF_FireplaceIgnited<424041b0>, 100, 100, 0) at <5645.913086, 28.709999, 5404.814941>
+[COT 2024-01-08 03:41:58] 76561199108250772: Teleported to position <5271.642090, 22.859793, 2076.349609>
+[COT 2024-01-08 03:42:57] 76561199108250772: Teleported to position <5644.381836, 28.709999, 5413.356445>
+[COT 2024-01-08 04:09:44] 76561199108250772: Teleported to position <10708.474609, 90.209816, 6148.074219>
+[COT 2024-01-08 04:10:35] 76561199108250772: Spawned Entity Sea Chest (SeaChest<1ebc1ce0>, 100, 600, 0) at <10660.664063, 98.676735, 6128.885254>
+[COT 2024-01-08 04:11:02] 76561199108250772: Spawned Entity Golden Beretta M9 (Glock19_Base<3bffeb20>, 15, 150, 0) at <10660.045898, 98.677460, 6128.744141>
+[COT 2024-01-08 04:11:10] 76561199108250772: Spawned Entity 15Rnd M9 Magazine (Mag_Expansion_M9_15Rnd<44601fe0>, 15, 100, 0) at <10660.226563, 98.677376, 6128.635742>
+[COT 2024-01-08 04:11:11] 76561199108250772: Spawned Entity 15Rnd M9 Magazine (Mag_Expansion_M9_15Rnd<4460aaa0>, 15, 100, 0) at <10660.228516, 98.705711, 6128.620117>
+[COT 2024-01-08 04:11:31] 76561199108250772: Teleported to position <8743.131836, 16.904919, 5148.027344>
+[COT 2024-01-08 04:12:28] 76561199108250772: Spawned Entity Munghards hiking backpack (Hikingbagmung_ColorBase<534d27e0>, 5000, 100, 0) at <8750.013672, 18.045551, 5095.442383>
+[COT 2024-01-08 04:13:11] 76561199108250772: Spawned Entity Catfood (House<57f950e0>, 100, 100, 0) at <8738.958984, 19.071762, 5093.619629>
+[COT 2024-01-08 04:13:34] 76561199108250772: Spawned Entity Milk Bottle (WaterBottle<51a87490>, 500, 50, 65536) at <8749.833008, 18.087057, 5094.572266>
+[COT 2024-01-08 04:14:03] 76561199108250772: Spawned Entity Gyrocopter (ExpansionGyrocopter<38ae4980>, 100, 2750, 0) at <8728.477539, 19.915695, 5093.065918>
+[COT 2024-01-08 04:17:30] 76561199108250772: Repaired Transport [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-01-08 04:21:37] 76561199108250772: Teleported to position <7023.062988, 7.930000, 1485.865234>
+[COT 2024-01-08 04:25:05] 76561199108250772: Healed [guid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=]
+[COT 2024-01-08 04:25:33] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 04:25:34] 76561199108250772: ESP index=0 target=ExpansionGyrocopter:30086 position=<7003.940430, 7.574247, 1525.573242> action=delete
+[COT 2024-01-08 04:25:34] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 04:25:43] 76561199108250772: Spawned Entity Gyrocopter (ExpansionBigGyrocopter<38ae4980>, 100, 2750, 0) at <7007.592773, 7.714623, 1528.037842>
+[COT 2024-01-08 04:26:03] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 04:35:49] 76561199108250772: Spawned Entity M16-A2 (M16A2_Base<2cb83bd0>, 100, 200, 0) at <5625.057617, 28.710003, 5411.051758>
+[COT 2024-01-08 04:40:18] 76561199108250772: Spawned Entity Land Rover Defender (Expansion_Landrover_Blue<38adf160>, 100, 3000, 0) at <5624.264648, 28.709999, 5410.833008>
+[COT 2024-01-08 04:41:34] 76561199108250772: Spawned Entity Keys (ExpansionCarKey<3cec9fe0>, 500, 100, 0) at <5626.270996, 28.709999, 5406.134766>
+[COT 2024-01-08 04:41:44] 76561199108250772: Spawned Entity Keychain (ExpansionKeyChainBase<3cecb700>, 500, 100, 0) at <5626.270508, 28.722176, 5406.136230>
+[COT 2024-01-08 04:42:16] 76561199108250772: Spawned Entity #STR_EXPANSION_ADMIN #STR_EXPANSION_CAR_KEYS (ExpansionCarAdminKey<3cee5740>, 500, 100, 0) at <5628.710938, 28.710005, 5374.663086>
+[COT 2024-01-08 04:46:02] 76561199108250772: Spawned Entity Boxed Nails (NailBox<3d0e27b0>, 99, 80, 0) at <5635.401367, 29.285004, 5390.444336>
+[COT 2024-01-08 04:46:03] 76561199108250772: Spawned Entity Boxed Nails (NailBox<3d0f1a80>, 99, 80, 0) at <5635.376465, 29.484446, 5390.379883>
+[COT 2024-01-08 04:46:03] 76561199108250772: Spawned Entity Boxed Nails (NailBox<3d0ee0b0>, 99, 80, 0) at <5635.351074, 29.683884, 5390.314941>
+[COT 2024-01-08 04:46:04] 76561199108250772: Spawned Entity Boxed Nails (NailBox<3d0eec40>, 99, 80, 0) at <5635.326172, 29.883326, 5390.250000>
+[COT 2024-01-08 04:46:09] 76561199108250772: Spawned Entity Pickaxe (Pickaxe<3d0ebe00>, 99, 250, 0) at <5635.301270, 30.082767, 5390.185547>
+[COT 2024-01-08 04:49:38] 76561199108250772: ESP: Viewing ESP
+[COT 2024-01-08 04:49:40] 76561199108250772: ESP index=0 target=ExpansionBigGyrocopter:22978 position=<5630.112305, 28.760811, 5370.918945> action=delete
+[COT 2024-01-08 04:49:40] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-01-08 04:49:42] 76561199108250772: ESP: Clearing ESP
+[COT 2024-01-08 04:49:50] 76561199108250772: Spawned Entity Gyrocopter (ExpansionGyrocopter<38aef9c0>, 100, 2750, 0) at <5631.399414, 28.709999, 5372.130859>
+[COT 2024-01-08 04:55:17] 76561199108250772: Repaired Transport [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]

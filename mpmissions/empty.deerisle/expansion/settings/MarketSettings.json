@@ -1,5 +1,5 @@
 {
-    "m_Version": 12,
+    "m_Version": 13,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
@@ -21,8 +21,8 @@
         {
             "Position": [
                 5601.25,
-                28.7225,
-                5357.96
+                28.72249984741211,
+                5357.9599609375
             ],
             "Orientation": [
                 120.0,
@@ -31,36 +31,34 @@
             ]
         }
     ],
-    "AirSpawnPositions":
-        [
-            {
-                "Position": [
-                    5611.09,
-                    28.7623,
-                    5352.73
-                ],
-                "Orientation": [
-                    90.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-    "WaterSpawnPositions":
-        [
-            {
-                "Position": [
-                    10324.4,
-                    0.0,
-                    5638.94
-                ],
-                "Orientation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
+    "AirSpawnPositions": [
+        {
+            "Position": [
+                5611.08984375,
+                28.762300491333009,
+                5352.72998046875
+            ],
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "WaterSpawnPositions": [
+        {
+            "Position": [
+                10324.400390625,
+                0.0,
+                5638.93994140625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
     "MarketMenuColors": {
         "BaseColorVignette": "000000C8",
         "BaseColorHeaders": "13171BFF",

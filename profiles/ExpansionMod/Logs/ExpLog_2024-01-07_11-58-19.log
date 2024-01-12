@@ -1,0 +1,54 @@
+14:08:41.132 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<6069.735352, 32.997707, 6939.268555>)
+14:08:45.429 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<6068.971191, 32.991501, 6939.766113>)
+14:10:50.156 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<6068.971191, 32.991512, 6939.766113>) as driver
+14:10:53.449 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<6068.971680, 32.991512, 6939.766113>)
+14:15:35.695 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5339.404297, 4.901558, 9179.874023>)
+14:15:51.820 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5339.402832, 4.901556, 9179.874023>) as driver
+14:16:37.734 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5659.342773, 4.921519, 9275.949219>)
+14:16:58.851 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5659.341797, 4.921580, 9275.949219>) as driver
+14:17:13.304 [SpawnSelection] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60=) spawned at <10266.131836, 8.428172, 5572.642578>
+14:17:16.316 [SpawnSelection] Player "Miss Purple Pikmin" (id=6i8UNoruV6PIUGy4X4NQmM-LQV7Sa00SrGxiAn3cQJY=) spawned at <10493.400391, 16.896009, 5411.615723>
+14:17:22.765 [AI Patrol] Spawning 3 Camp Bear Patrol bots at <8725.404297, 12.693511, 6046.329590>
+14:18:54.175 [Party] Player "_TheSniper303_" (id=reM6zxkdbYHjfRnEI_r5uohOvDbI6agk8hA9Jj_jw7M=) left the party "_TheSniper303_" (id=1 ownerUID=reM6zxkdbYHjfRnEI_r5uohOvDbI6agk8hA9Jj_jw7M= ownerName=_TheSniper303_)
+14:19:13.296 [Party] Player "lilbricky" (id=pbPXJw38S5EBOX3UQnYKDK2WU95jUlE2-bZKvdCqcF8=) left the party "_TheSniper303_" (id=1 ownerUID=reM6zxkdbYHjfRnEI_r5uohOvDbI6agk8hA9Jj_jw7M= ownerName=_TheSniper303_)
+14:21:30.988 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<7968.778809, 21.491585, 9204.457031>)
+14:21:35.390 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<7968.778809, 21.491552, 9204.457031>)
+14:23:56.734 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10311.875977, 1.465733, 5629.534180>) Entered the safezone
+14:24:29.550 [Party] Player "Bluecollarboys" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "_TheSniper303_" (id=1 ownerUID=reM6zxkdbYHjfRnEI_r5uohOvDbI6agk8hA9Jj_jw7M= ownerName=_TheSniper303_)
+14:24:35.160 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10304.632813, 1.465087, 5618.004395>) Left the safezone
+14:24:42.914 [Party] Player "Bluecollarboys" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "DDD" (id=2 ownerUID= ownerName=)
+14:24:42.914 [Party] Player "Bluecollarboys" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) created a party named DDD ()
+14:25:01.101 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<7968.778809, 21.491566, 9204.457031>) as driver
+14:25:03.484 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<7968.778809, 21.491549, 9204.457031>)
+14:25:05.656 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10311.889648, 1.462869, 5632.188477>) Entered the safezone
+14:25:27.773 [Party] Player "Bluecollarboys" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "DDD" (id=2 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=Bluecollarboys)
+14:25:55.343 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8372.310547, 5.121624, 9284.203125>)
+14:26:00.000 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8372.310547, 5.121598, 9284.203125>)
+14:28:04.781 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8372.311523, 5.121566, 9284.203125>) as driver
+14:28:07.296 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8372.310547, 5.121574, 9284.203125>)
+14:28:28.691 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8352.336914, 5.121598, 9267.220703>)
+14:28:32.273 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8352.336914, 5.121569, 9267.220703>)
+14:30:28.269 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8352.336914, 5.121569, 9267.220703>) as driver
+14:30:31.390 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8352.336914, 5.121578, 9267.220703>)
+14:31:10.660 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10318.494141, 1.985457, 5590.834961>) Left the safezone
+14:31:35.468 [Safezone] Player "Miss Purple Pikmin" (id=6i8UNoruV6PIUGy4X4NQmM-LQV7Sa00SrGxiAn3cQJY= pos=<10311.749023, 1.466404, 5629.363770>) Entered the safezone
+14:31:36.789 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10311.283203, 1.464485, 5632.088379>) Entered the safezone
+14:32:08.519 [Safezone] Player "Miss Purple Pikmin" (id=6i8UNoruV6PIUGy4X4NQmM-LQV7Sa00SrGxiAn3cQJY= pos=<10310.416992, 1.467731, 5629.647949>) Entered the safezone
+14:32:22.128 [Safezone] Player "Miss Purple Pikmin" (id=6i8UNoruV6PIUGy4X4NQmM-LQV7Sa00SrGxiAn3cQJY= pos=<10312.636719, 1.470053, 5622.675293>) Left the safezone
+14:32:34.191 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10313.089844, 1.470336, 5623.281738>) Left the safezone
+14:35:20.019 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8439.416016, 63.961201, 8039.247070>)
+14:35:35.839 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8439.414063, 63.869263, 8039.998047>) as driver
+14:35:59.640 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8436.127930, 62.961155, 8058.326172>)
+14:36:21.089 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8436.127930, 62.961143, 8058.326660>) as driver
+14:36:23.632 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8436.127930, 62.961155, 8058.326660>)
+14:36:27.050 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8436.127930, 62.961185, 8058.327148>)
+14:38:24.265 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10310.618164, 1.468533, 5628.753906>) Entered the safezone
+14:40:26.507 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10309.985352, 1.467393, 5621.788574>) Left the safezone
+14:42:38.054 [Party] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60=) joinded the party "The Alliance" (id=3 ownerUID= ownerName=)
+14:42:38.054 [Party] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60=) created a party named The Alliance ()
+14:42:48.765 [Party] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60=) invited the player "Miss Purple Pikmin" (id=6i8UNoruV6PIUGy4X4NQmM-LQV7Sa00SrGxiAn3cQJY=)to the party named The Alliance
+14:44:18.515 [Party] Player "Miss Purple Pikmin" (id=6i8UNoruV6PIUGy4X4NQmM-LQV7Sa00SrGxiAn3cQJY=) joinded the party "The Alliance" (id=3 ownerUID=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= ownerName=NewDiabolic)
+14:44:23.808 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10311.379883, 1.468800, 5627.482422>) Entered the safezone
+14:44:46.546 [Safezone] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= pos=<10312.691406, 1.470974, 5623.077148>) Left the safezone
+15:03:03.984 [Party] Player "Miss Purple Pikmin" (id=6i8UNoruV6PIUGy4X4NQmM-LQV7Sa00SrGxiAn3cQJY=) left the party "The Alliance" (id=3 ownerUID=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= ownerName=NewDiabolic)
+15:03:03.988 [Party] Player "NewDiabolic" (id=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60=) left the party "The Alliance" (id=3 ownerUID=gQ2l03bMsRh0iCTDhoEXGG79yfGyqkZQnxx96FmP_60= ownerName=NewDiabolic)

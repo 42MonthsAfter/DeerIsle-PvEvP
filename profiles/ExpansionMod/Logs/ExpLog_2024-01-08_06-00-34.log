@@ -1,0 +1,404 @@
+06:09:56.957 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8436.127930, 62.961170, 8058.327148>) as driver
+06:10:01.376 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8436.127930, 62.961159, 8058.327148>)
+06:11:49.369 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8187.013672, 3.031572, 8307.631836>)
+06:12:03.792 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<8187.013672, 3.031568, 8307.631836>) as driver
+06:17:53.800 [AI Patrol] Spawning 3 Shamans bots at <10622.245117, 17.440304, 10791.307617>
+06:19:04.876 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<10223.545898, 21.761562, 10939.997070>)
+06:19:18.765 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<10223.545898, 21.761559, 10939.996094>) as driver
+06:19:25.664 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<10223.545898, 21.761568, 10939.996094>)
+06:19:28.269 [VehicleAttachments] Player Alaric (uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=) detached Ada 4x4 Wheel (type=HatchbackWheel) from vehicle Ada 4x4(id=423A5B8AFB4FB87876F2818F36352E1B pos=<10216.379883, 21.669636, 10940.099609>)
+06:20:08.779 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<10223.545898, 21.761559, 10939.996094>) as driver
+06:20:50.265 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<10161.184570, 21.761566, 10902.777344>)
+06:23:13.923 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<10161.184570, 21.761555, 10902.777344>) as driver
+06:37:56.441 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5807.743164, 5.871558, 14955.406250>)
+06:38:00.394 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5807.743164, 5.871568, 14955.406250>)
+06:39:10.494 [VehicleAttachments] Player Alaric (uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=) detached M3S Right Door (type=Truck_01_Door_2_1_Black) from vehicle M3S Covered(id=F31E2A51604AAAFBD96D9881B97370B8 pos=<5825.673340, 5.816673, 14933.905273>)
+06:40:38.121 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5807.743164, 5.871559, 14955.394531>) as driver
+06:40:39.576 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5807.743164, 5.871569, 14955.394531>)
+06:41:31.056 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5795.325195, 5.948732, 14708.067383>)
+06:41:34.996 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5795.325195, 5.948659, 14708.067383>)
+06:49:10.345 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, -0.023499, 14608.525391>) as driver
+06:49:11.880 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, 0.395441, 14608.525391>) as driver
+06:49:52.046 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, 0.524739, 14608.525391>) as driver
+06:49:54.144 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, 0.845575, 14608.525391>) as driver
+06:49:57.044 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, 0.649578, 14608.525391>) as driver
+06:50:16.781 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, 0.520391, 14608.525391>) as driver
+06:50:18.828 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, 0.838956, 14608.525391>) as driver
+06:50:21.117 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle PBX (id=9DBB6410324CA63576DB6CACDD84BA90 pos=<5689.164063, 0.754361, 14608.525391>) as driver
+06:57:11.115 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5795.325195, 5.948635, 14708.067383>) as driver
+06:57:13.568 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5795.325195, 5.948644, 14708.067383>)
+06:58:35.503 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5773.041504, 5.920737, 14888.473633>)
+06:58:38.935 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5773.041504, 5.920711, 14888.473633>)
+10:26:12.468 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "zXNoRagRetSXz" (id=4 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+10:28:14.687 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2853.116699, 5.425872, 6194.707520>) used the  ExpansionCarKey to unlock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2853.267578, 5.445502, 6193.321777>)
+10:28:20.753 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2853.267822, 5.445501, 6193.320801>) as driver
+10:28:23.863 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2853.268066, 5.445502, 6193.320313>)
+10:28:30.871 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2853.267578, 5.445501, 6193.322266>) as driver
+10:28:32.667 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2853.267090, 5.445502, 6193.323242>)
+10:28:44.226 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2865.632324, 5.508374, 6197.425781>)
+10:29:45.324 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2865.632813, 5.508281, 6197.423828>) as driver
+10:29:54.457 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2865.632568, 5.508340, 6197.425293>)
+10:30:11.292 [Safezone] Player "dirtydan" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5618.666504, 34.745438, 5418.224609>) Entered the safezone
+10:30:46.148 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2865.632568, 5.508335, 6197.424805>)
+10:32:10.867 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5615.865234, 31.394594, 5424.320313>) Entered the safezone
+10:33:01.281 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<10457.459961, 36.115772, 4824.150391>) Left the safezone
+10:35:31.070 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2865.632813, 5.508287, 6197.423828>)
+10:35:37.480 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory base raid at <10454.368164, 48.065876, 4814.016602>
+10:36:17.929 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<10455.651367, 36.517159, 4819.087891>) used the Admin Hammer to build wood_base
+10:36:23.351 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<10455.651367, 36.517159, 4819.087891>) used the Admin Hammer to build wood_doorframe
+10:36:26.859 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<10455.651367, 36.517159, 4819.087891>) used the Admin Hammer to build wood_doorfinished
+10:37:00.167 [BaseRaiding] ExpansionWall6x3 (<10455.371094, 36.659779, 4817.755859>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <10455.600586, 36.528973, 4818.815918>) and the code is 159085
+10:37:55.320 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4693.941895, 20.430000, 7040.071777>
+10:39:17.796 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): goovis
+10:40:47.804 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): wut door
+10:41:08.582 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): want me to tp you
+10:41:13.390 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle Mercedes-Benz W140 (Locked) (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6394.626953, 15.117416, 6206.340820>)
+10:41:19.578 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6394.626953, 15.117414, 6206.340820>)
+10:41:22.921 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6394.205078, 15.116118, 6204.758301>) used the  ExpansionCarKey to lock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6394.626953, 15.117416, 6206.340820>)
+10:41:25.679 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): yessum
+10:41:46.976 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:46.976 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:46.976 [BaseBuildingRaiding] They dealt 35.8127 * 1 = 35.8127 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:46.976 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29964.2
+10:41:46.976 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:47.226 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:47.226 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:47.226 [BaseBuildingRaiding] They dealt 35.8128 * 1 = 35.8128 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:47.226 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29964.2 to 29928.4
+10:41:47.226 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:47.453 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:47.453 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:47.453 [BaseBuildingRaiding] They dealt 35.8111 * 1 = 35.8111 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:47.453 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29928.4 to 29892.6
+10:41:47.453 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:47.667 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:47.667 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:47.667 [BaseBuildingRaiding] They dealt 35.8109 * 1 = 35.8109 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:47.667 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29892.6 to 29856.8
+10:41:47.667 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:47.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:47.812 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:47.812 [BaseBuildingRaiding] They dealt 35.811 * 1 = 35.811 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:47.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29856.8 to 29820.9
+10:41:47.812 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:47.957 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:47.960 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:47.960 [BaseBuildingRaiding] They dealt 35.8106 * 1 = 35.8106 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:47.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29820.9 to 29785.1
+10:41:47.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:48.140 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:48.140 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:48.140 [BaseBuildingRaiding] They dealt 35.8108 * 1 = 35.8108 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:48.140 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29785.1 to 29749.3
+10:41:48.140 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:48.398 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:48.398 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:48.398 [BaseBuildingRaiding] They dealt 35.8095 * 1 = 35.8095 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:48.398 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29749.3 to 29713.5
+10:41:48.398 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:48.546 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:48.546 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:48.546 [BaseBuildingRaiding] They dealt 35.809 * 1 = 35.809 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:48.546 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29713.5 to 29677.7
+10:41:48.546 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:48.652 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:48.652 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:48.652 [BaseBuildingRaiding] They dealt 35.8091 * 1 = 35.8091 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:48.652 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29677.7 to 29641.9
+10:41:48.652 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:48.832 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:48.832 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:48.832 [BaseBuildingRaiding] They dealt 35.8094 * 1 = 35.8094 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:48.832 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29641.9 to 29606.1
+10:41:48.832 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:48.945 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:48.945 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:48.945 [BaseBuildingRaiding] They dealt 35.8094 * 1 = 35.8094 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:48.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29606.1 to 29570.3
+10:41:48.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:49.125 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:49.125 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:49.125 [BaseBuildingRaiding] They dealt 35.809 * 1 = 35.809 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:49.125 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29570.3 to 29534.5
+10:41:49.125 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:49.308 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:49.308 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:49.308 [BaseBuildingRaiding] They dealt 35.8106 * 1 = 35.8106 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:49.308 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29534.5 to 29498.7
+10:41:49.308 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:49.710 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:49.710 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:49.710 [BaseBuildingRaiding] They dealt 35.813 * 1 = 35.813 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:49.710 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29498.7 to 29462.8
+10:41:49.710 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:49.855 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:49.855 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:49.855 [BaseBuildingRaiding] They dealt 35.8133 * 1 = 35.8133 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:49.855 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29462.8 to 29427
+10:41:49.855 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:50.000 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:41:50.000 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.1, 36.5, 4819.46> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:41:50.000 [BaseBuildingRaiding] They dealt 35.8116 * 1 = 35.8116 damage with Bullet_45ACP from DOC_42MA_GLOCK1
+10:41:50.000 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29427 to 29391.2
+10:41:50.000 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:41:53.660 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): didnt work
+10:42:12.765 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): NOPE
+10:42:28.910 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:42:28.910 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.7, 36.12, 4822.13> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:42:28.914 [BaseBuildingRaiding] They dealt 96.2208 * 1 = 96.2208 damage with Bullet_556x45 from DOC_M4_BLACK
+10:42:28.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29391.2 to 29295
+10:42:28.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:42:28.984 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:42:28.984 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.7, 36.12, 4822.13> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:42:28.984 [BaseBuildingRaiding] They dealt 96.2195 * 1 = 96.2195 damage with Bullet_556x45 from DOC_M4_BLACK
+10:42:28.984 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29295 to 29198.8
+10:42:28.984 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:42:29.750 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:42:29.750 [BaseBuildingRaiding] Player "zXGoovis_AndachairXz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <10456.7, 36.12, 4822.13> damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:42:29.750 [BaseBuildingRaiding] They dealt 96.2202 * 1 = 96.2202 damage with Bullet_556x45 from DOC_M4_BLACK
+10:42:29.750 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29198.8 to 29102.6
+10:42:29.750 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:42:33.039 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): wonder what we need
+10:42:40.460 [BaseRaiding] ExpansionWall6x3 (<10455.371094, 36.659779, 4817.755859>) player "zXGoovis_AndachairXz" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <10455.630859, 36.516880, 4819.096191>) failed to enter the correct code.
+10:42:40.464 [BaseRaiding] ExpansionWall6x3 (<10455.371094, 36.659779, 4817.755859>) The correct code was 159085 and the player tried 420420
+10:42:43.968 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<2659ecb0> at <10455, 36.1, 4820.62> EXPLOSION range 5 dropoff 2.5
+10:42:43.968 [ExplosionDamageSystem] Queued Expansion_C4_Explosion<2659ecb0> ExpansionC4_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:42:44.003 [ExplosionDamageSystem] ExpansionWallBase<2ac93710> at <10455.4, 36.66, 4817.76> was not hit by ExpansionC4_Ammo from Expansion_C4_Explosion<2659ecb0> at <10455, 36.1, 4820.62> - applying direct EXPLOSION damage coef 0.821661
+10:42:44.003 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> has been hit by whitelisted explosive Expansion_C4_Explosion<2659ecb0>
+10:42:44.003 [ExplosionDamageSystem] Dequeued Expansion_C4_Explosion<2659ecb0> ExpansionC4_Ammo for ExpansionWallBase<2ac93710> - count: 0
+10:42:44.003 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:42:44.003 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:42:44.003 [BaseBuildingRaiding] They dealt 492.996 * 50 = 24649.8 damage with ExpansionC4_Ammo from Expansion_C4_Explosion
+10:42:44.003 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29102.6 to 4452.74
+10:42:44.003 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:43:16.140 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "zXNoRagRetSXz" (id=4 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+10:43:19.914 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8874.144531, 45.421577, 3807.368408>
+10:43:33.023 [SpawnSelection] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) spawned at <8956.400391, 5.130000, 8931.730469>
+10:43:51.046 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i liVe aGaIN
+10:44:25.457 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): taht didnt work
+10:44:32.015 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i look fly
+10:44:35.226 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5644.111816, 28.722498, 5402.221191>) Entered the safezone
+10:44:45.195 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): wall is damaged tho
+10:45:11.554 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i kept my reputation. thats tight af
+10:45:20.644 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hit it again
+10:45:38.414 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 2994 on his ATM account.
+10:45:40.500 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 2994 from his ATM account.
+10:46:00.835 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell ushanka_green x1 at the trader "Clothing_Accessories (Elias [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:46:00.937 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold ushanka_green x1 at the trader "Clothing_Accessories (Elias [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 41.
+10:46:15.421 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase mich2001helmet x1 from the trader "Clothing_Accessories (Elias [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:46:15.523 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought mich2001helmet x1 from the trader "Clothing_Accessories (Elias [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 150.
+10:46:17.898 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): THATS ONE WAY TO DO IT
+10:46:28.757 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): do you see the pirate flag up top
+10:46:34.718 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): YEP
+10:46:35.109 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase nvgoggles x1 from the trader "Special (Eva [Specialty Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:46:35.207 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought nvgoggles x1 from the trader "Special (Eva [Specialty Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 2610.
+10:46:38.949 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ok
+10:46:41.164 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): can you hear my soundboard?
+10:46:44.585 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): yes
+10:46:49.679 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): SWEEEEEEEEET
+10:47:00.445 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): lol
+10:47:29.882 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): like watching paint dry
+10:47:47.906 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac784d0> at <10455.6, 36.77, 4818.22> EXPLOSION range 20 dropoff 5
+10:47:47.906 [ExplosionDamageSystem] Queued M67Grenade<2ac784d0> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:47:47.906 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac87610> at <10455.6, 36.77, 4818.22> EXPLOSION range 20 dropoff 5
+10:47:47.906 [ExplosionDamageSystem] Queued M67Grenade<2ac87610> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:47:47.906 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac73060> at <10455.6, 36.77, 4818.22> EXPLOSION range 20 dropoff 5
+10:47:47.906 [ExplosionDamageSystem] Queued M67Grenade<2ac73060> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:47:47.906 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac8d690> at <10455.6, 36.77, 4818.22> EXPLOSION range 20 dropoff 5
+10:47:47.906 [ExplosionDamageSystem] Queued M67Grenade<2ac8d690> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:47:47.906 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2acac520> at <10455.6, 36.77, 4818.22> EXPLOSION range 20 dropoff 5
+10:47:47.910 [ExplosionDamageSystem] Queued M67Grenade<2acac520> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:47:47.910 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> has been hit by whitelisted explosive M67Grenade<2ac784d0>
+10:47:47.910 [ExplosionDamageSystem] Dequeued M67Grenade<2ac784d0> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 0
+10:47:47.914 [ExplosionDamageSystem] Overriding M67Grenade<2ac784d0> damage dealt to ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> 41.0564 -> 50
+10:47:47.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:47:47.914 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:47:47.914 [BaseBuildingRaiding] They dealt 50 * 50 = 2500 damage with M67Grenade_Ammo from M67Grenade
+10:47:47.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4452.74 to 1952.74
+10:47:47.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:47:47.914 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> has been hit by whitelisted explosive M67Grenade<2acac520>
+10:47:47.914 [ExplosionDamageSystem] Dequeued M67Grenade<2acac520> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 0
+10:47:47.914 [ExplosionDamageSystem] Overriding M67Grenade<2acac520> damage dealt to ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> 41.0564 -> 50
+10:47:47.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:47:47.914 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:47:47.914 [BaseBuildingRaiding] They dealt 50 * 50 = 2500 damage with M67Grenade_Ammo from M67Grenade
+10:47:47.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 1952.74 to 0
+10:47:47.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:47:47.914 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> has been hit by whitelisted explosive M67Grenade<2ac8d690>
+10:47:47.914 [ExplosionDamageSystem] Dequeued M67Grenade<2ac8d690> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 0
+10:47:47.914 [ExplosionDamageSystem] Overriding M67Grenade<2ac8d690> damage dealt to ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> 41.0564 -> 50
+10:47:47.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:47:47.914 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:47:47.914 [BaseBuildingRaiding] They dealt 50 * 50 = 2500 damage with M67Grenade_Ammo from M67Grenade
+10:47:47.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 0 to 0
+10:47:47.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:47:47.914 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> has been hit by whitelisted explosive M67Grenade<2ac73060>
+10:47:47.914 [ExplosionDamageSystem] Dequeued M67Grenade<2ac73060> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 0
+10:47:47.914 [ExplosionDamageSystem] Overriding M67Grenade<2ac73060> damage dealt to ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> 41.0564 -> 50
+10:47:47.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:47:47.914 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:47:47.914 [BaseBuildingRaiding] They dealt 50 * 50 = 2500 damage with M67Grenade_Ammo from M67Grenade
+10:47:47.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 0 to 0
+10:47:47.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:47:47.914 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> has been hit by whitelisted explosive M67Grenade<2ac87610>
+10:47:47.914 [ExplosionDamageSystem] Dequeued M67Grenade<2ac87610> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 0
+10:47:47.914 [ExplosionDamageSystem] Overriding M67Grenade<2ac87610> damage dealt to ExpansionWallBase<2ac93710> at <10455.371094, 36.659779, 4817.755859> 41.0564 -> 50
+10:47:47.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:47:47.914 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <10455.4, 36.66, 4817.76>
+10:47:47.914 [BaseBuildingRaiding] They dealt 50 * 50 = 2500 damage with M67Grenade_Ammo from M67Grenade
+10:47:47.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 0 to 0
+10:47:47.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:47:47.917 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2aca88d0> at <10456.9, 36.53, 4822.77> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2aca88d0> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:47:47.921 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2aca88d0> at <10456.9, 36.53, 4822.77> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2aca88d0> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 2
+10:47:47.921 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2aca88d0> at <10456.9, 36.53, 4822.77> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2aca88d0> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 3
+10:47:47.921 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2aca88d0> at <10456.9, 36.53, 4822.77> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2aca88d0> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 4
+10:47:47.921 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2aca88d0> at <10456.9, 36.53, 4822.77> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2aca88d0> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 5
+10:47:47.921 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac88220> at <10455.9, 36.63, 4817.93> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2ac88220> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 1
+10:47:47.921 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac88220> at <10455.9, 36.63, 4817.93> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2ac88220> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 2
+10:47:47.921 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac88220> at <10455.9, 36.63, 4817.93> EXPLOSION range 20 dropoff 5
+10:47:47.921 [ExplosionDamageSystem] Queued M67Grenade<2ac88220> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 3
+10:47:47.925 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<2ac88220> at <10455.9, 36.63, 4817.93> EXPLOSION range 20 dropoff 5
+10:47:47.925 [ExplosionDamageSystem] Queued M67Grenade<2ac88220> M67Grenade_Ammo for ExpansionWallBase<2ac93710> - count: 4
+10:48:11.390 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "zXNoRagRetSXz" (id=4 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+10:48:26.929 [SpawnSelection] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) spawned at <8956.400391, 5.130000, 8931.730469>
+10:48:29.332 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell fal x1 at the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:48:29.421 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold fal x1 at the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 2066.
+10:50:00.457 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): bring me daddy
+10:50:23.527 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): not even a frame
+10:50:46.261 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i like that
+10:50:53.468 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase expansion_m16 x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:50:53.578 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought expansion_m16 x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 1565.
+10:51:30.113 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammo_556x45 x120 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:51:30.222 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammo_556x45 x120 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 240.
+10:51:57.921 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory raid base at <10464.249023, 36.245499, 4838.459473>
+10:52:37.320 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<10477.859375, 36.584545, 4835.050293>) used the Admin Hammer to build wood_base
+10:52:41.796 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<10477.859375, 36.584545, 4835.050293>) used the Admin Hammer to build wood_wallframe
+10:52:45.929 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<10477.859375, 36.584545, 4835.050293>) used the Admin Hammer to build wood_wallfinished
+10:55:26.054 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell ammo_huntingbolt x30 at the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:55:26.195 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold ammo_huntingbolt x30 at the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 90.
+10:57:39.015 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): where can i sell deer pelts?
+10:57:53.503 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): food trader
+10:58:03.531 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): in the cottage at holler if she is buying them
+11:01:06.156 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6395.507813, 15.120862, 6204.162109>) used the  ExpansionCarKey to unlock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6394.626953, 15.117416, 6206.340820>)
+11:01:10.320 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6394.626465, 15.117417, 6206.340332>) as driver
+11:01:15.546 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (Locked) (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6394.626465, 15.117414, 6206.341309>)
+11:01:39.234 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<4dfb3100> at <10479, 36.83, 4833.64> EXPLOSION range 20 dropoff 5
+11:01:39.234 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<47790980> at <10479, 36.83, 4833.64> EXPLOSION range 20 dropoff 5
+11:01:39.234 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<4778cd30> at <10479, 36.83, 4833.64> EXPLOSION range 20 dropoff 5
+11:01:39.234 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<47792db0> at <10479, 36.83, 4833.64> EXPLOSION range 20 dropoff 5
+11:01:39.234 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<477945d0> at <10479, 36.83, 4833.64> EXPLOSION range 20 dropoff 5
+11:01:39.234 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<4779a650> at <10479, 36.83, 4833.64> EXPLOSION range 20 dropoff 5
+11:02:01.976 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6630.778320, 15.109550, 6443.727539>)
+11:02:27.273 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'm officialy blind cause i can't find the food trader lol
+11:02:40.687 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5636.578125, 28.709999, 5404.549805>) Entered the safezone
+11:02:43.718 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6630.773438, 15.109550, 6443.725098>) as driver
+11:02:46.390 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6630.773926, 15.109550, 6443.727051>)
+11:03:08.414 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): over here by the well
+11:03:53.281 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell pelt_goldenelder x1 at the trader "Hunting (Helga [Hunting Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:03:53.359 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold pelt_goldenelder x1 at the trader "Hunting (Helga [Hunting Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 7500.
+11:04:53.148 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell mosin9130 x1 at the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:04:53.242 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold mosin9130 x1 at the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1215.
+11:06:00.742 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5106.864746, 8.590518, 9054.188477>)
+11:06:22.242 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5106.866211, 8.590528, 9054.185547>) as driver
+11:06:24.500 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5106.865234, 8.590530, 9054.187500>)
+11:06:27.632 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5106.866699, 8.590542, 9054.184570>) as driver
+11:06:30.945 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5106.866211, 8.590543, 9054.185547>)
+11:06:34.773 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): how do i go about buying more than 1 mag?
+11:06:55.980 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5220.764648, 4.929551, 9115.684570>)
+11:07:02.136 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): is that all the trader had in stock
+11:08:26.070 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6705.694336, 31.971289, 2873.741943>) Left the safezone
+11:09:13.835 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5220.765137, 4.929551, 9115.682617>) as driver
+11:09:16.234 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5220.765625, 4.929551, 9115.682617>)
+11:09:36.578 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5340.807129, 4.929551, 9179.809570>)
+11:10:11.117 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i got just the mag with the gun but can't see an option to get more
+11:10:27.953 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): was just looking for anoth 60 rnd stng
+11:10:34.671 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5628.828613, 28.709999, 5372.538086>) Entered the safezone
+11:10:40.835 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase mosin9130 x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:10:40.921 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought mosin9130 x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 1670.
+11:10:52.039 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5340.807129, 4.929551, 9179.807617>) as driver
+11:10:54.984 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5340.807129, 4.929551, 9179.808594>)
+11:11:36.656 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i just don't see the option to buy seperately
+11:11:55.523 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): something we need to still set up
+11:12:01.000 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gotcha
+11:12:03.695 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): i can spot you one tho
+11:12:15.523 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): bring me back 5 stag pelts
+11:12:15.578 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that would be great
+11:12:29.414 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok i will thry
+11:12:41.726 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): got you one right here 
+11:12:53.285 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ty
+11:13:16.324 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): 4 to go lol
+11:13:22.679 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+11:14:21.437 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2874.725342, 5.729761, 6201.019531>) Left the safezone
+11:14:34.605 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5243.352051, 4.790050, 12394.035156>)
+11:15:58.515 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5243.351563, 4.789551, 12394.036133>) as driver
+11:16:00.128 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5243.352539, 4.789551, 12394.036133>)
+11:16:36.859 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5278.240234, 4.789544, 12474.830078>)
+11:17:23.734 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5501.771973, 76.779129, 5277.494141>) Left the safezone
+11:18:20.593 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5532.561035, 58.638618, 5299.314941>) Entered the safezone
+11:19:27.726 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5278.238770, 4.789550, 12474.828125>) as driver
+11:19:30.300 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5278.239746, 4.789551, 12474.829102>)
+11:20:31.679 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase plastic_explosive x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:20:31.773 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought plastic_explosive x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 300.
+11:20:43.859 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase remotedetonatortrigger x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:20:43.945 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought remotedetonatortrigger x1 from the trader "Weapons (Oliver [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 300.
+11:21:05.273 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 7071 on his ATM account.
+11:22:21.449 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5497.696777, 75.362946, 5281.811523>) Left the safezone
+11:23:10.234 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5934.224121, 5.899551, 14273.988281>)
+11:24:14.359 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5934.225098, 5.899551, 14273.988281>) as driver
+11:24:17.105 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5934.225098, 5.899550, 14273.988281>)
+11:24:26.648 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok thank you
+11:25:01.250 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5972.242676, 5.899550, 14536.108398>)
+11:26:53.515 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5972.242676, 5.899550, 14536.110352>) as driver
+11:26:55.136 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5972.242676, 5.899550, 14536.107422>)
+11:27:23.429 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5980.322266, 5.899553, 14621.631836>)
+11:29:30.187 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5980.320313, 5.899552, 14621.630859>) as driver
+11:29:32.945 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5980.320313, 5.899552, 14621.630859>)
+11:31:24.906 [AI Patrol] Spawning 3 RCFI Patrol bots at <3682.066650, 10.061659, 8704.396484>
+11:32:35.414 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): sounds good
+11:32:40.988 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6316.797852, 37.405483, 14815.500000>)
+11:32:50.265 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): wtf these mini z scared me lmao
+11:34:09.937 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6317.079102, 37.386791, 14817.898438>) used the  ExpansionCarKey to lock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6316.790527, 37.405479, 14815.479492>)
+11:34:25.039 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6319.846680, 37.386791, 14816.188477>) used the  ExpansionCarKey to unlock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6316.790527, 37.405479, 14815.479492>)
+11:34:53.437 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6319.707520, 37.389977, 14814.958008>) used the  ExpansionCarKey to lock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6316.790527, 37.405479, 14815.479492>)
+11:38:09.734 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5640.763672, 28.700825, 5420.388672>) Entered the safezone
+11:40:58.046 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6318.369629, 37.386124, 14813.670898>) used the  ExpansionCarKey to unlock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6316.790527, 37.405479, 14815.479492>)
+11:42:47.285 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6316.790527, 37.404984, 14815.480469>) as driver
+11:42:49.914 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6316.790527, 37.404987, 14815.478516>)
+11:43:30.617 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6452.009277, 31.311846, 14917.267578>)
+11:44:31.953 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6452.010254, 31.311861, 14917.266602>) as driver
+11:44:34.472 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6452.009277, 31.311810, 14917.266602>)
+11:46:26.007 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6183.045898, 17.923594, 14403.251953>)
+11:46:45.734 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6183.044922, 17.923595, 14403.251953>) as driver
+11:46:49.015 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<6183.042969, 17.923597, 14403.251953>)
+11:47:39.605 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6612.964355, 15.102500, 6384.834473>) Left the safezone
+11:48:44.695 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory RAIDABLE BASE at <6499.104004, 21.549580, 6471.623047>
+11:49:15.750 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6492.383301, 15.518776, 6463.457031>) used the Admin Hammer to build wood_base
+11:49:20.984 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6492.383301, 15.518776, 6463.457031>) used the Admin Hammer to build wood_gateframe
+11:49:25.484 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6492.383301, 15.518776, 6463.457031>) used the Admin Hammer to build wood_gatefinished
+11:49:46.792 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5234.156250, 4.789550, 12322.929688>)
+11:49:54.687 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6502.411621, 15.102500, 6474.998535>) used the Admin Hammer to build wood_base
+11:50:01.328 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6502.411621, 15.102500, 6474.998535>) used the Admin Hammer to build wood_doorframe
+11:50:05.523 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6502.411621, 15.102500, 6474.998535>) used the Admin Hammer to build wood_doorfinished
+11:50:55.226 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6503.368164, 15.102500, 6464.888672>) used the Admin Hammer to build wood_base
+11:50:59.421 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6503.368164, 15.102500, 6464.888672>) used the Admin Hammer to build wood_wallframe
+11:51:03.718 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6503.368164, 15.102500, 6464.888672>) used the Admin Hammer to build wood_wallfinished
+11:51:38.781 [BaseRaiding] ExpansionWall6x3 (<6491.201172, 15.479415, 6462.609375>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <6491.352051, 15.518888, 6464.091309>) and the code is 1989
+11:52:05.281 [BaseRaiding] ExpansionWall6x3 (<6501.417480, 15.473269, 6473.664551>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <6500.550781, 15.513849, 6472.445313>) and the code is 1989
+11:52:50.992 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5234.157715, 4.789550, 12322.929688>) as driver
+11:52:52.195 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5234.157715, 4.789550, 12322.929688>)
+11:53:24.898 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5526.570313, 58.721302, 5303.208496>) Entered the safezone
+11:54:12.648 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell cartent x1 at the trader "BuildingSupplies (Indar [Building Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:54:12.753 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold cartent x1 at the trader "BuildingSupplies (Indar [Building Trader])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 5250.
+11:55:36.851 [AI Patrol] Spawning 1 Shamans bots at <5855.624512, 11.711570, 8700.546875>
+11:56:09.781 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 5250 on his ATM account.
+11:56:17.695 [VehicleCarKey] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6495.239258, 15.517481, 6465.168457>) paired a  ExpansionCarKey to Hatchback_02_BanditKitty (id=C6411C43AD44F8096CBA29B2E60F8617 pos=<6496.924316, 15.560726, 6464.478027>)
+11:56:24.507 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Mercedes-Benz W140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5897.273438, 14.379552, 8741.333984>)
+11:56:26.882 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5898.367676, 14.624580, 8741.826172>) used the  ExpansionCarKey to lock MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<5897.271484, 14.379553, 8741.333984>)
+11:59:15.476 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "zXNoRagRetSXz" (id=4 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)

@@ -1,5 +1,5 @@
 {
-    "m_Version": 11,
+    "m_Version": 12,
     "DisplayName": "Specialty Trader",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
@@ -9,9 +9,10 @@
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
     "Categories": [
         "Electronics"
     ],
-    "Items": {
-    }
+    "Items": {}
 }

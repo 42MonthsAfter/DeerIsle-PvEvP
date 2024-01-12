@@ -1,0 +1,37 @@
+************************** 2024-01-09T11:00:28+00:00 **************************
+2024-01-09T11:00:28+00:00 | [INFO	] GameLabs v1.920 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-01-09T11:00:39+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-01-09T11:00:39+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-01-09T11:00:39+00:00 | [INFO	] Experimental speed check is enabled
+2024-01-09T12:00:39+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T12:00:39+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T12:00:40+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T13:00:44+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T13:00:44+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T13:00:45+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T14:00:50+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T14:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T14:00:50+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T15:00:55+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T15:00:55+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T15:00:55+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T15:07:29+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:07:34+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:07:39+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:07:44+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:07:49+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:07:54+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:07:59+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:08:04+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T15:08:09+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-09T16:01:00+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T16:01:00+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T16:01:00+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T16:44:04+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T16:44:04+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T16:44:04+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=1084.13u, unitsPerSecond=433.654 [threshold=8, inVehicle=0, triggers=1])
+2024-01-09T16:44:04+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T16:44:04+00:00 | [WARN	] ****************************************
+2024-01-09T16:58:55+00:00 | [WARN	] [Spawn] Spawning CamoNet (x2) for SurvivorBase<3a603040>
+2024-01-09T17:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-01-09T17:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

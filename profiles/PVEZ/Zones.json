@@ -32,7 +32,7 @@
         "Name": "RCFI",
         "X": 3729.0,
         "Z": 8824.0,
-        "Radius": 400,
+        "Radius": 950,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 0,
         "Activity_Schedule": {
@@ -74,7 +74,7 @@
         "Name": "KMUC",
         "X": 7219.0,
         "Z": 11619.0,
-        "Radius": 300,
+        "Radius": 1600,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 0,
         "Activity_Schedule": {

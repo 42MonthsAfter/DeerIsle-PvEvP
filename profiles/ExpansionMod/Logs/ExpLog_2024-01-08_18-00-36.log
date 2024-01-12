@@ -1,0 +1,25 @@
+18:07:23.914 [Party] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "DDD" (id=2 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=Bluecollarboys)
+18:09:05.777 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5647.720215, 28.722498, 5403.302246>) Entered the safezone
+18:09:32.878 [AI Patrol] Spawning 3 Prison Island Patrol bots at <5175.065918, 14.890000, 768.512756>
+18:09:42.027 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5428.863770, 66.485603, 1602.680664>) Left the safezone
+18:12:27.898 [VehicleDeleted] ExpansionZodiacBoat_Orange (id=0936C8C2D94A3354F5172CACB02FEBFF pos=<2093.722168, 0.368533, 6317.654297>)
+18:14:27.773 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9688.695313, 34.345524, 4611.023926>) used the  ExpansionCarKey to unlock Expansion_Landrover_Blue (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9687.642578, 34.281273, 4609.909668>)
+18:16:15.242 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9687.642578, 34.281273, 4609.909668>) as driver
+18:16:36.406 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Land Rover Defender (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9687.642578, 34.281281, 4609.910156>)
+18:18:13.000 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8773.599609, 45.419998, 3789.661865>
+18:20:12.671 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9620.401367, 2.831165, 3098.134033>)
+18:20:27.679 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9620.409180, 2.829901, 3098.120361>) as driver
+18:20:31.742 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9620.409180, 2.829902, 3098.120361>)
+18:20:40.601 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9621.761719, 2.850364, 3098.202881>) used the  ExpansionCarKey to lock Expansion_Landrover_Blue (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9620.409180, 2.829898, 3098.120605>)
+18:20:59.367 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5645.357910, 29.502888, 5409.614258>) Entered the safezone
+18:21:02.742 [AI Patrol] Spawning 1 Shamans bots at <6268.200684, 121.946243, 5754.239746>
+18:21:35.250 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<2839.950928, 5.229136, 6202.219727>) Left the safezone
+18:22:24.234 [VehicleDeleted] MBw140 (id=B3B53FC34D4ECBD265BC3AA436AEEBF7 pos=<2853.520508, 5.445503, 6193.776855>)
+18:22:24.234 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<2853.429199, 5.425802, 6195.599609>) covered vehicle "MBw140" (GlobalID=800000008000000080000000800018BB pos=<2853.520508, 5.445503, 6193.776855>)!
+18:22:29.593 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9621.792969, 2.812447, 3095.161377>) used the  ExpansionCarKey to unlock Expansion_Landrover_Blue (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9620.409180, 2.829898, 3098.120605>)
+18:22:38.093 [VehicleDeleted] ChevroletCorvette (id=5140F511DF4C48A4EECF58A1A4D9BF4A pos=<2847.426270, 6.398317, 6184.635254>)
+18:22:38.093 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<2848.000732, 6.454414, 6186.708008>) covered vehicle "ChevroletCorvette" (GlobalID=8000000080000000800000008000107F pos=<2847.426270, 6.398317, 6184.635254>)!
+18:23:23.625 [AI Patrol] Spawning 3 RCFI Patrol bots at <3828.420654, 8.995043, 8684.840820>
+18:23:30.148 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9620.160156, 2.844201, 3095.495361>) used the  ExpansionCarKey to lock Expansion_Landrover_Blue (id=215FE253B2499FAEF5FB248C7EA3CAE5 pos=<9620.409180, 2.829898, 3098.120605>)
+18:24:34.312 [VehicleDeleted] ExpansionZodiacBoat_Black (id=924EA033B54840CCDE4A52B66D1AE1A4 pos=<2091.014404, 0.019137, 6315.521973>)
+18:25:15.500 [SpawnSelection] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) spawned at <3703.820068, 20.430000, 6472.259766>

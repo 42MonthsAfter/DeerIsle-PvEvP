@@ -1,5 +1,5 @@
 {
-    "m_Version": 0,
+    "m_Version": 4,
     "ServerMarkerOnDropLocation": 1,
     "Server3DMarkerOnDropLocation": 1,
     "ShowAirdropTypeOnMarker": 1,
@@ -11,7 +11,7 @@
     "Radius": 1.0,
     "InfectedSpawnRadius": 50.0,
     "InfectedSpawnInterval": 250,
-    "ItemCount": 50,
+    "ItemCount": 25,
     "Containers": [
         {
             "Container": "ExpansionAirdropContainer",
@@ -2459,7 +2459,7 @@
             ],
             "ItemCount": 25,
             "InfectedCount": 15,
-            "SpawnInfectedForPlayerCalledDrops":1
+            "SpawnInfectedForPlayerCalledDrops": 1
         },
         {
             "Container": "ExpansionAirdropContainer_Basebuilding",
@@ -2964,7 +2964,7 @@
             ],
             "ItemCount": 50,
             "InfectedCount": 10,
-            "SpawnInfectedForPlayerCalledDrops":1
+            "SpawnInfectedForPlayerCalledDrops": 1
         },
         {
             "Container": "ExpansionAirdropContainer_Military",
@@ -5049,7 +5049,7 @@
             ],
             "ItemCount": 50,
             "InfectedCount": 50,
-            "SpawnInfectedForPlayerCalledDrops":1
+            "SpawnInfectedForPlayerCalledDrops": 1
         }
     ]
 }
