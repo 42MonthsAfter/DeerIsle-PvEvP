@@ -293,6 +293,17 @@
             "Variants": []
         },
         {
+            "ClassName": "ttr700mag",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "TWP_M14_mag_20Rnd",
             "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 1000,

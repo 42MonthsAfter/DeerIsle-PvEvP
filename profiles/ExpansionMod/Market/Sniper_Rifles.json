@@ -698,6 +698,19 @@
                 "TWP_M200Mod_mag_10Rnd"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "ttr700",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ttr700mag"
+            ],
+            "Variants": []
         }
     ]
 }

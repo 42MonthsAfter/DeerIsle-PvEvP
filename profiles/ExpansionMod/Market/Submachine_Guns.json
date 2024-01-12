@@ -519,6 +519,18 @@
                 "TWP_Kriss_mag_33Rnd"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "ots71",
+            "MaxPriceThreshold": 4200,
+            "MinPriceThreshold": 3800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+            ],
+            "Variants": []
         }
     ]
 }
