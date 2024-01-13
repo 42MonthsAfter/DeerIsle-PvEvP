@@ -28,5 +28,26 @@
     "ItemLifetimeInSafeZone": 3600.0,
     "EnableForceSZCleanupVehicles": 0,
     "VehicleLifetimeInSafeZone": 3888000.0,
-    "ForceSZCleanup_ExcludedItems": []
+    "ForceSZCleanup_ExcludedItems": [
+        "ExpansionCircuitBoard_MK1",
+        "ExpansionCircuitBoard_MK2",
+        "ExpansionCircuitBoard_MK3",
+        "ExpansionParkingMeter",
+        "Battery9V",
+        "CarBattery",
+        "TruckBattery",
+        "ExpansionHelicopterBattery",
+        "ExpansionAircraftBattery",
+        "Msp_Static_Barrel_Donation",
+        "Msp_Static_Barrel_Donation_Ammo",
+        "Msp_Static_Barrel_Donation_Guns",
+        "Msp_Static_Barrel_Donation_Food",
+        "Msp_Static_Barrel_Donation_Medical",
+        "Msp_Static_Barrel_Donation_BloodONegative",
+        "FBF_Fireplace",
+        "FBF_FireplaceIgnited",
+        "FBF_FireplaceIndoor",
+        "FBF_Pot",
+        "FBF_AreaLight_Warm"
+    ]
 }
