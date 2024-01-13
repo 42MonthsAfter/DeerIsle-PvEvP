@@ -29,6 +29,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Mag_IJ70_8Rnd",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_glock_15rnd",
             "MaxPriceThreshold": 80,
             "MinPriceThreshold": 40,

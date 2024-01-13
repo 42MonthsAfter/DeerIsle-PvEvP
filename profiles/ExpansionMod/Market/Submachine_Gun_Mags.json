@@ -7,6 +7,50 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
+            "ClassName": "Mag_Expansion_MPX_50Rnd",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Spectre_mag_30Rnd",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Spectre_mag_30Rnd",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_PP19Bison_mag_64Rnd",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_cz61_20rnd",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
@@ -19,6 +63,17 @@
         },
         {
             "ClassName": "mag_pp19_64rnd",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Mag_Expansion_MP7_40Rnd",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
