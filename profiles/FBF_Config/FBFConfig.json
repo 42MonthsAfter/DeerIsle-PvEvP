@@ -1,18 +1,18 @@
 {
     "m_CampfireLight": {
-        "Radius": 25.0,
+        "Radius": 1.0,
         "WithShadows": 0,
         "Brightness": 4.75,
         "VisibleDuringDaylight": 0
     },
     "m_FireplaceLight": {
-        "Radius": 25.0,
+        "Radius": 1.0,
         "WithShadows": 0,
         "Brightness": 4.75,
         "VisibleDuringDaylight": 0
     },
     "m_TorchLight": {
-        "Radius": 30.0,
+        "Radius": 1.0,
         "WithShadows": 0,
         "Brightness": 5.0,
         "VisibleDuringDaylight": 0
