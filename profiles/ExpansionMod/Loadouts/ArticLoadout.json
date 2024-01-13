@@ -11,7 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "FirefighterJacket_Beige",
+                    "ClassName": "MVS_CombatShirt_Snow",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -30,7 +30,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "FirefighterJacket_Black",
+                    "ClassName": "HuntingJacket_Winter",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -54,26 +54,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "FirefightersPants_Beige",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "FirefightersPants_Black",
+                    "ClassName": "MVS_CombatPants_Snow",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -97,7 +78,7 @@
             "SlotName": "Feet",
             "Items": [
                 {
-                    "ClassName": "WorkingBoots_Beige",
+                    "ClassName": "CombatBoots_Black",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -116,26 +97,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "WorkingBoots_Grey",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "WorkingBoots_Yellow",
+                    "ClassName": "CombatBoots_Grey",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -159,8 +121,8 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "ReflexVest",
-                    "Chance": 0.10000000149011612,
+                    "ClassName": "MVS_Combat_Vest_Heavy_Snow",
+                    "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -183,7 +145,7 @@
             "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "FirefightersHelmet_Red",
+                    "ClassName": "MVS_Helmet_02_Snow",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -202,7 +164,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "FirefightersHelmet_White",
+                    "ClassName": "MVS_ArmoredHelmet_Snow",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -221,7 +183,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "FirefightersHelmet_Yellow",
+                    "ClassName": "MVS_OpsCore_Snow",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -245,7 +207,7 @@
             "SlotName": "Gloves",
             "Items": [
                 {
-                    "ClassName": "WorkingGloves_Beige",
+                    "ClassName": "OMNOGloves_Gray",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -264,113 +226,8 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "WorkingGloves_Black",
+                    "ClassName": "TacticalGloves_Black",
                     "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "WorkingGloves_Brown",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "WorkingGloves_Yellow",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Hips",
-            "Items": [
-                {
-                    "ClassName": "CivilianBelt",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Melee",
-            "Items": [
-                {
-                    "ClassName": "FirefighterAxe",
-                    "Chance": 0.30000001192092898,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Crowbar",
-                    "Chance": 0.10000000149011612,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -390,7 +247,119 @@
             ]
         }
     ],
-    "InventoryCargo": [],
+    "InventoryCargo": [
+        {
+            "ClassName": "TacticalBaconCan",
+            "Chance": 0.10000000149011612,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BandageDressing",
+            "Chance": 0.15000000596046449,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        }
+    ],
     "ConstructionPartsBuilt": [],
-    "Sets": []
+    "Sets": [
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "TWP_AR15_Snow",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.699999988079071,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "TWP_AR15Snow_mag_30Rnd",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "TWP_AR15Snow_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TWP_AR15Snow_mag_30Rnd",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        }
+    ]
 }

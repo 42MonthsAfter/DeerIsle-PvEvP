@@ -11,7 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "PoliceJacket",
+                    "ClassName": "MVS_CombatShirt_Tigr_Camo_Bunker",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -35,7 +35,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "PolicePants",
+                    "ClassName": "MVS_CombatPants_Tigr_Camo_Bunker",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -59,26 +59,7 @@
             "SlotName": "Feet",
             "Items": [
                 {
-                    "ClassName": "CombatBoots_Black",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "CombatBoots_Grey",
+                    "ClassName": "CombatBoots_Green",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -102,26 +83,7 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "Expansion_PlateCarrierVest_Yeet",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Expansion_PressVest_Blue_Yeet",
+                    "ClassName": "MVS_Combat_Vest_Heavy_Tigr_Camo_Bunker",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -145,7 +107,7 @@
             "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "Expansion_GorkaHelmet_Yeet",
+                    "ClassName": "MVS_OpsCore_Tigr_Camo_Bunker",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -158,32 +120,45 @@
                             "Zone": ""
                         }
                     ],
-                    "InventoryAttachments": [
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "MVS_ArmoredHelmet_Tigr_Camo_Bunker",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
                         {
-                            "SlotName": "Glass",
-                            "Items": [
-                                {
-                                    "ClassName": "GorkaHelmetVisor",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ]
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
                         }
                     ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "MVS_6B47_Helmet_Tigr_Camo_Bunker",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
@@ -211,46 +186,14 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
-                },
-                {
-                    "ClassName": "OMNOGloves_Gray",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
                 }
             ]
         }
     ],
     "InventoryCargo": [
         {
-            "ClassName": "Apple",
+            "ClassName": "TacticalBaconCan",
             "Chance": 0.10000000149011612,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "BandageDressing",
-            "Chance": 1.0,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -276,5 +219,84 @@
         }
     ],
     "ConstructionPartsBuilt": [],
-    "Sets": []
+    "Sets": [
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "TWP_AK47Tactical",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "TWP_AK47Tactical_mag_45Rnd",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "TWP_AK47Tactical_mag_45Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TWP_AK47Tactical_mag_45Rnd",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        }
+    ]
 }
