@@ -24,7 +24,7 @@
     "CylinderZones": [],
     "ActorsPerTick": 5,
     "DisableVehicleDamageInSafeZone": 1,
-    "EnableForceSZCleanup": 0,
+    "EnableForceSZCleanup": 1,
     "ItemLifetimeInSafeZone": 3600.0,
     "EnableForceSZCleanupVehicles": 0,
     "VehicleLifetimeInSafeZone": 3888000.0,
