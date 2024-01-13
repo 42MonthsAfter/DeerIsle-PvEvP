@@ -892,19 +892,115 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    13139.7001953125,
-                    21.100000381469728,
-                    1588.8299560546876
+                    15152.6, 
+                    1.88618,
+                    15023.2
                 ],
                 [
-                    13078.2998046875,
-                    21.100000381469728,
-                    1427.199951171875
+                    15266.7,  
+                    -0.699774,
+                    115118.3
                 ],
                 [
-                    12818.7001953125,
-                    21.100000381469728,
-                    1426.7900390625
+                    15428.9, 
+                    3.79992,  
+                    15263.4
+                ]
+            ]
+        },
+        {
+            "Name": "Artic Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "ArticLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    15336.4,
+                    17.9044,
+                    15338.7
+                ],
+                [
+                    15294,  
+                    17.6191,
+                    15379
+                ],
+                [
+                    15234.5,  
+                    0.208569, 
+                    15282.3
+                ]
+            ]
+        },
+        {
+            "Name": "Artic Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "ArticLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    15479.4, 
+                    34.209, 
+                    15222.5
+                ],
+                [
+                    15538.2, 
+                    43.8745, 
+                    15170.7 
+                ],
+                [
+                    15564.5,  
+                    74.6283,
+                    15072.3
                 ]
             ]
         },
@@ -940,19 +1036,125 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    13139.7001953125,
-                    21.100000381469728,
-                    1588.8299560546876
+                    365.854, 
+                    54.3838, 
+                    880.005
                 ],
                 [
-                    13078.2998046875,
-                    21.100000381469728,
-                    1427.199951171875
+                    365.919, 
+                    55.3181, 
+                    798.664
                 ],
                 [
-                    12818.7001953125,
-                    21.100000381469728,
-                    1426.7900390625
+                    373.382,  
+                    55.3182,
+                    798.773
+                ],
+                [
+                    374.843,  
+                    55.3181,
+                    758.497
+                ]
+            ]
+        },
+        {
+            "Name": "Temple Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "TempleLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    371.107, 
+                    48.9083, 
+                    633.299
+                ],
+                [
+                    365.337, 
+                    48.3647, 
+                    721.67
+                ],
+                [
+                    366.682,  
+                    55.3181,
+                    758.336 
+                ],
+                [
+                    354.693, 
+                    55.3183, 
+                    758.773
+                ]
+            ]
+        },
+        {
+            "Name": "Temple Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "TempleLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    356.914,  
+                    47.07,
+                    812.378
+                ],
+                [
+                    395.474, 
+                    47.07,  
+                    815.791
+                ],
+                [
+                    393.131,  
+                    47.07,
+                    758.617
                 ]
             ]
         },
@@ -988,19 +1190,355 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    13139.7001953125,
-                    21.100000381469728,
-                    1588.8299560546876
+                    13189.1, 
+                    14.212, 
+                    15423.6
                 ],
                 [
-                    13078.2998046875,
-                    21.100000381469728,
-                    1427.199951171875
+                    13198.8, 
+                    14.1944, 
+                    15498.4
                 ],
                 [
-                    12818.7001953125,
-                    21.100000381469728,
-                    1426.7900390625
+                    13244.8, 
+                    14.2165, 
+                    15646
+                ]
+            ]
+        },
+        {
+            "Name": "Aircraft Carrier Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "AircraftCarrierLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13256.7, 
+                    14.2217, 
+                    15597.3 
+                ],
+                [
+                    13233, 
+                    14.1944, 
+                    15524.1
+                ],
+                [
+                    13209, 
+                    114.2141, 
+                    15454.4
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "KMUCLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7215.39, 
+                    604.062, 
+                    11791.4
+                ],
+                [
+                    7170.93, 
+                    587.597, 
+                    11555.3
+                ],
+                [
+                    7172.76, 
+                    587.928, 
+                    11680.9
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "KMUCLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7031.41, 
+                    575.008, 
+                    11625.2
+                ],
+                [
+                    7045.49, 
+                    573.361, 
+                    11625.1
+                ],
+                [
+                    7044.49, 
+                    573.361, 
+                    11612.7
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "KMUCLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7104.15, 
+                    573.518, 
+                    11619
+                ],
+                [
+                    7151.77, 
+                    573.511, 
+                    11619.8
+                ],
+                [
+                    7154.32, 
+                    574.586, 
+                    11613.1
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "KMUCLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7195.06, 
+                    537.715, 
+                    11583.3
+                ],
+                [
+                    7156.03, 
+                    536.633, 
+                    11583.2
+                ],
+                [
+                    7155.96, 
+                    536.641, 
+                    11671.8 
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "KMUCLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7182, 
+                    510.922, 
+                    11674.4
+                ],
+                [
+                    7181.85, 
+                    507.414, 
+                    11657.4
+                ],
+                [
+                    7169.52, 
+                    503.877, 
+                    11657.3
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Patrol",
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "LoadoutFile": "KMUCLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7249.61, 
+                    224.82, 
+                    11619
+                ],
+                [
+                    7219.47, 
+                    224.292, 
+                    11614.6
+                ],
+                [
+                    7200.85, 
+                    226.645, 
+                    11645.3
                 ]
             ]
         }
