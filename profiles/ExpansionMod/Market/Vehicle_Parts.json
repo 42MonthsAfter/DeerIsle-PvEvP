@@ -8,28 +8,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "carbattery",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "truckbattery",
-            "MaxPriceThreshold": 360,
-            "MinPriceThreshold": 180,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "expansionhelicopterbattery",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
