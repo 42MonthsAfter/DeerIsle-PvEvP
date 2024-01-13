@@ -56,8 +56,8 @@
         },
         {
             "ClassName": "batterycharger",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -67,8 +67,8 @@
         },
         {
             "ClassName": "baseradio",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -93,8 +93,8 @@
         },
         {
             "ClassName": "nvgoggles",
-            "MaxPriceThreshold": 2600,
-            "MinPriceThreshold": 2600,
+            "MaxPriceThreshold": 4200,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
