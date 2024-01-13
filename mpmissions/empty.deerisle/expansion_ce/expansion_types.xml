@@ -5300,7 +5300,7 @@
     </type>
     <type name="ExpansionParkingMeter">
         <nominal>0</nominal>
-        <lifetime>604800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
