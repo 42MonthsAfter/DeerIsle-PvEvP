@@ -194,10 +194,6 @@
             ]
         },
         {
-            "SlotName": "Back",
-            "Items": []
-        },
-        {
             "SlotName": "Vest",
             "Items": [
                 {
@@ -320,7 +316,7 @@
             "Health": [],
             "InventoryAttachments": [
                 {
-                    "SlotName": "Shoulder",
+                    "SlotName": "Hands",
                     "Items": [
                         {
                             "ClassName": "TWP_Ash12",

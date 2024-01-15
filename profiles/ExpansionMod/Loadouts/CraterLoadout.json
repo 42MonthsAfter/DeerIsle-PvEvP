@@ -11,45 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "GorkaEJacket_Green_Camo",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "TacticalShirt_Green_Camo",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "HuntingJacket_Green_Camo",
+                    "ClassName": "MVS_CombatShirt_OD",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -73,45 +35,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "MVS_CombatPants_Green_Camo",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "CargoPants_Green_Camo",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "GorkaPants_Green_Camo",
+                    "ClassName": "MVS_CombatPants_OD",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -135,45 +59,7 @@
             "SlotName": "Feet",
             "Items": [
                 {
-                    "ClassName": "CombatBoots_Green",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "JungleBoots_Green",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "TTSKOBoots",
+                    "ClassName": "CombatBoots_Beige",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -194,14 +80,10 @@
             ]
         },
         {
-            "SlotName": "Back",
-            "Items": []
-        },
-        {
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "MVS_Combat_Vest_Heavy_Green_Camo",
+                    "ClassName": "MVS_Combat_Vest_Heavy_OD",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -244,7 +126,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "MVS_ArmoredHelmet_Green_Camo",
+                    "ClassName": "MVS_OpsCore_OD",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -263,26 +145,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "MVS_Helmet_01_ERDL",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "MVS_6B47_Helmet_Green_Camo",
+                    "ClassName": "MVS_ArmoredHelmet_OD",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -306,7 +169,7 @@
             "SlotName": "Gloves",
             "Items": [
                 {
-                    "ClassName": "TacticalGloves_Green_Camo",
+                    "ClassName": "OMNOGloves_Brown",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -325,15 +188,11 @@
                     "Sets": []
                 }
             ]
-        },
-        {
-            "SlotName": "Hips",
-            "Items": []
         }
     ],
     "InventoryCargo": [
         {
-            "ClassName": "TacticalBaconCan",
+            "ClassName": "Apple",
             "Chance": 0.10000000149011612,
             "Quantity": {
                 "Min": 0.0,
@@ -371,10 +230,10 @@
             "Health": [],
             "InventoryAttachments": [
                 {
-                    "SlotName": "Shoulder",
+                    "SlotName": "Hands",
                     "Items": [
                         {
-                            "ClassName": "TWP_LAR",
+                            "ClassName": "AK101",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -386,7 +245,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "TWP_LAR_mag_20Rnd",
+                                            "ClassName": "Mag_AK101_30Rnd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -410,7 +269,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "TWP_LAR_mag_20Rnd",
+                    "ClassName": "Mag_AK101_30Rnd",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -423,7 +282,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TWP_LAR_mag_20Rnd",
+                    "ClassName": "Mag_AK101_30Rnd",
                     "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
