@@ -4,14 +4,14 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 10.0,
     "Items": [
         {
             "ClassName": "offroadhatchback",
             "MaxPriceThreshold": 35000,
             "MinPriceThreshold": 24000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 15,
+            "MaxStockThreshold": 1000,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -37,7 +37,7 @@
             "MaxPriceThreshold": 42000,
             "MinPriceThreshold": 37000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 15,
+            "MaxStockThreshold": 1000,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [

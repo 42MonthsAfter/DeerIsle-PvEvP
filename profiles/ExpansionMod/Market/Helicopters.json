@@ -4,14 +4,14 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 10.0,
     "Items": [
         {
             "ClassName": "expansiongyrocopter",
             "MaxPriceThreshold": 1000000,
             "MinPriceThreshold": 800000,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 25,
+            "MaxStockThreshold": 1000,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -25,7 +25,7 @@
             "MaxPriceThreshold": 2000000,
             "MinPriceThreshold": 1800000,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 15,
+            "MaxStockThreshold": 1000,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -39,7 +39,7 @@
             "MaxPriceThreshold": 3000000,
             "MinPriceThreshold": 2500000,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 5,
+            "MaxStockThreshold": 1000,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -59,7 +59,7 @@
             "MaxPriceThreshold": 3400000,
             "MinPriceThreshold": 2700000,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 5,
+            "MaxStockThreshold": 1000,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -79,7 +79,7 @@
             "MaxPriceThreshold": 4000000,
             "MinPriceThreshold": 3000000,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 5,
+            "MaxStockThreshold": 1000,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
