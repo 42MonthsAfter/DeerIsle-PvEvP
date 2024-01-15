@@ -344,16 +344,16 @@
 	</type>
 	<type name="LUAZ_rust">
 		<attachments chance="1.00">
-			<item name="ZIL130_Wheel" chance="1.00" />
+			<item name="LUAZ_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ZIL130_Wheel" chance="1.00" />
+			<item name="LUAZ_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ZIL130_Wheel" chance="1.00" />
+			<item name="LUAZ_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ZIL130_Wheel" chance="1.00" />
+			<item name="LUAZ_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.40" />

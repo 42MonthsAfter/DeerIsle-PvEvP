@@ -2205,10 +2205,11 @@
         <usage name="Farm"/>
     </type>
     <type name="AZLK_Wheel">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <restock>3600</restock>
-        <lifetime>14400</lifetime>
-        <min>0</min>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9458,10 +9459,11 @@
         <usage name="Farm"/>
     </type>
     <type name="HAMMER_Wheel">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <restock>3600</restock>
-        <lifetime>14400</lifetime>
-        <min>0</min>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11887,10 +11889,11 @@
         <usage name="Farm"/>
     </type>
     <type name="M35a2_Wheel_Rust">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <restock>3600</restock>
-        <lifetime>14400</lifetime>
-        <min>0</min>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11900,10 +11903,11 @@
         <usage name="Farm"/>
     </type>
     <type name="M35a2_WheelDouble_Rust">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <restock>3600</restock>
-        <lifetime>14400</lifetime>
-        <min>0</min>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12303,10 +12307,11 @@
         <usage name="Farm"/>
     </type>
     <type name="MUSTANG_Wheel">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <restock>3600</restock>
-        <lifetime>14400</lifetime>
-        <min>0</min>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15969,10 +15974,11 @@
         <usage name="Farm"/>
     </type>
     <type name="ToyotaHilux_Wheel">
-        <nominal>0</nominal>
-        <restock>0</restock>
-        <lifetime>14400</lifetime>
-        <min>0</min>
+        <nominal>4</nominal>
+        <restock>3600</restock>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20701,10 +20707,11 @@
         <usage name="Farm"/>
     </type>
     <type name="ZIL130_Wheel">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <restock>3600</restock>
-        <lifetime>14400</lifetime>
-        <min>0</min>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -22513,10 +22520,11 @@
 		<category name="vehiclesparts"/>
 	</type>
 	<type name="MotorHome_Wheel">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
+        <nominal>4</nominal>
+        <restock>3600</restock>
+        <lifetime>3600</lifetime>
+        <min>2</min>
+        <min>6</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
