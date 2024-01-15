@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "CLOTHING ACCESSORIES",
+    "DisplayName": "CLOTHING & ACCESSORIES",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -18,7 +18,19 @@
         "Vests",
         "Holsters_And_Pouches",
         "Masks",
-        "Belts"
+        "Belts",
+        "Bandanas",
+        "Blouses_And_Suits",
+        "Boots_And_Shoes",
+        "Caps",
+        "Coats_And_Jackets",
+        "Eyewear",
+        "Ghillies",
+        "Masks",
+        "Pants_And_Shorts",
+        "Shirts_And_TShirts",
+        "Skirts_And_Dresses",
+        "Sweaters_And_Hoodies"
     ],
     "Items": {}
 }
