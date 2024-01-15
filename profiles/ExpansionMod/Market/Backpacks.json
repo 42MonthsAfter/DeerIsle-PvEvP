@@ -80,7 +80,7 @@
         {
             "ClassName": "MVS_Rucksack_OD",
             "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 92220,
+            "MinPriceThreshold": 9222,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 8,
             "MinStockThreshold": 1,

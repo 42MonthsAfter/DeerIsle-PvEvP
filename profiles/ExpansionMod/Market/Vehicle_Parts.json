@@ -11,13 +11,8 @@
             "ClassName": "ExpansionParkingMeterKit",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 20,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],

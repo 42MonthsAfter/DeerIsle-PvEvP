@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MEDICALS",
+    "DisplayName": "MEDICALS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -8,17 +8,10 @@
     "Items": [
         {
             "ClassName": "charcoaltablets",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 4500,
             "MinPriceThreshold": 4200,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 15,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -28,13 +21,8 @@
             "ClassName": "bandagedressing",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 300,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -44,13 +32,8 @@
             "ClassName": "disinfectantalcohol",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 400,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -60,13 +43,8 @@
             "ClassName": "purificationtablets",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -76,13 +54,8 @@
             "ClassName": "bloodtestkit",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -92,13 +65,8 @@
             "ClassName": "thermometer",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -106,17 +74,10 @@
         },
         {
             "ClassName": "vitaminbottle",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 520,
             "MinPriceThreshold": 460,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 20,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -126,13 +87,8 @@
             "ClassName": "disinfectantspray",
             "MaxPriceThreshold": 160,
             "MinPriceThreshold": 80,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -140,17 +96,10 @@
         },
         {
             "ClassName": "tetracyclineantibiotics",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 2600,
             "MinPriceThreshold": 1800,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 10,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -158,17 +107,10 @@
         },
         {
             "ClassName": "painkillertablets",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
             "SellPricePercent": -35.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -178,13 +120,8 @@
             "ClassName": "startkitiv",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -194,13 +131,8 @@
             "ClassName": "heatpack",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -210,13 +142,8 @@
             "ClassName": "salinebag",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -226,13 +153,8 @@
             "ClassName": "bloodbagempty",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 180,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -242,13 +164,8 @@
             "ClassName": "firstaidkit",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 200,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -256,17 +173,10 @@
         },
         {
             "ClassName": "epinephrine",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -274,17 +184,10 @@
         },
         {
             "ClassName": "morphine",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 750,
             "MinPriceThreshold": 550,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 35,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -294,13 +197,8 @@
             "ClassName": "iodinetincture",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 300,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 25,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],

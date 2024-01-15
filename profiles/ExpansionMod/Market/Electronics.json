@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ELECTRONICS",
+    "DisplayName": "ELECTRONICS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -8,17 +8,10 @@
     "Items": [
         {
             "ClassName": "carbattery",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 15,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -26,17 +19,10 @@
         },
         {
             "ClassName": "truckbattery",
-<<<<<<< Updated upstream
-            "MaxPriceThreshold": 360,
-            "MinPriceThreshold": 180,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "MaxPriceThreshold": 3600,
             "MinPriceThreshold": 1800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 15,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -94,13 +80,8 @@
             "ClassName": "batterycharger",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 400,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 15,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -110,13 +91,8 @@
             "ClassName": "baseradio",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 500,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 15,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -141,13 +117,8 @@
             "ClassName": "nvgoggles",
             "MaxPriceThreshold": 4200,
             "MinPriceThreshold": 4000,
-<<<<<<< Updated upstream
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-=======
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 15,
->>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
