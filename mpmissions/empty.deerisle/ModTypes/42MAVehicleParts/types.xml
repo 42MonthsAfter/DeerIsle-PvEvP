@@ -15604,6 +15604,58 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
+    <type name="ToyotaHilux_Doors_Driver_rust">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>14400</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="ToyotaHilux_Doors_coDriver_rust">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>14400</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="ToyotaHilux_Doors_hood_rust">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>14400</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="ToyotaHilux_Doors_trunk_rust">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>14400</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
     <type name="ToyotaHilux_Doors_Driver">
         <nominal>0</nominal>
         <restock>0</restock>

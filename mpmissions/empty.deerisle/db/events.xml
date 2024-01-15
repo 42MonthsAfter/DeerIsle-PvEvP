@@ -958,12 +958,12 @@
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone"/>
         </children>
     </event>
-    <event name="VehicleCivilianSedan">
+    <event name="AZLK_rust">
         <nominal>2</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>300</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
@@ -972,17 +972,14 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Wine"/>
         </children>
     </event>
-    <event name="VehicleHatchback02">
+    <event name="HAMMER_H1_rust">
         <nominal>2</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>300</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
@@ -991,17 +988,16 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="HAMMER_H1_black_rust"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="HAMMER_H1_rust"/>
         </children>
     </event>
-    <event name="VehicleOffroadHatchback">
+    <event name="Interceptor">
         <nominal>2</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>300</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
@@ -1010,17 +1006,14 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White"/>
         </children>
     </event>
-    <event name="VehicleSedan02">
+    <event name="MUSTANG_rust">
         <nominal>2</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>300</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
@@ -1029,17 +1022,14 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red"/>
         </children>
     </event>
-    <event name="VehicleTruck01">
+    <event name="MotorHome_rust">
         <nominal>2</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>300</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
@@ -1048,9 +1038,70 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
+        </children>
+    </event>
+    <event name="ToyotaHilux_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="ZIL130_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="LUAZ_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="M35a2_Rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
         </children>
     </event>
 	<event name="StaticVanPinkies">
