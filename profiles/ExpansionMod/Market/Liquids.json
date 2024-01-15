@@ -8,10 +8,10 @@
     "Items": [
         {
             "ClassName": "engineoil",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 70,
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 15,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -19,10 +19,10 @@
         },
         {
             "ClassName": "canistergasoline",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 15,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],

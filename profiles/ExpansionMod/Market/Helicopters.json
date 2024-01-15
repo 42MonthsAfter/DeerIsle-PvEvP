@@ -9,9 +9,9 @@
         {
             "ClassName": "expansiongyrocopter",
             "MaxPriceThreshold": 1000000,
-            "MinPriceThreshold": 500000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MinPriceThreshold": 800000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 25,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -23,9 +23,9 @@
         {
             "ClassName": "expansionbiggyrocopter",
             "MaxPriceThreshold": 2000000,
-            "MinPriceThreshold": 1000000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MinPriceThreshold": 1800000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 15,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -37,9 +37,9 @@
         {
             "ClassName": "expansionmh6",
             "MaxPriceThreshold": 3000000,
-            "MinPriceThreshold": 1500000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MinPriceThreshold": 2500000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -57,9 +57,9 @@
         {
             "ClassName": "expansionuh1h",
             "MaxPriceThreshold": 3400000,
-            "MinPriceThreshold": 1700000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MinPriceThreshold": 2700000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -77,9 +77,9 @@
         {
             "ClassName": "expansionmerlin",
             "MaxPriceThreshold": 4000000,
-            "MinPriceThreshold": 2000000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MinPriceThreshold": 3000000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [

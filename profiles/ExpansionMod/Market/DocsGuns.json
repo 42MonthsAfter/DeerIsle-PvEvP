@@ -1,0 +1,326 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_DOCS_GATS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 45.0,
+    "Items": [
+        {
+            "ClassName": "DOC_M4_WHITE",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_WHITE",
+			"DOC_M4RIS_WHITE",
+			"DOC_SUPPRESSOR_556_WHITE",
+			"DOC_STANAG69_WHITE"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_BLUE",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_BLUE",
+			"DOC_M4RIS_BLUE",
+			"DOC_SUPPRESSOR_556_BLUE",
+			"DOC_STANAG69_BLUE"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_GALAXY",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_GALAXY",
+			"DOC_M4RIS_GALAXY",
+			"DOC_SUPPRESSOR_556_GALAXY",
+			"DOC_STANAG69_GALAXY"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_LIGHTBLUE",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_LIGHTBLUE",
+			"DOC_M4RIS_LIGHTBLUE",
+			"DOC_SUPPRESSOR_556_LIGHTBLUE",
+			"DOC_STANAG69_LIGHTBLUE"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_PINK",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_PINK",
+			"DOC_M4RIS_PINK",
+			"DOC_SUPPRESSOR_556_PINK",
+			"DOC_STANAG69_PINK"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_PURPLE",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_PURPLE",
+			"DOC_M4RIS_PURPLE",
+			"DOC_SUPPRESSOR_556_PURPLE",
+			"DOC_STANAG69_PURPLE"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_YELLOW",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_YELLOW",
+			"DOC_M4RIS_YELLOW",
+			"DOC_SUPPRESSOR_556_YELLOW",
+			"DOC_STANAG69_YELLOW"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_RED",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_RED",
+			"DOC_M4RIS_RED",
+			"DOC_SUPPRESSOR_556_RED",
+			"DOC_STANAG69_RED"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_GREEN",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_GREEN",
+			"DOC_M4RIS_GREEN",
+			"DOC_SUPPRESSOR_556_GREEN",
+			"DOC_STANAG69_GREEN"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_BLACK",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_BLACK",
+			"DOC_M4RIS_BLACK",
+			"DOC_SUPPRESSOR_556_BLACK",
+			"DOC_STANAG69_BLACK"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_CRUSHEDFOIL",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_CRUSHEDFOIL",
+			"DOC_M4RIS_CRUSHEDFOIL",
+			"DOC_SUPPRESSOR_556_CRUSHEDFOIL",
+			"DOC_STANAG69_CRUSHEDFOIL"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_OILFOIL",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_OILFOIL",
+			"DOC_M4RIS_OILFOIL",
+			"DOC_SUPPRESSOR_556_OILFOIL",
+			"DOC_STANAG69_OILFOIL"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_NIGHTFOIL",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_NIGHTFOIL",
+			"DOC_M4RIS_NIGHTFOIL",
+			"DOC_SUPPRESSOR_556_NIGHTFOIL",
+			"DOC_STANAG69_NIGHTFOIL"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_M4_ROYALFOIL",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_M4CARSTOCK_ROYALFOIL",
+			"DOC_M4RIS_ROYALFOIL",
+			"DOC_SUPPRESSOR_556_ROYALFOIL",
+			"DOC_STANAG69_ROYALFOIL"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_42MA_GLOCK1",
+            "MaxPriceThreshold": 33000,
+            "MinPriceThreshold": 29000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_42MA_GLOCK_MAG",
+			"DOC_42_SUPPRESSOR_PISTOL"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_BLKFDE",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_GOLD",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 19000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_GRYBLK",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_PRPWHT",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_TANGRN",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_TRQGRY",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        }
+    ]
+}

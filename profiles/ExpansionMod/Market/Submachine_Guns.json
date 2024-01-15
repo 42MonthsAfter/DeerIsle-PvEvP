@@ -4,14 +4,14 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 25.0,
     "Items": [
         {
             "ClassName": "cz61",
-            "MaxPriceThreshold": 1400,
-            "MinPriceThreshold": 700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 3400,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -21,10 +21,10 @@
         },
         {
             "ClassName": "ump45",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 5600,
+            "MinPriceThreshold": 3800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -34,10 +34,10 @@
         },
         {
             "ClassName": "mp5k",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 2900,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -49,10 +49,10 @@
         },
         {
             "ClassName": "aks74u",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 1100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 4200,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -63,10 +63,10 @@
         },
         {
             "ClassName": "pp19",
-            "MaxPriceThreshold": 2200,
+            "MaxPriceThreshold": 2800,
             "MinPriceThreshold": 1100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -77,10 +77,10 @@
         },
         {
             "ClassName": "expansion_kedr",
-            "MaxPriceThreshold": 1400,
-            "MinPriceThreshold": 700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -90,10 +90,10 @@
         },
         {
             "ClassName": "expansion_mpx",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 3800,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -103,10 +103,10 @@
         },
         {
             "ClassName": "expansion_mp5",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 1100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 4200,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -116,10 +116,10 @@
         },
         {
             "ClassName": "expansion_mp5sd",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 1300,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 5500,
+            "MinPriceThreshold": 2300,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -129,10 +129,10 @@
         },
         {
             "ClassName": "expansion_mp7",
-            "MaxPriceThreshold": 2400,
-            "MinPriceThreshold": 1200,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 5400,
+            "MinPriceThreshold": 4200,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -142,10 +142,10 @@
         },
         {
             "ClassName": "expansion_vityazsn",
-            "MaxPriceThreshold": 2800,
-            "MinPriceThreshold": 1400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 3800,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -157,10 +157,10 @@
         },
         {
             "ClassName": "TWP_UMP",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 6200,
+            "MinPriceThreshold": 4800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -170,10 +170,10 @@
         },
         {
             "ClassName": "TWP_UMPPrimalSaber",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 7200,
+            "MinPriceThreshold": 5800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -183,10 +183,10 @@
         },
         {
             "ClassName": "TWP_SST30Halloween",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 7200,
+            "MinPriceThreshold": 5800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -198,10 +198,10 @@
         },
         {
             "ClassName": "TWP_SST30",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 5200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -211,10 +211,10 @@
         },
         {
             "ClassName": "TWP_SRGlock",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -224,10 +224,10 @@
         },
         {
             "ClassName": "TWP_SRFrame",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 5200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -236,10 +236,10 @@
         },
         {
             "ClassName": "TWP_Tec9",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -249,10 +249,10 @@
         },
         {
             "ClassName": "TWP_Uzi",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -262,10 +262,10 @@
         },
         {
             "ClassName": "TWP_P90Shallow_Grave",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -275,10 +275,10 @@
         },
         {
             "ClassName": "TWP_P90Colored",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -288,10 +288,10 @@
         },
         {
             "ClassName": "TWP_P90Arctic",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -301,10 +301,10 @@
         },
         {
             "ClassName": "TWP_MP7Eagle",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 6200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -314,10 +314,10 @@
         },
         {
             "ClassName": "TWP_SR2",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 6200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -327,10 +327,10 @@
         },
         {
             "ClassName": "TWP_SR3",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 6800,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -340,10 +340,10 @@
         },
         {
             "ClassName": "TWP_MP7",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 5200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -353,10 +353,10 @@
         },
         {
             "ClassName": "TWP_Auto9",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -368,8 +368,8 @@
             "ClassName": "TWP_AEK919",
             "MaxPriceThreshold": 4200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -379,10 +379,10 @@
         },
         {
             "ClassName": "TWP_MPX",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -392,10 +392,10 @@
         },
         {
             "ClassName": "TWP_MP5Silenced",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -405,10 +405,10 @@
         },
         {
             "ClassName": "TWP_PP19Vityaz",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 5200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -418,10 +418,10 @@
         },
         {
             "ClassName": "TWP_SST30Silenced",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 7200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -431,10 +431,10 @@
         },
         {
             "ClassName": "TWP_CX4Storm",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 8200,
+            "MinPriceThreshold": 5800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -444,10 +444,10 @@
         },
         {
             "ClassName": "TWP_KacPDW",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 7200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -457,10 +457,10 @@
         },
         {
             "ClassName": "TWP_P90",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 18200,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -470,10 +470,10 @@
         },
         {
             "ClassName": "TWP_FMG9",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -483,10 +483,10 @@
         },
         {
             "ClassName": "TWP_Mac10",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 25,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -496,10 +496,10 @@
         },
         {
             "ClassName": "TWP_Spectre",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 5200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -509,10 +509,10 @@
         },
         {
             "ClassName": "TWP_Kriss",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 8700,
+            "MinPriceThreshold": 6800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -522,10 +522,10 @@
         },
         {
             "ClassName": "ots71",
-            "MaxPriceThreshold": 4200,
+            "MaxPriceThreshold": 5200,
             "MinPriceThreshold": 3800,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 20,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [

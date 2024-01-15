@@ -8,10 +8,10 @@
     "Items": [
         {
             "ClassName": "smallprotectorcase",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxPriceThreshold": 1140,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -19,10 +19,17 @@
         },
         {
             "ClassName": "ammobox",
+<<<<<<< Updated upstream
             "MaxPriceThreshold": 160,
             "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
+=======
+            "MaxPriceThreshold": 1160,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 100,
+>>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -30,10 +37,17 @@
         },
         {
             "ClassName": "expansiontoolbox",
+<<<<<<< Updated upstream
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
+=======
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 30,
+>>>>>>> Stashed changes
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],

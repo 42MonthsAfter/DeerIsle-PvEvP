@@ -1,0 +1,252 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_DOCS_SUPPRESSORS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [		
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_WHITE",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_GREEN",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_RED",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_DBLUE",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_LIGHTBLUE",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_PINK",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_PURPLE",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_YELLOW",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_BLACK",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_CRUSHEDFOIL",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_OILFOIL",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_NIGHTFOIL",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_ROYALFOIL",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_556_GALAXY",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_42_SUPPRESSOR_PISTOL",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_PISTOL_BOCCHI",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_PISTOL_BUNKER",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_PISTOL_BLUE",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_PISTOL_TURQUOISE",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_PISTOL_FDE",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_PISTOL_BLACK",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SUPPRESSOR_PISTOL_GOLD",
+            "MaxPriceThreshold": 950,
+            "MinPriceThreshold": 875,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 30,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
