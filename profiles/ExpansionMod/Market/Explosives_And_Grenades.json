@@ -136,17 +136,6 @@
             ]
         },
         {
-            "ClassName": "expansionsupplysignal",
-            "MaxPriceThreshold": 20000000,
-            "MinPriceThreshold": 10000000,
-            "SellPricePercent": -60.0,
-            "MaxStockThreshold": 2,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "expansionsatchel",
             "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 97500,
