@@ -11,7 +11,7 @@
             "MaxPriceThreshold": 35000,
             "MinPriceThreshold": 24000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -39,7 +39,7 @@
             "MaxPriceThreshold": 42000,
             "MinPriceThreshold": 37000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -67,7 +67,7 @@
             "MaxPriceThreshold": 56000,
             "MinPriceThreshold": 48000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 10,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -95,7 +95,7 @@
             "MaxPriceThreshold": 58000,
             "MinPriceThreshold": 50000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 10,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -120,7 +120,7 @@
             "MaxPriceThreshold": 120000,
             "MinPriceThreshold": 100000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 8,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -145,7 +145,7 @@
             "MaxPriceThreshold": 120000,
             "MinPriceThreshold": 100000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 8,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -169,7 +169,7 @@
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 10000,
             "SellPricePercent": -30.0,
-            "MaxStockThreshold": 25,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -195,7 +195,7 @@
             "MaxPriceThreshold": 90000,
             "MinPriceThreshold": 80000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 10,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -214,18 +214,14 @@
                 "headlighth7",
                 "headlighth7"
             ],
-            "Variants": [
-                "expansionuazroofless",
-                "expansionuazcargo",
-                "expansionuazcargoroofless"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "LUAZ_rust",
             "MaxPriceThreshold": 250000,
             "MinPriceThreshold": 170000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 5,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -251,7 +247,7 @@
             "MaxPriceThreshold": 260000,
             "MinPriceThreshold": 240000,
             "SellPricePercent": -75.0,
-            "MaxStockThreshold": 8,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [

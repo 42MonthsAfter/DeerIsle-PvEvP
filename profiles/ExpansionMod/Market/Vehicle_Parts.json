@@ -12,7 +12,7 @@
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -23,7 +23,7 @@
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -34,7 +34,7 @@
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -45,7 +45,7 @@
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -56,7 +56,51 @@
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sparkplug",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "carradiator",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "truckbattery",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "carbattery",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -67,7 +111,7 @@
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -99,7 +143,7 @@
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -111,7 +155,7 @@
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -123,7 +167,7 @@
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -135,7 +179,7 @@
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -147,7 +191,7 @@
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -159,7 +203,7 @@
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -171,7 +215,7 @@
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -183,7 +227,559 @@
             "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
-            "MaxStockThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "AZLK_Doors_Driver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "AZLK_Doors_coDriver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "AZLK_Doors_cargo1_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "AZLK_Doors_cargo2_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "AZLK_Doors_hood_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "AZLK_Doors_trunk_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_Driver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_coDriver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_cargo1_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_cargo2_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_hood_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_trunk_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_Driver_black_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_coDriver_black_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_cargo1_black_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_cargo2_black_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_hood_black_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "HAMMER_Doors_trunk_black_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Interceptor_Doors_Driver",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Interceptor_Doors_coDriver",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Interceptor_Doors_hood",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "MUSTANG_Doors_Driver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "MUSTANG_Doors_coDriver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "MUSTANG_Doors_hood_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "MUSTANG_Doors_trunk_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "MotorHome_Doors_Driver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "MotorHome_Doors_hood_left_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "MotorHome_Doors_hood_right_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ToyotaHilux_Doors_Driver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ToyotaHilux_Doors_coDriver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ToyotaHilux_Doors_hood_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ToyotaHilux_Doors_trunk_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ZIL130_Doors_hood_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ZIL130_Doors_Driver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ZIL130_Doors_coDriver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ZIL130_Doors_trunk_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "LUAZ_tent_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "LUAZ_Doors_trunk_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "LUAZ_Doors_hood_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "LUAZ_Doors_coDriver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "LUAZ_Doors_Driver_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "M35a2_Doors_Driver_Rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "M35a2_Doors_coDriver_Rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "M35a2_Tent_Rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "M35a2_Doors_hood_Rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "M35a2_Doors_trunk_Rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
