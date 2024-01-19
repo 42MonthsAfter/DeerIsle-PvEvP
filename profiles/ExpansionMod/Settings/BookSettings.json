@@ -197,37 +197,37 @@
     "Links": [
         {
             "Name": "Homepage",
-            "URL": "https://www.42MonthsAfter.com/",
+            "URL": "http://www.42MonthsAfter.com/",
             "IconName": "Homepage",
             "IconColor": -14473430
         },
         {
             "Name": "Feedback",
-            "URL": "https://discord.42MonthsAfter.com",
+            "URL": "http://discord.42MonthsAfter.com",
             "IconName": "Forums",
             "IconColor": -14473430
         },
         {
             "Name": "Discord",
-            "URL": "https://discord.42MonthsAfter.com/",
+            "URL": "http://discord.42MonthsAfter.com/",
             "IconName": "Discord",
             "IconColor": -9270822
         },
         {
             "Name": "Reddit",
-            "URL": "https://www.reddit.com/user/42_Months_After",
+            "URL": "http://www.reddit.com/user/42_Months_After",
             "IconName": "Reddit",
             "IconColor": -12386303
         },
         {
             "Name": "GitHub",
-            "URL": "https://github.com/42MonthsAfter",
+            "URL": "http://github.com/42MonthsAfter",
             "IconName": "GitHub",
             "IconColor": -16777216
         },
         {
             "Name": "YouTube",
-            "URL": "https://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
+            "URL": "http://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
             "IconName": "YouTube",
             "IconColor": -65536
         }
