@@ -7,9 +7,9 @@
     "InitStockPercent": 10.0,
     "Items": [
         {
-            "ClassName": "expansionutilityboat",
+            "ClassName": "ExpansionZodiacBoat",
             "MaxPriceThreshold": 75000,
-            "MinPriceThreshold": 55000,
+            "MinPriceThreshold": 75000,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
