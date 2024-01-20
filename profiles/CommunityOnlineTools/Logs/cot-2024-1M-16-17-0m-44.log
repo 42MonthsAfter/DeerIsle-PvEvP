@@ -1,0 +1,11 @@
+[COT 2024-01-16 22:14:41] 76561199407766611: Set GodMode To true [guid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=]
+[COT 2024-01-16 22:14:42] 76561199407766611: Set Invisibility To 1 [guid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=]
+[COT 2024-01-16 22:14:43] 76561199407766611: Set UnlimitedAmmo To true [guid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=]
+[COT 2024-01-16 22:14:44] 76561199407766611: Set UnlimitedStamina To true [guid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=]
+[COT 2024-01-16 22:16:52] 76561199407766611: Spawned Entity #STR_EXPANSION_TEMPORARY_STORAGE (ExpansionQuestContainerBase<83f76790>, 100, 100, 0) at <14171.787109, 142.037750, 2655.311279>
+[COT 2024-01-16 22:20:57] 76561199407766611: Spawned Entity Storage (lv. 1) (ExpansionPersonalStorageContainer<9ab271f0>, 100, 100, 0) at <14171.642578, 142.037750, 2655.276123>
+[COT 2024-01-16 22:21:02] 76561199407766611: Spawned Entity Personal storage upgrade (lv. 2) (ExpansionPersonalStorageUpgrade<bc3bac50>, 100, 15, 0) at <14171.883789, 142.037750, 2656.246826>
+[COT 2024-01-16 22:21:15] 76561199407766611: Spawned Entity Storage (lv. 1) (ExpansionPersonalStorageContainer<9ab37b50>, 100, 100, 0) at <14172.443359, 142.037750, 2655.444336>
+[COT 2024-01-16 22:21:16] 76561199407766611: Spawned Entity Storage (lv. 1) (ExpansionPersonalStorageContainer<9ab4c100>, 100, 100, 0) at <14172.443359, 142.037750, 2655.444336>
+[COT 2024-01-16 22:21:32] 76561199407766611: Deleted Entity ExpansionQuestContainerBase:18547 at <14171.787109, 142.037598, 2655.311279>
+[COT 2024-01-16 22:21:38] 76561199407766611: Spawned Entity Storage (lv. 10) (ExpansionPersonalStorageContainer<b83a2060>, 100, 100, 0) at <14172.142578, 142.037750, 2655.086426>

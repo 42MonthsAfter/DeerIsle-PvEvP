@@ -1,0 +1,17 @@
+06:17:12.988 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Medical
+06:43:55.867 [AI Patrol] Spawning 3 Temple Patrol bots at <404.041840, 48.364700, 665.552063>
+06:43:55.957 [AI Patrol] Spawning 3 Temple Patrol bots at <424.076721, 55.318100, 723.849609>
+06:43:55.964 [AI Patrol] Spawning 3 Temple Patrol bots at <385.254730, 47.070000, 772.382751>
+06:43:57.611 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5899.041016, 4.481206, 8348.191406>) as driver
+06:44:00.537 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5899.041016, 4.481257, 8348.191406>)
+06:46:33.394 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5895.511719, 5.246519, 8372.481445>)
+06:46:38.302 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle M3S Covered (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5895.511719, 5.246516, 8372.481445>)
+06:46:47.445 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5897.514160, 5.241168, 8374.483398>) used the  ExpansionCarKey to lock Truck_01_Covered_Yellow (id=B84C7B8D7947A670B4E53FB881365B2D pos=<5895.511719, 5.246519, 8372.481445>)
+09:49:57.414 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5649.759766, 28.722498, 5406.402344>) Entered the safezone
+09:49:57.414 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "Medical Professionals" (id=12 ownerUID=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= ownerName=[ADMIN]DrKilledByDeath)
+09:50:01.019 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Basebuilding
+09:51:09.597 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<730.114929, 8.900516, 15101.914063>) Left the safezone
+10:17:58.292 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "Medical Professionals" (id=12 ownerUID=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= ownerName=[ADMIN]DrKilledByDeath)
+10:23:54.058 [Safezone] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5635.790039, 28.722498, 5385.587402>) Entered the safezone
+10:23:54.062 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "zXNoRagRetSXz" (id=4 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+10:31:05.941 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "zXNoRagRetSXz" (id=4 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)

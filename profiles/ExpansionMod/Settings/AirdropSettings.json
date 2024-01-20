@@ -5048,7 +5048,7 @@
                 "ZmbM_PatrolNormal_Summer"
             ],
             "ItemCount": 50,
-            "InfectedCount": 50,
+            "InfectedCount": 20,
             "SpawnInfectedForPlayerCalledDrops": 1
         }
     ]

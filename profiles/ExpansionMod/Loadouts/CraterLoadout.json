@@ -233,7 +233,7 @@
                     "SlotName": "Hands",
                     "Items": [
                         {
-                            "ClassName": "TWP_ASR",
+                            "ClassName": "AK101",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -245,7 +245,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "TWP_ASR_mag_40Rnd",
+                                            "ClassName": "Mag_AK101_30Rnd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -269,7 +269,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "TWP_ASR_mag_40Rnd",
+                    "ClassName": "Mag_AK101_30Rnd",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -282,7 +282,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TWP_ASR_mag_40Rnd",
+                    "ClassName": "Mag_AK101_30Rnd",
                     "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,

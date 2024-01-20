@@ -1,0 +1,154 @@
+00:00:42.666 [VehicleDeleted] ExpansionUAZ (id=59E6806CFD414D16B27DE2BB1A925DA8 pos=<-0.001685, 0.798157, 0.148879>)
+00:01:42.055 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5652.366211, 28.722494, 5395.735352>) Entered the safezone
+00:01:42.056 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:01:43.925 [Safezone] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<5653.390625, 28.722492, 5389.990723>) Entered the safezone
+00:01:43.927 [Party] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:04:07.054 [AI Patrol] Spawning 3 Temple Patrol bots at <357.954071, 47.070000, 799.822693>
+00:04:07.149 [AI Patrol] Spawning 3 Temple Patrol bots at <335.471161, 47.070000, 755.963318>
+00:04:07.158 [AI Patrol] Spawning 3 Temple Patrol bots at <287.460052, 48.364700, 695.685120>
+00:04:08.757 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5656.487793, 28.804386, 5393.582520>) as pilot
+00:04:11.004 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5656.487793, 28.804415, 5393.582520>) as passenger
+00:04:11.553 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5656.487793, 28.804455, 5393.582520>)
+00:05:11.934 [Safezone] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<5770.758301, 93.249100, 5132.571777>) Left the safezone
+00:05:11.934 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5770.136230, 93.285965, 5131.688965>) Left the safezone
+00:06:46.050 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8759.430664, 42.340481, 3873.371094>
+00:08:05.432 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9594.093750, 3.433722, 3112.811035>)
+00:08:08.680 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9594.200195, 3.122077, 3112.814941>)
+00:08:09.300 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9594.201172, 3.119695, 3112.803711>)
+00:09:33.687 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9622.732422, 3.039745, 3095.596924>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=6B80469A8744AB1699AB0CBF65E84C25 pos=<9620.272461, 3.054178, 3095.816650>)
+00:10:27.503 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9594.193359, 3.020082, 3111.359375>) as pilot
+00:13:17.289 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9622.656250, 3.043518, 3095.883301>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=6B80469A8744AB1699AB0CBF65E84C25 pos=<9620.272461, 3.054178, 3095.816650>)
+00:13:35.800 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9594.235352, 2.898767, 3109.304688>) as passenger
+00:13:47.963 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9594.236328, 2.896594, 3109.269775>)
+00:15:09.292 [AI Patrol] Spawning 3 Camp Bear Patrol bots at <8721.614258, 13.815329, 5963.134766>
+00:16:51.227 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+00:18:47.220 [AI Patrol] Spawning 3 KMUC Patrol bots at <7171.325684, 573.518005, 11577.641602>
+00:18:47.431 [AI Patrol] Spawning 3 KMUC Patrol bots at <7115.197266, 604.169250, 11559.836914>
+00:18:48.177 [AI Patrol] Spawning 3 KMUC Patrol bots at <7091.701172, 601.570007, 11581.812500>
+00:18:50.197 [AI Patrol] Spawning 3 KMUC Patrol bots at <7245.162109, 222.740005, 11658.473633>
+00:18:50.762 [AI Patrol] Spawning 3 KMUC Patrol bots at <7164.892090, 601.928406, 11732.020508>
+00:18:51.034 [AI Patrol] Spawning 3 KMUC Patrol bots at <7157.630371, 603.026855, 11739.949219>
+00:21:55.540 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.794922, 37.662251, 14803.996094>)
+00:21:58.281 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.773926, 37.349232, 14804.014648>)
+00:22:09.371 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.770996, 37.344437, 14804.015625>)
+00:22:45.239 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.259277, 37.000469, 14800.483398>) as passenger
+00:22:48.648 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.259277, 37.000469, 14800.483398>)
+00:25:39.779 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6325.018555, 37.411556, 14802.413086>) paired a  ExpansionCarKey to ExpansionMerlin_Wave (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.090820, 37.183006, 14800.399414>)
+00:25:41.781 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6325.018555, 37.411556, 14802.413086>) used the  ExpansionCarKey to lock ExpansionMerlin_Wave (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.090820, 37.182980, 14800.399414>)
+00:27:20.811 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6322.007324, 38.923374, 14806.294922>) used the  ExpansionCarKey to unlock ExpansionMerlin_Wave (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.086914, 37.184238, 14800.398438>)
+00:27:24.414 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.085449, 37.184719, 14800.397461>) as passenger
+00:27:33.681 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.085449, 37.185173, 14800.397461>)
+00:28:34.876 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.086914, 37.184036, 14800.398438>) as pilot
+00:28:44.553 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.086914, 37.183773, 14800.398438>)
+00:28:50.729 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.084473, 37.184822, 14800.397461>) as passenger
+00:29:01.400 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.082520, 37.185215, 14800.397461>)
+00:29:12.664 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.771484, 37.344414, 14804.016602>) as pilot
+00:29:18.502 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.771484, 37.344421, 14804.016602>)
+00:35:59.236 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.770996, 37.344391, 14804.015625>) as pilot
+00:36:25.760 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.080566, 37.183617, 14800.397461>) as pilot
+00:36:35.737 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.080566, 37.183308, 14800.398438>)
+00:36:40.797 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.770996, 37.344429, 14804.016602>)
+00:37:31.921 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.075684, 37.185467, 14800.396484>) as pilot
+00:37:39.955 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<6323.075684, 37.185501, 14800.396484>)
+00:37:46.460 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.770996, 37.344421, 14804.016602>) as pilot
+00:37:48.503 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<6349.770996, 37.344425, 14804.016602>)
+00:46:30.836 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9609.243164, 4.154750, 3124.375977>)
+00:51:58.460 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9609.339844, 4.018446, 3122.155518>)
+00:55:24.053 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<9592.080078, 3.105535, 3115.472168>)
+00:56:04.133 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Merlin (id=9A0C2010F0424301B4D0C99D27895E01 pos=<9592.145508, 3.073332, 3114.871582>)
+00:56:53.734 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9594.658203, 3.417769, 3117.690918>) used the  ExpansionCarKey to lock ExpansionMerlin_Wave (id=9A0C2010F0424301B4D0C99D27895E01 pos=<9592.361328, 3.036233, 3114.271729>)
+00:57:11.174 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9609.342773, 4.018353, 3122.153320>) as pilot
+00:59:20.261 [Chat - Global]("Dirtydan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): raggins there is a bag there if it survived the restart.
+00:59:34.525 [Chat - Global]("Dirtydan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): take it if you want it.  it has some loot in it
+00:59:57.533 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9609.342773, 4.018330, 3122.153320>)
+01:01:49.876 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9609.345703, 4.018238, 3122.153320>) as pilot
+01:03:07.308 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9609.345703, 4.018237, 3122.153320>) as passenger
+01:03:08.272 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9609.345703, 4.018246, 3122.153320>)
+01:05:10.378 [Safezone] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY= pos=<5683.376465, 32.669918, 5264.084961>) Entered the safezone
+01:05:39.397 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10132.919922, 59.742496, 5092.905762>)
+01:05:43.895 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10132.892578, 59.333988, 5092.942383>)
+01:05:46.283 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10132.889648, 59.338284, 5092.941406>)
+01:07:03.433 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10132.889648, 59.339783, 5092.940430>) as pilot
+01:07:06.773 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10132.889648, 59.339752, 5092.940430>)
+01:07:07.304 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10132.889648, 59.339760, 5092.940430>) as passenger
+01:10:49.681 [Safezone] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<5589.201660, 91.563789, 5269.101074>) Entered the safezone
+01:10:49.681 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5590.252441, 91.579247, 5268.849609>) Entered the safezone
+01:11:23.104 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5602.739258, 30.628744, 5373.658203>)
+01:11:27.415 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5602.219727, 29.491045, 5374.049316>)
+01:11:34.688 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.050781, 29.024881, 5379.240234>)
+01:11:39.816 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.145996, 28.817564, 5380.490723>)
+01:11:42.385 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.140625, 28.807098, 5380.495605>)
+01:13:35.322 [Market] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has send a requested to sell ammobox_762x54_20rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:13:35.489 [Market] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has sold ammobox_762x54_20rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 6.
+01:13:40.385 [Market] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has send a requested to sell ammobox_762x54tracer_20rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:13:40.564 [Market] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has sold ammobox_762x54tracer_20rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 24.
+01:13:47.612 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to sell landminetrap x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:13:47.733 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has sold landminetrap x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 12750.
+01:13:48.955 [ATM] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has deposited 30 on his ATM account.
+01:14:08.369 [ATM] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has deposited 12750 on his ATM account.
+01:18:19.276 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.140625, 28.804483, 5380.498047>) as passenger
+01:18:26.472 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.140625, 28.804482, 5380.498047>)
+01:18:51.924 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.140625, 28.804461, 5380.498047>) as pilot
+01:19:13.293 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.140625, 28.804487, 5380.498047>) as passenger
+01:19:17.492 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<5603.140625, 28.804487, 5380.498047>)
+01:20:02.526 [Safezone] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<5192.798340, 118.157608, 5109.019531>) Left the safezone
+01:20:02.526 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5192.374512, 118.134674, 5110.013184>) Left the safezone
+01:21:08.537 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3135.807373, 22.450001, 4314.250000>
+01:21:17.001 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3097.286377, 18.155193, 3495.313965>
+01:21:19.023 [AI Patrol] Spawning 2 Shamans bots at <2835.717529, 19.201092, 4308.066406>
+01:24:03.443 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<270.854797, 229.247711, 708.606323>)
+01:24:11.502 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<270.745056, 229.272110, 708.634277>)
+01:26:28.050 [Safezone] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY= pos=<5708.423828, 39.144390, 5378.569336>) Entered the safezone
+01:31:24.769 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has send a requested to sell expansion_dt11 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:31:24.855 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has sold expansion_dt11 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1350.
+01:31:55.989 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has send a requested to sell expansion_m9 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:31:56.074 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has sold expansion_m9 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 100.
+01:32:04.626 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has send a requested to sell reflexoptic x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:32:04.703 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has sold reflexoptic x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 28.
+01:32:12.757 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has send a requested to sell m4_cqbbttstck x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:32:12.857 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has sold m4_cqbbttstck x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 112.
+01:32:23.254 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has send a requested to sell ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:32:23.355 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has sold ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 300.
+01:32:24.753 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<7212.036133, 46.683842, 3682.156250>)
+01:32:28.094 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<7211.956055, 46.071281, 3683.066895>)
+01:32:30.313 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<7211.957031, 46.081268, 3683.076416>)
+01:34:42.570 [VehicleEnter] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<7212.019043, 46.089924, 3682.971924>) as pilot
+01:34:53.064 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<7212.018555, 46.089302, 3682.958252>)
+01:34:55.245 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<7212.022949, 46.089310, 3682.957520>) as passenger
+01:38:06.244 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has send a requested to sell mvs_opscore_snow x1 at the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:38:06.358 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has sold mvs_opscore_snow x1 at the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 397.
+01:38:18.357 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has send a requested to sell m68optic x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:38:18.460 [Market] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has sold m68optic x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 93.
+01:38:31.032 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<9614.053711, 3.637571, 3115.516113>)
+01:40:55.477 [VehicleEngine] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10133.022461, 60.764793, 5090.813965>)
+01:40:59.869 [VehicleLeave] Player Dirtydan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=F022B4280240590A293AE586C026C136 pos=<10133.369141, 59.341850, 5091.078125>)
+01:42:18.045 [VehicleCover] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10122.229492, 53.370102, 5105.727539>) uncovered vehicle "UAZ_3909_chaki1" (GlobalID=8000000080000000800000008000E671 pos=<10121.294922, 53.462074, 5107.830078>)!
+01:43:19.030 [VehicleCarKey] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10122.469727, 53.575001, 5105.548340>) used the  ExpansionCarKey to unlock UAZ_3909_chaki1 (id=996BB244D7445F374C76D79B4579C2DF pos=<10121.295898, 53.462090, 5107.831543>)
+01:44:01.177 [ATM] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has deposited 2380 on his ATM account.
+01:44:07.076 [ATM] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has withdrawn 12380 from his ATM account.
+01:52:44.577 [VehicleCarKey] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10121.762695, 53.374287, 5106.001953>) used the  ExpansionCarKey to lock UAZ_3909_chaki1 (id=996BB244D7445F374C76D79B4579C2DF pos=<10121.295898, 53.462090, 5107.831543>)
+01:52:57.103 [VehicleDeleted] UAZ_3909_chaki1 (id=996BB244D7445F374C76D79B4579C2DF pos=<10121.295898, 53.462090, 5107.831543>)
+01:52:57.104 [VehicleCover] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10122.632813, 53.369823, 5106.099121>) covered vehicle "UAZ_3909_chaki1" (GlobalID=8000000080000000800000008000E671 pos=<10121.295898, 53.462090, 5107.831543>)!
+01:53:11.182 [ATM] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=) has deposited 12380 on his ATM account.
+01:53:15.156 [VehicleCover] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10123.736328, 53.309338, 5099.093750>) uncovered vehicle "ROVER" (GlobalID=80000000800000008000000080002E34 pos=<10120.745117, 53.170067, 5097.920410>)!
+01:55:33.448 [VehicleDeleted] ROVER (id=806CF2CDCF4BBF15DE024C8DECEBC9CB pos=<10120.745117, 53.170017, 5097.918457>)
+01:55:33.448 [VehicleCover] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10121.921875, 53.295719, 5096.679688>) covered vehicle "ROVER" (GlobalID=80000000800000008000000080002E34 pos=<10120.745117, 53.170017, 5097.918457>)!
+01:56:21.816 [VehicleCover] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10138.754883, 52.896061, 5093.695801>) uncovered vehicle "ToyotaHilux_kamo2" (GlobalID=8000000080000000800000008000A78E pos=<10136.730469, 52.905972, 5093.875977>)!
+01:56:30.720 [VehicleCarKey] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10137.996094, 52.904831, 5094.932129>) used the  ExpansionCarKey to unlock ToyotaHilux_kamo2 (id=B8AB0B9DDE497F794E9B7D9A749BA028 pos=<10136.734375, 52.905952, 5093.878906>)
+01:56:48.317 [Safezone] Player "LTFRAGGINS" (id=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY= pos=<5697.367188, 30.904827, 5236.613281>) Left the safezone
+01:59:42.289 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9619.272461, 3.013821, 3093.387695>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=6B80469A8744AB1699AB0CBF65E84C25 pos=<9620.272461, 3.054178, 3095.816650>)
+02:02:07.027 [VehicleCarKey] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10137.935547, 52.904694, 5094.687012>) used the  ExpansionCarKey to lock ToyotaHilux_kamo2 (id=B8AB0B9DDE497F794E9B7D9A749BA028 pos=<10136.734375, 52.905952, 5093.878906>)
+02:02:25.444 [VehicleDeleted] ToyotaHilux_kamo2 (id=B8AB0B9DDE497F794E9B7D9A749BA028 pos=<10136.734375, 52.905952, 5093.878906>)
+02:02:25.445 [VehicleCover] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<10138.111328, 52.904457, 5095.115234>) covered vehicle "ToyotaHilux_kamo2" (GlobalID=8000000080000000800000008000A78E pos=<10136.734375, 52.905952, 5093.878906>)!
+02:12:01.406 [BaseRaiding] ExpansionSafeLarge (<10143.616211, 54.027603, 5082.816406>) Code set by player "Dirtydan" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <10144.282227, 53.129158, 5081.842285>) and the code is 1776
+02:12:24.211 [BaseRaiding] ExpansionSafeLarge (<10149.809570, 53.129181, 5078.894531>) Code set by player "Dirtydan" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <10148.651367, 53.129131, 5078.981934>) and the code is 1776
+02:14:11.535 [Party] Player "Dirtydan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+02:18:07.026 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+02:20:12.421 [AI Patrol] Spawning 1 Shamans bots at <5237.873535, 74.000000, 3747.855957>
+02:41:10.611 [AI Patrol] Spawning 3 Prison Island Patrol bots at <5329.440918, 33.340836, 633.378235>
+02:41:34.803 [SpawnSelection] Player "[CHI Cold]" (id=e4EmmeFs0XU0BL7p108fAbU2DQ5warvPPIBO1GaneFw=) spawned at <6044.160156, 5.880000, 14872.599609>
+02:49:48.091 [VehicleEnter] Player LTFRAGGINS [uid=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=] entered vehicle Velociraptor6x6 Blue (id=2F64230B1944612318FD4E8C8DD0AAE2 pos=<4927.992676, 22.093061, 4356.476074>) as passenger
+03:03:11.135 [VehicleLeave] Player LTFRAGGINS [uid=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=] left vehicle Velociraptor6x6 Blue (id=2F64230B1944612318FD4E8C8DD0AAE2 pos=<4927.992676, 22.093061, 4356.476074>)
+03:06:04.751 [VehicleEnter] Player LTFRAGGINS [uid=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=] entered vehicle Velociraptor6x6 Blue (id=2F64230B1944612318FD4E8C8DD0AAE2 pos=<4927.995117, 22.093163, 4356.475586>) as driver
+03:06:20.171 [VehicleLeave] Player LTFRAGGINS [uid=auG-nQtiLqxT-pHAq0Jd31OLI1b57KwdIcfIcQt-yaY=] left vehicle Velociraptor6x6 Blue (id=2F64230B1944612318FD4E8C8DD0AAE2 pos=<4927.996094, 22.093237, 4356.476074>)
+03:48:25.359 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical

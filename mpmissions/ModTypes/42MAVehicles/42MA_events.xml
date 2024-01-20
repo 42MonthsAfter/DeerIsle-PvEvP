@@ -1,0 +1,150 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+    <event name="AZLK_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="HAMMER_H1_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="HAMMER_H1_black_rust"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="HAMMER_H1_rust"/>
+        </children>
+    </event>
+    <event name="Interceptor">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="MUSTANG_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="MotorHome_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="ToyotaHilux_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="ZIL130_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="LUAZ_rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+    <event name="M35a2_Rust">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>7200</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+</events>

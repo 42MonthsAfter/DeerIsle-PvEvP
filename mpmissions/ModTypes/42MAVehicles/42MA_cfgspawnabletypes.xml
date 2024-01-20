@@ -1,0 +1,437 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="AZLK_rust">
+		<attachments chance="1.00">
+			<item name="AZLK_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Doors_Driver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Doors_coDriver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Doors_cargo1_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Doors_cargo2_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Doors_hood_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AZLK_Doors_trunk_rust" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HAMMER_H1_rust">
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_Driver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_coDriver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_cargo1_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_cargo2_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_hood_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_trunk_rust" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HAMMER_H1_black_rust">
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_Driver_black_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_coDriver_black_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_cargo1_black_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_cargo2_black_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_hood_black_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HAMMER_Doors_trunk_black_rust" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Interceptor">
+		<attachments chance="1.00">
+			<item name="Interceptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Doors_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Doors_coDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Doors_hood" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="MUSTANG_rust">
+		<attachments chance="1.00">
+			<item name="MUSTANG_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MUSTANG_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MUSTANG_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MUSTANG_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MUSTANG_Doors_Driver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MUSTANG_Doors_coDriver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MUSTANG_Doors_hood_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MUSTANG_Doors_trunk_rust" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="MotorHome_rust">
+		<attachments chance="1.00">
+			<item name="MotorHome_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotorHome_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotorHome_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotorHome_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotorHome_Doors_Driver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotorHome_Doors_hood_left_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotorHome_Doors_hood_right_rust" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ToyotaHilux_rust">
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Doors_Driver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Doors_coDriver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Doors_hood_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ToyotaHilux_Doors_trunk_rust" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ZIL130_rust">
+		<attachments chance="1.00">
+			<item name="ZIL130_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZIL130_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZIL130_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZIL130_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZIL130_Doors_hood_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZIL130_Doors_Driver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZIL130_Doors_coDriver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZIL130_Doors_trunk_rust" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="LUAZ_rust">
+		<attachments chance="1.00">
+			<item name="LUAZ_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_Doors_Driver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_Doors_coDriver_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_Doors_hood_rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_Doors_trunk_rust" chance="1.00" />
+		</attachments>
+			<item name="LUAZ_tent_rust" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="M35a2_Rust">
+		<attachments chance="1.00">
+			<item name="M35a2_Wheel_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_Wheel_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_WheelDouble_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_WheelDouble_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_WheelDouble_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_WheelDouble_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_Doors_Driver_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_Doors_coDriver_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_Doors_trunk_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M35a2_Doors_hood_Rust" chance="1.00" />
+		</attachments>
+			<item name="M35a2_Tent_Rust" chance="0.50" />
+		</attachments>
+	</type>
+</spawnabletypes>

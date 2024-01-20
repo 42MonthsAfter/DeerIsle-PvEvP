@@ -1,0 +1,6 @@
+09:25:38.015 [Party] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+09:26:17.703 [BaseRaiding] ExpansionSafeLarge (<10149.603516, 54.057461, 5080.675781>) player "Condom Breath" (ID = "VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=" at <10147.984375, 53.129116, 5080.266602>) failed to enter the correct code.
+09:26:17.703 [BaseRaiding] ExpansionSafeLarge (<10149.603516, 54.057461, 5080.675781>) The correct code was 1776 and the player tried 1989
+09:27:56.269 [BaseRaiding] ExpansionSafeLarge (<10143.616211, 54.027603, 5082.816406>) player "Condom Breath" (ID = "VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=" at <10144.736328, 53.129162, 5081.364746>) failed to enter the correct code.
+09:27:56.269 [BaseRaiding] ExpansionSafeLarge (<10143.616211, 54.027603, 5082.816406>) The correct code was 1776 and the player tried 1989
+09:28:47.621 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5649.543457, 29.502888, 5404.959961>) Entered the safezone

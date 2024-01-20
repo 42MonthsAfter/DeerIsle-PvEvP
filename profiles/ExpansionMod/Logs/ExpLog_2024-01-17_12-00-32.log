@@ -1,0 +1,226 @@
+12:07:33.460 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5649.506836, 29.502888, 5405.101074>) Entered the safezone
+12:10:22.390 [VehicleAttachments] Player zXGoovis_AndachairXz (uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) detached Ford Raptor Red Left Door (type=RAPTOR_Doors_Driver_red) from vehicle Ford Raptor Red(id=EBAB8C24144C55AD97F127BE508A0F46 pos=<8364.424805, 146.185074, 10876.645508>)
+12:10:26.437 [AI Patrol] Spawning 3 Temple Patrol bots at <358.387115, 47.070000, 789.465149>
+12:10:26.531 [AI Patrol] Spawning 3 Temple Patrol bots at <341.204437, 54.383801, 902.855957>
+12:10:26.539 [AI Patrol] Spawning 3 Temple Patrol bots at <301.850891, 55.318100, 707.428406>
+12:10:28.128 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Ford Raptor Red (id=EBAB8C24144C55AD97F127BE508A0F46 pos=<8361.703125, 144.304596, 10876.827148>) as driver
+12:10:35.125 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Ford Raptor Red (id=EBAB8C24144C55AD97F127BE508A0F46 pos=<8357.591797, 143.230225, 10880.056641>)
+12:11:17.925 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Ford Raptor Red (id=EBAB8C24144C55AD97F127BE508A0F46 pos=<8296.093750, 142.658005, 10864.873047>)
+12:11:33.402 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<8298.732422, 142.697418, 10867.451172>) used the  ExpansionCarKey to lock RAPTOR_red (id=EBAB8C24144C55AD97F127BE508A0F46 pos=<8296.089844, 142.657867, 10864.875977>)
+12:11:41.402 [VehicleDeleted] RAPTOR_red (id=B46CD1D3C044673E23662D98A7F0163C pos=<-0.000713, 0.906267, -0.133626>)
+12:11:41.410 [VehicleDeleted] RAPTOR_red (id=EBAB8C24144C55AD97F127BE508A0F46 pos=<8296.089844, 142.657867, 10864.875977>)
+12:11:41.410 [VirtualGarage] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<8288.739258, 145.356537, 10871.361328>) stored a vehicle "RAPTOR_red" (GlobalID=8000000080000000800000008000B2E1 pos=<8296.089844, 142.657867, 10864.875977>)
+12:15:13.085 [VehicleCover] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2878.781982, 6.158526, 6208.689941>) uncovered vehicle "ChevroletCorvette" (GlobalID=8000000080000000800000008000BEED pos=<2879.421143, 6.002625, 6207.196777>)!
+12:15:17.695 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2878.781982, 6.154463, 6208.689941>) used the  ExpansionCarKey to unlock ChevroletCorvette (id=F727CD32EC4466712F62789D9E3791E5 pos=<2879.420410, 6.002616, 6207.197266>)
+12:15:23.730 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Chevrolet Corvette (id=F727CD32EC4466712F62789D9E3791E5 pos=<2879.420410, 6.002606, 6207.197266>) as driver
+12:15:25.433 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Chevrolet Corvette (id=F727CD32EC4466712F62789D9E3791E5 pos=<2879.420410, 6.002606, 6207.197266>)
+12:16:34.554 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5621.183105, 30.962725, 5383.433594>) Entered the safezone
+12:16:55.109 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5621.059082, 28.722498, 5380.954590>) uncovered vehicle "SUV_white" (GlobalID=8000000080000000800000008000B494 pos=<5619.801758, 28.713467, 5382.709473>)!
+12:17:01.968 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5624.105957, 28.867561, 5384.020996>) used the  ExpansionCarKey to unlock SUV_white (id=7D14297ED5445E937D07208636287576 pos=<5619.802246, 28.713486, 5382.709473>)
+12:17:13.531 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer
+12:17:21.777 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4766.631348, 20.430000, 7235.925293>
+12:17:28.507 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5623.977539, 28.722494, 5384.645020>) used the  ExpansionCarKey to lock SUV_white (id=7D14297ED5445E937D07208636287576 pos=<5619.802246, 28.713486, 5382.709473>)
+12:18:31.910 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5621.359375, 28.722498, 5381.088867>) used the  ExpansionCarKey to unlock SUV_white (id=7D14297ED5445E937D07208636287576 pos=<5619.802246, 28.713486, 5382.709473>)
+12:18:39.601 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=7D14297ED5445E937D07208636287576 pos=<5619.802246, 28.713482, 5382.708008>) as driver
+12:18:42.218 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle SUV White  (id=7D14297ED5445E937D07208636287576 pos=<5619.802246, 28.713486, 5382.707520>)
+12:19:19.261 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5805.890625, 28.443087, 5197.478027>) Left the safezone
+12:23:10.730 [AI Patrol] Spawning 2 Shamans bots at <6118.427246, 56.048985, 3566.682861>
+12:24:19.078 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle SUV White  (id=7D14297ED5445E937D07208636287576 pos=<6673.167480, 146.225693, 3414.708496>)
+12:24:22.328 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=7D14297ED5445E937D07208636287576 pos=<6673.167480, 146.225708, 3414.708496>)
+12:24:39.113 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.351074, 143.991043, 3410.209717>) used the  ExpansionCarKey to lock SUV_white (id=7D14297ED5445E937D07208636287576 pos=<6673.166504, 146.225739, 3414.708008>)
+12:24:51.457 [VehicleDeleted] SUV_white (id=7D14297ED5445E937D07208636287576 pos=<6673.166504, 146.225739, 3414.708008>)
+12:24:51.460 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.351074, 143.991043, 3410.209717>) covered vehicle "SUV_white" (GlobalID=8000000080000000800000008000B494 pos=<6673.166504, 146.225739, 3414.708008>)!
+12:28:30.781 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Chevrolet Corvette (id=F727CD32EC4466712F62789D9E3791E5 pos=<8300.499023, 143.357788, 10860.299805>)
+12:28:45.121 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<8302.367188, 143.265472, 10862.737305>) used the  ExpansionCarKey to lock ChevroletCorvette (id=F727CD32EC4466712F62789D9E3791E5 pos=<8300.499023, 143.357727, 10860.299805>)
+12:28:51.398 [VehicleDeleted] ChevroletCorvette (id=9F41D6B4B64206D98C493DBEC9C740DD pos=<0.001472, 0.502685, -0.010375>)
+12:28:51.410 [VehicleDeleted] ChevroletCorvette (id=F727CD32EC4466712F62789D9E3791E5 pos=<8300.499023, 143.357727, 10860.299805>)
+12:28:51.410 [VirtualGarage] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<8288.856445, 145.356583, 10871.206055>) stored a vehicle "ChevroletCorvette" (GlobalID=8000000080000000800000008000BEED pos=<8300.499023, 143.357727, 10860.299805>)
+12:29:39.066 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): why is my territory flag missing?
+12:29:59.558 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): did you create a territory or just raise the flag?
+12:30:15.453 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): create a territory
+12:30:46.671 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): does it still say anything about being in the territory?
+12:30:52.054 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): nope
+12:31:10.601 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok will do
+12:32:02.839 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): am i good to put another down or should i wait?
+12:33:52.726 [Territory] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) created territory Lou Sassole at <6677.939941, 157.701233, 3430.223633>
+12:34:17.074 [Territory] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo= pos=<6677.052734, 157.701172, 3432.315430>) was invited to join the territory Lou Sassole at <6677.939941, 157.701233, 3430.223633> by the player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+12:35:23.738 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID= ownerName=)
+12:35:23.738 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) created a party named Loosey Goosey (LOGO)
+12:35:31.312 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) invited the player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=)to the party named Loosey Goosey
+12:35:36.726 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:37:52.250 [VehicleCover] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2872.657959, 6.024384, 6202.394043>) uncovered vehicle "MBw140_black" (GlobalID=80000000800000008000000080004FCC pos=<2874.423096, 5.904090, 6204.937012>)!
+12:38:01.300 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2872.049561, 5.812718, 6203.286621>) used the  ExpansionCarKey to unlock MBw140_black (id=CE4205C7C54222166532AC860BE2CD5A pos=<2874.423096, 5.904536, 6204.936523>)
+12:38:45.796 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2872.049561, 5.812718, 6203.286621>) used the  ExpansionCarKey to lock MBw140_black (id=CE4205C7C54222166532AC860BE2CD5A pos=<2874.423096, 5.904536, 6204.936523>)
+12:38:57.570 [VehicleDeleted] MBw140_black (id=CE4205C7C54222166532AC860BE2CD5A pos=<2874.423096, 5.904536, 6204.936523>)
+12:38:57.570 [VehicleCover] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2871.598633, 5.801276, 6203.022949>) covered vehicle "MBw140_black" (GlobalID=80000000800000008000000080004FCC pos=<2874.423096, 5.904536, 6204.936523>)!
+12:39:08.125 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6674.314453, 144.682373, 3411.403076>) uncovered vehicle "SUV_white" (GlobalID=8000000080000000800000008000B494 pos=<6673.166504, 146.225739, 3414.708008>)!
+12:39:15.742 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.733887, 143.757446, 3409.824219>) used the  ExpansionCarKey to unlock SUV_white (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.168457, 146.224014, 3414.705078>)
+12:39:22.445 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.168457, 146.224014, 3414.705078>) as passenger
+12:39:26.058 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.168457, 146.224014, 3414.705078>)
+12:42:06.812 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.169434, 146.223923, 3414.705078>) as driver
+12:42:09.011 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.169434, 146.223923, 3414.705078>) as passenger
+12:42:10.476 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.167969, 146.223923, 3414.704346>)
+12:45:00.664 [AI Patrol] Spawning 2 Shamans bots at <1768.562866, 2.120000, 14861.916992>
+12:46:52.039 [Safezone] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo= pos=<5662.207520, 33.614639, 5266.642578>) Entered the safezone
+12:46:52.117 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5660.648926, 33.610764, 5266.104004>) Entered the safezone
+12:47:14.000 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.271973, 28.713480, 5381.580078>)
+12:47:16.890 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.270508, 28.713467, 5381.581055>)
+12:47:17.640 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.270508, 28.713467, 5381.581543>)
+12:47:28.054 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5636.112305, 28.722498, 5380.795898>) used the  ExpansionCarKey to lock SUV_white (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.272949, 28.713490, 5381.579102>)
+12:47:54.156 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 12491 on his ATM account.
+12:49:18.781 [ATM] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) has withdrawn 10000 from his ATM account.
+12:49:56.308 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:50:19.496 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell personalradio x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:50:19.625 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold personalradio x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 111.
+12:50:53.558 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 111 on his ATM account.
+12:54:27.734 [Safezone] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo= pos=<5615.523926, 29.020809, 5417.679199>) Entered the safezone
+12:54:27.734 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:54:40.914 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): anyone have awm mags for sale?
+12:57:49.125 [ATM] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) has deposited 10000 on his ATM account.
+12:57:49.953 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5635.056641, 28.722475, 5380.269043>) used the  ExpansionCarKey to unlock SUV_white (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.272949, 28.713490, 5381.579102>)
+12:57:54.710 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.272461, 28.713482, 5381.579102>) as driver
+12:57:59.050 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.270996, 28.713465, 5381.581055>)
+12:58:02.625 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.273438, 28.713488, 5381.578613>) as passenger
+12:58:06.714 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.271484, 28.713465, 5381.580078>) as driver
+12:58:09.734 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<5633.272949, 28.713484, 5381.578613>)
+12:58:44.894 [Safezone] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo= pos=<5843.983398, 32.285053, 5188.912598>) Left the safezone
+12:58:45.050 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5847.060059, 32.505299, 5189.254395>) Left the safezone
+13:03:31.246 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.684570, 148.476288, 3420.700439>)
+13:03:34.832 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.685059, 148.476349, 3420.700928>)
+13:03:35.253 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.686035, 148.476212, 3420.701172>)
+13:04:11.328 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.619629, 146.378738, 3416.371338>) used the  ExpansionCarKey to lock SUV_white (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.686523, 148.476166, 3420.701660>)
+13:04:24.320 [VehicleDeleted] SUV_white (id=3FB63AC86943BF489BF7F9B710A7D2BF pos=<6673.686523, 148.476166, 3420.701660>)
+13:04:24.320 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.666016, 146.330048, 3416.272705>) covered vehicle "SUV_white" (GlobalID=8000000080000000800000008000B494 pos=<6673.686523, 148.476166, 3420.701660>)!
+13:05:39.585 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<1b125080> at <6630.21, 143.38, 3454.33> EXPLOSION range 20 dropoff 5
+13:06:34.964 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:06:37.261 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:54:15.980 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<5616.857422, 29.020798, 5415.823730>) Entered the safezone
+13:58:21.632 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to sell cz61 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+13:58:21.714 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has sold cz61 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 722.
+14:00:07.816 [ATM] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has deposited 14186 on his ATM account.
+15:02:53.460 [AI Patrol] Spawning 3 KMUC Patrol bots at <7218.488281, 537.715027, 11654.272461>
+15:02:55.835 [AI Patrol] Spawning 3 KMUC Patrol bots at <7125.859863, 587.359985, 11595.376953>
+15:03:11.367 [AI Patrol] Spawning 3 KMUC Patrol bots at <7064.925781, 587.359985, 11603.489258>
+15:03:22.097 [AI Patrol] Spawning 3 KMUC Patrol bots at <7009.721680, 594.523865, 11592.662109>
+15:03:31.890 [AI Patrol] Spawning 3 KMUC Patrol bots at <7168.603027, 601.823303, 11729.121094>
+15:04:01.730 [AI Patrol] Spawning 3 KMUC Patrol bots at <7221.163574, 608.607849, 11824.911133>
+15:12:58.031 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8908.685547, 45.481956, 3780.391113>
+15:13:10.367 [SpawnSelection] Player "chris_" (id=1C-BKUrV2ma0nXjqZjfzIwzttKbgVNKDJ72lZczmj6E=) spawned at <5665.169922, 28.708799, 5392.490234>
+15:13:11.324 [Safezone] Player "chris_" (id=1C-BKUrV2ma0nXjqZjfzIwzttKbgVNKDJ72lZczmj6E= pos=<5665.169922, 28.708799, 5392.490234>) Entered the safezone
+15:46:26.609 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Medical
+16:05:16.550 [Party] Player "BDH Crazy22" (id=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY=) joinded the party "noobs" (id=27 ownerUID=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY= ownerName=BDH Crazy22)
+16:05:16.562 [AI Patrol] Spawning 3 Camp Bear Patrol bots at <9041.975586, 13.502263, 5986.245117>
+16:14:54.750 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:18:39.152 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6674.268066, 147.110229, 3417.446533>) uncovered vehicle "SUV_white" (GlobalID=8000000080000000800000008000B494 pos=<6673.686523, 148.476166, 3420.701660>)!
+16:18:46.070 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.470703, 146.287262, 3416.056885>) used the  ExpansionCarKey to unlock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<6673.687988, 148.474548, 3420.697998>)
+16:19:09.789 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.500977, 146.223862, 3415.914551>) used the  ExpansionCarKey to lock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<6673.687988, 148.474548, 3420.697998>)
+16:19:58.187 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): anyone on here good at building? need to remove a floor to put a hatch and no idea wtf i'm doing lol
+16:20:29.703 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): Im not sure how to remove.  Maybe a hatchet?
+16:21:07.804 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): tried that and don't have any options. i might not be able to get to the spot for to give me the option either
+16:21:29.031 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): if its a floor, I would guess above it in the center
+16:22:11.093 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya thats the problem can't get above it. in a castle tower and it's blocking the top smh
+16:22:33.179 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): oh, you built a floor instead of a roof?
+16:22:34.667 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): oops
+16:22:54.062 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya i messed up. not great at this whole building thing
+16:23:05.046 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): yea, I had to learn expansion base building on here too
+16:23:27.562 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i usualy live out of a car but was like ya lets try this and failed lol
+16:24:04.273 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): whats the chances someone has a heli and pop me onto the roof? lol
+16:24:14.359 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): Dan has one I believe
+16:24:52.546 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): and of course not on now lol. all good i will reach out to him after
+16:25:22.664 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): just wanted a damn roof with a hatrch i could lock and this is what i end up doing smh lol
+16:25:31.652 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): I had the option to convert a floor to a roof sometimes
+16:25:38.000 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): but it still wouldnt have the hatch
+16:25:58.660 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gotcha so it 100 percent has to be the roof kit then right?
+16:26:23.941 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): Im not sure, I think you may be able to do it with the floor and roof kit
+16:26:35.421 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): you just build the hatch on the second step instead of the floor/roof
+16:27:17.429 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hmm ok. If i can figure out how to remove this at some point would you mind helping me build this?
+16:29:11.246 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.017090, 146.301102, 3415.834961>) used the  ExpansionCarKey to unlock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<6673.687988, 148.474548, 3420.697998>)
+16:29:13.273 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): yea, I can do that
+16:29:24.062 [Chat - Global]("Alaric"(id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=)): just hit me up on discord 
+16:29:28.316 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6675.139648, 146.474808, 3416.341309>) used the  ExpansionCarKey to lock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<6673.687988, 148.474548, 3420.697998>)
+16:29:31.886 [SpawnSelection] Player "Monkey2910" (id=GajUBhSPzHRzc_xPWNisvNYRs-YiYHD6h_PQgo31lkA=) spawned at <5638.890137, 27.349701, 5438.060059>
+16:29:32.750 [Safezone] Player "Monkey2910" (id=GajUBhSPzHRzc_xPWNisvNYRs-YiYHD6h_PQgo31lkA= pos=<5638.890137, 27.349701, 5438.060059>) Entered the safezone
+16:30:23.851 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): I will; do that once i can remove this. appreciate it!
+16:30:27.316 [Safezone] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc= pos=<5604.314453, 28.722498, 5386.137207>) Entered the safezone
+16:30:27.316 [Party] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) joinded the party "BANO" (id=20 ownerUID=LE_dvzyhQtBty3t5Umm5_mCSWF_rFCUtH-DBCNt1dCk= ownerName=wadekeys101)
+16:30:53.121 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6672.842285, 148.145676, 3419.244385>) used the  ExpansionCarKey to unlock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<6673.687988, 148.474548, 3420.697998>)
+16:30:59.585 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<6673.687988, 148.474350, 3420.697510>) as driver
+16:31:02.062 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<6673.689941, 148.474243, 3420.698486>)
+16:31:15.261 [ATM] Player "Monkey2910" (id=GajUBhSPzHRzc_xPWNisvNYRs-YiYHD6h_PQgo31lkA=) has withdrawn 10000 from his ATM account.
+16:32:24.320 [Market] Player "Monkey2910" (id=GajUBhSPzHRzc_xPWNisvNYRs-YiYHD6h_PQgo31lkA=) has send a requested to sell quiltedjacket_green x1 at the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:32:24.437 [Market] Player "Monkey2910" (id=GajUBhSPzHRzc_xPWNisvNYRs-YiYHD6h_PQgo31lkA=) has sold quiltedjacket_green x1 at the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 34.
+16:35:46.210 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5669.797363, 33.593090, 5263.267090>) Entered the safezone
+16:35:59.406 [Safezone] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc= pos=<5746.774902, 32.070217, 5246.520996>) Left the safezone
+16:36:11.351 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.509766, 28.713482, 5388.619629>)
+16:36:13.921 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.510254, 28.713488, 5388.618652>)
+16:36:21.878 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5625.902832, 28.722483, 5386.818848>) used the  ExpansionCarKey to lock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.508301, 28.713465, 5388.621094>)
+16:37:04.875 [Party] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) joinded the party "BANO" (id=20 ownerUID=LE_dvzyhQtBty3t5Umm5_mCSWF_rFCUtH-DBCNt1dCk= ownerName=wadekeys101)
+16:37:12.183 [SpawnSelection] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) spawned at <5665.169922, 28.708799, 5392.490234>
+16:37:13.312 [Safezone] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc= pos=<5665.169922, 28.708799, 5392.490234>) Entered the safezone
+16:38:07.410 [Safezone] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc= pos=<5767.990723, 42.981430, 5274.662598>) Left the safezone
+16:39:53.957 [Safezone] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc= pos=<5741.245117, 45.868702, 5308.493652>) Entered the safezone
+16:43:41.238 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 500 from his ATM account.
+16:43:54.761 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase crowbar x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:43:54.835 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought crowbar x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 8.
+16:43:58.976 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase hammer x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:43:59.054 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought hammer x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 14.
+16:44:01.914 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase lockpick x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:44:02.054 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought lockpick x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 40.
+16:44:12.335 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase hacksaw x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:44:12.425 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought hacksaw x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 14.
+16:44:27.957 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 424 on his ATM account.
+16:45:04.503 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has send a requested to sell cablereel x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:45:04.609 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has sold cablereel x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 14.
+16:45:29.625 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5626.337891, 28.722498, 5387.768066>) used the  ExpansionCarKey to unlock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.508301, 28.713465, 5388.621094>)
+16:45:33.996 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.507813, 28.713465, 5388.622070>) as driver
+16:45:36.742 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.507813, 28.713467, 5388.622070>)
+16:45:41.460 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.507813, 28.713467, 5388.623047>) as driver
+16:45:44.273 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<5624.507324, 28.713467, 5388.623047>)
+16:46:14.132 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5851.951660, 32.768860, 5187.203613>) Left the safezone
+16:47:05.613 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5627.489746, 28.968361, 5399.324707>) Entered the safezone
+16:47:05.613 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+16:47:16.882 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has send a requested to sell flashlight x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:47:16.988 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has sold flashlight x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 22.
+16:47:22.164 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has send a requested to sell matchbox x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:47:22.250 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has sold matchbox x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 3.
+16:47:23.152 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has send a requested to sell matchbox x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:47:23.304 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has sold matchbox x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 0.
+16:48:01.234 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has send a requested to sell wrench x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+16:48:01.390 [Market] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has sold wrench x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 3.
+16:48:35.394 [ATM] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) has deposited 10149 on his ATM account.
+16:51:35.832 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=680544F3034F7B98517DF8AC16101E44 pos=<6684.438965, 146.390198, 3422.665527>)
+16:52:30.128 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6688.555176, 144.014801, 3419.504883>) used the  ExpansionCarKey to lock SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<6684.440918, 146.389709, 3422.666260>)
+16:52:36.523 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5675.202637, 33.292484, 5237.551270>) Left the safezone
+16:52:41.226 [VehicleDeleted] SUV_white (id=680544F3034F7B98517DF8AC16101E44 pos=<6684.440918, 146.389709, 3422.666260>)
+16:52:41.226 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6688.063477, 144.160202, 3419.468018>) covered vehicle "SUV_white" (GlobalID=8000000080000000800000008000B494 pos=<6684.440918, 146.389709, 3422.666260>)!
+16:52:55.656 [Safezone] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc= pos=<5630.175781, 27.907030, 5566.879883>) Left the safezone
+16:53:47.824 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5671.721680, 32.391102, 5262.856934>) Entered the safezone
+16:54:08.683 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5664.493164, 32.685627, 5256.689453>) Left the safezone
+16:54:19.371 [Party] Player "UnForGivenSins" (id=X5zbr4xei31Cqwp-I4-ma-CkT_z-wsXBEpn_Z_f8Gmc=) left the party "BANO" (id=20 ownerUID=LE_dvzyhQtBty3t5Umm5_mCSWF_rFCUtH-DBCNt1dCk= ownerName=wadekeys101)
+16:54:23.984 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5671.554688, 33.289925, 5238.970215>) used the  ExpansionCarKey to unlock Expansion_Landrover_Blue (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<5672.336914, 33.241116, 5236.786133>)
+16:54:28.773 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<5672.336914, 33.241123, 5236.786133>) as driver
+16:54:33.101 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<5672.336914, 33.241119, 5236.786133>)
+16:56:39.335 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<6712.015625, 29.696251, 5762.723633>)
+16:56:45.656 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<6712.015625, 29.696241, 5762.723633>) as driver
+16:56:48.343 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<6712.015625, 29.696249, 5762.723633>)
+17:03:12.734 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+17:03:34.921 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+17:03:49.750 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<9610.111328, 6.193878, 3151.609131>) as driver
+17:03:52.660 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<9610.111328, 6.193772, 3151.608887>)
+17:04:27.109 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<9616.909180, 3.095604, 3106.827881>)
+17:04:31.664 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9618.722656, 3.138913, 3107.797119>) used the  ExpansionCarKey to lock Expansion_Landrover_Blue (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<9616.908203, 3.095597, 3106.827637>)
+17:04:36.703 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:17:08.832 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9618.873047, 3.114352, 3107.065918>) used the  ExpansionCarKey to unlock Expansion_Landrover_Blue (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<9616.720703, 3.106809, 3107.080322>)
+17:17:17.617 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<9616.720703, 3.106808, 3107.080566>) as driver
+17:17:23.546 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=533BA848C641738FEB4C3D9AB1FAD73B pos=<9616.720703, 3.106806, 3107.080322>)
+17:19:29.218 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9622.396484, 3.013905, 3094.700195>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=480ED621244598C74BD23A9C01A0E03B pos=<9620.374023, 3.054276, 3094.314453>)
+17:25:43.132 [Party] Player "Bog_Monster" (id=sAzfWixzA1-TNIKhVLRIVZHZX45UaBpWlaWuOFEUMag=) joinded the party "noobs" (id=27 ownerUID=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY= ownerName=BDH Crazy22)
+17:33:50.929 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black_rust (id=480ED621244598C74BD23A9C01A0E03B pos=<9620.373047, 3.054276, 3094.314453>) as driver
+17:33:53.390 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black_rust (id=480ED621244598C74BD23A9C01A0E03B pos=<9620.373047, 3.054276, 3094.314453>)
+17:34:05.050 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black_rust (id=480ED621244598C74BD23A9C01A0E03B pos=<9619.603516, 3.054276, 3096.643555>)
+17:35:09.625 [Safezone] Player "BDH Crazy22" (id=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY= pos=<10311.212891, 1.467789, 5628.895996>) Entered the safezone
+17:35:30.277 [Safezone] Player "BDH Crazy22" (id=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY= pos=<10308.153320, 1.502330, 5612.010254>) Left the safezone
+17:50:25.761 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) created territory Chaos Country at <9625.762695, 2.755406, 3087.355713>
+17:56:29.136 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+17:59:16.031 [Party] Player "BDH Crazy22" (id=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY=) left the party "noobs" (id=27 ownerUID=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY= ownerName=BDH Crazy22)
+17:59:16.039 [Party] Player "Bog_Monster" (id=sAzfWixzA1-TNIKhVLRIVZHZX45UaBpWlaWuOFEUMag=) left the party "noobs" (id=27 ownerUID=xBwUe6F0ELy8UX4ZzLIEUefw3PJSjX0OdDxaAAGlFcY= ownerName=BDH Crazy22)

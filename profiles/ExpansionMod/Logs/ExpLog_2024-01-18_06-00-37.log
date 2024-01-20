@@ -1,0 +1,6 @@
+06:33:59.203 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer
+06:38:25.193 [BaseRaiding] ExpansionWall6x3 (<7906.525879, 54.622169, 8160.839844>) player "Alaric" (ID = "Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84=" at <7907.628418, 54.548309, 8160.018555>) failed to enter the correct code.
+06:38:25.193 [BaseRaiding] ExpansionWall6x3 (<7906.525879, 54.622169, 8160.839844>) The correct code was 0416 and the player tried 0406
+06:38:43.900 [VehicleCarKey] Player "Alaric" (id=Ta_q1VTZtNFUycTYJvDHZy5JEKHT2H1N1szx0vEQy84= pos=<7942.872559, 54.162453, 8158.230469>) used the  ExpansionCarKey to unlock Jeep_Wrangler (id=89D856881F4B630D09DAA592B70CF9D9 pos=<7944.421875, 54.302063, 8157.329102>)
+06:57:09.134 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<7941.765625, 54.162487, 8157.551270>) used the  ExpansionCarKey to lock Jeep_Wrangler (id=89D856881F4B630D09DAA592B70CF9D9 pos=<7944.421875, 54.302063, 8157.329102>)
+09:14:57.375 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5649.543457, 29.502888, 5404.959961>) Entered the safezone
