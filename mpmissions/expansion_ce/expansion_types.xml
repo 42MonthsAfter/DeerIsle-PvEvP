@@ -4983,7 +4983,7 @@
 	<!-- BASE BUILDING -->
 	<type name="WoodenLog">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4994,7 +4994,7 @@
     </type>
 	<type name="ExpansionLumber1">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5005,7 +5005,7 @@
     </type>
 	<type name="ExpansionLumber1_5">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5016,7 +5016,7 @@
     </type>
 	<type name="ExpansionLumber3">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5027,7 +5027,7 @@
     </type>
 	<type name="ExpansionFloorKit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
