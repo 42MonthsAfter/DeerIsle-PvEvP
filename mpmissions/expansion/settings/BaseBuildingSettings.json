@@ -27,6 +27,7 @@
         "GardenPlot"
     ],
     "DeployableInsideAEnemyTerritory": [
+        "ExpansionParkingMeterKit",
         "ExpansionSatchel",
         "LandMineTrap",
         "BearTrap",
