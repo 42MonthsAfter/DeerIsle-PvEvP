@@ -3,6 +3,8 @@
     "CanBuildAnywhere": 1,
     "AllowBuildingWithoutATerritory": 0,
     "DeployableOutsideATerritory": [
+        "ExpansionParkingMeter",
+        "ExpansionParkingMeterKit",
         "ExpansionSatchel",
         "Fireplace",
         "TerritoryFlagKit",
@@ -27,8 +29,6 @@
         "GardenPlot"
     ],
     "DeployableInsideAEnemyTerritory": [
-        "ExpansionParkingMeter",
-        "ExpansionParkingMeterKit",
         "ExpansionSatchel",
         "LandMineTrap",
         "BearTrap",
