@@ -720,6 +720,17 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "DOC_42MA_GLOCK_MAG",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 950,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 30,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

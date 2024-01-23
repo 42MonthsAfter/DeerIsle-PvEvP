@@ -905,6 +905,98 @@
             "SpawnAttachments": [
             ],
             "Variants": []
+        },
+		{
+            "ClassName": "DOC_42MA_GLOCK1",
+            "MaxPriceThreshold": 33000,
+            "MinPriceThreshold": 29000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"DOC_42MA_GLOCK_MAG",
+			"DOC_42_SUPPRESSOR_PISTOL"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_BLKFDE",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_GOLD",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 19000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_GRYBLK",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_PRPWHT",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_TANGRN",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GLOCK_TRQGRY",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"Mag_Glock_15Rnd"
+			],
+            "Variants": []
         }
     ]
 }
