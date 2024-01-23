@@ -1,0 +1,6 @@
+15:40:13.570 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5559.360352, 15.183187, 5482.733398>) Entered the safezone
+15:40:17.328 [AI Patrol] Spawning 3 Shamans bots at <4863.511719, 74.271729, 5684.092773>
+15:40:47.300 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5262.741699, 6.579940, 5373.847656>) Left the safezone
+15:41:31.093 [ExplosionDamageSystem] About to explode Explosion_NonLethal from Grenade_Base<986c5cc0> at <5262.74, 6.62, 5373.85> EXPLOSION range 4 dropoff 1
+15:42:22.953 [SpawnSelection] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) spawned at <5665.169922, 28.708799, 5392.490234>
+15:42:23.394 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5665.169922, 28.708799, 5392.490234>) Entered the safezone

@@ -12,19 +12,16 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Assault_Rifles",
-        "Assault_Rifle_Mags",
-        "Submachine_Guns",
-        "Submachine_Gun_Mags",
-        "Rifles",
-        "Rifle_Mags",
-        "Pistols",
-        "Pistol_Mags",
-        "Sniper_Rifles",
-        "Sniper_Rifles_Mags",
-        "Shotguns",
-        "Shotgun_Mags",
-        "Crossbows"
+        "Melee_Weapons",
+        "Ammo",
+        "Ammo_Boxes",
+        "Knifes",
+        "Explosives_And_Grenades",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards"
     ],
     "Items": {}
 }
