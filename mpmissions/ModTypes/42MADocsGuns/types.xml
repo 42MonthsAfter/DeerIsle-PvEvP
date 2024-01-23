@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <types>
-</type>
 	<type name="DOC_ADMIN_BOCCHIGLOCK">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
@@ -13,7 +12,7 @@
 		<category name="weapons" />
 	</type>
 	<type name="DOC_42MA_GLOCK1">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -22,12 +21,6 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_ADMIN_MAG_DOC_BOCCHI">
 		<nominal>0</nominal>
@@ -41,7 +34,7 @@
 		<category name="weapons" />
 	</type>
 	<type name="DOC_42MA_GLOCK_MAG">
-		<nominal>3</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -50,15 +43,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_BLACK">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -67,15 +54,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_WHITE">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -84,15 +65,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_GREEN">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -101,15 +76,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_RED">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -118,15 +87,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_YELLOW">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -135,15 +98,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_PURPLE">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -152,15 +109,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_PINK">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -169,15 +120,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_LIGHTBLUE">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -186,15 +131,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_GALAXY">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -203,15 +142,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4_BLUE">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -220,15 +153,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_BLACK">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_BLACK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -237,15 +164,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_WHITE">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_WHITE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -254,15 +175,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_GREEN">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_GREEN">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -271,15 +186,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_RED">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_RED">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -288,15 +197,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_YELLOW">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_YELLOW">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -305,15 +208,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_PURPLE">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_PURPLE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -322,15 +219,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_PINK">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_PINK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -339,15 +230,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_LIGHTBLUE">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_LIGHTBLUE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -356,15 +241,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_GALAXY">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_GALAXY">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -373,15 +252,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4RIS_BLUE">
-		<nominal>1</nominal>
+	<type name="DOC_M4RIS_BLUE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -390,15 +263,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_BLACK">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_BLACK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -407,15 +274,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_WHITE">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_WHITE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -424,15 +285,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_GREEN">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_GREEN">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -441,15 +296,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_RED">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_RED">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -458,15 +307,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_YELLOW">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_YELLOW">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -475,15 +318,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_PURPLE">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_PURPLE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -492,15 +329,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_PINK">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_PINK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -509,15 +340,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_PINK">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_PINK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -526,15 +351,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_LIGHTBLUE">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_LIGHTBLUE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -543,15 +362,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_GALAXY">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_GALAXY">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -560,15 +373,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_BLUE">
-		<nominal>1</nominal>
+	<type name="DOC_STANAG69_BLUE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -577,15 +384,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_BLACK">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_BLACK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -594,15 +395,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_WHITE">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_WHITE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -611,15 +406,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_GREEN">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_GREEN">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -628,15 +417,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_RED">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_RED">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -645,15 +428,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_YELLOW">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_YELLOW">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -662,15 +439,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_PURPLE">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_PURPLE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -679,15 +450,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_PINK">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_PINK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -696,15 +461,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_LIGHTBLUE">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_LIGHTBLUE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -713,15 +472,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_GALAXY">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_GALAXY">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -730,15 +483,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4CARSTOCK_BLUE">
-		<nominal>1</nominal>
+	<type name="DOC_M4CARSTOCK_BLUE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -747,15 +494,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_42_SUPPRESSOR_PISTOL">
-		<nominal>3</nominal>
+	<type name="DOC_42_SUPPRESSOR_PISTOL">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -764,15 +505,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_42_OPTIC_PISTOL">
-		<nominal>2</nominal>
+	<type name="DOC_SUPPRESSOR_PISTOL_TURQUOISE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -781,15 +516,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4_CRUSHEDFOIL">
-		<nominal>1</nominal>
+	<type name="DOC_SUPPRESSOR_PISTOL_FDE">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -798,15 +527,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4_OILFOIL">
-		<nominal>1</nominal>
+	<type name="DOC_SUPPRESSOR_PISTOL_BLACK">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -815,15 +538,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4_ROYALFOIL">
-		<nominal>1</nominal>
+	<type name="DOC_SUPPRESSOR_PISTOL_GOLD">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -832,15 +549,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_M4_NIGHTFOIL">
-		<nominal>1</nominal>
+	<type name="DOC_42_OPTIC_PISTOL">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -849,15 +560,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
-		<type name="DOC_STANAG69_CRUSHEDFOIL">
-		<nominal>1</nominal>
+	<type name="DOC_M4_CRUSHEDFOIL">
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -866,15 +571,53 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
+	</type>
+	<type name="DOC_M4_OILFOIL">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_ROYALFOIL">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_NIGHTFOIL">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_STANAG69_CRUSHEDFOIL">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
 	</type>
 	<type name="DOC_STANAG69_OILFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -883,15 +626,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_STANAG69_NIGHTFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -900,12 +637,6 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_STANAG69_ROYALFOIL">
 		<nominal>0</nominal>
@@ -919,7 +650,7 @@
 		<category name="weapons" />
 	</type>
 	<type name="DOC_M4RIS_CRUSHEDFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -928,15 +659,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4RIS_OILFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -945,15 +670,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4RIS_NIGHTFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -962,15 +681,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_M4RIS_ROYALFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -979,15 +692,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 		<type name="DOC_M4CARSTOCK_CRUSHEDFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -996,16 +703,10 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	</type>
 		<type name="DOC_M4CARSTOCK_OILFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1014,16 +715,10 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	</type>
 		<type name="DOC_M4CARSTOCK_NIGHTFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1032,16 +727,10 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	</type>
 		<type name="DOC_M4CARSTOCK_ROYALFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1050,15 +739,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_SUPPRESSOR_556_GALAXY">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1067,15 +750,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_SUPPRESSOR_PISTOL_BOCCHI">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1084,15 +761,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_SUPPRESSOR_556_NIGHTFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1101,15 +772,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_SUPPRESSOR_556_OILFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1118,15 +783,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_SUPPRESSOR_556_ROYALFOIL">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1135,12 +794,6 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_ADMIN_BLUE_GLOCK">
 		<nominal>0</nominal>
@@ -1154,7 +807,7 @@
 		<category name="weapons" />
 	</type>
 	<type name="DOC_ADMIN_BUNKER_GLOCK">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -1163,12 +816,6 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-	    <value name="Tier7"/>
-	    <value name="Tier10"/>
-	    <value name="Tier14"/>
-	    <value name="Tier16"/>
-	    <value name="Tier17"/>
-	    <value name="Tier18"/>
 	</type>
 	<type name="DOC_ADMIN_MAG_BLUE_GLOCK">
 		<nominal>0</nominal>
@@ -1204,6 +851,479 @@
 		<category name="weapons" />
 	</type>
 	<type name="DOC_SUPPRESSOR_PISTOL_BLUE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_PISTOL_BLUE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_CRUSHEDFOIL">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_BLACK">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_DBLUE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_GREEN">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_LIGHTBLUE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_PINK">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_PURPLE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_RED">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_WHITE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SUPPRESSOR_556_YELLOW">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_GLOCK_BLKFDE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_GLOCK_GOLD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_GLOCK_GRYBLK">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_GLOCK_PRPWHT">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_GLOCK_TANGRN">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_GLOCK_TRQGRY">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_CULT_SWORD1">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_DAYWALKERS_SWORD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SPARTAN_SWORD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_GOLDEN_ARES_SWORD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_SOULREAVER_SWORD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_BUSTER_SWORD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_KEYBLADE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_ICHIGO">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_ICHIGO_RAINBOWD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_ICHIGO_RED">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_COMBATKNIFE_ONE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_DRAGON_KNIFE">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_KARAMBIT_KNIFE_BLACK">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_KARAMBIT_KNIFE_CARBON">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_KARAMBIT_KNIFE_GREEN">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_KARAMBIT_KNIFE_GREENOLD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_chicken">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_bear">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_poop">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_bear_mag">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_chicken_mag">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_M4_poop_mag">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_KATANA">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_KATANA_DRAGON">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_MASTERSWORD">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_MASTERSWORD_BLACK">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
