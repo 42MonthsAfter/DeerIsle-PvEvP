@@ -126,6 +126,236 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },        {
+            "ClassName": "DOC_CULT_SWORD1",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_DAYWALKERS_SWORD",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SPARTAN_SWORD",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_GOLDEN_ARES_SWORD",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_SOULREAVER_SWORD",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+        },
+		{
+            "ClassName": "DOC_BUSTER_SWORD",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KEYBLADE",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_ICHIGO",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_ICHIGO_RAINBOW",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_ICHIGO_RED",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 95000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_COMBATKNIFE_ONE",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_DRAGON_KNIFE",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KARAMBIT_KNIFE_BLACK",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KARAMBIT_KNIFE_CARBON",
+            "MaxPriceThreshold": 125000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KARAMBIT_KNIFE_GREEN",
+            "MaxPriceThreshold": 33000,
+            "MinPriceThreshold": 29000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KARAMBIT_KNIFE_GREENOLD",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KURKIKNIFE_1",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 19000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KATANA",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 19000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_KATANA_DRAGON",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 19000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_MASTERSWORD",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 19000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DOC_MASTERSWORD_BLACK",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 19000,
+            "SellPricePercent": -50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
