@@ -8,6 +8,17 @@
     "InitStockPercent": 10.0,
     "Items": [
         {
+            "ClassName": "HydraulicJack",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ExpansionParkingMeterKit",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
