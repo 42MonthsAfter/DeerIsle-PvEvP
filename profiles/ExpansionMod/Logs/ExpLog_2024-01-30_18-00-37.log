@@ -1,0 +1,703 @@
+18:00:41.265 [VehicleDeleted] Interceptor_red (id=6D2D79958A49771BC139A4A1C4F4A986 pos=<0.005533, 0.635597, -0.120973>)
+19:42:40.742 [Party] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) joinded the party "David blackbird" (id=37 ownerUID=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= ownerName=David BlackBrid)
+19:44:24.382 [VehicleCover] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3983.393555, 32.704895, 4806.977539>) uncovered vehicle "ExpansionMh6_Vrana" (GlobalID=80000000800000008000000080013F3B pos=<3979.062012, 32.762684, 4812.229980>)!
+19:45:15.476 [VehicleDeleted] ExpansionMh6_Vrana (id=4F2AA7A27F4D3A415FD24990B8C4381A pos=<3979.063232, 32.777245, 4812.228516>)
+19:45:15.476 [VehicleCover] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3977.836914, 32.704880, 4810.409668>) covered vehicle "ExpansionMh6_Vrana" (GlobalID=80000000800000008000000080013F3B pos=<3979.063232, 32.777245, 4812.228516>)!
+19:45:49.507 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3970.568848, 25.063503, 4798.824707>) used the  ExpansionCarKey to unlock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3972.296387, 25.066982, 4797.182129>)
+19:48:58.750 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5666.635742, 32.662739, 5274.976563>) Entered the safezone
+19:48:58.750 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:50:06.367 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 500 from his ATM account.
+19:51:13.585 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase expansioncircuitboard_mk1 x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+19:51:13.710 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought expansioncircuitboard_mk1 x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 250.
+19:51:50.820 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5666.953125, 32.632759, 5274.246094>) uncovered vehicle "HAMMER_H1_black_rust" (GlobalID=8000000080000000800000008001831F pos=<5669.705078, 32.734230, 5274.456543>)!
+19:51:59.125 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5671.220215, 32.922413, 5276.907227>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5669.704102, 32.734016, 5274.453613>)
+19:52:14.023 [AI Patrol] Spawning 3 Temple Patrol bots at <385.794342, 46.827091, 864.101379>
+19:52:14.125 [AI Patrol] Spawning 3 Temple Patrol bots at <313.723755, 55.318100, 883.577820>
+19:52:14.132 [AI Patrol] Spawning 3 Temple Patrol bots at <352.219513, 48.364700, 666.682739>
+19:52:15.695 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5669.704102, 32.734013, 5274.453613>) as driver
+19:52:18.226 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5669.704102, 32.734001, 5274.453613>)
+19:52:34.382 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5748.658691, 25.062122, 5203.030273>) Left the safezone
+19:56:02.257 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3956.359375, 24.928341, 4815.406250>)
+19:56:04.976 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3956.359375, 24.928341, 4815.406250>)
+19:57:50.687 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer
+20:06:40.156 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3956.359375, 24.928341, 4815.406250>) as driver
+20:06:42.562 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3956.359375, 24.928341, 4815.406250>)
+20:07:38.835 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3041.416260, 22.450001, 4035.932617>
+20:13:40.593 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3972.296387, 25.066986, 4797.187012>) as driver
+20:13:44.609 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3972.296387, 25.066999, 4797.185059>)
+20:16:18.382 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4747.476563, 20.430000, 6954.704590>
+20:16:38.406 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3951.159424, 35.142014, 6570.761230>)
+20:18:00.328 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): wish me luck
+20:18:12.703 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gl haha
+20:18:37.445 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ive entered hell
+20:18:56.156 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3951.159424, 35.141994, 6570.761230>) as driver
+20:19:08.242 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): take a car or just run there?
+20:19:10.937 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3951.159424, 35.142006, 6570.761230>)
+20:19:30.234 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3823.038086, 23.235695, 6475.192383>)
+20:19:30.515 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): im parking on the edge
+20:19:35.039 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3208.343506, 22.456766, 4454.785156>)
+20:19:37.414 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3208.341797, 22.456757, 4454.785645>)
+20:20:21.265 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3207.253174, 22.481070, 4458.216797>) used the  ExpansionCarKey to lock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3208.344238, 22.456766, 4454.784668>)
+20:20:58.382 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3010.743896, 23.764986, 3444.385498>
+20:23:35.671 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3823.038086, 23.235689, 6475.192383>) as driver
+20:23:41.531 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3823.038086, 23.235689, 6475.192383>)
+20:24:09.406 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): good call lol
+20:25:04.757 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): trying to avoid the z's i dont have ammo for my pistol lol
+20:25:23.117 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh geez
+20:27:44.359 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5663.904297, 29.424124, 5512.570801>) Entered the safezone
+20:27:57.695 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5630.058594, 28.738714, 5419.936035>)
+20:28:25.562 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell ak101 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:25.687 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold ak101 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1237.
+20:28:26.593 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:26.718 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1275.
+20:28:27.578 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell m4a1 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:27.687 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold m4a1 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1200.
+20:28:29.421 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell m4a1 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:29.492 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold m4a1 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1200.
+20:28:38.789 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell mag_fnx45_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:38.898 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold mag_fnx45_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 45.
+20:28:40.250 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell mag_cz527_5rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:40.359 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold mag_cz527_5rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 50.
+20:28:43.562 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell winchester70 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:43.656 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold winchester70 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1987.
+20:28:44.351 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell mosin9130 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:44.453 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold mosin9130 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1050.
+20:28:49.023 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell expansion_kedr x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:49.109 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold expansion_kedr x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 750.
+20:29:18.140 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase doc_stanag69_oilfoil x2 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:29:18.281 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought doc_stanag69_oilfoil x2 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3976.
+20:29:37.640 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammo_556x45 x300 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:29:37.750 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammo_556x45 x300 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+20:29:46.734 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): find ai yet?
+20:29:58.359 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): oh yah
+20:30:07.156 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): they hurt
+20:30:12.265 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): geared?
+20:30:31.687 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): svds and ka 101s so far
+20:30:38.414 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): not bad
+20:31:03.437 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): they dont seem to mis
+20:31:47.281 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+20:33:17.546 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5631.211914, 28.722460, 5417.847656>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5630.058594, 28.738714, 5419.936035>)
+20:33:27.085 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 4468 on his ATM account.
+20:34:05.242 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 1000 from his ATM account.
+20:34:17.468 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase geb_trout x1 from the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:34:17.562 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought geb_trout x1 from the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 1000.
+20:36:31.460 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5631.281250, 28.722498, 5418.390625>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5630.058594, 28.738714, 5419.936035>)
+20:36:38.093 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5630.058594, 28.738714, 5419.936035>) as driver
+20:36:40.695 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5630.058594, 28.738716, 5419.936035>)
+20:37:10.734 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5602.068848, 18.786413, 5669.776855>) Left the safezone
+20:43:58.117 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.598877, 27.153046, 6919.885742>)
+20:44:01.968 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.603271, 27.152153, 6919.885254>)
+20:44:15.476 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3453.592773, 25.083239, 6918.736328>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.604492, 27.152945, 6919.885254>)
+20:45:25.812 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): still kicking?
+20:45:56.960 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): barly
+20:46:15.492 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i would come help but i'm a dumbass and rolled my truck lol
+20:51:17.687 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ive got the inventory bug
+20:51:28.273 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): what bug is that?
+20:51:58.609 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): i cant store stuff
+20:52:05.125 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): wtf
+20:52:09.617 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ye
+20:52:22.203 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): relog?
+20:52:36.375 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ive got to relog to fix it but im in a bad spot lol
+20:52:45.351 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): right lol
+20:53:05.382 [Party] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) left the party "David blackbird" (id=37 ownerUID=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= ownerName=David BlackBrid)
+20:54:38.273 [Party] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) joinded the party "David blackbird" (id=37 ownerUID=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= ownerName=David BlackBrid)
+20:54:48.335 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): im back
+20:54:57.546 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ive killed 6 ai so far
+20:55:16.335 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): geez that scar is working out for ya i see lol
+20:55:22.523 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ye lol
+20:57:01.960 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): wheres the loot lol
+20:58:49.710 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): are there keys/keycards on this server?
+20:58:58.335 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): not sure
+20:59:13.921 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): havn't seen one if there is
+21:01:27.234 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): these zombies tank 308 tho lol
+21:01:34.500 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+21:06:32.093 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): not gonna lie the loot hear has been kinda shit lol
+21:06:39.640 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): for the risk
+21:06:48.734 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh really?
+21:06:59.414 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ye
+21:07:07.296 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that blows
+21:07:36.398 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ive been shot in the head and most ive got is a svd lol
+21:07:50.000 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): boring lol
+21:08:19.507 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): isnt there a under ground spot hear?
+21:08:30.382 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ummm i dont remember
+21:10:36.265 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): oh shit i just found a larg safe with loot in it 
+21:10:45.914 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh damn
+21:10:53.929 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): pox grenades 
+21:11:22.484 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): docs blue mag
+21:11:23.304 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): nice
+21:11:29.187 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): and thors hammer
+21:11:32.648 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ram 
+21:11:35.343 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ssd
+21:11:42.906 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "The goovs" (id=35 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+21:12:06.500 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): stag reserch samples
+21:12:22.289 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): interesting
+21:12:54.265 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): well there you go haha
+21:12:58.476 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): is this like a admin thing that they hid
+21:13:10.390 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yes
+21:13:15.828 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): look in discord
+21:13:38.976 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): where in the dis
+21:13:48.664 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): w42 radio
+21:14:14.625 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): make sure you have all deere isles channel visable
+21:14:25.046 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): do i tell them i found it 
+21:15:23.757 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you mark an x next to the right pic
+21:15:31.718 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): damn bro good firefight there?
+21:16:04.109 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): is there a guy here with me lol i come in peace 
+21:16:07.687 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): spawned back in to a bunch of deads at paris lo
+21:16:22.968 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): run david that's goovis land!
+21:16:49.632 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): goovis have mercy pls
+21:17:04.132 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i was just leaving when i got zombied lol. youre good 
+21:17:24.195 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+21:17:43.523 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): it would be a doodlebanger move to spawn in and start shooting people in the same spot
+21:17:54.429 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i do need to clear this group of deads thouygh
+21:18:07.343 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): wtf was that 
+21:18:11.421 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lol
+21:18:25.882 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): something you don't want to be on the other end of lol
+21:18:49.593 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): is there a diving tank? or some thing
+21:19:12.101 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): m134, and yes 
+21:20:28.609 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): when u just minding your own bisness and u hear death spawn in lol
+21:20:37.031 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lmao
+21:20:52.578 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): im lost lol
+21:21:40.859 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ahh hell yeah dead AI. the best kind
+21:21:53.062 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): where are you? i guess lost means you dont know haha
+21:22:22.023 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): u scare me i dont know if i can say lol
+21:22:38.984 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lol
+21:22:42.773 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): bahahaha
+21:22:45.132 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thats a fair point lol
+21:23:03.765 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ima just a little scav lol
+21:23:49.367 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): found my way out 
+21:24:38.492 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): jesus
+21:24:55.234 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): got them
+21:24:59.570 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+21:25:18.343 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): just follow the path of death and u can make it out easy lol
+21:25:22.093 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): OwO nice SUV. id love one in black
+21:25:36.593 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): haha not many alive things left in there
+21:25:46.445 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): nooooo pls not my baby lol
+21:26:41.789 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): the respawn on these zeds is nuts
+21:27:01.335 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): whos shooting again lol
+21:27:10.890 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): these deads are EVERYWHERE
+21:27:18.562 [ExplosionDamageSystem] About to explode Explosion_40mm_Ammo from M79<2faf65f0> at <3654.96, 5.59, 4531.37> EXPLOSION range 20 dropoff 5
+21:28:01.695 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): last one is always personal
+21:29:02.304 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you make it out alive david? lol
+21:29:18.257 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): well see lol
+21:29:33.265 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): goovis hunting you? lol
+21:29:48.390 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): i dont know lol 
+21:29:56.500 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): hes every where
+21:30:04.468 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lol
+21:30:08.281 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+21:30:37.273 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3207.064697, 22.467180, 4455.598633>) used the  ExpansionCarKey to unlock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3208.344238, 22.456766, 4454.784668>)
+21:30:52.453 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3208.345215, 22.456768, 4454.784180>) as driver
+21:30:56.195 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3208.344971, 22.456764, 4454.784668>)
+21:31:03.507 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that was loud lol
+21:31:14.085 [VehicleCover] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<3764.097656, 48.411263, 4855.883789>) uncovered vehicle "Chevrolet_Camaro_black" (GlobalID=80000000800000008000000080017880 pos=<3766.667725, 48.136257, 4855.036621>)!
+21:31:19.750 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<3764.097656, 48.411263, 4855.883789>) used the  ExpansionCarKey to unlock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3766.667725, 48.136097, 4855.034668>)
+21:31:38.164 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3766.666748, 48.135986, 4855.034180>) as driver
+21:31:40.921 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3766.666748, 48.135952, 4855.033691>)
+21:31:44.523 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): i live lol
+21:31:51.515 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): where tf are you. sounded like you stood next to me lol
+21:32:13.710 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3681.362061, 30.962940, 4805.625488>)
+21:32:17.562 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3681.362061, 30.962938, 4805.625000>)
+21:32:39.585 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3695.863037, 31.316626, 4813.698242>)
+21:32:54.031 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hahahha
+21:33:12.000 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): never jump down the hole
+21:33:25.757 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): HAHAHAHAHAHAHAHAHAHAHHAHAHAHAH
+21:33:49.140 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): he jump down the hole again?
+21:33:52.328 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): is it black?
+21:34:00.828 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): oh my
+21:34:14.578 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i think thats a zombie grenade
+21:34:30.437 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hold g then hold f to drop and pick up the hammer
+21:34:38.039 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): 3 i think
+21:34:43.914 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): saw doc use one once
+21:35:08.171 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): sweet as
+21:35:36.750 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): theres one behind me somewhere
+21:35:48.328 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): oh yeah. theres lots of underwater stuff now, ive never found it though
+21:36:29.742 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): perfect. lets convoy up there and back to the holler lol
+21:37:06.851 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): save em. they are going to use gold and silver for the tip top weapons and skins
+21:37:50.726 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hahahaha
+21:38:14.765 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<b5dc64b0> at <3736.67, 33.07, 4778.04> EXPLOSION range 20 dropoff 5
+21:38:19.187 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<b5dc5ba0> at <3734.53, 32.99, 4771.5> EXPLOSION range 20 dropoff 5
+21:38:26.046 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): lol
+21:38:37.765 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i blew up the pumps too
+21:38:57.375 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): oooooooo hahaha that would be bad ass
+21:39:35.890 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): 69, nice
+21:39:55.859 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3695.862793, 31.316202, 4813.697754>) as driver
+21:39:57.203 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3681.361572, 30.962914, 4805.621582>) as driver
+21:39:58.820 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3695.862549, 31.316208, 4813.698242>)
+21:40:00.351 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3681.361572, 30.962915, 4805.621582>) as passenger
+21:40:01.453 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3681.361572, 30.962914, 4805.621582>)
+21:40:58.781 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): wtf
+21:41:10.968 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3529.606201, 22.646862, 4854.511230>)
+21:41:14.960 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3507.216797, 30.283482, 4837.167969>)
+21:41:18.179 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): that was new
+21:41:23.945 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3507.232178, 30.283947, 4837.151367>)
+21:41:27.437 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3507.245605, 30.283464, 4837.137695>) as driver
+21:41:32.289 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3507.245361, 30.283484, 4837.137695>)
+21:41:42.156 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3498.831055, 30.283489, 4839.192383>)
+21:41:44.906 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3498.831787, 30.283472, 4839.194336>)
+21:42:26.398 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3529.609131, 22.646427, 4854.506836>) as driver
+21:42:27.546 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3529.609131, 22.646429, 4854.506836>)
+21:42:30.046 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3529.609131, 22.646381, 4854.506836>)
+21:42:49.968 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): that bridge is the devil
+21:43:08.093 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3529.603271, 21.043156, 4854.465332>) as driver
+21:43:10.695 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3529.596191, 21.043217, 4854.457520>)
+21:43:34.570 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3539.050781, 21.920567, 4879.032227>)
+21:43:37.968 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3539.050781, 21.920553, 4879.032227>)
+21:43:58.171 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3539.017334, 20.466436, 4879.041504>) as driver
+21:44:00.726 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3539.017578, 20.467024, 4879.041504>)
+21:44:01.125 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): go this way 
+21:44:22.250 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3498.830811, 30.283489, 4839.190430>) as driver
+21:44:33.359 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3498.831543, 30.283474, 4839.192383>)
+21:44:48.328 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): huh
+21:44:53.796 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.226563, 31.823730, 4832.852539>)
+21:44:58.648 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i cant drive over that line
+21:45:08.710 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.226318, 31.823730, 4832.852539>)
+21:45:19.929 [Killfeed] zXGoovis_AndachairXz got killed by Camaro Black.
+21:45:32.875 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): oh no rip
+21:45:34.312 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): wtf 
+21:45:48.421 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "The goovs" (id=35 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+21:45:48.421 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8866.811523, 45.419998, 3806.779541>
+21:45:53.125 [SpawnSelection] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) spawned at <3258.810059, 20.430000, 6600.620117>
+21:46:02.812 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ummmm
+21:46:19.210 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): im dead of laughter right now
+21:46:26.835 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lol
+21:46:31.390 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3498.830566, 30.283484, 4839.188965>) as driver
+21:46:34.906 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3498.831299, 30.283474, 4839.190430>)
+21:46:37.218 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that was wild bro. 
+21:47:02.312 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): it was like a trampoline for cars
+21:47:41.250 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): waiting at your car and watching it for you
+21:47:54.539 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): gotta go get a raidiator real quick
+21:48:10.500 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): cheers, im in westbrook lol shouldnt be long
+21:49:11.921 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3932.804199, 25.063475, 4790.869629>)
+21:49:15.273 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3932.804199, 25.063484, 4790.869629>)
+21:51:06.445 [AI Patrol] Spawning 3 Shamans bots at <9103.839844, 5.130000, 8944.523438>
+21:51:37.054 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): put all the expensive gear in your car so it doesn't despawn
+21:51:38.242 [VehicleAttachments] Player David BlackBrid (uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) detached Car Radiator (type=CarRadiator) from vehicle SUV White (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3932.801270, 25.063465, 4790.869629>)
+21:51:49.625 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): whered you guys loot?
+21:51:57.890 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thank you! im 800 out
+21:52:16.375 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3934.917725, 25.059998, 4790.801758>) used the  ExpansionCarKey to lock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3932.801270, 25.063465, 4790.869629>)
+21:52:36.304 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): david hit up paris. goovis just logged and and his car is bouncing everywhere lol
+21:52:56.750 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): physics be damned
+21:53:45.375 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): do we have a sorce of watter near by if not ima grab the bird
+21:53:55.023 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): lake right here
+21:54:00.453 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): use the barrel in the back at the garden
+21:54:48.476 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): good thing we gonna be driveing lol
+21:55:05.734 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thanks. lets see if it goes over backwards
+21:55:19.382 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3934.208496, 25.059965, 4791.027344>) used the  ExpansionCarKey to unlock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3932.801270, 25.063465, 4790.869629>)
+21:55:34.070 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.220703, 30.341810, 4832.836914>) as driver
+21:55:38.328 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.220459, 30.341810, 4832.836914>)
+21:55:51.062 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): kickflip
+21:56:31.765 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): fucking gandolf is invisible on the bridgfe
+21:56:37.382 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you shall not pass!
+21:56:42.398 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): lol
+21:57:06.257 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3519.050293, 30.246582, 4826.427734>)
+21:57:13.367 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hmmmm
+21:57:28.250 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): LMAO
+21:57:39.468 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3932.800781, 25.063467, 4790.869629>) as driver
+21:57:43.578 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3932.800293, 25.063463, 4790.869629>)
+21:57:46.445 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): omw
+21:57:49.703 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3519.229004, 30.341812, 4827.364746>) as driver
+21:57:51.585 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3519.228760, 30.341812, 4827.365234>)
+21:58:16.945 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.362793, 30.341812, 4833.156738>)
+21:58:22.859 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.366699, 30.341810, 4833.156250>) as driver
+21:58:31.281 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.365967, 30.341812, 4833.155762>)
+21:58:40.203 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.367676, 30.341816, 4833.155273>) as driver
+21:58:42.265 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3521.369385, 30.341810, 4833.155762>)
+21:58:57.070 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lol
+21:59:00.890 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3541.594238, 30.283485, 4828.517578>)
+21:59:07.453 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3541.594482, 30.283472, 4828.519531>)
+21:59:16.726 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): HahahHAHhaHAhaHah
+21:59:18.257 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3523.821777, 30.341812, 4833.797363>)
+21:59:21.445 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): want me to try lol
+21:59:37.453 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3522.005371, 30.352987, 4833.066406>) used the  ExpansionCarKey to lock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3523.822754, 30.341810, 4833.797363>)
+21:59:38.390 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<3522.005371, 30.352987, 4833.066406>) used the  ExpansionCarKey to unlock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3523.822754, 30.341810, 4833.797363>)
+21:59:54.023 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3523.823730, 30.341812, 4833.797363>) as driver
+21:59:58.062 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3523.823486, 30.341810, 4833.797363>)
+22:00:04.421 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): THIS IS GREAT
+22:00:18.140 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): BLOOP
+22:00:30.226 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3522.433594, 31.823751, 4830.850586>)
+22:00:32.632 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3522.433594, 31.823767, 4830.850586>)
+22:00:58.695 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): just ram it lol
+22:01:20.406 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3522.433838, 30.341812, 4830.847168>) as driver
+22:01:26.460 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3522.433594, 30.341810, 4830.847168>)
+22:01:41.320 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3522.434082, 30.341814, 4830.847656>) as driver
+22:01:42.906 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3522.432617, 30.341810, 4830.845703>)
+22:01:49.257 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3541.594482, 30.283484, 4828.514160>) as driver
+22:01:53.171 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3526.376709, 30.341810, 4830.386719>)
+22:02:06.187 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3541.594482, 30.283468, 4828.516113>)
+22:03:03.046 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3522.548096, 30.341812, 4830.975586>) as driver
+22:03:14.703 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): im going to try in like 4th gear
+22:03:26.406 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): yall get stuck?
+22:03:36.968 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3562.535156, 30.283470, 4821.049805>)
+22:03:42.625 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3562.535400, 30.283464, 4821.049805>)
+22:03:53.328 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): NAILED IT!!
+22:03:53.992 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3562.535156, 30.283485, 4821.044434>) as driver
+22:03:55.484 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3562.535156, 30.283482, 4821.045410>)
+22:03:57.945 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lollll
+22:04:09.507 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3546.324463, 30.283482, 4826.886719>) as passenger
+22:04:31.460 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3473.832275, 9.885735, 4992.527832>)
+22:04:35.937 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hunting!
+22:04:42.539 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i got a biggin
+22:05:00.554 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you missed it all josh lol
+22:05:14.648 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3473.839600, 9.884776, 4992.534180>) as driver
+22:05:17.281 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3473.840088, 9.884774, 4992.534180>)
+22:05:17.398 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): whered yall loot?
+22:05:56.359 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): i think i fixed my microphone, thats what was taking os long
+22:08:25.093 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3221.729004, 20.433487, 6479.056152>)
+22:08:28.078 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3221.731689, 20.433466, 6479.056152>)
+22:08:36.593 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3221.728516, 20.433491, 6479.056152>)
+22:08:59.578 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3218.160156, 20.555134, 6513.753418>)
+22:09:18.445 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3221.727783, 20.433487, 6479.056152>) as driver
+22:09:19.429 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3218.170166, 20.548027, 6513.735352>) as passenger
+22:09:20.679 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3221.722412, 20.513245, 6479.052734>) as passenger
+22:09:22.796 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3221.691895, 20.433468, 6479.056641>)
+22:09:58.695 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you good goovis?
+22:10:46.015 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "The goovs" (id=35 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+22:10:54.289 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3451.458008, 24.509039, 6909.616211>)
+22:10:54.421 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3451.455811, 24.509169, 6909.617676>)
+22:10:57.359 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3451.456055, 24.509130, 6909.617188>)
+22:11:02.976 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3452.942139, 25.082983, 6918.575195>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.604492, 27.152945, 6919.885254>)
+22:11:25.703 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3453.555176, 25.075804, 6918.611816>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.586426, 25.217869, 6919.791504>)
+22:13:30.164 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "The goovs" (id=35 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+22:13:44.578 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3218.165771, 20.554565, 6513.737793>) as driver
+22:13:47.367 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3218.165039, 20.553825, 6513.738770>)
+22:13:54.585 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): score anything good?
+22:14:18.242 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): not realy but got the admin box
+22:14:18.421 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3230.698975, 20.418758, 6541.716309>)
+22:14:37.046 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): sounds fancy, whats the admin box?
+22:14:38.273 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3230.703125, 20.418758, 6541.713867>) as driver
+22:14:41.109 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<3230.702637, 20.418766, 6541.713867>)
+22:14:47.453 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8860.057617, 38.607231, 9951.096680>) uncovered vehicle "ToyotaHilux_kamo" (GlobalID=80000000800000008000000080012A42 pos=<8859.575195, 38.612034, 9955.176758>)!
+22:14:51.515 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): was a safe with loot in it
+22:14:58.734 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): nice
+22:15:58.023 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3450.236084, 25.350117, 6921.671875>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.586426, 25.217869, 6919.791504>)
+22:16:01.359 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thats how you rep point
+22:16:19.648 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.586426, 25.217863, 6919.791504>) as driver
+22:16:20.179 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3451.453613, 24.509174, 6909.617188>) as driver
+22:16:23.000 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3451.586426, 25.217871, 6919.791504>)
+22:16:28.359 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): im at 9k now
+22:16:50.234 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<3451.453857, 24.509159, 6909.617188>)
+22:16:50.320 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): dang you already got enough for most stuff lol
+22:16:56.875 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): GOING THIS WAY TO HOLLER GOOVIS
+22:17:40.460 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8859.578125, 38.612045, 9955.175781>) as driver
+22:17:43.359 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8859.578125, 38.612045, 9955.175781>)
+22:17:50.539 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8864.599609, 38.291271, 9941.739258>)
+22:18:39.703 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8864.601563, 38.291245, 9941.739258>) as driver
+22:18:42.390 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8864.600586, 38.291340, 9941.739258>)
+22:19:44.539 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): i spun out
+22:19:57.734 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): waiting
+22:20:48.710 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8338.542969, 5.134758, 9386.890625>)
+22:22:25.367 [Safezone] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5659.912598, 29.403503, 5518.191895>) Entered the safezone
+22:22:28.546 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5660.968262, 29.698503, 5530.301270>) Entered the safezone
+22:22:31.601 [Safezone] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5660.084961, 29.997078, 5528.074219>) Entered the safezone
+22:22:41.570 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750351, 5418.137207>)
+22:22:44.992 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750351, 5418.137207>)
+22:22:51.351 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5643.930664, 28.493050, 5425.813965>)
+22:22:52.679 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.841309, 28.636694, 5422.728516>)
+22:22:56.617 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.841797, 28.636713, 5422.728027>)
+22:22:59.726 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hahah
+22:23:15.023 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hAHAHAHAHAH
+22:23:40.703 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8338.541016, 5.134761, 9386.890625>) as driver
+22:23:42.546 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8338.541016, 5.134761, 9386.890625>)
+22:23:54.414 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell collectable_pokemoncard_caterpie x1 at the trader "Collectibles (Quinn [COLLECTIBLE TRADER])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:23:54.500 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold collectable_pokemoncard_caterpie x1 at the trader "Collectibles (Quinn [COLLECTIBLE TRADER])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1500.
+22:23:55.984 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell collectable_pokemoncard_shinymewtwo x1 at the trader "Collectibles (Quinn [COLLECTIBLE TRADER])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:23:56.062 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold collectable_pokemoncard_shinymewtwo x1 at the trader "Collectibles (Quinn [COLLECTIBLE TRADER])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1500.
+22:24:14.109 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell collectable_gameboy_tetris x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:14.148 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold collectable_gameboy_tetris x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 37500.
+22:24:16.109 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell collectable_ram x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:16.171 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold collectable_ram x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 24000.
+22:24:17.742 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell collectable_memorycard x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:17.789 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold collectable_memorycard x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 16875.
+22:24:19.718 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): josh come join the party at the holler lol
+22:24:19.812 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell collectable_ssd x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:19.890 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold collectable_ssd x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 13875.
+22:24:34.773 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell ak101 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:34.843 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold ak101 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1470.
+22:24:35.578 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:35.656 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1653.
+22:24:36.507 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell akm x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:36.609 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold akm x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1417.
+22:24:39.460 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell saiga x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:39.531 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold saiga x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 4218.
+22:24:50.242 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell pp19 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:50.320 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold pp19 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1074.
+22:24:50.781 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell vss x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:50.867 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold vss x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 8700.
+22:24:51.929 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell aks74u x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:24:52.000 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold aks74u x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 2161.
+22:24:55.593 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): sick!
+22:25:08.218 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell svd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:25:08.257 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold svd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 9000.
+22:25:09.921 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5661.528809, 28.855913, 5537.384766>) Left the safezone
+22:25:17.164 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5661.259766, 28.899639, 5525.710938>) Entered the safezone
+22:25:22.531 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell twp_mp7eagle x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:25:22.609 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold twp_mp7eagle x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 712.
+22:25:39.507 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell expansion_mp7 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:25:39.578 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold expansion_mp7 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 3177.
+22:25:57.484 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell rgd5grenade x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:25:57.546 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold rgd5grenade x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 168.
+22:26:00.062 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell expansionammolaw x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:26:00.148 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold expansionammolaw x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 300.
+22:26:09.453 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to sell twp_mjolnir x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:26:09.507 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has sold twp_mjolnir x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 7500.
+22:26:15.484 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle ToyotaHilux Camo (id=2BF162FA66432815499B98BA1394044C pos=<8862.863281, 37.227783, 9932.825195>)
+22:26:19.460 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5628.096680, 28.722498, 5416.023438>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750349, 5418.137207>)
+22:26:43.750 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase twp_ninjasword x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:26:43.875 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought twp_ninjasword x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 10000.
+22:27:40.679 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): beauty
+22:28:10.281 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): someone does lol.
+22:28:26.328 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): my place was 2 roofs, 6 walls, 2 doors im all set now
+22:28:36.679 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): nice. pox is sweet
+22:29:09.500 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i dont think so i still have one
+22:29:38.257 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): holy you never realise how long 400 rounds takes
+22:29:48.093 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): im putting a rock on my r key and getting a beert
+22:30:59.304 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase nvgoggles x1 from the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:30:59.375 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought nvgoggles x1 from the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 4000.
+22:31:36.812 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_gorkajacket x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:31:36.875 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_gorkajacket x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 800.
+22:32:41.492 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): josh did u still need that plug?
+22:32:59.812 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_gorkapants x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:32:59.898 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_gorkapants x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 2000.
+22:33:20.710 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): dude i had one the whole damn time, it was in a barrel in the back of my truck that wasnt open
+22:33:25.109 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): felt so dumb
+22:33:43.046 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lol
+22:33:46.890 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oof
+22:33:52.929 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'mback
+22:34:04.992 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase militaryboots_redpunk x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:34:05.054 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought militaryboots_redpunk x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 100.
+22:34:20.640 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 300 from his ATM account.
+22:34:25.781 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): im doing some building right now, idk if ill make it over there soon
+22:34:48.359 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammo_556x45 x100 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:34:48.476 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammo_556x45 x100 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 200.
+22:34:58.539 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase twp_ammo_50bmg x8 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:34:58.671 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought twp_ammo_50bmg x8 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 56.
+22:35:02.609 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ive got like 4 boxes of nails if your interested
+22:35:25.921 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): i got a base building drop last night before you got on 
+22:35:42.937 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): i should have plenty, use it on your community base
+22:36:04.679 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_warriorhelmet_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:36:04.757 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_warriorhelmet_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 980.
+22:36:08.054 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): ty tho
+22:36:17.453 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): sounds good
+22:36:45.031 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5630.698730, 28.722496, 5417.773926>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750349, 5418.137207>)
+22:36:54.914 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): building an elevated heli pad so my stuff doesnt get stolen
+22:37:02.078 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5630.423340, 28.722498, 5419.851563>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750349, 5418.137207>)
+22:37:05.250 [AI Patrol] Spawning 3 RCFI Patrol bots at <3736.066895, 10.557673, 8758.020508>
+22:37:14.187 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): shouldn't get stolen in pve
+22:37:24.179 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): weekend base raiding
+22:37:26.046 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5635.664063, 28.666220, 5422.324219>) used the  ExpansionCarKey to lock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.841309, 28.636692, 5422.728516>)
+22:37:47.031 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): doesn't work that way
+22:37:50.039 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i see a pistol on the ground no barrel
+22:37:53.164 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): ?
+22:37:55.484 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5635.916016, 28.672380, 5422.069824>) used the  ExpansionCarKey to unlock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.841309, 28.636692, 5422.728516>)
+22:37:55.507 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): doesnt?
+22:38:17.906 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5643.047363, 28.647295, 5423.097656>) Entered the safezone
+22:38:20.390 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): admins make bases in the pve area with the territory labeled as raidable base
+22:38:29.312 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): reloading again.
+22:38:34.585 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): oo hai blu
+22:38:39.812 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5646.045898, 28.791327, 5423.445313>) used the  ExpansionCarKey to lock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5643.930664, 28.492891, 5425.815918>)
+22:38:51.132 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): brb, reloading bullets and beer
+22:39:02.492 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): oh ok, lol thx for letting me know that, ive been marking every base i come across on the map as potential targets
+22:39:45.359 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): well now im building it for the cool factor
+22:42:29.500 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5646.770996, 28.638174, 5424.687500>) used the  ExpansionCarKey to unlock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5643.930664, 28.492891, 5425.815918>)
+22:44:20.812 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thats a good problem to have
+22:44:37.343 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5646.952148, 28.644108, 5424.635742>) used the  ExpansionCarKey to lock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5643.930664, 28.492891, 5425.815918>)
+22:44:52.562 [ATM] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has withdrawn 4636 from his ATM account.
+22:44:54.281 [ATM] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 7097 on his ATM account.
+22:45:20.750 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): big gun go brrrrrrrrrrrrrrt
+22:45:49.687 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): newp. closer to kmuc
+22:46:20.812 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): bye now big daddy
+22:46:44.398 [AI Patrol] Spawning 3 Prison Island Patrol bots at <5216.057617, 14.890000, 817.284851>
+22:46:49.703 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): pfffft yes
+22:46:54.859 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5629.918457, 26.483648, 687.647156>) Left the safezone
+22:46:55.187 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): and the 750 rd mag
+22:47:07.664 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): HAHAHAHAHAHAH i know, but ill take it
+22:47:16.640 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thats the one i use
+22:47:24.828 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): because big gun go brrrrrrrrrrrt
+22:47:49.070 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): just backback shoulder mount the gun from an A10
+22:48:02.359 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): vulcan cannons in cherno
+22:48:24.187 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): gotta believe in the heart of the cards
+22:49:02.453 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase expansiongunrack x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:49:02.539 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought expansiongunrack x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3500.
+22:49:03.976 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase expansiongunrack x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:49:04.046 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought expansiongunrack x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3500.
+22:50:34.328 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5630.102051, 28.722498, 5417.671387>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750349, 5418.137207>)
+22:50:35.265 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5647.041992, 28.594042, 5425.737793>) used the  ExpansionCarKey to unlock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5643.897949, 28.491863, 5425.824219>)
+22:50:55.507 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5643.896973, 28.491814, 5425.824219>) as driver
+22:50:57.195 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5643.896973, 28.491901, 5425.823242>)
+22:51:25.171 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5630.466309, 28.722498, 5419.812012>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750349, 5418.137207>)
+22:51:33.031 [VehicleAttachments] Player Josh (uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) detached Barrel (type=Barrel_Red) from vehicle ToyotaHilux Camo(id=2BF162FA66432815499B98BA1394044C pos=<8862.863281, 37.227116, 9932.822266>)
+22:51:35.937 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5645.324707, 28.553211, 5425.389160>)
+22:51:39.070 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5645.150391, 28.746992, 5424.070313>) used the  ExpansionCarKey to lock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5645.324707, 28.553286, 5425.388184>)
+22:51:41.906 [VehicleAttachments] Player Josh (uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) detached Barrel (type=Barrel_Green) from vehicle ToyotaHilux Camo(id=2BF162FA66432815499B98BA1394044C pos=<8862.863281, 37.227116, 9932.822266>)
+22:52:05.796 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase m4_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:52:05.843 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought m4_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 425.
+22:52:09.203 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase m4_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:52:09.296 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought m4_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 425.
+22:52:10.945 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8853.742188, 39.983944, 9997.968750>) uncovered vehicle "ExpansionMerlin" (GlobalID=80000000800000008000000080015BF3 pos=<8853.994141, 39.658138, 10004.576172>)!
+22:52:10.992 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ak_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:52:11.085 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ak_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 425.
+22:52:12.515 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ak_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:52:12.609 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ak_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 425.
+22:52:17.414 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8852.812500, 39.946156, 9999.537109>) used the  ExpansionCarKey to unlock ExpansionMerlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8853.994141, 39.658138, 10004.576172>)
+22:52:29.000 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8853.993164, 39.658108, 10004.577148>) as pilot
+22:52:39.867 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8853.991211, 39.657837, 10004.579102>)
+22:52:43.515 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5629.784668, 28.722466, 5417.275879>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750349, 5418.137207>)
+22:52:57.257 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750351, 5418.137207>) as driver
+22:53:00.289 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<5627.797852, 28.750351, 5418.137207>)
+22:53:36.132 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5742.354980, 21.266483, 5173.202637>) Left the safezone
+22:55:12.171 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase twp_ammo_20x76 x50 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:55:12.218 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought twp_ammo_20x76 x50 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 350.
+22:55:13.570 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5644.746094, 28.660395, 5423.458496>) used the  ExpansionCarKey to unlock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5645.276367, 28.551529, 5425.397461>)
+22:55:17.945 [VehicleEnter] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5645.275879, 28.551540, 5425.396484>) as driver
+22:55:19.671 [VehicleEngine] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5645.275879, 28.551449, 5425.398438>)
+22:55:37.453 [VehicleLeave] Player zXGoovis_AndachairXz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Camaro Black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5673.291016, 29.011770, 5496.458496>)
+22:56:08.515 [VehicleCarKey] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5676.060547, 29.955450, 5495.697266>) used the  ExpansionCarKey to lock Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5673.290527, 29.011755, 5496.459473>)
+22:56:13.953 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_rucksack_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:56:14.046 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_rucksack_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 9222.
+22:56:15.273 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory ff at <5567.205566, 34.840000, 612.396851>
+22:56:31.796 [VehicleDeleted] Chevrolet_Camaro_black (id=ADB59104674DA153498A83A5E3C261E4 pos=<5673.290527, 29.011755, 5496.459473>)
+22:56:31.796 [VehicleCover] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5674.451660, 29.324854, 5493.592773>) covered vehicle "Chevrolet_Camaro_black" (GlobalID=80000000800000008000000080017880 pos=<5673.290527, 29.011755, 5496.459473>)!
+22:56:42.093 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5563.022949, 34.852489, 617.641418>) used the Admin Hammer to build wood_base
+22:56:46.593 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5563.022949, 34.852489, 617.641418>) used the Admin Hammer to build wood_wallframe
+22:56:51.093 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5563.022949, 34.852489, 617.641418>) used the Admin Hammer to build wood_wallfinished
+22:57:06.562 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3970.692383, 24.894051, 4815.547363>)
+22:57:23.359 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3972.863281, 24.853649, 4814.158203>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3970.692383, 24.894054, 4815.547363>)
+22:57:27.148 [Safezone] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5582.824219, 28.065836, 5581.207031>) Left the safezone
+22:57:36.296 [VehicleDeleted] HAMMER_H1_black_rust (id=829276AE4143A6A8381EDEA1429635D1 pos=<3970.692383, 24.894054, 4815.547363>)
+22:57:36.296 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3972.474609, 24.853687, 4813.238770>) covered vehicle "HAMMER_H1_black_rust" (GlobalID=8000000080000000800000008001831F pos=<3970.692383, 24.894054, 4815.547363>)!
+22:58:03.445 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase sewingkit x10 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:58:03.492 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought sewingkit x10 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 950.
+22:58:22.953 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gas pumps are still smoking btw goovis lol
+22:58:29.250 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): lol
+22:58:49.132 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5566.223633, 34.852501, 617.416260>) used the Admin Hammer to build wood_base
+22:59:01.265 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5566.221680, 34.852497, 617.448059>) used the Admin Hammer to build wood_doorframe
+22:59:04.867 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5566.221680, 34.852497, 617.448059>) used the Admin Hammer to build wood_doorfinished
+22:59:07.757 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'm out. peace
+22:59:28.859 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8806.518555, 41.815895, 9971.211914>)
+22:59:35.734 [BaseRaiding] ExpansionWall6x3 (<5564.481934, 34.840000, 617.434570>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <5565.746094, 34.852463, 617.302063>) and the code is 1942
+22:59:42.296 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+23:00:28.546 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase leathersewingkit x9 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:00:28.632 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought leathersewingkit x9 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 990.
+23:00:44.437 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase epoxyputty x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:00:44.484 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought epoxyputty x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 15.
+23:00:44.898 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase epoxyputty x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:00:44.945 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought epoxyputty x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 15.
+23:01:01.195 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase expansiontoolbox x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:01:01.234 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought expansiontoolbox x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3500.
+23:01:04.289 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8806.484375, 41.816895, 9971.250977>) as pilot
+23:01:07.687 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8806.484375, 41.816895, 9971.250977>)
+23:02:04.507 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "The goovs" (id=35 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+23:02:14.132 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.347168, 35.184135, 640.624451>) used the Admin Hammer to build wood_base
+23:02:20.406 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.347168, 35.184135, 640.624451>) used the Admin Hammer to build wood_doorframe
+23:02:20.750 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8807.848633, 41.795753, 9969.133789>)
+23:02:25.601 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.347168, 35.184135, 640.624451>) used the Admin Hammer to build wood_doorfinished
+23:02:54.078 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_combat_vest_heavy_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:02:54.125 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_combat_vest_heavy_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 35000.
+23:03:40.750 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_magazine_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:03:40.851 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_magazine_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+23:03:47.468 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_medical_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:03:47.515 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_medical_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+23:03:56.117 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_admin_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:03:56.210 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_admin_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+23:04:03.867 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_utility_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:04:03.914 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_utility_pouch_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+23:04:06.882 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_heavy_pouch_od x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:04:06.984 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_heavy_pouch_od x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+23:04:13.875 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8807.850586, 41.795803, 9969.130859>) as pilot
+23:04:17.273 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8807.850586, 41.795807, 9969.130859>)
+23:05:01.226 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_holster_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:05:01.328 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_holster_erdl x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+23:06:48.234 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): anyone know how to flip a heli right side up again lol. i flipped it 
+23:07:35.093 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): need a wrench
+23:07:55.921 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): oh really thats it
+23:08:00.859 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ye
+23:08:04.109 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): and i just go up to it and use it?
+23:08:10.273 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8811.454102, 41.535015, 9964.599609>)
+23:08:17.710 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.084473, 35.184105, 643.304138>) used the Admin Hammer to build wood_base
+23:08:22.101 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8811.457031, 41.534721, 9964.597656>) as pilot
+23:08:26.273 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8811.461914, 41.534359, 9964.595703>)
+23:08:37.148 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.182129, 35.184101, 643.325867>) used the Admin Hammer to build wood_wallframe
+23:08:42.000 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8811.462891, 41.534168, 9964.595703>) as passenger
+23:08:42.210 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.182129, 35.184101, 643.325867>) used the Admin Hammer to build wood_wallfinished
+23:08:46.078 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8811.462891, 41.534168, 9964.595703>)
+23:09:04.984 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mvs_s10respirator_fs x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:09:05.039 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mvs_s10respirator_fs x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 35000.
+23:09:08.250 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8811.459961, 41.534496, 9964.596680>) as pilot
+23:09:09.648 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8811.459961, 41.534454, 9964.596680>)
+23:09:32.023 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.077148, 41.512085, 9964.647461>)
+23:09:35.835 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): do u need full nbc or is it just the mask on this server?
+23:09:39.953 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.089844, 41.509983, 9964.643555>) as pilot
+23:09:43.164 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.089844, 41.509953, 9964.643555>)
+23:09:53.718 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): havent gone in the toxic zones yet idk
+23:10:37.695 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.756836, 41.462505, 9964.272461>)
+23:10:55.351 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): anyway i could get a tp, im stuck inside the heli
+23:11:24.171 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.841797, 28.636705, 5422.729004>) as driver
+23:11:24.554 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): give me a min finishing something up
+23:11:26.468 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.841797, 28.636696, 5422.729004>)
+23:11:31.476 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): ty
+23:11:45.039 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.840332, 28.636610, 5422.730469>)
+23:11:58.281 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.329590, 35.188156, 650.135254>) used the Admin Hammer to build wood_base
+23:12:02.921 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.329590, 35.188156, 650.135254>) used the Admin Hammer to build wood_wallframe
+23:12:12.054 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5587.329590, 35.188156, 650.135254>) used the Admin Hammer to build wood_wallfinished
+23:12:22.031 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ammobox_308win_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:12:22.140 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ammobox_308win_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 320.
+23:13:00.851 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ammobox_9x19_25rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:13:00.898 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ammobox_9x19_25rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 400.
+23:13:02.460 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.664063, 41.515362, 9963.555664>) as pilot
+23:13:05.484 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.664063, 41.515324, 9963.555664>)
+23:13:14.312 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ammobox_556x45_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:13:14.406 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ammobox_556x45_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 320.
+23:13:25.382 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.664063, 41.515354, 9963.556641>) as passenger
+23:13:27.726 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ammobox_762x39_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:13:27.781 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ammobox_762x39_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 320.
+23:13:28.039 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.664063, 41.515358, 9963.556641>)
+23:13:38.570 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ammobox_762x54_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:13:38.625 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ammobox_762x54_20rnd x10 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 320.
+23:15:53.757 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase mag_akm_drum75rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:15:53.796 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought mag_akm_drum75rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 630.
+23:16:13.398 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase ak_railhndgrd x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:16:13.492 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought ak_railhndgrd x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 200.
+23:16:49.578 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has send a requested to purchase kobraoptic x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:16:49.671 [Market] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) has bought kobraoptic x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+23:16:50.867 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5585.068359, 35.184113, 649.847961>) used the Admin Hammer to build wood_base
+23:16:55.421 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5585.068359, 35.184113, 649.847961>) used the Admin Hammer to build wood_wallframe
+23:17:26.593 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5585.164551, 35.184105, 650.200684>) used the Admin Hammer to build wood_wallfinished
+23:18:34.242 [VehicleEnter] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] entered vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.840820, 28.636627, 5422.729980>) as driver
+23:18:38.671 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] started vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5632.842285, 28.636703, 5422.728516>)
+23:19:12.617 [Safezone] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5601.771973, 23.728046, 5641.663574>) Left the safezone
+23:20:27.078 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): hay blue am i good to leave my car out side of the trader if its coverd i have to log off for the night
+23:20:53.695 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): make sure its in the parking lot up on the south end.  And covered
+23:21:03.835 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): will do
+23:22:00.250 [Safezone] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5658.496094, 30.023968, 5518.459473>) Entered the safezone
+23:22:51.687 [Safezone] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5659.723145, 34.509563, 5241.171387>) Left the safezone
+23:22:52.820 [VehicleEngine] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] stopped vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5659.234863, 33.332741, 5241.204102>)
+23:22:56.296 [VehicleLeave] Player David BlackBrid [uid=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=] left vehicle SUV White  (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5659.231934, 33.332752, 5241.204102>)
+23:23:03.195 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5661.236816, 33.311939, 5242.875000>) used the  ExpansionCarKey to lock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5659.231934, 33.332752, 5241.204102>)
+23:23:13.000 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5661.277344, 33.312412, 5242.740234>) used the  ExpansionCarKey to unlock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5659.231934, 33.332752, 5241.204102>)
+23:23:26.906 [VehicleCarKey] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5661.158691, 33.301590, 5245.014648>) used the  ExpansionCarKey to lock SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5659.231934, 33.332752, 5241.204102>)
+23:23:39.859 [VehicleDeleted] SUV_white (id=B7733F8A854E2DAF2E257A8FBE6440A5 pos=<5659.231934, 33.332752, 5241.204102>)
+23:23:39.859 [VehicleCover] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= pos=<5661.234863, 33.296520, 5245.961426>) covered vehicle "SUV_white" (GlobalID=8000000080000000800000008000B494 pos=<5659.231934, 33.332752, 5241.204102>)!
+23:24:18.015 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): that doesnt seem quite right lol my suv looks like a sedan when coverd lol
+23:24:32.968 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): ya same with the pickup
+23:25:05.867 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8812.675781, 41.515244, 9963.553711>) as passenger
+23:25:12.781 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): allrighty boys im off for the night have a good night 
+23:25:47.937 [Party] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) left the party "David blackbird" (id=37 ownerUID=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= ownerName=David BlackBrid)
+23:25:52.992 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8837.915039, 44.846008, 9970.887695>) as pilot
+23:25:59.507 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8837.917969, 44.611507, 9970.919922>)
+23:27:33.687 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer
+23:33:30.453 [VehicleAttachments] Player Josh (uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) detached Barrel (type=Barrel_Yellow) from vehicle ToyotaHilux Camo(id=2BF162FA66432815499B98BA1394044C pos=<8862.863281, 37.227116, 9932.822266>)
+23:33:40.289 [VehicleAttachments] Player Josh (uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) detached Barrel (type=Barrel_Red) from vehicle ToyotaHilux Camo(id=2BF162FA66432815499B98BA1394044C pos=<8862.863281, 37.227116, 9932.822266>)
+23:36:09.023 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8841.551758, 44.837784, 9969.166992>) used the  ExpansionCarKey to lock ExpansionMerlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8837.917969, 44.611275, 9970.919922>)
+23:36:48.414 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8838.707031, 44.809433, 9968.495117>) used the  ExpansionCarKey to unlock ExpansionMerlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8837.917969, 44.611359, 9970.919922>)
+23:37:04.125 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8837.917969, 44.611370, 9970.919922>) as pilot
+23:37:19.210 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8837.917969, 44.611370, 9970.919922>)
+23:37:55.031 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] stopped vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8839.178711, 44.955814, 9967.770508>)
+23:38:00.414 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle Merlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8839.166016, 44.611362, 9967.797852>)
+23:38:27.656 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8836.461914, 44.829006, 9964.862305>) used the  ExpansionCarKey to lock ExpansionMerlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8839.165039, 44.611366, 9967.797852>)
+23:38:39.328 [VehicleDeleted] ExpansionMerlin (id=95F3C55F7743EB1EDF71239097A372E8 pos=<8839.165039, 44.611366, 9967.796875>)
+23:38:39.328 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8836.691406, 44.849461, 9965.098633>) covered vehicle "ExpansionMerlin" (GlobalID=80000000800000008000000080015BF3 pos=<8839.165039, 48.465439, 9967.796875>)!
+23:39:46.859 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8844.364258, 44.810112, 9965.964844>) uncovered vehicle "ExpansionMerlin" (GlobalID=80000000800000008000000080015BF3 pos=<8839.165039, 44.611366, 9967.796875>)!
+23:40:22.632 [VehicleDeleted] ExpansionMerlin (id=1B66CD9FCD4B85B3A73BC39DF4F06D28 pos=<8839.165039, 44.611366, 9967.796875>)
+23:40:22.632 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8842.943359, 44.810101, 9967.335938>) covered vehicle "ExpansionMerlin" (GlobalID=80000000800000008000000080015BF3 pos=<8839.165039, 48.465439, 9967.796875>)!
+23:41:59.117 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8862.950195, 37.544113, 9934.431641>) used the  ExpansionCarKey to lock ToyotaHilux_kamo (id=2BF162FA66432815499B98BA1394044C pos=<8862.863281, 37.227116, 9932.822266>)
+23:42:12.687 [VehicleDeleted] ToyotaHilux_kamo (id=2BF162FA66432815499B98BA1394044C pos=<8862.863281, 37.227116, 9932.822266>)
+23:42:12.687 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8864.458984, 37.746975, 9935.489258>) covered vehicle "ToyotaHilux_kamo" (GlobalID=80000000800000008000000080012A42 pos=<8862.863281, 37.227116, 9932.822266>)!

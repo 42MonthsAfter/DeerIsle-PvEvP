@@ -1,7 +1,0 @@
-09:27:32.695 [SpawnSelection] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) spawned at <5665.169922, 28.708799, 5392.490234>
-09:27:32.878 [Safezone] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<5665.169922, 28.708799, 5392.490234>) Entered the safezone
-09:29:43.507 [VehicleCarKey] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<5595.167480, 28.722498, 5361.239258>) paired a  ExpansionCarKey to OffroadHatchback_Blue (id=B1D1D5D0454C4F64403A689854E23276 pos=<5596.677246, 28.750702, 5360.986816>)
-09:29:46.179 [VehicleCarKey] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<5595.167480, 28.722498, 5361.239258>) used the  ExpansionCarKey to lock OffroadHatchback_Blue (id=B1D1D5D0454C4F64403A689854E23276 pos=<5596.677246, 28.750702, 5360.986816>)
-09:29:52.625 [VehicleDeleted] OffroadHatchback_Blue (id=E34625DA884FB8B2D36067ABB816C009 pos=<0.000717, 0.754533, 0.042504>)
-09:29:52.660 [VehicleDeleted] OffroadHatchback_Blue (id=B1D1D5D0454C4F64403A689854E23276 pos=<5596.677246, 28.750702, 5360.986816>)
-09:29:52.664 [VirtualGarage] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<5595.047363, 28.722498, 5358.759277>) stored a vehicle "OffroadHatchback_Blue" (GlobalID=80000000800000008000000080000684 pos=<5596.677246, 28.750702, 5360.986816>)

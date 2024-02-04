@@ -1,0 +1,18 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Fisher Camp Marina",
+    "Position": [
+        10319.2001953125,
+        1.4551899433135987,
+        5636.52099609375
+    ],
+    "Radius": 40.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "truckbattery": 1,
+        "expansionzodiacboat": 1,
+        "expansionutilityboat": 1,
+        "glowplug": 0
+    }
+}

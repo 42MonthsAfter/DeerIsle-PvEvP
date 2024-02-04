@@ -1,0 +1,191 @@
+07:08:14.902 [SpawnSelection] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) spawned at <5638.890137, 27.349701, 5438.060059>
+07:08:15.679 [Safezone] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<5638.890137, 27.349701, 5438.060059>) Entered the safezone
+07:15:12.722 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Basebuilding
+07:15:28.457 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+07:16:37.298 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) invited the player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=)to the party named DIEHARD
+07:16:42.505 [Party] Player "2mmDefeater" (id=byz_3YJNSRLRQHzo02MvMn9U3M3DtAdZqM4na6qJVfU=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+07:16:42.607 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+07:16:49.332 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+07:17:39.261 [Safezone] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<5645.345215, 28.722496, 5406.183594>) Entered the safezone
+07:18:15.009 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) invited the player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)to the party named DIEHARD
+07:18:24.224 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+07:21:21.818 [Safezone] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<5712.473145, 39.356426, 5560.217773>) Left the safezone
+07:21:27.742 [Safezone] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<5711.172852, 38.210327, 5558.502441>) Left the safezone
+07:27:51.992 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): any admins on?
+07:35:04.027 [VehicleDeleted] Expansion_Landrover_Red (id=5691AD82C04EDC80AE3625A36898B3E4 pos=<0.003483, 1.001840, 0.340070>)
+07:35:04.070 [VirtualGarage] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7443.676758, 7.630564, 8430.810547>) retrieved a vehicle "Expansion_Landrover_Red" (GlobalID=800000008000000080000000800127B1 pos=<7442.750000, 6.797234, 8435.400391>)
+07:35:25.175 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7444.583984, 6.775768, 8435.763672>) used the  ExpansionCarKey to unlock Expansion_Landrover_Red (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7442.745605, 6.794640, 8435.430664>)
+07:35:28.390 [AI Patrol] Spawning 3 Temple Patrol bots at <325.107727, 48.364700, 689.172852>
+07:35:28.484 [AI Patrol] Spawning 3 Temple Patrol bots at <301.067871, 45.514118, 777.564026>
+07:35:28.496 [AI Patrol] Spawning 3 Temple Patrol bots at <460.907837, 55.318100, 787.664001>
+07:35:30.083 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7442.745605, 6.794641, 8435.430664>) as driver
+07:35:38.644 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7442.746094, 6.794639, 8435.430664>)
+07:36:03.537 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7440.789551, 6.618494, 8446.664063>)
+07:36:11.927 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7440.789551, 6.618497, 8446.664063>) as driver
+07:36:18.832 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7440.789551, 6.618497, 8446.664063>)
+07:37:56.308 [AI Patrol] Spawning 1 Shamans bots at <6263.754883, 13.437272, 8315.658203>
+07:41:19.777 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4661.727539, 20.430000, 7167.090820>
+07:44:23.837 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6664.254883, 15.058497, 6284.699219>)
+07:44:40.675 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6664.254395, 15.058497, 6284.699219>)
+07:45:07.642 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6640.495117, 15.058496, 6318.009766>)
+07:45:30.691 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6640.495117, 15.058498, 6318.009766>)
+07:46:10.132 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6625.738770, 15.058499, 6347.146484>)
+07:50:20.962 [VehicleEnter] Player TomInTheNorth [uid=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6625.738770, 15.058499, 6347.146484>) as passenger
+07:50:23.587 [VehicleEnter] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6625.738281, 15.058499, 6347.146484>) as passenger
+07:50:27.771 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<6625.738770, 15.058498, 6347.146484>)
+07:52:37.505 [VehicleLeave] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5260.036621, 15.634213, 7092.406738>)
+07:52:40.894 [VehicleLeave] Player TomInTheNorth [uid=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5260.036621, 15.634203, 7092.406250>)
+07:52:42.375 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5260.036621, 15.634212, 7092.406250>)
+07:52:46.837 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5260.036621, 15.634207, 7092.406250>)
+07:55:57.039 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<5263.172852, 15.913061, 7093.607422>) used the  ExpansionCarKey to lock Expansion_Landrover_Red (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5260.036621, 15.634210, 7092.406250>)
+07:57:31.820 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5260.036621, 15.634207, 7092.406250>) as driver
+08:05:52.494 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5260.036621, 15.634168, 7092.405762>)
+08:10:02.109 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<4819.340820, 17.710842, 7573.166504>)
+08:16:53.207 [AI Patrol] Spawning 1 Shamans bots at <5366.006836, 22.329212, 7983.259277>
+08:19:16.878 [Killfeed] tearsofdawn1066 got killed by Power Plant Patrol with KA-M from a distance of 20 m.
+08:19:18.812 [Killfeed] TomInTheNorth got killed by Power Plant Patrol with KA-M from a distance of 3 m.
+08:19:48.976 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:19:51.988 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:20:16.089 [SpawnSelection] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) spawned at <8330.190430, 5.130000, 9320.299805>
+08:20:25.335 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<4819.340332, 17.710863, 7573.166016>)
+08:20:47.734 [SpawnSelection] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) spawned at <8330.190430, 5.130000, 9320.299805>
+08:26:09.988 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:26:22.636 [VehicleEnter] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<8322.961914, 5.098498, 9063.963867>) as passenger
+08:28:38.107 [VehicleLeave] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7569.052734, 3.683711, 8766.744141>)
+08:28:50.261 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7569.052734, 3.683710, 8766.744141>)
+08:29:28.812 [VehicleEnter] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7569.052734, 3.683711, 8766.744141>) as passenger
+08:29:45.574 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7569.052734, 3.683714, 8766.744141>)
+08:33:07.830 [VehicleLeave] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5162.477539, 10.167920, 7478.486328>)
+08:33:20.933 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5162.477539, 10.167942, 7478.486328>)
+08:35:10.451 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5162.477539, 10.167938, 7478.485840>)
+08:35:14.929 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5162.477539, 10.167938, 7478.485840>) as driver
+08:36:01.550 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5162.477539, 10.167943, 7478.486328>)
+08:36:27.763 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5161.520508, 10.234015, 7479.485352>)
+08:43:32.130 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (Locked) (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<5161.520020, 10.234042, 7479.485352>)
+08:49:10.804 [VehicleEnter] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] entered vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<4323.463867, 37.956070, 7431.796387>) as passenger
+08:54:55.679 [VehicleLeave] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7440.703125, 6.618505, 8449.478516>)
+08:55:13.386 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7442.433105, 6.802337, 8435.310547>)
+08:55:30.734 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Land Rover Defender (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7442.433105, 6.802337, 8435.310547>)
+08:55:55.220 [VehicleDeleted] Expansion_Landrover_Red (id=21C13C4C504C4981FE5DF3B1C4EDB5D7 pos=<7442.433105, 6.802335, 8435.309570>)
+08:55:55.222 [VehicleCover] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7444.670410, 6.775796, 8434.956055>) covered vehicle "Expansion_Landrover_Red" (GlobalID=800000008000000080000000800127B1 pos=<7442.433105, 6.802335, 8435.309570>)!
+08:56:33.542 [VehicleCover] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<7440.905762, 6.898054, 8435.184570>) uncovered vehicle "Expansion_Landrover_Red" (GlobalID=800000008000000080000000800127B1 pos=<7442.433105, 6.802335, 8435.309570>)!
+08:56:47.464 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7441.982910, 6.775834, 8438.490234>) used the  ExpansionCarKey to unlock Expansion_Landrover_Red (id=9F8A0486FC4337A7127C08BFC11EE765 pos=<7442.429688, 6.799641, 8435.339844>)
+08:57:58.632 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7442.564453, 6.775837, 8438.306641>) used the  ExpansionCarKey to lock Expansion_Landrover_Red (id=9F8A0486FC4337A7127C08BFC11EE765 pos=<7442.429688, 6.799641, 8435.339844>)
+08:58:07.804 [VehicleDeleted] Expansion_Landrover_Red (id=9F8A0486FC4337A7127C08BFC11EE765 pos=<7442.429688, 6.799641, 8435.339844>)
+08:58:07.806 [VehicleCover] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<7444.712402, 6.775769, 8435.697266>) covered vehicle "Expansion_Landrover_Red" (GlobalID=800000008000000080000000800127B1 pos=<7442.429688, 6.799641, 8435.339844>)!
+09:01:52.843 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:02:02.234 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:05:09.113 [Safezone] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5646.644531, 28.959063, 5329.664063>) Entered the safezone
+09:05:45.826 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase twp_ammo_44mag x100 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+09:05:45.863 [Market] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought twp_ammo_44mag x100 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 700.
+09:07:13.828 [Safezone] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<8228.729492, 162.199692, 10715.106445>) Left the safezone
+09:20:40.429 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5633.790527, 32.408176, 5398.040039>) Entered the safezone
+09:21:31.523 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<366.886688, 78.380974, 792.083618>) Left the safezone
+09:22:45.738 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3067.871582, 22.044495, 3863.135498>
+09:22:45.753 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3002.457275, 23.647123, 3435.203613>
+09:30:53.500 [AI Patrol] Spawning 2 Shamans bots at <15748.389648, 39.740067, 4631.642578>
+09:43:42.085 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<45309d90> at <15849.9, 19.54, 4777.44> EXPLOSION range 12 dropoff 3
+09:43:53.347 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<453024f0> at <15848.1, 19.9, 4782.09> EXPLOSION range 12 dropoff 3
+09:44:09.945 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<452ff4b0> at <15847.8, 19.96, 4783.15> EXPLOSION range 12 dropoff 3
+09:44:20.339 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<453018e0> at <15847.8, 20.1, 4784.48> EXPLOSION range 12 dropoff 3
+09:46:14.328 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5649.544922, 29.502888, 5404.609863>) Entered the safezone
+09:48:01.101 [AI Patrol] Spawning 3 Shamans bots at <14503.064453, 83.225288, 3013.098633>
+09:48:01.113 [AI Patrol] Spawning 3 Crater Patrol bots at <14127.361328, 136.377731, 2589.711182>
+10:13:17.460 [VehicleEnter] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] entered vehicle MUSTANG Red (id=9EC2B5147E446A0EC7A00FAD8BACFC01 pos=<6094.286621, 5.939740, 14540.735352>) as driver
+10:13:19.457 [VehicleEngine] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] started vehicle MUSTANG Red (id=9EC2B5147E446A0EC7A00FAD8BACFC01 pos=<6094.286133, 5.939741, 14540.735352>)
+10:13:37.007 [VehicleLeave] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] left vehicle MUSTANG Red (id=9EC2B5147E446A0EC7A00FAD8BACFC01 pos=<6097.797363, 6.137359, 14527.274414>)
+10:13:37.519 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:13:58.609 [VehicleCarKey] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6096.519531, 6.077518, 14525.301758>) paired a  ExpansionCarKey to MUSTANG_red (id=9EC2B5147E446A0EC7A00FAD8BACFC01 pos=<6097.797363, 6.137359, 14527.274414>)
+10:14:00.039 [VehicleCarKey] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6096.519531, 6.077518, 14525.301758>) used the  ExpansionCarKey to lock MUSTANG_red (id=9EC2B5147E446A0EC7A00FAD8BACFC01 pos=<6097.797363, 6.137359, 14527.274414>)
+10:19:06.242 [VehicleDeleted] ToyotaHilux_rust (id=D0BDD6DEB64630CCFABD1BA86291A6EA pos=<4439.118652, 5.017657, 12402.754883>)
+10:19:06.242 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4439.643555, 5.028288, 12400.408203>) covered vehicle "ToyotaHilux_rust" (GlobalID=8000000080000000800000008000F3FC pos=<4439.118652, 5.017657, 12402.754883>)!
+10:20:46.203 [VehicleDeleted] ToyotaHilux_kamo (id=771AFC81F8429243061907AD729E8F36 pos=<8859.392578, 38.612061, 9955.146484>)
+10:20:46.203 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<8861.510742, 38.607292, 9954.179688>) covered vehicle "ToyotaHilux_kamo" (GlobalID=80000000800000008000000080012A42 pos=<8859.392578, 38.612061, 9955.146484>)!
+10:21:36.222 [VehicleDeleted] BMW_X5 (id=6927BFFBE642903408B7FDBEEC8A181E pos=<5386.697266, 66.479988, 1586.498901>)
+10:21:36.222 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5384.603027, 66.492538, 1584.578125>) covered vehicle "BMW_X5" (GlobalID=80000000800000008000000080004F5A pos=<5386.697266, 66.479988, 1586.498901>)!
+10:23:07.535 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5625.770508, 28.709999, 5407.215820>) Entered the safezone
+10:41:42.449 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:42:59.988 [Territory] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) created territory DIE HARD at <7445.399414, 7.764398, 8428.879883>
+10:43:41.289 [Territory] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<7446.998047, 7.995571, 8428.413086>) was invited to join the territory DIE HARD at <7445.399414, 7.764398, 8428.879883> by the player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)
+10:45:20.859 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Medical
+10:46:49.625 [VehicleCover] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7443.860840, 6.775771, 8435.662109>) uncovered vehicle "Expansion_Landrover_Red" (GlobalID=800000008000000080000000800127B1 pos=<7442.429688, 6.799641, 8435.339844>)!
+10:47:53.367 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7441.952148, 6.775834, 8438.425781>) used the  ExpansionCarKey to unlock Expansion_Landrover_Red (id=AE83C52E804D1BA5C74CA9B18B305DAA pos=<7442.426270, 6.797032, 8435.370117>)
+10:54:29.226 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7443.160645, 6.775841, 8438.595703>) used the  ExpansionCarKey to lock Expansion_Landrover_Red (id=AE83C52E804D1BA5C74CA9B18B305DAA pos=<7442.426270, 6.797032, 8435.370117>)
+10:54:42.648 [VehicleDeleted] Expansion_Landrover_Red (id=AE83C52E804D1BA5C74CA9B18B305DAA pos=<7442.426270, 6.797032, 8435.370117>)
+10:54:42.648 [VehicleCover] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<7443.160645, 6.775841, 8438.595703>) covered vehicle "Expansion_Landrover_Red" (GlobalID=800000008000000080000000800127B1 pos=<7442.426270, 6.797032, 8435.370117>)!
+10:56:33.546 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:03:51.941 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6061.264648, 5.892486, 14577.963867>) Left the safezone
+11:05:06.046 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:05:29.105 [Chat - Global]("brailsford40"(id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)): hello all
+11:05:53.968 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): aloha! welcome
+11:10:51.941 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:19:29.304 [AI Patrol] Spawning 3 KMUC Patrol bots at <7198.673828, 619.724121, 11874.498047>
+11:19:45.000 [AI Patrol] Spawning 3 KMUC Patrol bots at <7026.602539, 602.331787, 11667.577148>
+11:19:55.949 [AI Patrol] Spawning 3 KMUC Patrol bots at <7073.752441, 601.575623, 11653.121094>
+11:20:04.335 [AI Patrol] Spawning 3 KMUC Patrol bots at <7228.851563, 503.877014, 11692.186523>
+11:20:16.304 [AI Patrol] Spawning 3 KMUC Patrol bots at <7148.337891, 537.715027, 11576.428711>
+11:21:51.425 [AI Patrol] Spawning 3 KMUC Patrol bots at <7169.613770, 223.470657, 11572.406250>
+11:24:56.078 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5731.174316, 44.119175, 5298.446777>) Entered the safezone
+11:29:37.601 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell pelt_whitestag x1 at the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:29:37.726 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold pelt_whitestag x1 at the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 7125.
+11:31:04.164 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 272869 from his ATM account.
+11:31:39.753 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase twp_ammo_50bmg x100 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:31:39.828 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought twp_ammo_50bmg x100 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 700.
+11:33:15.453 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5637.672852, 28.709999, 5409.080078>) Entered the safezone
+11:34:05.929 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase expansioncarkey x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:34:05.996 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought expansioncarkey x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 500.
+11:34:12.757 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5659.078125, 28.697496, 5542.737793>) Left the safezone
+11:34:21.796 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5660.354980, 28.810204, 5530.254883>) Entered the safezone
+11:34:31.636 [Party] Player "O.G.Creepy" (id=UMuBU_ydz3g9LYk8SHEY_KdMobnvuCUaSgsxOZc22UI=) joinded the party "Old Fat Basterds" (id=34 ownerUID=UMuBU_ydz3g9LYk8SHEY_KdMobnvuCUaSgsxOZc22UI= ownerName=O.G.Creepy)
+11:35:32.523 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase azlk_rust x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:35:32.656 [VehicleDeleted] AZLK_rust (id=962081E2DB47FB147C69EB89A06A4E81 pos=<0.002641, 0.486728, -0.310961>)
+11:35:32.664 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought azlk_rust x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 39300.
+11:36:26.140 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): who ios having the party at the holler? lol
+11:36:45.531 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell azlk_rust x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:36:45.632 [VehicleDeleted] AZLK_rust (id=E23CF12D614EC5E32A7D659A4181DE29 pos=<5601.250000, 28.587605, 5357.652832>)
+11:36:45.636 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold azlk_rust x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 29472.
+11:37:52.234 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5647.364258, 28.180285, 5551.138184>) Left the safezone
+11:38:09.425 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase azlk_rust x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:38:09.503 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought azlk_rust x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 39300.
+11:38:26.367 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5601.856445, 28.722494, 5358.632813>) used the  ExpansionCarKey to unlock AZLK_rust (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5601.250000, 28.587700, 5357.652344>)
+11:38:52.300 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5601.250000, 28.587702, 5357.652344>) as driver
+11:39:01.234 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5601.250000, 28.587702, 5357.652344>)
+11:40:09.089 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): bought a car and it has no tires?
+11:40:31.523 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): one sec, on my way
+11:40:56.031 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5613.302734, 28.723515, 5353.927734>) Entered the safezone
+11:41:53.816 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ty!
+11:42:33.570 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5601.254883, 28.695066, 5357.628418>) as driver
+11:42:36.515 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5601.254883, 28.695057, 5357.628418>)
+11:43:05.941 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5629.896973, 28.695051, 5412.969238>)
+11:43:10.769 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5628.147949, 28.722498, 5413.547363>) used the  ExpansionCarKey to lock AZLK_rust (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5629.896973, 28.695055, 5412.968750>)
+11:43:31.273 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase mvs_rucksack_od x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:43:31.367 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought mvs_rucksack_od x1 from the trader "Clothing_Accessories (Elias [CLOTHING & ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 9222.
+11:43:39.636 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5627.838867, 28.722498, 5410.939941>) used the  ExpansionCarKey to unlock AZLK_rust (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5629.896973, 28.695055, 5412.968750>)
+11:44:20.140 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5628.436523, 28.722498, 5413.621094>) used the  ExpansionCarKey to lock AZLK_rust (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5629.896973, 28.695055, 5412.968750>)
+11:45:31.093 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5628.797363, 28.722490, 5414.524902>) used the  ExpansionCarKey to unlock AZLK_rust (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5629.896973, 28.695055, 5412.968750>)
+11:45:38.941 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5629.896973, 28.695055, 5412.969238>) as driver
+11:45:43.851 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5629.897461, 28.695103, 5412.969727>)
+11:46:46.671 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5685.690430, 33.180302, 5249.390137>) Left the safezone
+11:46:57.570 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): this parking meter ready to be used?
+11:47:02.812 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5687.900391, 32.476662, 5245.836426>)
+11:47:07.070 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle MOSKVICH 2140 (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5687.901367, 32.477505, 5245.834473>)
+11:47:18.843 [VehicleDeleted] AZLK_rust (id=D432C2A0BE408225D5A049B0DEB89F3D pos=<0.002641, 0.486728, -0.310961>)
+11:47:18.859 [VehicleDeleted] AZLK_rust (id=0418CE4BCE4F203CE8E13DBE6CD13E17 pos=<5687.901367, 32.477535, 5245.834473>)
+11:47:18.859 [VirtualGarage] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5691.956543, 32.343937, 5249.964844>) stored a vehicle "AZLK_rust" (GlobalID=800000008000000080000000800131FA pos=<5687.901367, 32.477535, 5245.834473>)
+11:47:24.539 [VirtualGarage] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5692.637695, 32.311893, 5249.894043>) retrieved a vehicle "AZLK_rust" (GlobalID=800000008000000080000000800131FA pos=<5687.901367, 32.477535, 5245.834473>)
+11:47:36.796 [VehicleDeleted] AZLK_rust (id=9D4F95DB3144F3C3487C30BAC5350C8F pos=<5687.903809, 32.477364, 5245.833984>)
+11:47:36.796 [VirtualGarage] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5693.104980, 32.287083, 5249.731445>) stored a vehicle "AZLK_rust" (GlobalID=800000008000000080000000800131FA pos=<5687.903809, 32.477364, 5245.833984>)
+11:47:45.628 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5669.575684, 32.448383, 5260.630859>) Entered the safezone
+11:48:25.640 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 220744 on his ATM account.
+11:48:50.695 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 220744 from his ATM account.
+11:49:24.093 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase twp_cosmetic_dogtag x1 from the trader "Collectibles (Quinn [COLLECTIBLE TRADER])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:49:24.226 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought twp_cosmetic_dogtag x1 from the trader "Collectibles (Quinn [COLLECTIBLE TRADER])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 35000.
+11:49:55.398 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 185744 on his ATM account.
+11:51:38.679 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): FEED THE CHICKEN
+11:51:52.496 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): HE LIKES THE SPICY SAND
+11:51:56.507 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lmao
+11:54:29.226 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:58:35.726 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): restart coming! stop driving/flying :)
+11:59:14.765 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:59:14.765 [Party] Player "O.G.Creepy" (id=UMuBU_ydz3g9LYk8SHEY_KdMobnvuCUaSgsxOZc22UI=) left the party "Old Fat Basterds" (id=34 ownerUID=UMuBU_ydz3g9LYk8SHEY_KdMobnvuCUaSgsxOZc22UI= ownerName=O.G.Creepy)
+11:59:14.769 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

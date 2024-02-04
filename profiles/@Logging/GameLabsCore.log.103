@@ -1,0 +1,42 @@
+************************** 2024-01-25T11:00:24+00:00 **************************
+2024-01-25T11:00:24+00:00 | [INFO	] GameLabs v1.920 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-01-25T11:00:33+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-01-25T11:00:33+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-01-25T11:00:33+00:00 | [INFO	] Experimental speed check is enabled
+2024-01-25T12:00:34+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-25T12:00:34+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-25T12:00:34+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-25T13:00:39+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-25T13:00:39+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-25T13:00:40+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-25T14:00:44+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-25T14:00:44+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-25T14:00:45+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-25T14:21:14+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-25T14:21:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-25T14:21:14+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=1627.33u, unitsPerSecond=650.932 [threshold=8, inVehicle=0, triggers=1])
+2024-01-25T14:21:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-25T14:21:14+00:00 | [WARN	] ****************************************
+2024-01-25T14:23:11+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-25T14:23:11+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-25T14:23:11+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=1595.98u, unitsPerSecond=638.391 [threshold=8, inVehicle=0, triggers=2])
+2024-01-25T14:23:11+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-25T14:23:11+00:00 | [WARN	] ****************************************
+2024-01-25T14:27:34+00:00 | [WARN	] [Teleport] SurvivorBase<9a629020> position=0x000000004d9b8c70 {<10455.7,3.0164,5622.02>}
+2024-01-25T14:30:24+00:00 | [WARN	] [Spawn] Spawning GlowPlug (x1) for SurvivorBase<9a629020>
+2024-01-25T14:35:09+00:00 | [WARN	] [Vehicle-Delete] ExpansionZodiacBoat<75ad8990>
+2024-01-25T14:35:35+00:00 | [WARN	] [Spawn] Spawning ExpansionZodiacBoat (x1) at 0x000000004f9de6f8 {<10353.8,-10.2095,5696.98>}
+2024-01-25T14:37:25+00:00 | [WARN	] [Spawn] Spawning ExpansionBanknoteHryvnia (x5000) for SurvivorBase<9a629020>
+2024-01-25T14:38:19+00:00 | [WARN	] [Spawn] Spawning ExpansionBanknoteHryvnia (x50000) for SurvivorBase<9a629020>
+2024-01-25T15:00:15+00:00 | [WARN	] [Teleport] SurvivorBase<9a629020> position=0x000000004d9b8c70 {<9398.01,2.38579,5787.84>}
+2024-01-25T15:00:25+00:00 | [WARN	] [Teleport] SurvivorBase<9a629020> position=0x000000004d9b8c70 {<9431.01,2.30248,5798.83>}
+2024-01-25T15:00:35+00:00 | [WARN	] [Teleport] SurvivorBase<9a629020> position=0x000000004d9b8c70 {<9437.01,14.4595,5783.84>}
+2024-01-25T15:00:50+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-25T15:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-25T15:00:50+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-25T15:45:05+00:00 | [WARN	] [Spawn] Spawning Megaphone (x1) for SurvivorBase<9a629020>
+2024-01-25T16:00:55+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-25T16:00:55+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-25T16:00:55+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-25T17:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-01-25T17:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

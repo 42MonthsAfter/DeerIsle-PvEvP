@@ -1,0 +1,32 @@
+12:00:43.722 [VehicleDeleted] MotorHome_rust (id=4E88BF2082487647C7D91BA585D9FC18 pos=<0.017024, 0.515875, 0.809919>)
+12:00:43.730 [VehicleDeleted] ExpansionMh6_Vrana (id=90C22C72E442F16E35D7778B6F99D452 pos=<0.000861, 1.692845, 0.535123>)
+12:01:25.140 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5645.389160, 28.722498, 5404.881836>) Entered the safezone
+12:01:25.140 [Party] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+12:04:26.714 [Market] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) has send a requested to purchase canopener x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:04:26.820 [Market] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) has bought canopener x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 10.
+12:04:39.527 [Market] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) has send a requested to purchase sewingkit x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:04:39.648 [Market] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) has bought sewingkit x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 95.
+12:04:41.164 [Market] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) has send a requested to purchase leathersewingkit x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:04:41.320 [Market] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) has bought leathersewingkit x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 110.
+12:05:35.460 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5626.626465, 27.926600, 5575.065430>) Left the safezone
+12:06:52.804 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5653.218750, 28.824293, 5531.710449>) Entered the safezone
+12:07:06.730 [VehicleDeleted] NivaPickup_kamo (id=D2112D73984BE50C313AB8A7D5B330EF pos=<0.002744, 0.641527, -0.244915>)
+12:07:06.761 [VirtualGarage] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5646.593262, 28.207659, 5549.158203>) retrieved a vehicle "NivaPickup_kamo" (GlobalID=80000000800000008000000080004F77 pos=<5654.325195, 28.527946, 5551.319336>)
+12:07:09.312 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5647.235352, 28.211143, 5549.494141>) Left the safezone
+12:07:22.714 [VehicleDeleted] NivaPickup_kamo (id=E1924F05AA443315EADC9A88A0DBAF29 pos=<5654.326660, 28.527990, 5551.317383>)
+12:07:22.718 [VirtualGarage] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5646.064453, 28.198158, 5549.171875>) stored a vehicle "NivaPickup_kamo" (GlobalID=80000000800000008000000080004F77 pos=<5654.326660, 28.527990, 5551.317383>)
+12:07:28.304 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5656.815918, 28.795654, 5528.094727>) Entered the safezone
+12:08:28.878 [VehicleDeleted] MotorHome_rust (id=EAA310258440F7F2E5CE30B2AD18399A pos=<0.017024, 0.515875, 0.809919>)
+12:08:28.882 [VirtualGarage] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5693.409668, 32.270851, 5249.624512>) retrieved a vehicle "MotorHome_rust" (GlobalID=80000000800000008000000080013E5C pos=<5671.830566, 33.455601, 5241.597656>)
+12:08:30.488 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5692.853027, 32.277855, 5248.682129>) Left the safezone
+12:08:41.085 [AI Patrol] Spawning 3 Temple Patrol bots at <332.686432, 48.908298, 567.935059>
+12:08:41.183 [AI Patrol] Spawning 3 Temple Patrol bots at <439.211823, 55.318100, 741.147400>
+12:08:41.191 [AI Patrol] Spawning 3 Temple Patrol bots at <313.111328, 47.070000, 876.741760>
+12:08:42.789 [VehicleEnter] Player Condom Breath [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=F72A3CEB8C47F25D73087CB4265C1B0B pos=<5671.830566, 33.455578, 5241.600098>) as driver
+12:08:45.414 [VehicleEngine] Player Condom Breath [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=F72A3CEB8C47F25D73087CB4265C1B0B pos=<5671.830078, 33.455582, 5241.600098>)
+12:09:02.476 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5669.112305, 33.773941, 5264.327637>) Entered the safezone
+12:09:41.554 [Safezone] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5611.989746, 17.428982, 5685.232422>) Left the safezone
+12:11:01.742 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4595.690430, 20.430000, 7049.080078>
+12:11:54.117 [VehicleEngine] Player Condom Breath [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] stopped vehicle MotorHome rust (id=F72A3CEB8C47F25D73087CB4265C1B0B pos=<4560.772949, 8.286445, 6317.669922>)
+12:11:57.625 [VehicleLeave] Player Condom Breath [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=F72A3CEB8C47F25D73087CB4265C1B0B pos=<4560.772949, 8.286445, 6317.669922>)
+12:13:15.593 [Party] Player "Condom Breath" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)

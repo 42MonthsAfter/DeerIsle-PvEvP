@@ -1,0 +1,252 @@
+18:02:27.320 [Safezone] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5599.325684, 30.356396, 5359.590332>) Entered the safezone
+18:02:39.617 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5599.298828, 28.722498, 5362.077637>) used the  ExpansionCarKey to unlock Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5597.925781, 28.791945, 5360.424316>)
+18:02:46.738 [AI Patrol] Spawning 3 Temple Patrol bots at <423.821167, 48.908298, 659.304077>
+18:02:46.835 [AI Patrol] Spawning 3 Temple Patrol bots at <436.497406, 47.010803, 817.681152>
+18:02:46.851 [AI Patrol] Spawning 3 Temple Patrol bots at <299.365845, 54.383801, 926.310547>
+18:02:48.460 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5597.927246, 28.791943, 5360.425781>) as driver
+18:02:51.101 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5597.926758, 28.791941, 5360.425293>)
+18:03:20.722 [Safezone] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5797.392090, 27.670727, 5198.540527>) Left the safezone
+18:06:22.960 [AI Patrol] Spawning 2 Shamans bots at <6977.104004, 68.033623, 3493.687012>
+18:07:17.242 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8839.299805, 47.350616, 3873.143066>
+18:08:40.062 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9547.817383, 30.676865, 4110.058594>)
+18:08:53.996 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9547.817383, 30.676846, 4110.058594>) as driver
+18:09:41.710 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9841.752930, 8.898774, 4468.836914>)
+18:09:46.960 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9841.752930, 8.898754, 4468.835938>)
+18:09:55.937 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<9840.363281, 8.953947, 4470.317871>) used the  ExpansionCarKey to lock Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9841.753906, 8.898728, 4468.835938>)
+18:11:03.351 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<9840.229492, 8.955490, 4470.332520>) used the  ExpansionCarKey to unlock Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9841.753906, 8.898728, 4468.835938>)
+18:11:09.812 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9841.753906, 8.898681, 4468.835449>) as driver
+18:11:12.359 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<9841.753906, 8.898685, 4468.835938>)
+18:17:18.679 [Safezone] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5674.807129, 33.586487, 5260.666992>) Entered the safezone
+18:17:30.679 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+18:17:47.875 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5593.108398, 28.791941, 5378.535156>)
+18:17:51.937 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5593.108887, 28.791943, 5378.534180>)
+18:17:56.367 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5591.190918, 28.722498, 5379.559082>) used the  ExpansionCarKey to lock Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5593.108887, 28.791945, 5378.534180>)
+18:43:11.718 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5591.656738, 28.722498, 5379.558105>) used the  ExpansionCarKey to unlock Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5593.108887, 28.791945, 5378.534180>)
+18:43:17.085 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5593.110352, 28.791943, 5378.535156>) as driver
+18:43:19.750 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5593.112305, 28.791941, 5378.534668>)
+18:43:49.648 [Safezone] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<5611.938965, 16.995951, 5690.177734>) Left the safezone
+18:44:58.484 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4605.217285, 20.430000, 6993.957520>
+18:47:27.851 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5384.129883, 2.708212, 7462.203613>)
+18:47:31.171 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5384.128418, 2.708200, 7462.203125>)
+18:48:25.101 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5384.125488, 2.708146, 7462.201660>) as driver
+18:48:27.609 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<5384.125000, 2.708153, 7462.201660>)
+18:51:32.992 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7262.678711, 6.731944, 8414.054688>)
+18:51:38.375 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7262.677734, 6.731944, 8414.053711>)
+18:52:35.093 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7262.677734, 6.731943, 8414.053711>) as driver
+18:54:31.437 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7262.677246, 6.731944, 8414.052734>)
+18:59:57.562 [AI Patrol] Spawning 3 RCFI Patrol bots at <3698.459473, 9.543353, 8800.572266>
+19:02:33.671 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<3215.259766, 20.511944, 6410.342773>)
+19:02:37.382 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<3215.259277, 20.511946, 6410.342773>)
+19:04:35.742 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<3215.263916, 20.511942, 6410.342773>) as driver
+19:04:38.257 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] started vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<3215.260986, 20.511944, 6410.342773>)
+19:06:46.429 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3117.842773, 22.450001, 4258.542969>
+19:15:35.984 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<6566.036133, 35.241974, 2113.718018>)
+19:16:38.210 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<6566.022949, 35.240685, 2113.723877>) as driver
+19:19:44.859 [AI Patrol] Spawning 3 Shamans bots at <6619.973145, 40.964294, 5844.252930>
+19:21:50.265 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<6632.904785, 15.352782, 6574.873047>)
+19:22:24.062 [VehicleEnter] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] entered vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<6632.912109, 15.352692, 6574.870117>) as driver
+19:26:27.257 [VehicleEngine] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] stopped vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7939.626465, 54.231945, 8161.418457>)
+19:26:30.960 [VehicleLeave] Player Alaric [uid=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=] left vehicle  Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7939.626465, 54.231949, 8161.418945>)
+19:26:45.054 [VehicleCarKey] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<7941.334473, 54.162498, 8160.105469>) used the  ExpansionCarKey to lock Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7939.626465, 54.231945, 8161.418457>)
+19:26:56.406 [VehicleDeleted] Novator (id=C5E2CBB6824C03089CBAA786F421D19F pos=<7939.626465, 54.231945, 8161.418457>)
+19:26:56.406 [VehicleCover] Player "Alaric" (id=sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ= pos=<7941.334473, 54.162498, 8160.105469>) covered vehicle "Novator" (GlobalID=8000000080000000800000008000A6D4 pos=<7939.626465, 54.231945, 8161.418457>)!
+20:02:24.992 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4247.774414, 20.607618, 7277.211914>) uncovered vehicle "MBw140_blue" (GlobalID=80000000800000008000000080001545 pos=<4247.726074, 20.627176, 7280.415039>)!
+20:02:42.445 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4248.637695, 20.607616, 7278.369141>) used the  ExpansionCarKey to unlock MBw140_blue (id=8324241A4D47F03CB9254EB599FFD397 pos=<4247.725586, 20.627176, 7280.417969>)
+20:03:11.031 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4245.988770, 20.607616, 7277.844727>) used the  ExpansionCarKey to lock MBw140_blue (id=8324241A4D47F03CB9254EB599FFD397 pos=<4247.725586, 20.627176, 7280.417969>)
+20:03:21.937 [VehicleDeleted] MBw140_blue (id=8324241A4D47F03CB9254EB599FFD397 pos=<4247.725586, 20.627176, 7280.417969>)
+20:03:21.937 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4245.758789, 20.607616, 7277.623047>) covered vehicle "MBw140_blue" (GlobalID=80000000800000008000000080001545 pos=<4247.725586, 20.627176, 7280.417969>)!
+20:05:03.687 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4256.716309, 20.458895, 7268.189941>) uncovered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4257.577637, 20.442492, 7265.589844>)!
+20:05:10.281 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4256.716309, 20.458895, 7268.189941>) used the  ExpansionCarKey to unlock BMW_X5_red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4257.575684, 20.442497, 7265.587402>)
+20:09:18.195 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4257.575684, 20.442497, 7265.587402>) as driver
+20:09:21.679 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4257.575684, 20.442497, 7265.587891>)
+20:09:37.007 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4216.980469, 20.430632, 7227.926758>)
+20:09:46.828 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4216.980469, 20.430634, 7227.926758>) as driver
+20:11:39.039 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3760.045654, 20.430630, 6383.081055>)
+20:12:03.968 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<3762.130615, 20.442499, 6384.320801>) used the  ExpansionCarKey to lock BMW_X5_red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3760.045410, 20.430632, 6383.081055>)
+20:17:26.304 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<3761.958252, 20.442499, 6383.903320>) used the  ExpansionCarKey to unlock BMW_X5_red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3760.045410, 20.430632, 6383.081055>)
+20:17:31.156 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3760.045410, 20.430632, 6383.081055>) as driver
+20:17:33.312 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3760.045654, 20.430632, 6383.081055>)
+20:17:50.734 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3874.292969, 20.345549, 6390.591309>)
+20:19:02.187 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3874.292969, 20.345549, 6390.591309>) as driver
+20:19:03.781 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<3874.292969, 20.345549, 6390.591309>)
+20:20:03.367 [AI Patrol] Spawning 1 Shamans bots at <6261.842773, 15.592899, 6336.116211>
+20:20:12.687 [AI Patrol] Spawning 2 Shamans bots at <5886.996582, 111.614937, 5471.746582>
+20:21:22.273 [Safezone] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5663.956055, 29.657185, 5517.573730>) Entered the safezone
+20:21:34.898 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<5612.597656, 28.710630, 5403.312500>)
+20:22:29.203 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5614.994141, 28.722498, 5405.036621>) used the  ExpansionCarKey to lock BMW_X5_red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<5612.597656, 28.710630, 5403.312500>)
+20:22:40.406 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell pso11optic x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:22:40.468 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold pso11optic x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 262.
+20:22:43.187 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell mosin_compensator x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:22:43.234 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold mosin_compensator x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 112.
+20:22:59.515 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell mag_fnx45_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:22:59.585 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold mag_fnx45_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 14.
+20:23:02.468 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell mag_expansion_m14_10rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:23:02.546 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold mag_expansion_m14_10rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 44.
+20:24:28.890 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell geb_purplefishingrod x1 at the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:24:28.984 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold geb_purplefishingrod x1 at the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 900.
+20:24:44.546 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell firefighteraxe x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:24:44.617 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold firefighteraxe x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 22.
+20:24:45.687 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell hammer x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:24:45.765 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold hammer x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 5.
+20:24:52.703 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell metalplate x8 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:24:52.781 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold metalplate x8 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1496.
+20:24:57.390 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell tlrlight x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:24:57.468 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold tlrlight x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 90.
+20:27:13.585 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell b95 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:27:13.664 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold b95 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 6581.
+20:28:00.312 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5615.315430, 28.722498, 5405.037598>) used the  ExpansionCarKey to unlock BMW_X5_red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<5612.597656, 28.710630, 5403.312500>)
+20:28:41.648 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to purchase ammobox_308win_20rnd x35 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:28:41.742 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has bought ammobox_308win_20rnd x35 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 1120.
+20:28:54.367 [ATM] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has deposited 8406 on his ATM account.
+20:29:51.125 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<5612.597656, 28.710630, 5403.312500>) as driver
+20:29:52.421 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<5612.597656, 28.710630, 5403.312500>)
+20:30:26.460 [Safezone] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5648.536621, 15.950787, 5711.861816>) Left the safezone
+20:30:47.257 [SpawnSelection] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) spawned at <8330.190430, 5.130000, 9320.299805>
+20:33:49.539 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4214.714355, 20.430634, 7226.596191>)
+20:34:04.367 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4214.714355, 20.430632, 7226.596191>) as driver
+20:34:16.726 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4256.720703, 20.445753, 7266.688477>)
+20:50:49.460 [AI Patrol] Spawning 2 Shamans bots at <3822.718994, 31.058762, 6811.371094>
+20:51:30.828 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4254.917480, 20.462498, 7264.078125>) used the  ExpansionCarKey to lock BMW_X5_red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4256.720703, 20.445761, 7266.687988>)
+20:51:45.820 [VehicleDeleted] BMW_X5_red (id=CB3E31519942EDECF58792939EBE2EC0 pos=<4256.720703, 20.445761, 7266.687988>)
+20:51:45.820 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4254.667480, 20.462500, 7263.785156>) covered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.720703, 20.445761, 7266.687988>)!
+20:55:24.843 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8860.671875, 38.607162, 9951.527344>) uncovered vehicle "ToyotaHilux_kamo" (GlobalID=80000000800000008000000080012A42 pos=<8859.391602, 38.612034, 9955.132813>)!
+20:55:35.632 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8859.877930, 38.607292, 9951.919922>) used the  ExpansionCarKey to unlock ToyotaHilux_kamo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<8859.395508, 38.612038, 9955.132813>)
+20:56:45.125 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<8859.396484, 38.612038, 9955.132813>) as driver
+20:56:52.210 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<8859.394531, 38.612045, 9955.132813>)
+20:57:02.484 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<8864.131836, 38.304379, 9941.572266>)
+20:57:09.250 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<8864.134766, 38.304306, 9941.572266>) as driver
+20:57:11.828 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<8864.131836, 38.304371, 9941.572266>)
+21:00:21.593 [AI Patrol] Spawning 1 Shamans bots at <5353.396973, 24.294020, 7985.601563>
+21:05:21.398 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<5662.547852, 29.955404, 5521.695801>) Entered the safezone
+21:05:39.234 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<5614.320313, 28.714739, 5405.206543>)
+21:05:50.718 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<5616.433105, 28.722498, 5404.672363>) used the  ExpansionCarKey to lock ToyotaHilux_kamo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<5614.322754, 28.714766, 5405.203613>)
+21:07:06.601 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to purchase expansioncarkey x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+21:07:06.695 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has bought expansioncarkey x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 500.
+21:07:20.554 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to purchase expansionkeychain_green x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+21:07:20.648 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has bought expansionkeychain_green x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 100.
+21:08:17.406 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to purchase nvgoggles x1 from the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+21:08:17.484 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has bought nvgoggles x1 from the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 4000.
+21:10:03.648 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to purchase reflexoptic x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+21:10:03.750 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has bought reflexoptic x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 150.
+21:10:16.507 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to sell reflexoptic x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+21:10:16.585 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has sold reflexoptic x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 112.
+21:10:39.710 [ATM] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has withdrawn 10000 from his ATM account.
+21:10:47.929 [SpawnSelection] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) spawned at <4867.339844, 8.270000, 1577.310059>
+21:10:48.070 [AI Patrol] Spawning 3 Prison Island Patrol bots at <5261.707520, 15.016695, 699.546997>
+21:10:49.148 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<5615.515625, 28.722498, 5403.589355>) used the  ExpansionCarKey to unlock ToyotaHilux_kamo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<5614.322754, 28.714766, 5405.203613>)
+21:10:54.921 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<5614.320801, 28.714741, 5405.205566>) as driver
+21:10:59.812 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<5614.321289, 28.714746, 5405.205078>)
+21:11:42.476 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<5817.548340, 29.392271, 5195.295410>) Left the safezone
+21:21:42.109 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<9737.838867, 6.052857, 4211.027832>) as driver
+21:21:50.148 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<9737.838867, 6.052855, 4211.027832>)
+21:24:33.500 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<10371.386719, 2.101842, 5588.329102>)
+21:25:40.945 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10311.220703, 1.468929, 5627.586914>) Entered the safezone
+21:25:58.960 [ATM] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has deposited 14632 on his ATM account.
+21:26:20.195 [ATM] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has withdrawn 81000 from his ATM account.
+21:26:34.117 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10327.531250, 2.542299, 5583.096191>) Left the safezone
+21:26:51.304 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<10371.427734, 2.100631, 5588.261230>) as driver
+21:26:54.421 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<10371.426758, 2.100710, 5588.263672>)
+21:27:13.007 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle ToyotaHilux Camo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<10391.594727, 2.856266, 5608.659180>)
+21:27:28.531 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10390.544922, 2.931356, 5609.878906>) used the  ExpansionCarKey to lock ToyotaHilux_kamo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<10391.594727, 2.856237, 5608.657715>)
+21:27:41.593 [VehicleDeleted] ToyotaHilux_kamo (id=0DF4DAB19844A89E7C8D479F7EBCFD36 pos=<10391.594727, 2.856237, 5608.657715>)
+21:27:41.601 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10389.296875, 2.997452, 5610.433594>) covered vehicle "ToyotaHilux_kamo" (GlobalID=80000000800000008000000080012A42 pos=<10391.594727, 2.856237, 5608.657715>)!
+21:28:45.835 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10313.440430, 1.466004, 5626.195801>) Entered the safezone
+21:29:00.906 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to purchase expansionzodiacboat x1 from the trader "Boats (Rolf [BOATS])" in market zone "Fisher Camp Marina" (pos=<10319.200195, 1.455190, 5636.520996>).
+21:29:00.976 [VehicleDeleted] ExpansionZodiacBoat (id=2FA87740C744FD646B38199803827310 pos=<-0.004868, 0.602199, -1.424386>)
+21:29:00.984 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has bought expansionzodiacboat x1 from the trader "Boats (Rolf [BOATS])" in market zone "Fisher Camp Marina" (pos=<10319.200195, 1.455190, 5636.520996>) for a price of 81000.
+21:29:12.375 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10321.411133, 0.576121, 5637.252930>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.385742, 0.459547, 5637.524414>)
+21:29:20.828 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle PBX (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.381836, 0.497645, 5637.537109>) as driver
+21:29:24.789 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle PBX (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.383789, 0.636860, 5637.539063>)
+21:29:28.953 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle PBX (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.392578, 0.439081, 5637.545898>)
+21:29:33.695 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle PBX (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.383789, 0.506662, 5637.563477>)
+21:29:46.070 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle PBX (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.388672, 0.503237, 5637.575684>)
+21:29:58.398 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10329.110352, 0.138915, 5633.736816>) Left the safezone
+21:29:58.875 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10326.877930, -0.067112, 5635.510742>) Entered the safezone
+21:29:59.296 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10326.409180, -0.100626, 5635.820801>) used the  ExpansionCarKey to lock ExpansionZodiacBoat (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.391602, 0.512728, 5637.576172>)
+21:30:12.000 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10334.938477, 1.692806, 5603.434082>) Left the safezone
+21:30:22.257 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10313.851563, 1.465648, 5626.016602>) Entered the safezone
+21:30:51.843 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10316.553711, 2.860000, 5577.528809>) Left the safezone
+21:31:52.648 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:32:10.289 [VehicleDeleted] ZIL130_rust (id=CE244651694320FB49422293F5854974 pos=<-0.004228, 0.966361, 0.226036>)
+21:32:10.320 [VirtualGarage] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5693.512207, 32.329453, 5251.187988>) retrieved a vehicle "ZIL130_rust" (GlobalID=80000000800000008000000080016382 pos=<5688.263184, 32.421574, 5246.821289>)
+21:34:51.109 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle ZIL 130 Rust (id=641B07A1AB445D43351B45A809C38CDE pos=<5688.264160, 32.421532, 5246.821777>) as driver
+21:34:53.765 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle ZIL 130 Rust (id=641B07A1AB445D43351B45A809C38CDE pos=<5688.264160, 32.421535, 5246.821777>)
+21:35:13.179 [AI Patrol] Spawning 3 Camp Bear Patrol bots at <8885.215820, 21.939804, 5958.130859>
+21:35:20.960 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5666.776855, 33.977020, 5265.159668>) Entered the safezone
+21:35:54.617 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle ZIL 130 Rust (id=641B07A1AB445D43351B45A809C38CDE pos=<5630.668945, 28.658865, 5419.593750>)
+21:36:00.687 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5629.621582, 28.692524, 5421.272461>) used the  ExpansionCarKey to lock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<5630.668945, 28.658863, 5419.593750>)
+21:37:26.476 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5634.617676, 28.720589, 5420.080566>) used the  ExpansionCarKey to unlock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<5630.668945, 28.658863, 5419.593750>)
+21:39:35.578 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle ZIL 130 Rust (id=641B07A1AB445D43351B45A809C38CDE pos=<5630.668945, 28.658865, 5419.593750>) as driver
+21:39:44.382 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle ZIL 130 Rust (id=641B07A1AB445D43351B45A809C38CDE pos=<5630.668945, 28.658865, 5419.593750>)
+21:40:31.093 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5753.250977, 24.374310, 5191.123535>) Left the safezone
+21:44:13.296 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle ZIL 130 Rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894506, 4811.058594>)
+21:44:17.859 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle ZIL 130 Rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894501, 4811.058594>)
+21:44:23.125 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3957.342773, 24.853701, 4811.904297>) used the  ExpansionCarKey to lock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894497, 4811.058594>)
+21:49:29.765 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+21:53:48.515 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3959.756104, 24.853704, 4806.790527>) used the  ExpansionCarKey to unlock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894497, 4811.058594>)
+21:53:58.875 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3959.756104, 24.853704, 4806.790527>) used the  ExpansionCarKey to lock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894497, 4811.058594>)
+22:00:52.085 [Party] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) joinded the party "David blackbird" (id=37 ownerUID= ownerName=)
+22:00:52.085 [Party] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) created a party named David blackbird (DB)
+22:02:37.109 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): were thoes ai?
+22:03:02.718 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): pvp zones
+22:03:11.742 [Killfeed] David BlackBrid got killed.
+22:03:24.898 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): if you are in a pvp zone or heli crash most likely ai
+22:03:33.898 [Party] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) joinded the party "David blackbird" (id=37 ownerUID=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ= ownerName=David BlackBrid)
+22:03:43.046 [SpawnSelection] Player "David BlackBrid" (id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=) spawned at <4613.680176, 14.754800, 1560.599976>
+22:04:09.250 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): they are in the pvp zones?
+22:04:15.312 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): yup
+22:04:16.789 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): zup
+22:04:38.335 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): higher tier pvp zones equals higher tier and better geared ai
+22:04:39.585 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): oh ok i thought it was a player lol
+22:05:01.851 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): it sounded like a ak lol
+22:05:10.000 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): same thing happened to me first time on, thought i got unlucky and rolled up on a team
+22:05:20.984 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ye lol
+22:05:54.789 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): just hope they arnt camping my shit lol
+22:06:05.937 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): which pvp zone was it?
+22:06:09.039 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): kuz it was good shit lol
+22:06:15.335 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): prizon
+22:06:54.015 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): so lower tier i'm guessing
+22:07:25.937 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ye i just spawned so i thought what the hell might as well lol
+22:07:35.375 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): right lol
+22:07:56.179 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): gotta start some how lol
+22:08:19.750 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): i killed one of em tho
+22:08:23.859 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): FYI, if youre gonna buy a boat, it doesnt come with a glow plug, im learning this the hard way
+22:09:06.265 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): got it thanks for the heads up lol well see if i ever get to that point lol
+22:13:37.101 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): i took a heli to the far northwest island, long story short my game really lagged out and next thing i know im dead. so gonna take a boat over there so i dont lose
+22:13:45.835 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): my $3mil heli
+22:15:48.843 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): bro MF had a zsd
+22:15:50.625 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): lol
+22:16:30.140 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): those AI sometimes have pretty good shit
+22:16:52.414 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): thats why it hurt so much lol
+22:20:21.867 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<5766.597656, 53.760574, 5365.888184>) Entered the safezone
+22:21:07.828 [ATM] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has withdrawn 5000 from his ATM account.
+22:22:22.789 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): does anyone online have a glowplug?
+22:22:54.632 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to purchase expansionigniterplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:22:54.960 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has bought expansionigniterplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 1000.
+22:23:35.835 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has send a requested to purchase sparkplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+22:23:35.921 [Market] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=) has bought sparkplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+22:23:37.109 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): ill keep an eye out for one as im looting 
+22:23:52.976 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): ok, ill pay you for it
+22:24:27.375 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<5697.645508, 31.462976, 5243.480469>) Left the safezone
+22:30:17.085 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3959.239990, 24.853582, 4806.241699>) used the  ExpansionCarKey to unlock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894497, 4811.058594>)
+22:30:19.648 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3959.508545, 24.853704, 4806.734863>) used the  ExpansionCarKey to lock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894497, 4811.058594>)
+22:30:20.953 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3959.508545, 24.853704, 4806.734863>) used the  ExpansionCarKey to unlock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894497, 4811.058594>)
+22:30:45.781 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<3960.028809, 24.853697, 4806.423828>) used the  ExpansionCarKey to lock ZIL130_rust (id=641B07A1AB445D43351B45A809C38CDE pos=<3959.928467, 24.894497, 4811.058594>)
+22:35:01.039 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): whait the assault vest goes in the belt slot?
+22:35:15.304 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): shouldnt
+22:35:33.195 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): that should be a vest slot
+22:35:47.515 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): is a buttpack attached?
+22:35:53.859 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): thats the only spot that i will go lol no
+22:36:11.390 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): its just the vest
+22:36:16.171 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): strange
+22:47:51.468 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): man its fucking dark lol
+22:48:04.867 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yup haha
+22:48:20.140 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): nvgs or a light is a must
+22:48:27.664 [Chat - Global]("David BlackBrid"(id=F870Xpg3G2A57qF8an_HiSuEeo32wqFpAEBhZb4-mUQ=)): even with a light i cant see shit lol
+22:53:16.328 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10312.363281, 1.463254, 5631.132813>) Entered the safezone
+22:53:21.156 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10321.127930, 0.846916, 5637.262207>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.391602, 0.512728, 5637.576172>)
+22:53:39.585 [VehicleCarKey] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10321.347656, 0.868128, 5636.418457>) used the  ExpansionCarKey to lock ExpansionZodiacBoat (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.391602, 0.512728, 5637.576172>)
+22:54:08.796 [Safezone] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10299.333984, 1.460714, 5622.202148>) Left the safezone
+22:54:16.718 [VehicleDeleted] ExpansionZodiacBoat (id=23166FAE0D478E1C5D66C89DBE81EDD3 pos=<-0.004868, 0.602199, -1.424386>)
+22:54:16.718 [VehicleDeleted] ExpansionZodiacBoat (id=F8D4E39F0A498544F81B64B21383A211 pos=<10324.391602, 0.512728, 5637.576172>)
+22:54:16.726 [VirtualGarage] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<10289.414063, 1.473594, 5626.465820>) stored a vehicle "ExpansionZodiacBoat" (GlobalID=800000008000000080000000800181F0 pos=<10324.391602, 0.082728, 5637.576172>)

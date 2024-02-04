@@ -1,0 +1,24 @@
+02:58:49.607 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+04:14:08.144 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): we do have ai in here.  they are in pvp zones and on heli crashes
+04:14:16.342 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): just a heads up
+04:15:36.497 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+04:16:43.446 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7432.690918, 6.662489, 8430.562500>) uncovered vehicle "ToyotaHilux_rust" (GlobalID=80000000800000008000000080013459 pos=<7432.308105, 6.654764, 8427.222656>)!
+04:25:01.768 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7432.709473, 6.908044, 8430.946289>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=3F73D33D984E864AADCC6591E275EF39 pos=<7432.311035, 6.654763, 8427.223633>)
+04:25:02.621 [AI Patrol] Spawning 3 Temple Patrol bots at <380.337616, 47.070000, 725.054749>
+04:25:02.715 [AI Patrol] Spawning 3 Temple Patrol bots at <427.854675, 46.472019, 746.980652>
+04:25:02.727 [AI Patrol] Spawning 3 Temple Patrol bots at <331.899902, 47.070000, 809.234802>
+04:25:04.324 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle PONTIAC (Dark Red) (id=A0D063C1694CE52918EFF4AD4B0A5FB9 pos=<5919.069336, 32.561432, 1975.470459>) as driver
+04:25:10.832 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle PONTIAC (Dark Red) (id=A0D063C1694CE52918EFF4AD4B0A5FB9 pos=<5919.069336, 32.561428, 1975.470459>)
+04:25:18.702 [VehicleDeleted] ToyotaHilux_rust (id=3F73D33D984E864AADCC6591E275EF39 pos=<7432.311035, 6.654763, 8427.223633>)
+04:25:18.702 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7432.709473, 6.908044, 8430.946289>) covered vehicle "ToyotaHilux_rust" (GlobalID=80000000800000008000000080013459 pos=<7432.311035, 6.654763, 8427.223633>)!
+04:25:24.927 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle PONTIAC (Dark Red) (id=A0D063C1694CE52918EFF4AD4B0A5FB9 pos=<5919.069336, 32.561428, 1975.470459>) as driver
+04:25:41.205 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle PONTIAC (Dark Red) (id=A0D063C1694CE52918EFF4AD4B0A5FB9 pos=<5919.069336, 32.561432, 1975.470459>)
+04:28:11.269 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7432.544434, 6.662498, 8430.924805>) uncovered vehicle "ToyotaHilux_rust" (GlobalID=80000000800000008000000080013459 pos=<7432.311035, 6.654763, 8427.223633>)!
+04:29:07.314 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7432.930664, 6.662500, 8431.372070>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=F3127218B3422026FC6AE088FB4EB10A pos=<7432.313965, 6.654764, 8427.224609>)
+04:30:41.051 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7432.911133, 6.909214, 8430.878906>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=F3127218B3422026FC6AE088FB4EB10A pos=<7432.313965, 6.654764, 8427.224609>)
+04:30:43.579 [AI Patrol] Spawning 2 Shamans bots at <6058.928711, 47.121666, 3091.929688>
+04:30:58.202 [VehicleDeleted] ToyotaHilux_rust (id=F3127218B3422026FC6AE088FB4EB10A pos=<7432.313965, 6.654764, 8427.224609>)
+04:30:58.202 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7432.917969, 6.662500, 8430.952148>) covered vehicle "ToyotaHilux_rust" (GlobalID=80000000800000008000000080013459 pos=<7432.313965, 6.654764, 8427.224609>)!
+04:31:10.085 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] stopped vehicle PONTIAC (Dark Red) (id=A0D063C1694CE52918EFF4AD4B0A5FB9 pos=<5400.211914, 73.971428, 3763.540283>)
+04:31:15.912 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle PONTIAC (Dark Red) (id=A0D063C1694CE52918EFF4AD4B0A5FB9 pos=<5400.212402, 73.971436, 3763.540283>)
+04:59:03.853 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

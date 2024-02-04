@@ -1,0 +1,45 @@
+************************** 2024-01-27T11:00:29+00:00 **************************
+2024-01-27T11:00:29+00:00 | [INFO	] GameLabs v1.920 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-01-27T11:00:39+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-01-27T11:00:39+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-01-27T11:00:39+00:00 | [INFO	] Experimental speed check is enabled
+2024-01-27T12:00:41+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-27T12:00:41+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-27T12:00:41+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-27T12:00:41+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-27T12:00:42+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-27T12:00:42+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-27T12:57:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:57:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:58:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:59:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:59:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:59:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:59:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:59:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T12:59:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-27T13:00:47+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-27T13:00:47+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-27T13:00:47+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-27T14:00:52+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-27T14:00:52+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-27T14:00:52+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-27T15:00:57+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-27T15:00:57+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-27T15:00:57+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-27T16:01:02+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-27T16:01:02+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-27T16:01:02+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-27T17:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-01-27T17:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

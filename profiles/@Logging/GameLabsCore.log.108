@@ -1,0 +1,59 @@
+************************** 2024-01-26T11:00:24+00:00 **************************
+2024-01-26T11:00:24+00:00 | [INFO	] GameLabs v1.920 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-01-26T11:00:34+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-01-26T11:00:34+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-01-26T11:00:34+00:00 | [INFO	] Experimental speed check is enabled
+2024-01-26T12:00:35+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-26T12:00:35+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-26T12:00:35+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-26T13:00:40+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-26T13:00:40+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-26T13:00:41+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-26T14:00:46+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-26T14:00:46+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-26T14:00:46+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-26T14:14:06+00:00 | [WARN	] [Teleport] SurvivorBase<87b63e20> position=0x000000007aa3daa0 {<8335.19,145.321,10848>}
+2024-01-26T14:14:07+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-26T14:14:07+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T14:14:07+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=145.321u, unitsPerSecond=58.1286 [threshold=8, inVehicle=0, triggers=1])
+2024-01-26T14:14:07+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T14:14:07+00:00 | [WARN	] ****************************************
+2024-01-26T14:44:08+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-26T14:44:08+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T14:44:08+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199591018529, distance=9993.19u, unitsPerSecond=3997.27 [threshold=8, inVehicle=0, triggers=1])
+2024-01-26T14:44:08+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T14:44:08+00:00 | [WARN	] ****************************************
+2024-01-26T15:00:51+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-26T15:00:51+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-26T15:00:51+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-26T15:12:04+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-26T15:12:04+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:12:04+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199591018529, distance=4543.34u, unitsPerSecond=1817.34 [threshold=8, inVehicle=0, triggers=1])
+2024-01-26T15:12:04+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:12:04+00:00 | [WARN	] ****************************************
+2024-01-26T15:12:22+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-26T15:12:22+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:12:22+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199591018529, distance=32.8754u, unitsPerSecond=13.1502 [threshold=8, inVehicle=0, triggers=2])
+2024-01-26T15:12:22+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:12:22+00:00 | [WARN	] ****************************************
+2024-01-26T15:32:32+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-26T15:32:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:32:32+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=4392.35u, unitsPerSecond=1756.94 [threshold=8, inVehicle=0, triggers=1])
+2024-01-26T15:32:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:32:32+00:00 | [WARN	] ****************************************
+2024-01-26T15:32:49+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-26T15:32:49+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:32:49+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=48.3139u, unitsPerSecond=19.3256 [threshold=8, inVehicle=0, triggers=2])
+2024-01-26T15:32:49+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T15:32:49+00:00 | [WARN	] ****************************************
+2024-01-26T15:48:06+00:00 | [WARN	] [Heal] SurvivorBase<61c09030>
+2024-01-26T16:00:56+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-26T16:00:56+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-26T16:00:56+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-26T16:28:39+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-26T16:28:39+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T16:28:39+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198882142449, distance=4499.57u, unitsPerSecond=1799.83 [threshold=8, inVehicle=0, triggers=1])
+2024-01-26T16:28:39+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-26T16:28:39+00:00 | [WARN	] ****************************************
+2024-01-26T17:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-01-26T17:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

@@ -1,0 +1,1958 @@
+﻿12:00:30 BattlEye Server: Initialized (v1.219, DayZ 1.23.157045)
+12:00:30 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.23.157045)
+12:00:30 BattlEye Server: Config entry: RConPassword f17881fc037eabdfe301fa600800a96f
+12:00:30 BattlEye Server: Config entry: RConPort 2405
+12:00:30 BattlEye Server: Config entry: RestrictRCon 0
+12:00:30 Roles assigned.
+12:00:30 Reading mission ...
+12:00:44 [CE][Hive] :: Initializing OFFLINE
+12:00:44 [StorageDirs] :: Selected storage directory: C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\
+12:00:44 [CE][Hive] :: Loading core data ... 
+12:00:44 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+12:00:48 !!! [ERROR][XML] :: load [$CurrentDir:mpmissions\empty.deerisle\cfgspawnabletypes.xml] failed
+12:00:48 !!! [ERROR][XML] :: Error reading end tag. line 3235
+12:00:48 [CE][TypeSetup] :: 73 classes setuped...
+12:00:51 [CE][RegisterBind] :: 0 classes binded...
+12:00:51 [CE][RegisterConfig] :: 18757 config classes registered, 0 sub-counters...
+12:00:51 [CE][Hive] :: Loading map data ... 
+12:00:51 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:00:51 !!! [CE] :: Unknown usage: 'Fortknox'.
+12:00:51 !!! [CE] :: Unknown usage: 'Mine'.
+12:00:51 !!! [CE] :: Unknown usage: 'Mine'.
+12:00:51 !!! [CE] :: Unknown usage: 'Temple'.
+12:00:51 [CE][LoadPrototype] :: loaded 550 prototypes
+12:00:51   989 containers, 11581 points
+12:00:51   79 dispatches, 316 proxies
+12:00:51 !!! [CE][LoadPrototype] 4 groups have no points...
+12:00:51 !!! [CE][LoadPrototype] 2 groups have wrong points...
+12:00:51 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+12:00:51 [CE][LoadPrototype] :: last group name: Land_Underground_Storage_Workshop...
+12:00:51 [CE][LoadPrototype] :: loaded 0 prototypes
+12:00:51   55 containers, 232 points
+12:00:51   0 dispatches, 0 proxies
+12:00:51 [CE][LoadPrototype] :: last group name: Rail9...
+12:00:51 [CE][LoadMap] "Group" :: loaded 10479 groups, groups failed: 0, largest group range: 34.1
+12:00:51 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.1
+12:00:52 [CE][LoadClusters] "Cluster" :: Loading files...
+12:00:52 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+12:00:52 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+12:00:52 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+12:00:52   9790 failed - check prototype defaults 'clusterMatrix' setups !!!
+12:00:52 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+12:00:52   6758 failed - check prototype defaults 'clusterMatrix' setups !!!
+12:00:52 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 24035 instances
+12:00:52   2081 failed - check prototype defaults 'clusterMatrix' setups !!!
+12:00:52 [CE][Storage] ver:21 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\types.bin"
+12:00:52 [CE][Storage] ver:21 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\types.001"
+12:00:52 [CE][Storage] ver:21 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\types.002"
+12:00:52 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\types.bin".
+12:00:53 !!! [CE][offlineDB] :: No Shutdown message present.
+12:00:53 [DynEvent] "AZLK_rust" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "AZLK_rust" failed to initialize spawner - unknown type?!
+12:00:53 [DynEvent] "HAMMER_H1_rust" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "HAMMER_H1_rust" failed to initialize spawner - unknown type?!
+12:00:53 [DynEvent] "Interceptor" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "Interceptor" failed to initialize spawner - unknown type?!
+12:00:53 [DynEvent] "MUSTANG_rust" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "MUSTANG_rust" failed to initialize spawner - unknown type?!
+12:00:53 [DynEvent] "MotorHome_rust" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "MotorHome_rust" failed to initialize spawner - unknown type?!
+12:00:53 [DynEvent] "ToyotaHilux_rust" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "ToyotaHilux_rust" failed to initialize spawner - unknown type?!
+12:00:53 [DynEvent] "ZIL130_rust" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "ZIL130_rust" failed to initialize spawner - unknown type?!
+12:00:53 [DynEvent] "M35a2_Rust" will be ignored :: failed to determine spawner type!
+12:00:53 valid types are:
+12:00:53   01 - Vehicle 
+12:00:53   02 - Static 
+12:00:53   03 - Loot 
+12:00:53   04 - Infected 
+12:00:53   05 - Animal 
+12:00:53   06 - Ambient 
+12:00:53   07 - Item 
+12:00:53   08 - Trajectory 
+12:00:53 [DynEvent] "M35a2_Rust" failed to initialize spawner - unknown type?!
+12:00:53 [CE][offlineDB] :: Loaded 55 dynamic events 266 total types.
+12:00:53 [CE][offlineDB] :: Loaded 61 dynamic events 296 total types.
+12:00:53 !!! [CE][offlineDB] :: Type 'BomberJacket_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BomberJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BomberJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BomberJacket_Grey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BomberJacket_Maroon' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BomberJacket_Olive' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BomberJacket_SkyBlue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GasMask' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Autumn' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Flat' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_PautRev' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Summer' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Jeans_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Jeans_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Jeans_BlueDark' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Jeans_Brown' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Jeans_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Jeans_Grey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_Beige' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_Brown' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_Khaki' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_LightGrey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ManSuit_White' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MedicalScrubsPants_White' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MedicalScrubsShirt_White' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MountainBag_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Raincoat_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Raincoat_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Raincoat_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Raincoat_Orange' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Raincoat_Pink' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Raincoat_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Raincoat_Yellow' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Shirt_BlueCheck' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Shirt_BlueCheckBright' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Shirt_GreenCheck' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Shirt_PlaneBlack' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Shirt_RedCheck' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Shirt_WhiteCheck' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_Beige' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_Brown' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_Khaki' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_LightGrey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SlacksPants_White' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_Beige' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_Grey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_OrangeWhiteStripes' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_RedBlackStripes' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TShirt_White' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Tshirt_10thAnniversary' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Bocchi' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Metallia' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Pedro' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Violet' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_42Finger' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Squidward' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Armband_DOC_Bocchi' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Armband_DOC_Metallia' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Armband_DOC_Pedro' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Armband_DOC_42FINGERS' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Armband_DOC_Violet' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Armband_DOC_Squidward' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Jacket_Red42' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Raincoat_Red42' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Jeans_Red42' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_TOP' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_BOTTOM' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_DOC_TOP' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIDOC_GHILLIE_REDGREY' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_GHILLIETOP_REDGREY' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_GUNWRAP_REDGREY' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_BLUEBLACK' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_GHILLIE_GUNWRAP_BLUEBLAC' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_GHILLIETOP_BLUEBLACK' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Airsoft_M4A1' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Airsoft_AK' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Airsoft_Sniper' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Mag_Airsoft_M4' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Mag_Airsoft_AK' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft762' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft556' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Ammo_Airsoft308' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Prefab_Cabin' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Cabin_Kit' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Sk_Cabinet' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Cabin_Water_Pump' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_PaperWrittenAdmin' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_PaperWrittenAdmin_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_PaperWrittenAdmin_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_PaperWrittenAdmin_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_PaperWritten' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_AdminPen' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_AdminPen_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_AdminPen_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_File_Folder' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_File_Folder_Grey' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_File_Folder_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_File_Folder_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_File_Folder_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DZR_AdminPen_Blue' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Radioactive_bear_Meat' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Radioactive_wolf_Meat' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_1' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_2' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_3' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_4' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_5' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_6' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_7' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_8' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_9' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_10' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DXMediumTent_11' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SWAT_Pants' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SWAT_Balaclava' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SWAT_Gloves' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SWAT_Goggles' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SWAT_Shirt' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SWAT_Vest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SWAT_Helmet' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'RFSolarPanel' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'RFSolarPanelKit' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Magazine_Pouch_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Admin_Pouch_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Utility_Pouch_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Medical_Pouch_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Pack_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Combat_Vest_Heavy_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Taco_Pouch_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Pakol_Comtac' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_canteen_Camp_Orange' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_canteen_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_OpsCore_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Snow' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_ArmoredHelmet_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Rucksack_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Compact_1_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Compact_2_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_ChestRig_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Balaclava_Wraith_Comtacs' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam_Tropic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_GorkaPants_Multicam_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Assault_Pack_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_CombatPants_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_CombatShirt_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Molle_Panel_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_6B47_Helmet_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_Helmet_02_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MVS_SlingPack_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'mouse_grey_flag' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'toxic_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_Torch' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_LongTorch' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_AreaLight_White' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_AreaLight_Warm' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_1' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_2' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_3' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_4' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FBF_CustomAreaLight_5' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_cartman' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_gratefuldead' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_meatloaf' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_nirvana' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_skynyrd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_starbucks' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_sublime' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_billmurray' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_blackflag' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_cbgb' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_illuminati1' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'bs_johndenver' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [ERROR][XML] :: load [$CurrentDir:mpmissions\empty.deerisle\ModTypes/42MADocsGuns/types.xml] failed
+12:00:53 !!! [ERROR][XML] :: Error reading end tag. line 707
+12:00:53 !!! [CE][offlineDB] :: Failed to read types file 'ModTypes/42MADocsGuns/types.xml'.
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_BOMBERJACKET_CHOOK1' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Raincoat_Red42' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_TSHIRT_42' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_SHIRT_CHOOK1' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_Jeans_Red42' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BUNKER_TOP' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BUNKER_BOTTOM' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_TOP' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_BLUE_BOTTOM' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_DOC_TOP' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_ADMIN_DOC_BOTTOM' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_SHIRT_CCRAB1' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_CULT_CHAINCOIF' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_CULT_CHAINTOP' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DOC_CULT_CHAINPANT' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_RUST' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_WINTER' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Pixel' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Woodland' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BTR82A' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BTR82A_white' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BTR82A_black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BTR82A_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BTR82A_kamo_1' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_Camaro_Vavilon' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_Camaro_DJM' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_Camaro_DJM2' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_camaro_kurt' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_camaro_kurt2' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_camaro_Anime' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_camaro_Veitaru' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_camaro_KKKE' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Chevrolet_camaro_KGB' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Kraz_6322_black2' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'UAZ_3909_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'YAR_87_Doors_Driver_red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'YAR_87_Doors_coDriver_red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'YAR_87_Doors_hood_red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'YAR_87_Doors_trunk_red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_X5_Doors_hood ' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_X5_Doors_hood_black ' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_X5_Doors_hood_white ' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_X5_Doors_hood_red  ' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_X5_Doors_hood_flecktarn ' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_Driver_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_coDriver_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo1_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo2_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_hood_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_trunk_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_Driver_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_coDriver_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo1_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo2_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_hood_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_trunk_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_Driver_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_coDriver_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo1_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo2_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_hood_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_trunk_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'lightbar' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_hood_black ' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_Driver_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_coDriver_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo1_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo2_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_hood_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_trunk_military' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_Drive_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_coDriver_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo1_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo2_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_hood_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_trunk_medic' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_Driver_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_coDriver_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo1_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_cargo2_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_hood_camo ' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'G65_Doors_trunk_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_Driver_ermoxa' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_coDriver_ermoxa' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_hood_ermoxa' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_Driver_union' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_coDriver_union' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_hood_union' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_Driver_Zamb' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_coDriver_Zamb' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_hood_Zamb' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_Driver_Doza' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_coDriver_Doza' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Interceptor_Doors_hood_Doza' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Buggy_Doors_Driver_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Buggy_Doors_coDriver_Black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_Driver' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_coDriver' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_hood' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_Driver_RUST' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_coDriver_RUST' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_hood_RUST' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_Driver_WINTER' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_coDriver_WINTER' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_hood_WINTER' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_Driver_Pixel' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_coDriver_Pixel' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_hood_Pixel' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_Driver_Woodland' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_coDriver_Woodland' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Doors_hood_Woodland' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'AmmoRoket' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMP3_Wheel' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_White_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_Driver_white_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_coDriver_white_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo1_white_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo2_white_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_hood_white_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_trunk_white_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_Driver_black_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_coDriver_black_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo1_black_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo2_black_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_hood_black_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_trunk_black_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_Driver_red_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_coDriver_red_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo1_red_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo2_red_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_hood_red_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_trunk_red_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_Driver_green_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_coDriver_green_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo1_green_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo2_green_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_hood_green_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_trunk_green_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_Driver_lightgreen_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_coDriver_lightgreen_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo1_lightgreen_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_cargo2_lightgreen_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_hood_lightgreen_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BMW_Doors_trunk_lightgreen_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Kamaz_Typhoon_Tent' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Kamaz_Typhoon_Tent_white' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Kamaz_Typhoon_Tent_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Kamaz_Typhoon_Tent_black' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Kamaz_Typhoon_Tent_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Kamaz_Typhoon_Tent_flecktarn' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'PONTIAC_Doors_hood_rust' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_Driver_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_coDriver_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_cargo1_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_cargo2_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_hood_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_trunk_camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_Driver_light_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_coDriver_light_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_cargo1_light_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_cargo2_light_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_hood_light_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Range_Rover_Doors_trunk_light_green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TacticalShirt_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'CargoPants_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaEJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Black_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Black_Camo2' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_ELRD_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Green_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Orange_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Tigr_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaPants_Yellow_Camo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'HuntingJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'HunterPants_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'FirefighterJacket_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'AssaultBag_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'HuntingBag_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'MountainBag_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TortillaBag_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'PlateCarrierVest_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'PlateCarrierPouches_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'PlateCarrierHolster_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SmershVest_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'SmershBag_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'UKAssVest_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'PoliceVest_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'HighCapacityVest_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'Mich2001Helmet_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'DarkMotoHelmet_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'GorkaHelmet_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'BalaclavaMask_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TacticalGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'OMNOGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'WorkingGloves_Forest' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_Glock19M' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_Glock19M_mag_15Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_SRGlock_mag_33Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_ACR' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_ACR_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_FG42' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_FG42_mag_25Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_M16A3_mag_20Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_MK14_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotC' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotC_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotBGold' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_MSBSGrotBGold_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ScarLKBlueCamo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ScarLKGreen' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ScarLKGreenCamo' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'ScarLKTan' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_SG553_mag_30Rnd' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_PumpkinHead' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_JasonMask' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Red' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Green' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_Orange' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'TWP_Covid19Head_yellow' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! File "DZ\worlds\chernarusplus\ce\ModTypes/Munghard/types.xml" does not exist...
+12:00:53 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\ModTypes/Munghard/types.xml] failed
+12:00:53 !!! [ERROR][XML] :: Failed to open file
+12:00:53 !!! [CE][offlineDB] :: Failed to read types file 'ModTypes/Munghard/types.xml'.
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_HookBobber1Bait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_HookBobber2Bait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_HookBobber3Bait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_HookBobber4Bait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_VanillaHookRubberWormBait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_VanillaHookGrubWormBait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_VanillaHookGrassHopperBait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_VanillaHookFieldCricketBait' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_RedFishShirt' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_GreenFishShirt' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_BlueFishShirt' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'geb_PurpleFishShirt' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'CigarettePack_Chernamorka' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'CigarettePack_Merkur' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][offlineDB] :: Type 'CigarettePack_Partyzanka' will be ignored. (Type does not exist. (Typo?))
+12:00:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+12:00:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalDeer'.
+12:00:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalCow'.
+12:00:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalSheep'.
+12:00:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalRoeDeer'.
+12:00:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalWildBoar'.
+12:00:53 [CE][DE][SPAWNS] :: Total positions: 713
+12:00:53 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 0
+12:00:53 [CE][Storage] ver:21 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\events.bin"
+12:00:53 [CE][Storage] ver:21 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\events.001"
+12:00:53 [CE][Storage] ver:21 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\events.002"
+12:00:53 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\events.bin".
+12:00:53 [CE][DynamicEvent] Load  Events:[61] Primary spawners: 53 Secondary spawners: 2
+12:00:53 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin"
+12:00:53 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_000.001"
+12:00:53 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_000.002"
+12:00:53 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin" 1687 items.
+12:00:54   1687 items loaded. (0 failed)
+12:00:54 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin"
+12:00:54 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_001.001"
+12:00:54 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_001.002"
+12:00:54 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin" 1241 items.
+12:00:54   1241 items loaded. (0 failed)
+12:00:54 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin"
+12:00:54 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_002.001"
+12:00:54 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_002.002"
+12:00:54 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin" 1918 items.
+12:00:55   1918 items loaded. (0 failed)
+12:00:55 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin"
+12:00:55 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_003.001"
+12:00:55 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_003.002"
+12:00:55 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin" 2337 items.
+12:00:56   2337 items loaded. (0 failed)
+12:00:56 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin"
+12:00:56 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_004.001"
+12:00:56 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_004.002"
+12:00:56 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin" 3855 items.
+12:00:58   3855 items loaded. (0 failed)
+12:00:58 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin"
+12:00:58 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_005.001"
+12:00:58 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_005.002"
+12:00:58 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin" 3455 items.
+12:00:59   3455 items loaded. (0 failed)
+12:00:59 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin"
+12:00:59 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_006.001"
+12:00:59 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_006.002"
+12:00:59 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin" 3099 items.
+12:01:01   3099 items loaded. (0 failed)
+12:01:01 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin"
+12:01:01 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_007.001"
+12:01:01 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_007.002"
+12:01:01 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin" 2452 items.
+12:01:02   2452 items loaded. (0 failed)
+12:01:02 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin"
+12:01:02 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_008.001"
+12:01:02 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_008.002"
+12:01:02 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin" 853 items.
+12:01:02   853 items loaded. (0 failed)
+12:01:02 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin"
+12:01:02 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_009.001"
+12:01:02 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_009.002"
+12:01:02 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin" 959 items.
+12:01:02   959 items loaded. (0 failed)
+12:01:02 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin"
+12:01:02 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_010.001"
+12:01:02 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_010.002"
+12:01:02 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin" 692 items.
+12:01:03   692 items loaded. (0 failed)
+12:01:03 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin"
+12:01:03 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_011.001"
+12:01:03 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_011.002"
+12:01:03 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin" 487 items.
+12:01:03   487 items loaded. (0 failed)
+12:01:03 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\animals.bin"
+12:01:03 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\animals.001"
+12:01:03 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\animals.002"
+12:01:03 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\animals.bin" 34 items.
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 2d
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: a9
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 125
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 1a1
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 21d
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 299
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 315
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 391
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 40d
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 489
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 505
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 581
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 5fd
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 679
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 6f5
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 771
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 7ed
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 869
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 8e5
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 961
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 9dd
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: a59
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: ad5
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: b51
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: bcd
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: c49
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: cc5
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: d41
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: dbd
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: e39
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: eb5
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: f31
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: fad
+12:01:03 !!! Inventory content reduced because of improper sorting, file offset: 1029
+12:01:03   0 items loaded. (34 failed)
+12:01:03 [CE][Storage] ver:26 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\building.bin"
+12:01:03 [CE][Storage] ver:26 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\building.001"
+12:01:03 [CE][Storage] ver:26 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\building.002"
+12:01:03 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\building.bin" 1 items.
+12:01:03   1 items loaded. (0 failed)
+12:01:03 [CE][Storage] ver:25 stamp:96174, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\vehicles.bin"
+12:01:03 [CE][Storage] ver:25 stamp:96172, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\vehicles.001"
+12:01:03 [CE][Storage] ver:25 stamp:96173, valid:yes, name:"C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\vehicles.002"
+12:01:03 [CE][Storage] Restoring file "C:\Users\rylic\Documents\Deer-Isle-PvEvP\servers\Production\mpmissions\empty.deerisle\storage_1\data\vehicles.bin" 86 items.
+12:01:04   86 items loaded. (0 failed)
+12:01:04 [CE][Hive] :: Storage load took:10.56 seconds, recovery stamp:96174
+12:01:04   entity: 28029, building: 1
+12:01:04   no lifetime: 4
+12:01:04   skipped: 35
+12:01:04   pathgraph's: 1330
+12:01:04 [CE][Hive] :: Initializing ... 
+12:01:04 [CE][InitializeMap] :: initialized: 0
+12:01:04 [CE][Hive] :: Initializing spawners ... 
+12:01:04 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:25665, Total in Map: 23894 at 0 (sec)
+12:01:04   tests:0, repeats:0 fails:0, overtime:0
+12:01:04 [CE][AnimalRespawner] (PRICrab) :: !!! Missing AI Template "HerdCrab" for DE: "AnimalCrab"
+12:01:04 !!!!!! [CE][DE] DynamicEvent "AZLK_rust" setup is invalid, event will be disabled.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "HAMMER_H1_rust" setup is invalid, event will be disabled.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "Interceptor" setup is invalid, event will be disabled.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "MUSTANG_rust" setup is invalid, event will be disabled.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "MotorHome_rust" setup is invalid, event will be disabled.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "ToyotaHilux_rust" setup is invalid, event will be disabled.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "ZIL130_rust" setup is invalid, event will be disabled.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "M35a2_Rust" setup is invalid, event will be disabled.
+12:01:04 !!! [CE][DE] DynamicEvent "VehicleUtilityBoat" has <limit> 'parent' or 'mixed', but event <max> is set to 0.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "VehicleUtilityBoat" setup is invalid, event will be disabled.
+12:01:04 !!! [CE][DE] DynamicEvent "VehicleZodiacBoat" has <limit> 'parent' or 'mixed', but event <max> is set to 0.
+12:01:04 !!!!!! [CE][DE] DynamicEvent "VehicleZodiacBoat" setup is invalid, event will be disabled.
+12:01:04 [CE][DynEvent] :: 61 types
+12:01:04 [00] AmbientHen
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [01] AmbientBear
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [02] AmbientPolarbear
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [03] AmbientCow
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [04] AmbientDeer
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [05] AmbientGoat
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [06] AmbientPig
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [07] AmbientRoeDeer
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [08] AmbientSheep
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [09] AmbientWildBoar
+12:01:04   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:01:04 [10] AnimalWolf
+12:01:04   Primary Spawner: "Animal", active: yes, repeat: 1
+12:01:04 [11] AnimalArcticWolf
+12:01:04   Primary Spawner: "Animal", active: yes, repeat: 1
+12:01:04 [12] InfectedArmy
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [13] InfectedArmyHard
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [14] InfectedArmyHardJMC
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [15] InfectedArmyHardJMCWinter
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [16] InfectedCity
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [17] InfectedFirefighter
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [18] InfectedIndustrial
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [19] InfectedMedic
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [20] InfectedNBC
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [21] InfectedNBCYellow
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [22] InfectedPolice
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [23] InfectedPoliceHard
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [24] InfectedPrisoner
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [25] InfectedReligious
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [26] InfectedSolitude
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [27] InfectedVillage
+12:01:04   Primary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [28] ItemPlanks
+12:01:04   Primary Spawner: "Item", active: yes, repeat: 1
+12:01:04 [29] Loot
+12:01:04   Primary Spawner: "Loot", active: yes, repeat: 2
+12:01:04 [30] StaticContaminatedArea
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04 [31] StaticHeliCrash
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04   Secondary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [32] StaticPoliceCar
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04   Secondary Spawner: "Infected", active: yes, repeat: 1
+12:01:04 [33] TrajectoryApple
+12:01:04   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:01:04 [34] TrajectoryConiferous
+12:01:04   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:01:04 [35] TrajectoryDeciduous
+12:01:04   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:01:04 [36] TrajectoryHumus
+12:01:04   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:01:04 [37] TrajectoryPear
+12:01:04   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:01:04 [38] TrajectoryPlum
+12:01:04   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:01:04 [39] TrajectoryStones
+12:01:04   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:01:04 [40] StaticVanPinkies
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04 [41] StaticVanAmbulance
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04 [42] StaticSkeletonEventspawn
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04 [43] StaticPlantFernA
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04 [44] StaticPlantFernB
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04 [45] StaticPlantFernC
+12:01:04   Primary Spawner: "Static", active: yes, repeat: 1
+12:01:04 [46] AnimalCrab
+12:01:04   Primary Spawner: "Animal", active: yes, repeat: 1
+12:01:04 [47] AZLK_rust
+12:01:04 [48] HAMMER_H1_rust
+12:01:04 [49] Interceptor
+12:01:04 [50] MUSTANG_rust
+12:01:04 [51] MotorHome_rust
+12:01:04 [52] ToyotaHilux_rust
+12:01:04 [53] ZIL130_rust
+12:01:04 [54] M35a2_Rust
+12:01:04 [55] VehicleMH6Helicopter
+12:01:04   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:01:04 [56] VehicleMerlinHelicopter
+12:01:04   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:01:04 [57] VehicleUh1hHelicopter
+12:01:04   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:01:04 [58] VehicleGyroHelicopter
+12:01:04   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:01:04 [59] VehicleUtilityBoat
+12:01:04   Primary Spawner: "Vehicle", active: no, repeat: 1
+12:01:04 [CE][Hive] :: Init sequence finished.
+12:01:05 [IdleMode] Entering IN - save processed
+12:01:05 BattlEye Server: Player #0 Stahlhelm Sturm (86.152.240.89:2304) connected
+12:01:05 Player Stahlhelm Sturm connecting.
+12:01:05 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid ) Entering WaitAuthPlayerLoginState
+12:01:06 BattlEye Server: Connected to BE Master
+12:01:06 [IdleMode] Leaving OUT
+12:01:07 BattlEye Server: Player #0 Stahlhelm Sturm - BE GUID: 37a0c3a68c1cff3b83750f10c97bf912
+12:01:08 BattlEye Server: Verified GUID (37a0c3a68c1cff3b83750f10c97bf912) of player #0 Stahlhelm Sturm
+12:01:08 Player Stahlhelm Sturm connected (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=).
+12:01:08 Player "Stahlhelm Sturm" is connected (steamID=76561198065479180)
+12:01:08 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid ) Entering WaitPlayerAssignedLoginState
+12:01:14 Average server FPS: 16696.90 (measured interval: 10 s)
+12:01:15 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) Entering DBGetLoginTimeLoginState
+12:01:15 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) Entering DBWaitLoginTimeLoginState
+12:01:22 BattlEye Server: RCon admin #0 (5.161.42.56:59351) logged in
+12:01:24 Average server FPS: 26622.10 (measured interval: 10 s)
+12:01:28 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "ExpansionHelipadKit"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "ExpansionHescoKit"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "ExpansionCamoTentKit"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "ExpansionCamoBoxKit"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "ExpansionBarrierGateKit"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Chips"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "geb_BigGameFishingline"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "geb_FlyFishingLine"
+12:01:29 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "geb_SaltwaterFishingLine"
+12:01:30 !!! [CE][Point] Removing 7209.069336, 5885.751953 from Land_Shed_M3
+12:01:30 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Plastic_Explosive"
+12:01:30 !!! [CE][Point] Removing 3799.198730, 9728.458984 from Land_jmc_cabin01
+12:01:30 !!! [CE][Point] Removing 7595.527832, 9920.672852 from Land_jmc_cabin01
+12:01:30 !!! [CE][Point] Removing 3670.696289, 9776.938477 from Land_jmc_cabin01
+12:01:30 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "RemoteDetonator"
+12:01:30 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "GreatHelm"
+12:01:30 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Chestplate"
+12:01:30 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) Entering DBGetCharacterLoginState
+12:01:30 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) Entering CreateNetObjectsLoginState
+12:01:30 Player Stahlhelm Sturm dpid=921674526 at pos (8916.7, 5.2, 8677.5) 
+12:01:30 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) Entering PreloadCamLoginState
+12:01:30 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) Entering WaitPreloadCamLoginState
+12:01:30 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "M79"
+12:01:34 Average server FPS: 25629.40 (measured interval: 10 s)
+12:01:35 [StateMachine]: Player Stahlhelm Sturm (dpnid 921674526 uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) Entering GetLoadedCharLoginState
+12:01:35 <LOAD EXISTING CHAR>:
+    charID 57
+    playerID 57
+    dpnid 921674526
+    uid Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+12:01:35 [Login]: Adding player Delgo (891734714) to login queue at position 0
+12:01:35 [LoginMachine]: Add player Delgo (891734714 94.4.199.90:2304)
+12:01:35 [StateMachine]: Player Delgo (dpnid 891734714 uid ) Entering AuthPlayerLoginState
+12:01:36 BattlEye Server: Player #1 Delgo (94.4.199.90:2304) connected
+12:01:36 Player Delgo connecting.
+12:01:36 [StateMachine]: Player Delgo (dpnid 891734714 uid ) Entering WaitAuthPlayerLoginState
+12:01:37 BattlEye Server: Player #1 Delgo - BE GUID: 1f03117a6165f44725495fa4eb59b19f
+12:01:38 BattlEye Server: Verified GUID (1f03117a6165f44725495fa4eb59b19f) of player #1 Delgo
+12:01:38 Player Delgo connected (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=).
+12:01:38 Player "Delgo" is connected (steamID=76561198882142449)
+12:01:38 [StateMachine]: Player Delgo (dpnid 891734714 uid ) Entering WaitPlayerAssignedLoginState
+12:01:44 Average server FPS: 14102.80 (measured interval: 10 s)
+12:01:47 [StateMachine]: Player Delgo (dpnid 891734714 uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) Entering DBGetLoginTimeLoginState
+12:01:47 [StateMachine]: Player Delgo (dpnid 891734714 uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) Entering DBWaitLoginTimeLoginState
+12:01:48 [Login]: Adding player [NBY2] grenfell (856405524) to login queue at position 0
+12:01:48 [LoginMachine]: Add player [NBY2] grenfell (856405524 82.33.113.183:2304)
+12:01:48 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid ) Entering AuthPlayerLoginState
+12:01:49 BattlEye Server: Player #2 [NBY2] grenfell (82.33.113.183:2304) connected
+12:01:49 Player [NBY2] grenfell connecting.
+12:01:49 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid ) Entering WaitAuthPlayerLoginState
+12:01:50 BattlEye Server: Player #2 [NBY2] grenfell - BE GUID: 17c890f5cc0778cf9cf904b6ee74b611
+12:01:51 BattlEye Server: Verified GUID (17c890f5cc0778cf9cf904b6ee74b611) of player #2 [NBY2] grenfell
+12:01:51 Player [NBY2] grenfell connected (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=).
+12:01:51 Player "[NBY2] grenfell" is connected (steamID=76561199193910123)
+12:01:51 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid ) Entering WaitPlayerAssignedLoginState
+12:01:53 BattlEye Server: RCon admin #0 (5.161.42.56:34484) logged in
+12:01:54 Average server FPS: 13727.30 (measured interval: 10 s)
+12:01:55 !!! [CE][Point] Removing 7152.188965, 11606.745117 from Land_BusStation_wall_bench
+12:01:55 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "WomanSuit_Black"
+12:01:55 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "M79"
+12:01:56 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "Sword"
+12:01:56 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Chainmail_Leggings"
+12:01:56 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Mace"
+12:01:56 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Chainmail"
+12:01:56 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "MedievalBoots"
+12:01:57 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "MVS_Combat_Vest_Yellow_Camo_Bunker"
+12:01:58 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+12:01:59 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+12:01:59 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+12:01:59 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+12:01:59 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+12:01:59 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+12:02:01 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering DBGetLoginTimeLoginState
+12:02:01 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering DBWaitLoginTimeLoginState
+12:02:02 [StateMachine]: Player Delgo (dpnid 891734714 uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) Entering DBGetCharacterLoginState
+12:02:02 [StateMachine]: Player Delgo (dpnid 891734714 uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) Entering CreateNetObjectsLoginState
+12:02:02 Player Delgo dpid=891734714 at pos (6924.9, 10.9, 5416.4) 
+12:02:02 [StateMachine]: Player Delgo (dpnid 891734714 uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) Entering PreloadCamLoginState
+12:02:02 [StateMachine]: Player Delgo (dpnid 891734714 uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) Entering WaitPreloadCamLoginState
+12:02:04 Average server FPS: 13214.30 (measured interval: 10 s)
+12:02:04 [StateMachine]: Player Delgo (dpnid 891734714 uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) Entering GetLoadedCharLoginState
+12:02:04 <LOAD EXISTING CHAR>:
+    charID 76
+    playerID 76
+    dpnid 891734714
+    uid jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=
+12:02:14 Average server FPS: 10297.60 (measured interval: 10 s)
+12:02:16 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering DBGetCharacterLoginState
+12:02:16 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering CreateNetObjectsLoginState
+12:02:16 Player [NBY2] grenfell dpid=856405524 at pos (6924.8, 10.9, 5415.0) 
+12:02:16 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering PreloadCamLoginState
+12:02:16 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering WaitPreloadCamLoginState
+12:02:20 [StateMachine]: Player [NBY2] grenfell (dpnid 856405524 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering GetLoadedCharLoginState
+12:02:20 <LOAD EXISTING CHAR>:
+    charID 73
+    playerID 73
+    dpnid 856405524
+    uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=
+12:02:23 BattlEye Server: RCon admin #1 (5.161.42.56:36028) logged in
+12:02:23 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "GorkaEJacket_Black_Camo2"
+12:02:24 Average server FPS: 9643.70 (measured interval: 10 s)
+12:02:26 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+12:02:26 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+12:02:34 Average server FPS: 8932.70 (measured interval: 10 s)
+12:02:35 [UNLOCK] Server was unlocked.
+12:02:35 BattlEye Server: Command received: #unlock Result: OK
+12:02:44 Average server FPS: 8528.80 (measured interval: 10 s)
+12:02:49 !!! [CE][Point] Removing 3659.596680, 9764.916992 from Land_jmc_cabin01
+12:02:49 !!! [CE][Point] Removing 7604.373047, 9933.653320 from Land_jmc_cabin01
+12:02:49 !!! [CE][Point] Removing 3814.652832, 9725.648438 from Land_jmc_cabin01
+12:02:50 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ParamedicJacket_Crimson"
+12:02:50 !!! [CE][Point] Removing 5013.100586, 7030.356934 from Land_strazni_vez
+12:02:54 Average server FPS: 8718.00 (measured interval: 10 s)
+12:03:04 Average server FPS: 9011.30 (measured interval: 10 s)
+12:03:14 Average server FPS: 8681.30 (measured interval: 10 s)
+12:03:16 !!! [CE][Point] Removing 7166.809570, 11665.891602 from Land_BusStation_wall_bench
+12:03:17 !!! [CE][Point] Removing 7166.823242, 11664.680664 from Land_BusStation_wall_bench
+12:03:17 !!! [CE][Point] Removing 3786.303955, 9675.597656 from Land_jmc_cabin01
+12:03:18 !!! [CE][Point] Removing 3741.319092, 9728.391602 from Land_jmc_cabin01
+12:03:24 Average server FPS: 8671.10 (measured interval: 10 s)
+12:03:34 Average server FPS: 8947.70 (measured interval: 10 s)
+12:03:43 !!! [CE][Point] Removing 3682.018311, 9740.116211 from Land_jmc_cabin01
+12:03:43 !!! [CE][Point] Removing 3825.572998, 9620.361328 from Land_jmc_cabin01
+12:03:43 !!! [CE][Point] Removing 3800.797363, 9668.003906 from Land_jmc_cabin01
+12:03:43 !!! [CE][Point] Removing 3665.854492, 9737.577148 from Land_jmc_cabin01
+12:03:44 !!! [CE][Point] Removing 7180.963867, 11676.881836 from Land_BusStation_wall_bench
+12:03:44 Average server FPS: 8475.60 (measured interval: 10 s)
+12:03:44 !!! [CE][Point] Removing 3740.359863, 9744.070313 from Land_jmc_cabin01
+12:03:45 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "PoliceVest_Green_Camo"
+12:03:45 !!! [CE][Point] Removing 3839.265137, 9611.403320 from Land_jmc_cabin01
+12:03:54 Average server FPS: 8861.50 (measured interval: 10 s)
+12:04:04 Average server FPS: 8466.40 (measured interval: 10 s)
+12:04:10 !!! [CE][Point] Removing 7153.399902, 11606.755859 from Land_BusStation_wall_bench
+12:04:11 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "MVS_Pack_Green_Camo"
+12:04:11 !!! [CE][Point] Removing 6860.880859, 2058.875732 from Land_Mil_GuardShed
+12:04:12 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "MVS_Combat_Vest_Heavy_Green_Camo"
+12:04:14 Average server FPS: 8554.20 (measured interval: 10 s)
+12:04:24 Average server FPS: 8865.40 (measured interval: 10 s)
+12:04:34 Average server FPS: 8435.50 (measured interval: 10 s)
+12:04:35 BattlEye Server: RCon admin #1: (Global) Know the rules! Hit 'B' to read up!
+12:04:37 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "Ruger1022"
+12:04:37 !!! [CE][Point] Removing 6859.512207, 2058.318604 from Land_Mil_GuardShed
+12:04:37 !!! [CE][Point] Removing 3665.854492, 9737.577148 from Land_jmc_cabin01
+12:04:37 !!! [CE][Point] Removing 3839.265137, 9611.403320 from Land_jmc_cabin01
+12:04:38 !!! [CE][Point] Removing 5012.430664, 7031.604004 from Land_strazni_vez
+12:04:44 Average server FPS: 8774.30 (measured interval: 10 s)
+12:04:54 Average server FPS: 8235.90 (measured interval: 10 s)
+12:05:04 Average server FPS: 8184.50 (measured interval: 10 s)
+12:05:04 !!! [CE][Point] Removing 5178.832520, 9114.549805 from Land_strazni_vez
+12:05:04 !!! [CE][Point] Removing 4509.429688, 7196.737305 from Land_strazni_vez
+12:05:04 !!! [CE][Point] Removing 7180.955078, 11678.092773 from Land_BusStation_wall_bench
+12:05:14 Average server FPS: 8413.60 (measured interval: 10 s)
+12:05:24 Average server FPS: 8596.50 (measured interval: 10 s)
+12:05:34 Average server FPS: 8346.30 (measured interval: 10 s)
+12:05:34 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+12:05:44 Average server FPS: 8648.30 (measured interval: 10 s)
+12:05:54 Average server FPS: 8518.10 (measured interval: 10 s)
+12:05:59 !!! [CE][Point] Removing 3748.995850, 9730.172852 from Land_jmc_cabin01
+12:06:04 Average server FPS: 8346.80 (measured interval: 10 s)
+12:06:14 Average server FPS: 8676.80 (measured interval: 10 s)
+12:06:24 Average server FPS: 8046.00 (measured interval: 10 s)
+12:06:26 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "PoliceVest_ELRD_Camo"
+12:06:26 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "PoliceVest_ELRD_Camo"
+12:06:26 !!! [CE][Point] Removing 3800.797363, 9668.003906 from Land_jmc_cabin01
+12:06:26 !!! [CE][Point] Removing 10954.834961, 2310.084961 from Land_Mil_GuardShed
+12:06:34 Average server FPS: 8797.80 (measured interval: 10 s)
+12:06:35 BattlEye Server: RCon admin #1: (Global) Help shape the world! Discord.42MonthsAfter.com
+12:06:44 Average server FPS: 7929.10 (measured interval: 10 s)
+12:06:52 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "ZmijovkaCap_Black"
+12:06:52 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "ZmijovkaCap_Black"
+12:06:54 Average server FPS: 7735.00 (measured interval: 10 s)
+12:06:54 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+12:07:04 Average server FPS: 8681.90 (measured interval: 10 s)
+12:07:14 Average server FPS: 8191.30 (measured interval: 10 s)
+12:07:18 !!! [CE][Point] Removing 5178.355957, 9112.571289 from Land_strazni_vez
+12:07:18 !!! [CE][Point] Removing 7160.763672, 11576.671875 from Land_BusStation_wall_bench
+12:07:18 !!! [CE][Point] Removing 7180.978516, 11679.879883 from Land_BusStation_wall_bench
+12:07:19 !!! [CE][Point] Removing 5013.819824, 7032.260742 from Land_strazni_vez
+12:07:19 !!! [CE][Point] Removing 4589.254395, 7326.842773 from Land_strazni_vez
+12:07:19 !!! [CE][Point] Removing 4609.027344, 6995.481445 from Land_strazni_vez
+12:07:19 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "BoonieHat_Red"
+12:07:20 !!! [CE][Point] Removing 3659.596680, 9764.916992 from Land_jmc_cabin01
+12:07:20 !!! [CE][Point] Removing 3667.205322, 9745.340820 from Land_jmc_cabin01
+12:07:24 Average server FPS: 8454.50 (measured interval: 10 s)
+12:07:34 Average server FPS: 8664.90 (measured interval: 10 s)
+12:07:44 Average server FPS: 8345.20 (measured interval: 10 s)
+12:07:46 !!! [CE][Point] Removing 3655.837891, 9771.842773 from Land_jmc_cabin01
+12:07:54 Average server FPS: 7562.40 (measured interval: 10 s)
+12:08:04 Average server FPS: 8087.40 (measured interval: 10 s)
+12:08:12 !!! [CE][Point] Removing 7161.974609, 11576.686523 from Land_BusStation_wall_bench
+12:08:13 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "MVS_ArmoredHelmet_Black_Camo2"
+12:08:13 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "MVS_Compact_1_Multicam"
+12:08:13 !!! [CE][Point] Removing 7179.458008, 11682.573242 from Land_BusStation_wall_bench
+12:08:14 !!! [CE][Point] Removing 7180.969727, 11681.090820 from Land_BusStation_wall_bench
+12:08:14 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "MVS_SlingPack_OD"
+12:08:14 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "MVS_Combat_Vest_OD"
+12:08:14 Average server FPS: 8241.50 (measured interval: 10 s)
+12:08:24 Average server FPS: 7889.70 (measured interval: 10 s)
+12:08:25 [Login]: Adding player FARRIS (227341363) to login queue at position 0
+12:08:25 [LoginMachine]: Add player FARRIS (227341363 68.38.45.139:2304)
+12:08:25 [StateMachine]: Player FARRIS (dpnid 227341363 uid ) Entering AuthPlayerLoginState
+12:08:25 BattlEye Server: Player #3 FARRIS (68.38.45.139:2304) connected
+12:08:25 Player FARRIS connecting.
+12:08:25 [StateMachine]: Player FARRIS (dpnid 227341363 uid ) Entering WaitAuthPlayerLoginState
+12:08:27 BattlEye Server: Player #3 FARRIS - BE GUID: 96d93738360985edffffb3751ff7b250
+12:08:28 BattlEye Server: Verified GUID (96d93738360985edffffb3751ff7b250) of player #3 FARRIS
+12:08:28 Player FARRIS connected (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=).
+12:08:28 Player "FARRIS" is connected (steamID=76561199492177456)
+12:08:28 [StateMachine]: Player FARRIS (dpnid 227341363 uid ) Entering WaitPlayerAssignedLoginState
+12:08:34 Average server FPS: 6581.20 (measured interval: 10 s)
+12:08:35 BattlEye Server: RCon admin #1: (Global) Base raiding on weekends only! Hit 'B' for details.
+12:08:39 [StateMachine]: Player FARRIS (dpnid 227341363 uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) Entering DBGetLoginTimeLoginState
+12:08:39 [StateMachine]: Player FARRIS (dpnid 227341363 uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) Entering DBWaitLoginTimeLoginState
+12:08:41 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "Sweater_Gray"
+12:08:41 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "Sweater_Gray"
+12:08:44 Average server FPS: 6804.00 (measured interval: 10 s)
+12:08:54 [StateMachine]: Player FARRIS (dpnid 227341363 uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) Entering DBGetCharacterLoginState
+12:08:54 [StateMachine]: Player FARRIS (dpnid 227341363 uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) Entering CreateNetObjectsLoginState
+12:08:54 Player FARRIS dpid=227341363 at pos (7373.8, 40.0, 3258.7) 
+12:08:54 [StateMachine]: Player FARRIS (dpnid 227341363 uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) Entering PreloadCamLoginState
+12:08:54 [StateMachine]: Player FARRIS (dpnid 227341363 uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) Entering WaitPreloadCamLoginState
+12:08:54 Average server FPS: 8798.90 (measured interval: 10 s)
+12:08:58 [StateMachine]: Player FARRIS (dpnid 227341363 uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) Entering GetLoadedCharLoginState
+12:08:58 <LOAD EXISTING CHAR>:
+    charID 11
+    playerID 11
+    dpnid 227341363
+    uid Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=
+12:09:02 BattlEye Server: RCon admin #1: (To FARRIS) Welcome on 42 Months After | Hard Core PvEvP | AI | Trader | PvP Zones
+12:09:04 Average server FPS: 7538.20 (measured interval: 10 s)
+12:09:14 Average server FPS: 7458.60 (measured interval: 10 s)
+12:09:24 Average server FPS: 4527.40 (measured interval: 10 s)
+12:09:33 !!! [CE][Point] Removing 7178.961426, 11586.178711 from Land_BusStation_wall_bench
+12:09:34 Average server FPS: 5521.50 (measured interval: 10 s)
+12:09:34 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "BalaclavaMask_Tigr_Camo"
+12:09:35 !!! [CE][Point] Removing 4508.708984, 7197.955078 from Land_strazni_vez
+12:09:44 Average server FPS: 6475.20 (measured interval: 10 s)
+12:09:54 Average server FPS: 7111.80 (measured interval: 10 s)
+12:10:02 !!! [CE][Point] Removing 5014.596680, 7030.498047 from Land_strazni_vez
+12:10:04 Average server FPS: 7025.50 (measured interval: 10 s)
+12:10:14 Average server FPS: 6715.20 (measured interval: 10 s)
+12:10:24 Average server FPS: 3331.60 (measured interval: 10 s)
+12:10:27 !!! [CE][Point] Removing 3322.200439, 6256.439453 from Land_Mil_GuardShed
+12:10:27 !!! [CE][Point] Removing 7602.687012, 9917.378906 from Land_jmc_cabin01
+12:10:27 !!! [CE][Point] Removing 7177.750488, 11586.165039 from Land_BusStation_wall_bench
+12:10:30 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+12:10:34 Average server FPS: 3604.10 (measured interval: 10 s)
+12:10:35 BattlEye Server: RCon admin #1: (Global) Monthly givaways worth $100! Join the Discord!
+12:10:44 Average server FPS: 3731.10 (measured interval: 10 s)
+12:10:54 Average server FPS: 4551.80 (measured interval: 10 s)
+12:10:54 !!! [CE][Point] Removing 5177.536133, 9113.724609 from Land_strazni_vez
+12:10:55 !!! [CE][Point] Removing 7178.247070, 11682.559570 from Land_BusStation_wall_bench
+12:10:55 !!! [CE][Point] Removing 7193.995605, 11575.596680 from Land_BusStation_wall_bench
+12:11:04 Average server FPS: 4410.60 (measured interval: 10 s)
+12:11:14 Average server FPS: 3980.90 (measured interval: 10 s)
+12:11:21 !!! [CE][Point] Removing 3833.055664, 9606.549805 from Land_jmc_cabin01
+12:11:24 Average server FPS: 6969.60 (measured interval: 10 s)
+12:11:34 Average server FPS: 7640.00 (measured interval: 10 s)
+12:11:44 Average server FPS: 6982.50 (measured interval: 10 s)
+12:11:49 !!! [CE][Point] Removing 3814.755859, 9733.528320 from Land_jmc_cabin01
+12:11:54 Average server FPS: 7165.20 (measured interval: 10 s)
+12:12:04 Average server FPS: 7383.10 (measured interval: 10 s)
+12:12:14 Average server FPS: 7523.40 (measured interval: 10 s)
+12:12:24 Average server FPS: 7163.70 (measured interval: 10 s)
+12:12:34 Average server FPS: 6312.60 (measured interval: 10 s)
+12:12:42 !!! [CE][Point] Removing 3795.085693, 9662.574219 from Land_jmc_cabin01
+12:12:42 !!! [CE][Point] Removing 4588.980469, 7324.826172 from Land_strazni_vez
+12:12:42 !!! [CE][Point] Removing 4608.319824, 6996.845215 from Land_strazni_vez
+12:12:42 !!! [CE][Point] Removing 7623.883789, 9951.583984 from Land_jmc_cabin01
+12:12:42 !!! [CE][Point] Removing 7602.687012, 9917.378906 from Land_jmc_cabin01
+12:12:43 !!! [CE][Point] Removing 3323.343994, 6255.940918 from Land_Mil_GuardShed
+12:12:44 Average server FPS: 5745.00 (measured interval: 10 s)
+12:12:54 Average server FPS: 6447.00 (measured interval: 10 s)
+12:13:04 Average server FPS: 6165.20 (measured interval: 10 s)
+12:13:09 !!! [CE][Point] Removing 3814.755859, 9733.528320 from Land_jmc_cabin01
+12:13:14 Average server FPS: 5667.30 (measured interval: 10 s)
+12:13:24 Average server FPS: 6357.30 (measured interval: 10 s)
+12:13:34 Average server FPS: 6279.30 (measured interval: 10 s)
+12:13:39 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+12:13:44 Average server FPS: 5792.00 (measured interval: 10 s)
+12:13:54 Average server FPS: 6367.10 (measured interval: 10 s)
+12:14:04 Average server FPS: 5195.80 (measured interval: 10 s)
+12:14:04 !!! [CE][Point] Removing 5179.822754, 9112.897461 from Land_strazni_vez
+12:14:14 Average server FPS: 4406.90 (measured interval: 10 s)
+12:14:24 Average server FPS: 3685.10 (measured interval: 10 s)
+12:14:30 !!! [CE][Point] Removing 4590.406738, 7325.298828 from Land_strazni_vez
+12:14:30 !!! [CE][Point] Removing 4610.249023, 6996.196777 from Land_strazni_vez
+12:14:34 Average server FPS: 3575.50 (measured interval: 10 s)
+12:14:44 Average server FPS: 3907.70 (measured interval: 10 s)
+12:14:54 Average server FPS: 4175.00 (measured interval: 10 s)
+12:14:57 !!! [CE][Point] Removing 4510.918945, 7196.940430 from Land_strazni_vez
+12:15:04 Average server FPS: 3779.00 (measured interval: 10 s)
+12:15:14 Average server FPS: 5731.90 (measured interval: 10 s)
+12:15:24 Average server FPS: 5552.50 (measured interval: 10 s)
+12:15:34 Average server FPS: 6575.70 (measured interval: 10 s)
+12:15:44 Average server FPS: 6227.80 (measured interval: 10 s)
+12:15:54 Average server FPS: 6211.10 (measured interval: 10 s)
+12:16:04 Average server FPS: 6401.40 (measured interval: 10 s)
+12:16:14 Average server FPS: 6306.60 (measured interval: 10 s)
+12:16:17 !!! [CE][Point] Removing 7195.206543, 11575.607422 from Land_BusStation_wall_bench
+12:16:18 !!! [CE][Point] Removing 6860.459961, 2057.507568 from Land_Mil_GuardShed
+12:16:19 !!! [CE][Point] Removing 7628.975098, 9945.568359 from Land_jmc_cabin01
+12:16:24 Average server FPS: 6431.50 (measured interval: 10 s)
+12:16:34 Average server FPS: 6576.40 (measured interval: 10 s)
+12:16:44 Average server FPS: 6569.40 (measured interval: 10 s)
+12:16:45 !!! [CE][Point] Removing 4510.069336, 7198.668945 from Land_strazni_vez
+12:16:48 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+12:16:54 Average server FPS: 6626.70 (measured interval: 10 s)
+12:17:04 Average server FPS: 6595.30 (measured interval: 10 s)
+12:17:12 !!! [CE][Point] Removing 3322.197754, 6255.008301 from Land_Mil_GuardShed
+12:17:14 Average server FPS: 6468.40 (measured interval: 10 s)
+12:17:24 Average server FPS: 6545.20 (measured interval: 10 s)
+12:17:34 Average server FPS: 6326.70 (measured interval: 10 s)
+12:17:44 Average server FPS: 6264.30 (measured interval: 10 s)
+12:17:54 Average server FPS: 6450.80 (measured interval: 10 s)
+12:18:04 Average server FPS: 6263.00 (measured interval: 10 s)
+12:18:05 !!! [CE][Point] Removing 7144.927246, 11637.821289 from Land_BusStation_wall_bench
+12:18:06 !!! [CE][Point] Removing 7615.466797, 9937.552734 from Land_jmc_cabin01
+12:18:14 Average server FPS: 6342.90 (measured interval: 10 s)
+12:18:24 Average server FPS: 6543.50 (measured interval: 10 s)
+12:18:32 !!! [CE][Point] Removing 7144.937988, 11636.609375 from Land_BusStation_wall_bench
+12:18:34 Average server FPS: 6478.20 (measured interval: 10 s)
+12:18:44 Average server FPS: 6723.20 (measured interval: 10 s)
+12:18:54 Average server FPS: 6573.40 (measured interval: 10 s)
+12:18:59 !!! [CE][Point] Removing 10954.425781, 2308.713623 from Land_Mil_GuardShed
+12:19:00 !!! [CE][Point] Removing 7178.572754, 11600.803711 from Land_BusStation_wall_bench
+12:19:04 Average server FPS: 6721.20 (measured interval: 10 s)
+12:19:14 Average server FPS: 6929.70 (measured interval: 10 s)
+12:19:24 Average server FPS: 6555.20 (measured interval: 10 s)
+12:19:34 Average server FPS: 6198.10 (measured interval: 10 s)
+12:19:44 Average server FPS: 6453.40 (measured interval: 10 s)
+12:19:52 !!! [CE][Point] Removing 3425.065674, 13659.123047 from Land_Boat_Small1
+12:19:53 !!! [CE][Point] Removing 4588.048340, 7325.891113 from Land_strazni_vez
+12:19:54 Average server FPS: 6334.10 (measured interval: 10 s)
+12:20:04 Average server FPS: 6540.40 (measured interval: 10 s)
+12:20:14 Average server FPS: 6577.30 (measured interval: 10 s)
+12:20:24 Average server FPS: 6629.80 (measured interval: 10 s)
+12:20:34 Average server FPS: 6714.80 (measured interval: 10 s)
+12:20:44 Average server FPS: 6596.50 (measured interval: 10 s)
+12:20:54 Average server FPS: 6740.20 (measured interval: 10 s)
+12:21:04 Average server FPS: 6660.00 (measured interval: 10 s)
+12:21:14 !!! [CE][Point] Removing 10955.789063, 2309.281982 from Land_Mil_GuardShed
+12:21:14 Average server FPS: 6474.20 (measured interval: 10 s)
+12:21:14 !!! [CE][Point] Removing 4610.052734, 6997.686523 from Land_strazni_vez
+12:21:24 Average server FPS: 6788.70 (measured interval: 10 s)
+12:21:34 Average server FPS: 6695.70 (measured interval: 10 s)
+12:21:41 !!! [CE][Point] Removing 3748.995850, 9730.172852 from Land_jmc_cabin01
+12:21:44 Average server FPS: 6671.70 (measured interval: 10 s)
+12:21:44 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:21:54 Average server FPS: 6820.80 (measured interval: 10 s)
+12:22:04 Average server FPS: 6541.00 (measured interval: 10 s)
+12:22:14 Average server FPS: 6543.90 (measured interval: 10 s)
+12:22:24 Average server FPS: 6703.10 (measured interval: 10 s)
+12:22:34 Average server FPS: 7056.70 (measured interval: 10 s)
+12:22:44 Average server FPS: 7318.80 (measured interval: 10 s)
+12:22:54 Average server FPS: 7317.90 (measured interval: 10 s)
+12:23:03 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+12:23:03 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+12:23:04 Average server FPS: 7390.70 (measured interval: 10 s)
+12:23:14 Average server FPS: 7606.80 (measured interval: 10 s)
+12:23:24 Average server FPS: 7350.80 (measured interval: 10 s)
+12:23:34 Average server FPS: 7534.90 (measured interval: 10 s)
+12:23:44 Average server FPS: 7557.60 (measured interval: 10 s)
+12:23:54 Average server FPS: 7309.50 (measured interval: 10 s)
+12:24:04 Average server FPS: 7409.50 (measured interval: 10 s)
+12:24:14 Average server FPS: 7370.10 (measured interval: 10 s)
+12:24:22 !!! [CE][Point] Removing 7623.883789, 9951.583984 from Land_jmc_cabin01
+12:24:24 Average server FPS: 7112.70 (measured interval: 10 s)
+12:24:34 Average server FPS: 7412.30 (measured interval: 10 s)
+12:24:44 Average server FPS: 7339.40 (measured interval: 10 s)
+12:24:54 Average server FPS: 7506.10 (measured interval: 10 s)
+12:25:04 Average server FPS: 7587.50 (measured interval: 10 s)
+12:25:14 Average server FPS: 7490.30 (measured interval: 10 s)
+12:25:24 Average server FPS: 7751.90 (measured interval: 10 s)
+12:25:34 Average server FPS: 7653.20 (measured interval: 10 s)
+12:25:44 Average server FPS: 7358.50 (measured interval: 10 s)
+12:25:54 Average server FPS: 7584.50 (measured interval: 10 s)
+12:26:04 Average server FPS: 7511.70 (measured interval: 10 s)
+12:26:14 Average server FPS: 7489.40 (measured interval: 10 s)
+12:26:24 Average server FPS: 7760.00 (measured interval: 10 s)
+12:26:34 Average server FPS: 7290.60 (measured interval: 10 s)
+12:26:44 Average server FPS: 7508.70 (measured interval: 10 s)
+12:26:54 Average server FPS: 7686.60 (measured interval: 10 s)
+12:27:04 Average server FPS: 7497.10 (measured interval: 10 s)
+12:27:14 Average server FPS: 7577.90 (measured interval: 10 s)
+12:27:24 Average server FPS: 7616.10 (measured interval: 10 s)
+12:27:34 Average server FPS: 7615.00 (measured interval: 10 s)
+12:27:44 Average server FPS: 7694.60 (measured interval: 10 s)
+12:27:54 Average server FPS: 7342.40 (measured interval: 10 s)
+12:28:04 Average server FPS: 7587.30 (measured interval: 10 s)
+12:28:14 Average server FPS: 7538.50 (measured interval: 10 s)
+12:28:24 Average server FPS: 7582.60 (measured interval: 10 s)
+12:28:34 Average server FPS: 7859.20 (measured interval: 10 s)
+12:28:44 Average server FPS: 7636.10 (measured interval: 10 s)
+12:28:54 Average server FPS: 7612.90 (measured interval: 10 s)
+12:29:04 Average server FPS: 7781.90 (measured interval: 10 s)
+12:29:14 Average server FPS: 7530.60 (measured interval: 10 s)
+12:29:24 Average server FPS: 7357.30 (measured interval: 10 s)
+12:29:34 Average server FPS: 7588.30 (measured interval: 10 s)
+12:29:44 Average server FPS: 7631.00 (measured interval: 10 s)
+12:29:54 Average server FPS: 7977.60 (measured interval: 10 s)
+12:30:04 Average server FPS: 7903.20 (measured interval: 10 s)
+12:30:14 Average server FPS: 7764.70 (measured interval: 10 s)
+12:30:24 Average server FPS: 7976.30 (measured interval: 10 s)
+12:30:34 Average server FPS: 7747.80 (measured interval: 10 s)
+12:30:44 Average server FPS: 7826.20 (measured interval: 10 s)
+12:30:54 Average server FPS: 7933.30 (measured interval: 10 s)
+12:31:04 Average server FPS: 7589.80 (measured interval: 10 s)
+12:31:14 Average server FPS: 7756.90 (measured interval: 10 s)
+12:31:24 Average server FPS: 7884.70 (measured interval: 10 s)
+12:31:32 !!! [CE][Point] Removing 7174.402832, 11670.660156 from Land_BusStation_wall_bench
+12:31:34 Average server FPS: 7710.70 (measured interval: 10 s)
+12:31:44 Average server FPS: 7919.20 (measured interval: 10 s)
+12:31:54 Average server FPS: 7775.60 (measured interval: 10 s)
+12:32:04 Average server FPS: 7646.40 (measured interval: 10 s)
+12:32:14 Average server FPS: 7922.00 (measured interval: 10 s)
+12:32:24 Average server FPS: 7697.80 (measured interval: 10 s)
+12:32:34 Average server FPS: 7941.90 (measured interval: 10 s)
+12:32:44 Average server FPS: 7892.00 (measured interval: 10 s)
+12:32:54 Average server FPS: 7404.80 (measured interval: 10 s)
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:32:57 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+12:33:04 Average server FPS: 7423.90 (measured interval: 10 s)
+12:33:14 Average server FPS: 7746.90 (measured interval: 10 s)
+12:33:24 Average server FPS: 7808.00 (measured interval: 10 s)
+12:33:34 Average server FPS: 7942.20 (measured interval: 10 s)
+12:33:44 Average server FPS: 7635.00 (measured interval: 10 s)
+12:33:47 !!! [CE][Point] Removing 7546.456543, 9552.360352 from Land_Boat_Small1
+12:33:54 Average server FPS: 7893.60 (measured interval: 10 s)
+12:34:04 Average server FPS: 7953.10 (measured interval: 10 s)
+12:34:14 Average server FPS: 7705.80 (measured interval: 10 s)
+12:34:24 Average server FPS: 8029.00 (measured interval: 10 s)
+12:34:34 Average server FPS: 7842.30 (measured interval: 10 s)
+12:34:35 BattlEye Server: RCon admin #1: (Global) Know the rules! Hit 'B' to read up!
+12:34:44 Average server FPS: 7800.50 (measured interval: 10 s)
+12:34:54 Average server FPS: 7927.10 (measured interval: 10 s)
+12:35:04 Average server FPS: 7445.00 (measured interval: 10 s)
+12:35:14 Average server FPS: 7910.30 (measured interval: 10 s)
+12:35:24 Average server FPS: 7924.90 (measured interval: 10 s)
+12:35:34 Average server FPS: 7547.70 (measured interval: 10 s)
+12:35:44 Average server FPS: 7921.90 (measured interval: 10 s)
+12:35:54 Average server FPS: 7789.50 (measured interval: 10 s)
+12:36:03 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+12:36:04 Average server FPS: 7735.80 (measured interval: 10 s)
+12:36:14 Average server FPS: 7841.40 (measured interval: 10 s)
+12:36:24 Average server FPS: 7651.10 (measured interval: 10 s)
+12:36:34 Average server FPS: 7733.20 (measured interval: 10 s)
+12:36:35 BattlEye Server: RCon admin #1: (Global) Help shape the world! Discord.42MonthsAfter.com
+12:36:44 Average server FPS: 7591.10 (measured interval: 10 s)
+12:36:54 Average server FPS: 7253.50 (measured interval: 10 s)
+12:37:04 Average server FPS: 7429.10 (measured interval: 10 s)
+12:37:14 Average server FPS: 7384.70 (measured interval: 10 s)
+12:37:24 Average server FPS: 7173.30 (measured interval: 10 s)
+12:37:34 Average server FPS: 7479.00 (measured interval: 10 s)
+12:37:44 Average server FPS: 7418.70 (measured interval: 10 s)
+12:37:50 !!! [CE][Point] Removing 7767.465332, 3825.155273 from QuercusRobur_2d
+12:37:54 Average server FPS: 7283.80 (measured interval: 10 s)
+12:38:04 Average server FPS: 7548.90 (measured interval: 10 s)
+12:38:14 Average server FPS: 7278.40 (measured interval: 10 s)
+12:38:24 Average server FPS: 7533.80 (measured interval: 10 s)
+12:38:34 Average server FPS: 7471.30 (measured interval: 10 s)
+12:38:35 BattlEye Server: RCon admin #1: (Global) Base raiding on weekends only! Hit 'B' for details.
+12:38:44 Average server FPS: 7114.70 (measured interval: 10 s)
+12:38:54 Average server FPS: 7463.10 (measured interval: 10 s)
+12:39:04 Average server FPS: 7290.50 (measured interval: 10 s)
+12:39:12 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+12:39:14 Average server FPS: 7222.30 (measured interval: 10 s)
+12:39:24 Average server FPS: 7373.30 (measured interval: 10 s)
+12:39:34 Average server FPS: 7136.70 (measured interval: 10 s)
+12:39:37 !!! [CE][Point] Removing 7174.383789, 11671.871094 from Land_BusStation_wall_bench
+12:39:44 Average server FPS: 7015.00 (measured interval: 10 s)
+12:39:54 Average server FPS: 7205.80 (measured interval: 10 s)
+12:40:04 Average server FPS: 6908.30 (measured interval: 10 s)
+12:40:14 Average server FPS: 6575.00 (measured interval: 10 s)
+12:40:24 Average server FPS: 7034.90 (measured interval: 10 s)
+12:40:34 Average server FPS: 7053.80 (measured interval: 10 s)
+12:40:35 BattlEye Server: RCon admin #1: (Global) Monthly givaways worth $100! Join the Discord!
+12:40:44 Average server FPS: 7263.40 (measured interval: 10 s)
+12:40:54 Average server FPS: 7122.20 (measured interval: 10 s)
+12:40:54 [Login]: Adding player brailsford40 (96558658) to login queue at position 0
+12:40:54 [LoginMachine]: Add player brailsford40 (96558658 82.10.17.188:2304)
+12:40:54 [StateMachine]: Player brailsford40 (dpnid 96558658 uid ) Entering AuthPlayerLoginState
+12:40:55 BattlEye Server: Player #4 brailsford40 (82.10.17.188:2304) connected
+12:40:55 Player brailsford40 connecting.
+12:40:55 [StateMachine]: Player brailsford40 (dpnid 96558658 uid ) Entering WaitAuthPlayerLoginState
+12:40:58 BattlEye Server: Player #4 brailsford40 - BE GUID: 9cf3451e971d61e79bbac3c2d4d54822
+12:40:59 BattlEye Server: Verified GUID (9cf3451e971d61e79bbac3c2d4d54822) of player #4 brailsford40
+12:40:59 Player brailsford40 connected (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=).
+12:40:59 Player "brailsford40" is connected (steamID=76561198167865173)
+12:40:59 [StateMachine]: Player brailsford40 (dpnid 96558658 uid ) Entering WaitPlayerAssignedLoginState
+12:41:01 [StateMachine]: Player brailsford40 (dpnid 96558658 uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) Entering DBGetLoginTimeLoginState
+12:41:01 [StateMachine]: Player brailsford40 (dpnid 96558658 uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) Entering DBWaitLoginTimeLoginState
+12:41:04 Average server FPS: 7228.90 (measured interval: 10 s)
+12:41:14 Average server FPS: 7216.70 (measured interval: 10 s)
+12:41:16 [StateMachine]: Player brailsford40 (dpnid 96558658 uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) Entering DBGetCharacterLoginState
+12:41:16 [StateMachine]: Player brailsford40 (dpnid 96558658 uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) Entering CreateNetObjectsLoginState
+12:41:16 Player brailsford40 dpid=96558658 at pos (9821.6, 3.9, 7817.8) 
+12:41:16 [StateMachine]: Player brailsford40 (dpnid 96558658 uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) Entering PreloadCamLoginState
+12:41:16 [StateMachine]: Player brailsford40 (dpnid 96558658 uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) Entering WaitPreloadCamLoginState
+12:41:24 Average server FPS: 7195.40 (measured interval: 10 s)
+12:41:34 Average server FPS: 7215.80 (measured interval: 10 s)
+12:41:44 Average server FPS: 7248.40 (measured interval: 10 s)
+12:41:54 Average server FPS: 7201.00 (measured interval: 10 s)
+12:41:56 [StateMachine]: Player brailsford40 (dpnid 96558658 uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) Entering GetLoadedCharLoginState
+12:41:56 <LOAD EXISTING CHAR>:
+    charID 61
+    playerID 61
+    dpnid 96558658
+    uid HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+12:42:04 Average server FPS: 6206.10 (measured interval: 10 s)
+12:42:14 Average server FPS: 6053.90 (measured interval: 10 s)
+12:42:19 BattlEye Server: RCon admin #1: (To brailsford40) Welcome on 42 Months After | Hard Core PvEvP | AI | Trader | PvP Zones
+12:42:24 Average server FPS: 6203.60 (measured interval: 10 s)
+12:42:34 Average server FPS: 6216.30 (measured interval: 10 s)
+12:42:44 Average server FPS: 6042.50 (measured interval: 10 s)
+12:42:54 Average server FPS: 6058.10 (measured interval: 10 s)
+12:43:04 Average server FPS: 6095.30 (measured interval: 10 s)
+12:43:14 Average server FPS: 5932.40 (measured interval: 10 s)
+12:43:24 Average server FPS: 6210.60 (measured interval: 10 s)
+12:43:34 Average server FPS: 6019.60 (measured interval: 10 s)
+12:43:44 Average server FPS: 6077.00 (measured interval: 10 s)
+12:43:54 Average server FPS: 6020.10 (measured interval: 10 s)
+12:44:04 Average server FPS: 5919.20 (measured interval: 10 s)
+12:44:07 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+12:44:07 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+12:44:14 Average server FPS: 5989.40 (measured interval: 10 s)
+12:44:24 Average server FPS: 6197.70 (measured interval: 10 s)
+12:44:34 Average server FPS: 6036.20 (measured interval: 10 s)
+12:44:34 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+12:44:34 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+12:44:44 Average server FPS: 6219.60 (measured interval: 10 s)
+12:44:54 Average server FPS: 6173.80 (measured interval: 10 s)
+12:45:04 Average server FPS: 6136.80 (measured interval: 10 s)
+12:45:14 Average server FPS: 6220.70 (measured interval: 10 s)
+12:45:24 Average server FPS: 6067.90 (measured interval: 10 s)
+12:45:30 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+12:45:30 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+12:45:30 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+12:45:34 Average server FPS: 5985.00 (measured interval: 10 s)
+12:45:44 Average server FPS: 6251.70 (measured interval: 10 s)
+12:45:54 Average server FPS: 6058.10 (measured interval: 10 s)
+12:46:04 Average server FPS: 6264.80 (measured interval: 10 s)
+12:46:14 Average server FPS: 6110.10 (measured interval: 10 s)
+12:46:24 Average server FPS: 6075.00 (measured interval: 10 s)
+12:46:34 Average server FPS: 6275.60 (measured interval: 10 s)
+12:46:44 Average server FPS: 6152.30 (measured interval: 10 s)
+12:46:54 Average server FPS: 6315.60 (measured interval: 10 s)
+12:47:04 Average server FPS: 6373.80 (measured interval: 10 s)
+12:47:14 Average server FPS: 6135.20 (measured interval: 10 s)
+12:47:24 Average server FPS: 6364.40 (measured interval: 10 s)
+12:47:34 Average server FPS: 6269.50 (measured interval: 10 s)
+12:47:43 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+12:47:44 Average server FPS: 6158.40 (measured interval: 10 s)
+12:47:54 Average server FPS: 6186.50 (measured interval: 10 s)
+12:48:04 Average server FPS: 5971.90 (measured interval: 10 s)
+12:48:14 Average server FPS: 6031.60 (measured interval: 10 s)
+12:48:24 Average server FPS: 6138.90 (measured interval: 10 s)
+12:48:34 Average server FPS: 5717.60 (measured interval: 10 s)
+12:48:44 Average server FPS: 6280.40 (measured interval: 10 s)
+12:48:54 Average server FPS: 6212.70 (measured interval: 10 s)
+12:49:04 Average server FPS: 6168.90 (measured interval: 10 s)
+12:49:14 Average server FPS: 6297.20 (measured interval: 10 s)
+12:49:24 Average server FPS: 6098.10 (measured interval: 10 s)
+12:49:34 Average server FPS: 6192.50 (measured interval: 10 s)
+12:49:44 Average server FPS: 6190.70 (measured interval: 10 s)
+12:49:54 Average server FPS: 6137.20 (measured interval: 10 s)
+12:50:04 Average server FPS: 6280.80 (measured interval: 10 s)
+12:50:14 Average server FPS: 6227.00 (measured interval: 10 s)
+12:50:24 Average server FPS: 6083.60 (measured interval: 10 s)
+12:50:34 Average server FPS: 6346.70 (measured interval: 10 s)
+12:50:44 Average server FPS: 6042.40 (measured interval: 10 s)
+12:50:54 Average server FPS: 6233.60 (measured interval: 10 s)
+12:51:04 Average server FPS: 6200.60 (measured interval: 10 s)
+12:51:14 Average server FPS: 6108.60 (measured interval: 10 s)
+12:51:24 Average server FPS: 6155.10 (measured interval: 10 s)
+12:51:34 Average server FPS: 6094.20 (measured interval: 10 s)
+12:51:44 Average server FPS: 6073.20 (measured interval: 10 s)
+12:51:54 Average server FPS: 6196.30 (measured interval: 10 s)
+12:52:04 Average server FPS: 6139.80 (measured interval: 10 s)
+12:52:14 Average server FPS: 6247.10 (measured interval: 10 s)
+12:52:24 Average server FPS: 6253.60 (measured interval: 10 s)
+12:52:34 Average server FPS: 5914.80 (measured interval: 10 s)
+12:52:38 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+12:52:44 Average server FPS: 6134.80 (measured interval: 10 s)
+12:52:54 Average server FPS: 6236.20 (measured interval: 10 s)
+12:53:04 Average server FPS: 5932.40 (measured interval: 10 s)
+12:53:14 Average server FPS: 6193.70 (measured interval: 10 s)
+12:53:24 Average server FPS: 6130.70 (measured interval: 10 s)
+12:53:34 Average server FPS: 6063.70 (measured interval: 10 s)
+12:53:35 [Disconnect]: Start script disconnect 856405524 (dbCharacterId 73 dbPlayerId 73) logoutTime 15
+12:53:44 Average server FPS: 6183.50 (measured interval: 10 s)
+12:53:50 [Disconnect]: Finish script disconnect 856405524 (vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=)
+12:53:50 [Disconnect]: DisconnectPlayerFinish 856405524
+12:53:50 [Disconnect]: Remove player info 856405524
+12:53:50 [Disconnect]: Player destroy 856405524 
+12:53:50 Player [NBY2] grenfell disconnected.
+12:53:50 BattlEye Server: Player #2 [NBY2] grenfell disconnected
+12:53:54 Average server FPS: 6138.20 (measured interval: 10 s)
+12:54:04 Average server FPS: 7086.90 (measured interval: 10 s)
+12:54:14 Average server FPS: 7234.40 (measured interval: 10 s)
+12:54:24 Average server FPS: 6959.30 (measured interval: 10 s)
+12:54:34 Average server FPS: 7187.40 (measured interval: 10 s)
+12:54:44 Average server FPS: 7236.60 (measured interval: 10 s)
+12:54:54 Average server FPS: 7020.90 (measured interval: 10 s)
+12:55:04 Average server FPS: 6923.50 (measured interval: 10 s)
+12:55:14 Average server FPS: 6786.50 (measured interval: 10 s)
+12:55:18 !!! [CE][Point] Removing 7174.374023, 11679.615234 from Land_BusStation_wall_bench
+12:55:24 Average server FPS: 7233.60 (measured interval: 10 s)
+12:55:31 [Disconnect]: Start script disconnect 227341363 (dbCharacterId 11 dbPlayerId 11) logoutTime 15
+12:55:34 Average server FPS: 7257.70 (measured interval: 10 s)
+12:55:44 Average server FPS: 6741.60 (measured interval: 10 s)
+12:55:46 [Disconnect]: Finish script disconnect 227341363 (Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)
+12:55:46 [Disconnect]: DisconnectPlayerFinish 227341363
+12:55:46 [Disconnect]: Remove player info 227341363
+12:55:46 [Disconnect]: Player destroy 227341363 
+12:55:46 Player FARRIS disconnected.
+12:55:46 BattlEye Server: Player #3 FARRIS disconnected
+12:55:47 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+12:55:54 Average server FPS: 7655.60 (measured interval: 10 s)
+12:56:04 Average server FPS: 8451.00 (measured interval: 10 s)
+12:56:12 !!! [CE][Point] Removing 7174.354980, 11680.826172 from Land_BusStation_wall_bench
+12:56:14 Average server FPS: 8470.90 (measured interval: 10 s)
+12:56:24 Average server FPS: 8806.50 (measured interval: 10 s)
+12:56:34 Average server FPS: 8627.80 (measured interval: 10 s)
+12:56:44 Average server FPS: 8854.00 (measured interval: 10 s)
+12:56:54 Average server FPS: 8758.50 (measured interval: 10 s)
+12:57:04 Average server FPS: 8675.20 (measured interval: 10 s)
+12:57:14 Average server FPS: 8938.60 (measured interval: 10 s)
+12:57:24 Average server FPS: 8945.80 (measured interval: 10 s)
+12:57:34 Average server FPS: 8588.00 (measured interval: 10 s)
+12:57:44 Average server FPS: 8905.10 (measured interval: 10 s)
+12:57:54 Average server FPS: 8462.10 (measured interval: 10 s)
+12:58:04 Average server FPS: 8571.00 (measured interval: 10 s)
+12:58:14 Average server FPS: 8543.50 (measured interval: 10 s)
+12:58:24 Average server FPS: 8299.70 (measured interval: 10 s)
+12:58:29 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+12:58:34 Average server FPS: 8590.30 (measured interval: 10 s)
+12:58:44 Average server FPS: 8553.20 (measured interval: 10 s)
+12:58:54 Average server FPS: 8119.10 (measured interval: 10 s)
+12:58:56 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+12:59:04 Average server FPS: 8372.10 (measured interval: 10 s)
+12:59:14 Average server FPS: 8819.60 (measured interval: 10 s)
+12:59:24 Average server FPS: 8513.60 (measured interval: 10 s)
+12:59:34 Average server FPS: 8791.60 (measured interval: 10 s)
+12:59:44 Average server FPS: 8437.90 (measured interval: 10 s)
+12:59:54 Average server FPS: 8649.60 (measured interval: 10 s)
+13:00:04 Average server FPS: 8853.20 (measured interval: 10 s)
+13:00:14 Average server FPS: 8542.00 (measured interval: 10 s)
+13:00:24 Average server FPS: 8871.40 (measured interval: 10 s)
+13:00:34 Average server FPS: 8693.10 (measured interval: 10 s)
+13:00:44 Average server FPS: 8752.80 (measured interval: 10 s)
+13:00:54 Average server FPS: 8941.80 (measured interval: 10 s)
+13:01:04 Average server FPS: 8795.10 (measured interval: 10 s)
+13:01:08 !!! [CE][Point] Removing 7177.361816, 11600.792969 from Land_BusStation_wall_bench
+13:01:14 Average server FPS: 8956.40 (measured interval: 10 s)
+13:01:24 Average server FPS: 8992.30 (measured interval: 10 s)
+13:01:34 Average server FPS: 8742.10 (measured interval: 10 s)
+13:01:44 Average server FPS: 8964.50 (measured interval: 10 s)
+13:01:54 Average server FPS: 8857.40 (measured interval: 10 s)
+13:02:04 Average server FPS: 8817.50 (measured interval: 10 s)
+13:02:14 Average server FPS: 9124.50 (measured interval: 10 s)
+13:02:24 Average server FPS: 8715.80 (measured interval: 10 s)
+13:02:34 Average server FPS: 8820.70 (measured interval: 10 s)
+13:02:44 Average server FPS: 9044.10 (measured interval: 10 s)
+13:02:54 Average server FPS: 8747.00 (measured interval: 10 s)
+13:03:04 Average server FPS: 9027.80 (measured interval: 10 s)
+13:03:14 Average server FPS: 8971.40 (measured interval: 10 s)
+13:03:24 Average server FPS: 8779.30 (measured interval: 10 s)
+13:03:34 Average server FPS: 8949.20 (measured interval: 10 s)
+13:03:44 Average server FPS: 8857.50 (measured interval: 10 s)
+13:03:52 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:03:54 Average server FPS: 8832.30 (measured interval: 10 s)
+13:04:04 Average server FPS: 9010.10 (measured interval: 10 s)
+13:04:14 Average server FPS: 8733.20 (measured interval: 10 s)
+13:04:24 Average server FPS: 9085.20 (measured interval: 10 s)
+13:04:34 Average server FPS: 9008.30 (measured interval: 10 s)
+13:04:35 BattlEye Server: RCon admin #1: (Global) Know the rules! Hit 'B' to read up!
+13:04:44 Average server FPS: 8756.60 (measured interval: 10 s)
+13:04:54 Average server FPS: 9003.90 (measured interval: 10 s)
+13:05:04 Average server FPS: 8791.20 (measured interval: 10 s)
+13:05:14 Average server FPS: 8618.70 (measured interval: 10 s)
+13:05:24 Average server FPS: 2335.40 (measured interval: 10 s)
+13:05:34 Average server FPS: 3460.00 (measured interval: 10 s)
+13:05:44 Average server FPS: 9154.70 (measured interval: 10 s)
+13:05:54 Average server FPS: 9295.20 (measured interval: 10 s)
+13:06:04 Average server FPS: 8981.80 (measured interval: 10 s)
+13:06:14 Average server FPS: 9220.30 (measured interval: 10 s)
+13:06:24 Average server FPS: 9083.40 (measured interval: 10 s)
+13:06:34 Average server FPS: 9208.20 (measured interval: 10 s)
+13:06:35 BattlEye Server: RCon admin #1: (Global) Help shape the world! Discord.42MonthsAfter.com
+13:06:44 Average server FPS: 9553.90 (measured interval: 10 s)
+13:06:54 Average server FPS: 9274.80 (measured interval: 10 s)
+13:07:04 Average server FPS: 9495.60 (measured interval: 10 s)
+13:07:14 Average server FPS: 9549.50 (measured interval: 10 s)
+13:07:24 Average server FPS: 9263.00 (measured interval: 10 s)
+13:07:34 Average server FPS: 9498.20 (measured interval: 10 s)
+13:07:44 Average server FPS: 9462.50 (measured interval: 10 s)
+13:07:54 Average server FPS: 9230.00 (measured interval: 10 s)
+13:08:04 Average server FPS: 9310.90 (measured interval: 10 s)
+13:08:14 Average server FPS: 8627.20 (measured interval: 10 s)
+13:08:24 Average server FPS: 9415.00 (measured interval: 10 s)
+13:08:34 Average server FPS: 9577.00 (measured interval: 10 s)
+13:08:35 BattlEye Server: RCon admin #1: (Global) Base raiding on weekends only! Hit 'B' for details.
+13:08:44 Average server FPS: 8712.50 (measured interval: 10 s)
+13:08:54 Average server FPS: 9299.90 (measured interval: 10 s)
+13:09:04 Average server FPS: 9473.90 (measured interval: 10 s)
+13:09:14 Average server FPS: 9021.60 (measured interval: 10 s)
+13:09:24 Average server FPS: 9415.10 (measured interval: 10 s)
+13:09:34 Average server FPS: 9333.60 (measured interval: 10 s)
+13:09:44 Average server FPS: 9293.80 (measured interval: 10 s)
+13:09:54 Average server FPS: 9404.50 (measured interval: 10 s)
+13:10:04 Average server FPS: 9171.40 (measured interval: 10 s)
+13:10:14 Average server FPS: 9411.50 (measured interval: 10 s)
+13:10:24 Average server FPS: 9289.70 (measured interval: 10 s)
+13:10:34 Average server FPS: 9095.30 (measured interval: 10 s)
+13:10:35 BattlEye Server: RCon admin #1: (Global) Monthly givaways worth $100! Join the Discord!
+13:10:44 Average server FPS: 9256.40 (measured interval: 10 s)
+13:10:54 Average server FPS: 9152.20 (measured interval: 10 s)
+13:11:04 Average server FPS: 9147.30 (measured interval: 10 s)
+13:11:14 Average server FPS: 9362.80 (measured interval: 10 s)
+13:11:24 Average server FPS: 9168.70 (measured interval: 10 s)
+13:11:34 Average server FPS: 9387.20 (measured interval: 10 s)
+13:11:44 Average server FPS: 9370.80 (measured interval: 10 s)
+13:11:54 Average server FPS: 9100.50 (measured interval: 10 s)
+13:12:04 Average server FPS: 9433.80 (measured interval: 10 s)
+13:12:14 Average server FPS: 9308.90 (measured interval: 10 s)
+13:12:24 Average server FPS: 9271.80 (measured interval: 10 s)
+13:12:34 Average server FPS: 9373.90 (measured interval: 10 s)
+13:12:44 Average server FPS: 9145.00 (measured interval: 10 s)
+13:12:54 Average server FPS: 9379.50 (measured interval: 10 s)
+13:13:04 Average server FPS: 9415.70 (measured interval: 10 s)
+13:13:14 !!! [CE][Point] Removing 9933.457031, 11068.343750 from Land_BusStation_wall_bench
+13:13:14 Average server FPS: 9172.30 (measured interval: 10 s)
+13:13:24 Average server FPS: 9488.60 (measured interval: 10 s)
+13:13:34 Average server FPS: 9351.80 (measured interval: 10 s)
+13:13:44 Average server FPS: 9252.80 (measured interval: 10 s)
+13:13:54 Average server FPS: 9422.20 (measured interval: 10 s)
+13:14:04 Average server FPS: 9082.10 (measured interval: 10 s)
+13:14:14 Average server FPS: 9444.20 (measured interval: 10 s)
+13:14:24 Average server FPS: 9371.30 (measured interval: 10 s)
+13:14:34 Average server FPS: 9182.40 (measured interval: 10 s)
+13:14:38 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+13:14:38 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+13:14:44 Average server FPS: 8914.60 (measured interval: 10 s)
+13:14:54 Average server FPS: 8879.30 (measured interval: 10 s)
+13:15:04 Average server FPS: 8813.80 (measured interval: 10 s)
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:05 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+13:15:14 Average server FPS: 8740.60 (measured interval: 10 s)
+13:15:24 Average server FPS: 8846.90 (measured interval: 10 s)
+13:15:34 Average server FPS: 9014.10 (measured interval: 10 s)
+13:15:44 Average server FPS: 8908.70 (measured interval: 10 s)
+13:15:54 Average server FPS: 8808.30 (measured interval: 10 s)
+13:16:00 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+13:16:04 Average server FPS: 8829.00 (measured interval: 10 s)
+13:16:14 Average server FPS: 9031.00 (measured interval: 10 s)
+13:16:24 Average server FPS: 8863.60 (measured interval: 10 s)
+13:16:34 Average server FPS: 9147.00 (measured interval: 10 s)
+13:16:44 Average server FPS: 8927.60 (measured interval: 10 s)
+13:16:54 Average server FPS: 9042.10 (measured interval: 10 s)
+13:17:04 Average server FPS: 9073.10 (measured interval: 10 s)
+13:17:14 Average server FPS: 8982.90 (measured interval: 10 s)
+13:17:24 Average server FPS: 9205.00 (measured interval: 10 s)
+13:17:34 Average server FPS: 9160.20 (measured interval: 10 s)
+13:17:44 Average server FPS: 8922.70 (measured interval: 10 s)
+13:17:54 Average server FPS: 9181.90 (measured interval: 10 s)
+13:18:04 Average server FPS: 8934.80 (measured interval: 10 s)
+13:18:14 Average server FPS: 8990.90 (measured interval: 10 s)
+13:18:24 Average server FPS: 9166.40 (measured interval: 10 s)
+13:18:34 Average server FPS: 8977.90 (measured interval: 10 s)
+13:18:44 Average server FPS: 9254.50 (measured interval: 10 s)
+13:18:54 Average server FPS: 9324.10 (measured interval: 10 s)
+13:19:04 Average server FPS: 9023.70 (measured interval: 10 s)
+13:19:14 Average server FPS: 9349.20 (measured interval: 10 s)
+13:19:24 Average server FPS: 9072.00 (measured interval: 10 s)
+13:19:34 Average server FPS: 9155.90 (measured interval: 10 s)
+13:19:44 Average server FPS: 9370.80 (measured interval: 10 s)
+13:19:54 Average server FPS: 9069.00 (measured interval: 10 s)
+13:20:04 Average server FPS: 9272.90 (measured interval: 10 s)
+13:20:14 Average server FPS: 9376.10 (measured interval: 10 s)
+13:20:24 Average server FPS: 9125.50 (measured interval: 10 s)
+13:20:27 [Login]: Adding player Lou Sassole (95748770) to login queue at position 0
+13:20:27 [LoginMachine]: Add player Lou Sassole (95748770 67.193.80.23:2304)
+13:20:27 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ) Entering AuthPlayerLoginState
+13:20:28 BattlEye Server: Player #5 Lou Sassole (67.193.80.23:2304) connected
+13:20:28 Player Lou Sassole connecting.
+13:20:28 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ) Entering WaitAuthPlayerLoginState
+13:20:30 BattlEye Server: Player #5 Lou Sassole - BE GUID: 7d9c5ed3b5b87a572fab73cbe4f6e19c
+13:20:32 BattlEye Server: Verified GUID (7d9c5ed3b5b87a572fab73cbe4f6e19c) of player #5 Lou Sassole
+13:20:32 Player Lou Sassole connected (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=).
+13:20:32 Player "Lou Sassole" is connected (steamID=76561198064267081)
+13:20:32 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ) Entering WaitPlayerAssignedLoginState
+13:20:33 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) Entering DBGetLoginTimeLoginState
+13:20:33 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) Entering DBWaitLoginTimeLoginState
+13:20:34 Average server FPS: 9383.90 (measured interval: 10 s)
+13:20:44 Average server FPS: 9205.10 (measured interval: 10 s)
+13:20:48 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) Entering DBGetCharacterLoginState
+13:20:48 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) Entering CreateNetObjectsLoginState
+13:20:48 Player Lou Sassole dpid=95748770 at pos (5629.3, 28.7, 5397.1) 
+13:20:48 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) Entering PreloadCamLoginState
+13:20:48 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) Entering WaitPreloadCamLoginState
+13:20:51 !!! [CE][Point] Removing 6190.738770, 9626.550781 from Land_Boat_Small1
+13:20:54 Average server FPS: 9108.90 (measured interval: 10 s)
+13:21:04 Average server FPS: 9089.10 (measured interval: 10 s)
+13:21:14 Average server FPS: 8872.10 (measured interval: 10 s)
+13:21:24 Average server FPS: 9039.80 (measured interval: 10 s)
+13:21:34 Average server FPS: 9102.50 (measured interval: 10 s)
+13:21:44 Average server FPS: 8803.20 (measured interval: 10 s)
+13:21:47 [StateMachine]: Player Lou Sassole (dpnid 95748770 uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) Entering GetLoadedCharLoginState
+13:21:47 <LOAD EXISTING CHAR>:
+    charID 19
+    playerID 19
+    dpnid 95748770
+    uid ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+13:21:53 BattlEye Server: RCon admin #1: (To Lou Sassole) Welcome on 42 Months After | Hard Core PvEvP | AI | Trader | PvP Zones
+13:21:54 Average server FPS: 7953.60 (measured interval: 10 s)
+13:22:04 Average server FPS: 7546.50 (measured interval: 10 s)
+13:22:14 Average server FPS: 7452.40 (measured interval: 10 s)
+13:22:24 Average server FPS: 7687.00 (measured interval: 10 s)
+13:22:34 Average server FPS: 7458.30 (measured interval: 10 s)
+13:22:44 Average server FPS: 7588.70 (measured interval: 10 s)
+13:22:54 Average server FPS: 7660.20 (measured interval: 10 s)
+13:23:04 Average server FPS: 7430.30 (measured interval: 10 s)
+13:23:14 Average server FPS: 7613.30 (measured interval: 10 s)
+13:23:24 Average server FPS: 7566.90 (measured interval: 10 s)
+13:23:34 Average server FPS: 7344.60 (measured interval: 10 s)
+13:23:44 Average server FPS: 7571.40 (measured interval: 10 s)
+13:23:54 Average server FPS: 7470.20 (measured interval: 10 s)
+13:24:04 Average server FPS: 7534.60 (measured interval: 10 s)
+13:24:14 Average server FPS: 7644.00 (measured interval: 10 s)
+13:24:24 Average server FPS: 7433.70 (measured interval: 10 s)
+13:24:34 Average server FPS: 7600.70 (measured interval: 10 s)
+13:24:44 Average server FPS: 7646.60 (measured interval: 10 s)
+13:24:54 Average server FPS: 7401.40 (measured interval: 10 s)
+13:25:04 Average server FPS: 7541.20 (measured interval: 10 s)
+13:25:14 Average server FPS: 7577.70 (measured interval: 10 s)
+13:25:24 Average server FPS: 7522.90 (measured interval: 10 s)
+13:25:34 Average server FPS: 7677.50 (measured interval: 10 s)
+13:25:44 Average server FPS: 7229.80 (measured interval: 10 s)
+13:25:54 Average server FPS: 7651.10 (measured interval: 10 s)
+13:26:04 Average server FPS: 7654.70 (measured interval: 10 s)
+13:26:14 Average server FPS: 7294.30 (measured interval: 10 s)
+13:26:24 Average server FPS: 7449.10 (measured interval: 10 s)
+13:26:34 Average server FPS: 7562.90 (measured interval: 10 s)
+13:26:44 Average server FPS: 7527.60 (measured interval: 10 s)
+13:26:54 Average server FPS: 7641.80 (measured interval: 10 s)
+13:27:04 Average server FPS: 7373.40 (measured interval: 10 s)
+13:27:14 Average server FPS: 7288.90 (measured interval: 10 s)
+13:27:24 Average server FPS: 7322.60 (measured interval: 10 s)
+13:27:34 Average server FPS: 7162.40 (measured interval: 10 s)
+13:27:37 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+13:27:37 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+13:27:37 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+13:27:37 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+13:27:37 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+13:27:44 Average server FPS: 7149.90 (measured interval: 10 s)
+13:27:54 Average server FPS: 7225.00 (measured interval: 10 s)
+13:28:04 Average server FPS: 7127.10 (measured interval: 10 s)
+13:28:04 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+13:28:04 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+13:28:14 Average server FPS: 7136.10 (measured interval: 10 s)
+13:28:24 Average server FPS: 6778.40 (measured interval: 10 s)
+13:28:34 Average server FPS: 6861.60 (measured interval: 10 s)
+13:28:44 Average server FPS: 7009.20 (measured interval: 10 s)
+13:28:54 Average server FPS: 6816.00 (measured interval: 10 s)
+13:29:00 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+13:29:04 Average server FPS: 7085.80 (measured interval: 10 s)
+13:29:14 Average server FPS: 7010.90 (measured interval: 10 s)
+13:29:24 Average server FPS: 6897.70 (measured interval: 10 s)
+13:29:34 Average server FPS: 7192.10 (measured interval: 10 s)
+13:29:44 Average server FPS: 6990.10 (measured interval: 10 s)
+13:29:54 Average server FPS: 6911.00 (measured interval: 10 s)
+13:30:04 Average server FPS: 7077.90 (measured interval: 10 s)
+13:30:14 Average server FPS: 6836.30 (measured interval: 10 s)
+13:30:24 Average server FPS: 7042.40 (measured interval: 10 s)
+13:30:34 Average server FPS: 7212.80 (measured interval: 10 s)
+13:30:43 !!! [CE][Point] Removing 7174.379883, 11676.623047 from Land_BusStation_wall_bench
+13:30:44 Average server FPS: 4659.70 (measured interval: 10 s)
+13:30:54 Average server FPS: 2285.70 (measured interval: 10 s)
+13:31:04 Average server FPS: 2238.40 (measured interval: 10 s)
+13:31:13 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+13:31:14 Average server FPS: 2257.60 (measured interval: 10 s)
+13:31:24 Average server FPS: 2354.30 (measured interval: 10 s)
+13:31:34 Average server FPS: 2284.90 (measured interval: 10 s)
+13:31:44 Average server FPS: 2250.80 (measured interval: 10 s)
+13:31:54 Average server FPS: 2325.40 (measured interval: 10 s)
+13:32:04 Average server FPS: 2256.60 (measured interval: 10 s)
+13:32:14 Average server FPS: 2343.70 (measured interval: 10 s)
+13:32:24 Average server FPS: 2292.40 (measured interval: 10 s)
+13:32:31 !!! [CE][Point] Removing 1522.059326, 14903.554688 from Land_Boat_Small3
+13:32:31 !!! [CE][Point] Removing 9525.183594, 6014.276855 from Land_Boat_Small1
+13:32:31 !!! [CE][Point] Removing 7174.360840, 11677.833984 from Land_BusStation_wall_bench
+13:32:34 Average server FPS: 2279.70 (measured interval: 10 s)
+13:32:44 Average server FPS: 2304.80 (measured interval: 10 s)
+13:32:54 Average server FPS: 2177.70 (measured interval: 10 s)
+13:33:04 Average server FPS: 2246.40 (measured interval: 10 s)
+13:33:14 Average server FPS: 2288.10 (measured interval: 10 s)
+13:33:24 Average server FPS: 2240.00 (measured interval: 10 s)
+13:33:34 Average server FPS: 6547.90 (measured interval: 10 s)
+13:33:39 [Login]: Adding player [NBY2] grenfell (2072781849) to login queue at position 0
+13:33:39 [LoginMachine]: Add player [NBY2] grenfell (2072781849 82.33.113.183:2304)
+13:33:39 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid ) Entering AuthPlayerLoginState
+13:33:40 BattlEye Server: Player #6 [NBY2] grenfell (82.33.113.183:2304) connected
+13:33:40 Player [NBY2] grenfell connecting.
+13:33:40 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid ) Entering WaitAuthPlayerLoginState
+13:33:42 BattlEye Server: Player #6 [NBY2] grenfell - BE GUID: 17c890f5cc0778cf9cf904b6ee74b611
+13:33:43 BattlEye Server: Verified GUID (17c890f5cc0778cf9cf904b6ee74b611) of player #6 [NBY2] grenfell
+13:33:43 Player [NBY2] grenfell connected (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=).
+13:33:43 Player "[NBY2] grenfell" is connected (steamID=76561199193910123)
+13:33:43 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid ) Entering WaitPlayerAssignedLoginState
+13:33:44 Average server FPS: 7299.30 (measured interval: 10 s)
+13:33:54 Average server FPS: 3896.80 (measured interval: 10 s)
+13:33:56 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering DBGetLoginTimeLoginState
+13:33:56 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering DBWaitLoginTimeLoginState
+13:34:04 Average server FPS: 2337.60 (measured interval: 10 s)
+13:34:11 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering DBGetCharacterLoginState
+13:34:11 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering CreateNetObjectsLoginState
+13:34:11 Player [NBY2] grenfell dpid=2072781849 at pos (5632.5, 29.3, 5396.2) 
+13:34:11 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering PreloadCamLoginState
+13:34:11 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering WaitPreloadCamLoginState
+13:34:14 Average server FPS: 2281.90 (measured interval: 10 s)
+13:34:15 [StateMachine]: Player [NBY2] grenfell (dpnid 2072781849 uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) Entering GetLoadedCharLoginState
+13:34:15 <LOAD EXISTING CHAR>:
+    charID 73
+    playerID 73
+    dpnid 2072781849
+    uid vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=
+13:34:21 BattlEye Server: RCon admin #1: (To [NBY2] grenfell) Welcome on 42 Months After | Hard Core PvEvP | AI | Trader | PvP Zones
+13:34:24 Average server FPS: 2179.30 (measured interval: 10 s)
+13:34:32 [Login]: Adding player [Admin] Bunker (47787394) to login queue at position 0
+13:34:32 [LoginMachine]: Add player [Admin] Bunker (47787394 192.168.1.64:2304)
+13:34:32 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid ) Entering AuthPlayerLoginState
+13:34:32 BattlEye Server: Player #7 [Admin] Bunker (192.168.1.64:2304) connected
+13:34:32 Player [Admin] Bunker connecting.
+13:34:32 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid ) Entering WaitAuthPlayerLoginState
+13:34:34 Average server FPS: 2201.30 (measured interval: 10 s)
+13:34:35 BattlEye Server: Player #7 [Admin] Bunker - BE GUID: de14957533e35de36c2632310be2da2e
+13:34:35 BattlEye Server: RCon admin #1: (Global) Know the rules! Hit 'B' to read up!
+13:34:36 BattlEye Server: Verified GUID (de14957533e35de36c2632310be2da2e) of player #7 [Admin] Bunker
+13:34:36 Player [Admin] Bunker connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=).
+13:34:36 Player "[Admin] Bunker" is connected (steamID=76561198036774377)
+13:34:36 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid ) Entering WaitPlayerAssignedLoginState
+13:34:39 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetLoginTimeLoginState
+13:34:39 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBWaitLoginTimeLoginState
+13:34:44 Average server FPS: 2148.40 (measured interval: 10 s)
+13:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetCharacterLoginState
+13:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering CreateNetObjectsLoginState
+13:34:54 Player [Admin] Bunker dpid=47787394 at pos (5649.7, 29.5, 5404.8) 
+13:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering PreloadCamLoginState
+13:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering WaitPreloadCamLoginState
+13:34:54 Average server FPS: 2204.60 (measured interval: 10 s)
+13:35:04 Average server FPS: 2193.70 (measured interval: 10 s)
+13:35:12 [StateMachine]: Player [Admin] Bunker (dpnid 47787394 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering GetLoadedCharLoginState
+13:35:13 <LOAD EXISTING CHAR>:
+    charID 2
+    playerID 2
+    dpnid 47787394
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:35:14 Average server FPS: 2126.80 (measured interval: 10 s)
+13:35:21 BattlEye Server: RCon admin #1: (To [Admin] Bunker) Welcome on 42 Months After | Hard Core PvEvP | AI | Trader | PvP Zones
+13:35:24 Average server FPS: 2195.20 (measured interval: 10 s)
+13:35:34 Average server FPS: 3365.20 (measured interval: 10 s)
+13:35:44 Average server FPS: 6189.60 (measured interval: 10 s)
+13:35:54 Average server FPS: 6131.60 (measured interval: 10 s)
+13:36:04 Average server FPS: 2114.30 (measured interval: 10 s)
+13:36:08 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+13:36:14 Average server FPS: 2170.60 (measured interval: 10 s)
+13:36:24 Average server FPS: 2173.10 (measured interval: 10 s)
+13:36:34 Average server FPS: 2138.00 (measured interval: 10 s)
+13:36:35 BattlEye Server: RCon admin #1: (Global) Help shape the world! Discord.42MonthsAfter.com
+13:36:44 Average server FPS: 2200.50 (measured interval: 10 s)
+13:36:54 Average server FPS: 2135.90 (measured interval: 10 s)
+13:37:04 Average server FPS: 2162.90 (measured interval: 10 s)
+13:37:14 Average server FPS: 2195.40 (measured interval: 10 s)
+13:37:24 Average server FPS: 2130.30 (measured interval: 10 s)
+13:37:34 Average server FPS: 2175.40 (measured interval: 10 s)
+13:37:44 Average server FPS: 2173.20 (measured interval: 10 s)
+13:37:54 Average server FPS: 2112.70 (measured interval: 10 s)
+13:38:04 Average server FPS: 2209.20 (measured interval: 10 s)
+13:38:14 Average server FPS: 2133.90 (measured interval: 10 s)
+13:38:24 Average server FPS: 2080.90 (measured interval: 10 s)
+13:38:34 Average server FPS: 2167.60 (measured interval: 10 s)
+13:38:35 BattlEye Server: RCon admin #1: (Global) Base raiding on weekends only! Hit 'B' for details.
+13:38:44 Average server FPS: 2081.50 (measured interval: 10 s)
+13:38:54 Average server FPS: 2171.50 (measured interval: 10 s)
+13:39:04 Average server FPS: 2137.90 (measured interval: 10 s)
+13:39:14 Average server FPS: 2088.20 (measured interval: 10 s)
+13:39:17 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+13:39:24 Average server FPS: 2184.30 (measured interval: 10 s)
+13:39:34 Average server FPS: 2132.60 (measured interval: 10 s)
+13:39:44 Average server FPS: 2133.10 (measured interval: 10 s)
+13:39:54 Average server FPS: 2173.50 (measured interval: 10 s)
+13:40:04 Average server FPS: 2059.40 (measured interval: 10 s)
+13:40:14 Average server FPS: 2129.30 (measured interval: 10 s)
+13:40:24 Average server FPS: 2188.00 (measured interval: 10 s)
+13:40:34 Average server FPS: 2067.80 (measured interval: 10 s)
+13:40:35 BattlEye Server: RCon admin #1: (Global) Monthly givaways worth $100! Join the Discord!
+13:40:37 !!! [CE][Point] Removing 8532.970703, 8883.850586 from AppleTree2
+13:40:44 Average server FPS: 2126.50 (measured interval: 10 s)
+13:40:54 Average server FPS: 4724.70 (measured interval: 10 s)
+13:41:04 Average server FPS: 5721.90 (measured interval: 10 s)
+13:41:14 Average server FPS: 5826.90 (measured interval: 10 s)
+13:41:24 Average server FPS: 5652.50 (measured interval: 10 s)
+13:41:34 Average server FPS: 3856.60 (measured interval: 10 s)
+13:41:44 Average server FPS: 1999.60 (measured interval: 10 s)
+13:41:54 Average server FPS: 1906.60 (measured interval: 10 s)
+13:42:04 Average server FPS: 1950.90 (measured interval: 10 s)
+13:42:14 Average server FPS: 1937.50 (measured interval: 10 s)
+13:42:24 Average server FPS: 1862.90 (measured interval: 10 s)
+13:42:26 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+13:42:34 Average server FPS: 1848.70 (measured interval: 10 s)
+13:42:44 Average server FPS: 1832.60 (measured interval: 10 s)
+13:42:54 Average server FPS: 1821.50 (measured interval: 10 s)
+13:43:04 Average server FPS: 4730.70 (measured interval: 10 s)
+13:43:14 Average server FPS: 4859.80 (measured interval: 10 s)
+13:43:24 Average server FPS: 5143.30 (measured interval: 10 s)
+13:43:34 Average server FPS: 4204.72 (measured interval: 10 s)
+13:43:44 Average server FPS: 1722.90 (measured interval: 10 s)
+13:43:54 Average server FPS: 1817.70 (measured interval: 10 s)
+13:44:04 Average server FPS: 1725.80 (measured interval: 10 s)
+13:44:14 Average server FPS: 1754.30 (measured interval: 10 s)
+13:44:24 Average server FPS: 1817.60 (measured interval: 10 s)
+13:44:34 Average server FPS: 1771.80 (measured interval: 10 s)
+13:44:44 Average server FPS: 1815.52 (measured interval: 10 s)
+13:44:54 Average server FPS: 1799.40 (measured interval: 10 s)
+13:45:04 Average server FPS: 1723.40 (measured interval: 10 s)
+13:45:14 Average server FPS: 1829.50 (measured interval: 10 s)
+13:45:24 Average server FPS: 1806.42 (measured interval: 10 s)
+13:45:34 Average server FPS: 1780.60 (measured interval: 10 s)
+13:45:44 Average server FPS: 1831.10 (measured interval: 10 s)
+13:45:54 Average server FPS: 1749.50 (measured interval: 10 s)
+13:46:04 Average server FPS: 1808.20 (measured interval: 10 s)
+13:46:14 Average server FPS: 1805.40 (measured interval: 10 s)
+13:46:24 Average server FPS: 4481.90 (measured interval: 10 s)
+13:46:34 Average server FPS: 4718.80 (measured interval: 10 s)
+13:46:44 Average server FPS: 4861.50 (measured interval: 10 s)
+13:46:54 Average server FPS: 4871.10 (measured interval: 10 s)
+13:46:56 !!! [CE][Point] Removing 13952.446289, 6602.916504 from PiceaAbies_fallen
+13:47:04 Average server FPS: 5043.30 (measured interval: 10 s)
+13:47:14 Average server FPS: 4967.90 (measured interval: 10 s)
+13:47:18 !!!
