@@ -1,0 +1,36 @@
+18:05:01.996 [BaseRaiding] ExpansionWall6x3 (<8907.440430, 5.129994, 8720.747070>) Code set by player "Stahlhelm Sturm" (ID = "Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=" at <8907.425781, 5.142500, 8718.086914>) and the code is 4149
+18:06:20.546 [AI Patrol] Spawning 3 Temple Patrol bots at <398.093292, 44.717354, 867.734375>
+18:06:20.644 [AI Patrol] Spawning 3 Temple Patrol bots at <346.377289, 47.065945, 858.021179>
+18:06:20.656 [AI Patrol] Spawning 3 Temple Patrol bots at <429.996582, 48.364700, 707.591919>
+18:06:22.246 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8899.592773, 5.179543, 8715.138672>) as driver
+18:06:25.125 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8899.592773, 5.179535, 8715.138672>)
+18:08:20.378 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8898.324219, 5.139112, 8736.605469>)
+18:08:32.261 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8901.290039, 5.139035, 8743.651367>)
+18:09:07.699 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8901.290039, 5.139035, 8743.651367>) as driver
+18:09:09.765 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8901.290039, 5.139035, 8743.651367>)
+18:10:03.593 [AI Patrol] Spawning 2 Shamans bots at <9011.888672, 26.259604, 7987.644531>
+18:11:17.300 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+18:11:17.308 [AI Patrol] Spawning 1 Shamans bots at <5305.603027, 74.000000, 3297.513184>
+18:11:27.757 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8910.841797, 5.139034, 8718.625000>)
+18:11:43.734 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=D9D9931AC8479E18AEDF3C962BAA7761 pos=<8910.841797, 5.139034, 8718.625000>)
+18:16:17.906 [AI Patrol] Spawning 1 Shamans bots at <5894.946777, 63.207188, 3080.993896>
+18:16:44.492 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Basebuilding
+18:24:26.117 [AI Patrol] Spawning 2 Shamans bots at <4758.036621, 85.156670, 3778.848633>
+18:26:32.679 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hey josh
+18:26:42.468 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): hi
+18:31:26.460 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+18:33:43.492 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4686.155762, 20.430000, 7101.371094>
+18:34:19.671 [Chat - Global]("Josh"(id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)): holy shit i just went on an adventure
+18:35:09.992 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+18:35:31.117 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i keep getting kicked. you hgaving any issues?
+18:50:46.859 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4756.935547, 75.020309, 3174.192383>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=11193A1B5747BCA9EE0B33BB13F3284B pos=<4758.701172, 75.095940, 3175.266846>)
+18:51:25.531 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4757.548828, 75.092514, 3176.322510>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=11193A1B5747BCA9EE0B33BB13F3284B pos=<4758.701172, 75.095940, 3175.266846>)
+18:54:32.695 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4757.428711, 75.089264, 3176.327637>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=11193A1B5747BCA9EE0B33BB13F3284B pos=<4758.701172, 75.095940, 3175.266846>)
+18:54:54.492 [VehicleAttachments] Player Lou Sassole (uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) detached Barrel (type=Barrel_Yellow) from vehicle ToyotaHilux rust(id=11193A1B5747BCA9EE0B33BB13F3284B pos=<4758.701172, 75.095940, 3175.266846>)
+18:55:00.195 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4757.284180, 75.186470, 3177.778564>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=11193A1B5747BCA9EE0B33BB13F3284B pos=<4758.701172, 75.095940, 3175.266846>)
+18:57:59.398 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:25:12.335 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4254.241211, 20.462500, 7268.670898>) uncovered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.027344, 20.476145, 7268.084473>)!
+20:26:26.812 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4253.957031, 20.462500, 7268.007813>) used the  ExpansionCarKey to unlock BMW_X5_red (id=69DDE7C8614D97991B3ED0A901BEF7CC pos=<4256.027344, 20.476221, 7268.081543>)
+20:27:07.164 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4253.517578, 20.462486, 7267.166016>) used the  ExpansionCarKey to lock BMW_X5_red (id=69DDE7C8614D97991B3ED0A901BEF7CC pos=<4256.027344, 20.476221, 7268.081543>)
+20:27:18.140 [VehicleDeleted] BMW_X5_red (id=69DDE7C8614D97991B3ED0A901BEF7CC pos=<4256.027344, 20.476221, 7268.081543>)
+20:27:18.140 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4253.517578, 20.462486, 7267.166016>) covered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.027344, 20.476221, 7268.081543>)!

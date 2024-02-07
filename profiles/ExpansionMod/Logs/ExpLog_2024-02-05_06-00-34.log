@@ -1,0 +1,50 @@
+06:16:39.164 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Basebuilding
+08:07:35.529 [Safezone] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5652.627930, 29.710283, 5376.322266>) Entered the safezone
+09:40:25.109 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5641.135254, 29.228714, 5399.670410>) Entered the safezone
+09:40:58.351 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5641.431152, 29.438419, 5363.895020>) Entered the safezone
+09:40:58.351 [Party] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+09:41:03.859 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4524.380859, 20.430000, 7248.079102>) Left the safezone
+09:41:53.769 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4534.148926, 20.430008, 7263.297852>) Left the safezone
+09:44:50.539 [BaseRaiding] ExpansionWall6x3 (<4531.898438, 20.433304, 7269.594238>) Code set by player "BtWF_Raziel" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <4531.734863, 20.442490, 7269.017090>) and the code is 884155
+09:45:13.414 [BaseRaiding] ExpansionWall6x3 (<4534.866211, 20.430948, 7252.354492>) Code set by player "BtWF_Raziel" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <4534.636230, 20.442499, 7253.497070>) and the code is 884155
+09:45:15.257 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+09:49:00.503 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5628.241211, 28.722446, 5398.490723>) Entered the safezone
+09:49:15.546 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5672.111328, 28.129299, 5409.753906>) Entered the safezone
+10:09:56.070 [ATM] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) has withdrawn 500000 from his ATM account.
+10:10:11.625 [Market] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) has send a requested to purchase doc_m4_purple x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:10:11.703 [Market] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) has bought doc_m4_purple x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 97688.
+10:10:31.472 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5602.299316, 28.585901, 5592.908203>) Left the safezone
+10:10:55.753 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5681.331055, 29.046083, 5475.400879>) Entered the safezone
+10:11:16.824 [ATM] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) has deposited 402312 on his ATM account.
+10:19:04.171 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+10:25:30.320 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<1e245d80> at <5060.63, 74.06, 3163.71> EXPLOSION range 20 dropoff 5
+10:33:27.156 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4741.994141, 74.957024, 3198.742432>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+10:33:31.828 [AI Patrol] Spawning 3 Temple Patrol bots at <383.655579, 55.318100, 682.394165>
+10:33:31.925 [AI Patrol] Spawning 3 Temple Patrol bots at <329.107269, 47.070000, 877.957092>
+10:33:31.937 [AI Patrol] Spawning 3 Temple Patrol bots at <404.431122, 47.070000, 843.973633>
+10:33:33.531 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>) as driver
+10:33:35.992 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+10:44:03.964 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5664.415039, 33.357170, 5262.829102>) Entered the safezone
+10:44:28.726 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743174, 5419.403809>)
+10:44:33.820 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5626.964844, 28.722498, 5418.987305>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743176, 5419.403809>)
+10:48:28.523 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5626.832520, 28.722498, 5416.998047>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743176, 5419.403809>)
+10:49:03.136 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5627.318848, 28.722494, 5417.246094>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743176, 5419.403809>)
+10:49:14.941 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell twp_mjolnir x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+10:49:15.015 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold twp_mjolnir x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1875.
+10:53:02.039 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5627.397949, 28.722490, 5417.273926>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743176, 5419.403809>)
+10:53:12.609 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5627.764160, 28.722498, 5417.538086>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743176, 5419.403809>)
+10:53:21.457 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 1875 on his ATM account.
+11:13:35.296 [Safezone] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5651.850098, 29.459932, 5374.405273>) Entered the safezone
+11:14:10.742 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5628.229004, 28.706152, 5420.696289>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743176, 5419.403809>)
+11:14:17.820 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743174, 5419.403809>) as driver
+11:14:20.734 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<5630.048340, 28.743174, 5419.403809>)
+11:15:10.070 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5683.418457, 33.494564, 5253.107910>) Left the safezone
+11:17:46.980 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<7069.021484, 27.554234, 5035.359863>)
+11:18:13.812 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<7069.005859, 27.555466, 5035.336914>) as driver
+11:18:15.300 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<7069.005859, 27.555466, 5035.336914>)
+11:19:26.632 [Safezone] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5687.763184, 32.637779, 5256.474609>) Left the safezone
+11:21:02.890 [Party] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+11:25:15.554 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4754.914551, 75.077545, 3176.031738>)
+11:25:21.230 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4756.253418, 75.017670, 3173.812012>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4754.914551, 75.077560, 3176.031982>)
+11:32:44.343 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5640.518555, 30.053101, 5397.727539>) Entered the safezone
+11:33:57.609 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)

@@ -1,0 +1,779 @@
+18:01:39.167 [Party] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) joinded the party "Beswick" (id=36 ownerUID=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg= ownerName=Delgo)
+18:07:01.210 [AI Patrol] Spawning 3 Shamans bots at <6280.498047, 15.090000, 6329.802246>
+18:09:23.437 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5643.480957, 28.722490, 5416.326172>) Entered the safezone
+18:16:45.257 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+18:18:56.648 [Safezone] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<5769.597656, 54.108902, 5403.106445>) Entered the safezone
+18:19:48.250 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:48.414 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:48.968 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:49.125 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:49.671 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:49.867 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:50.382 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:50.539 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:51.015 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:51.164 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:51.695 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:51.890 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:52.281 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:52.437 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:53.031 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:53.195 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:53.671 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:53.835 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:54.390 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:54.554 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:55.039 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:55.195 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:19:55.710 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has send a requested to sell cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:19:55.882 [Market] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has sold cp_cannabisbrickblackfrost x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 54000.
+18:20:51.328 [ATM] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has deposited 648000 on his ATM account.
+18:20:56.312 [ATM] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has deposited 648000 on the party "Beswick" (partyid=36 | ownerid=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=) ATM account.
+18:21:32.218 [Party] Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) left the party "Beswick" (id=36 ownerUID=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg= ownerName=Delgo)
+18:46:53.851 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4731.053711, 20.430000, 7064.534180>
+18:49:18.539 [VehicleDeleted] ExpansionUAZ (id=8114DFAADB4F497A710C19B8835CDC4B pos=<-0.001685, 0.798157, 0.148879>)
+18:49:18.570 [VirtualGarage] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4269.410645, 20.465942, 7289.373047>) retrieved a vehicle "ExpansionUAZ" (GlobalID=8000000080000000800000008000F408 pos=<4264.365234, 20.471125, 7302.275391>)
+18:49:25.015 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4264.420410, 20.465946, 7298.997070>) used the  ExpansionCarKey to unlock ExpansionUAZ (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4264.365723, 20.471127, 7302.274902>)
+18:49:49.750 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4263.775391, 20.465946, 7299.678711>) used the  ExpansionCarKey to lock ExpansionUAZ (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4264.365723, 20.471127, 7302.274902>)
+18:49:51.171 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4263.775391, 20.465946, 7299.678711>) used the  ExpansionCarKey to unlock ExpansionUAZ (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4264.365723, 20.471127, 7302.274902>)
+18:51:19.546 [AI Patrol] Spawning 3 Temple Patrol bots at <375.223022, 46.890045, 866.224854>
+18:51:19.562 [AI Patrol] Spawning 3 Temple Patrol bots at <336.126160, 55.318298, 684.607056>
+18:51:19.570 [AI Patrol] Spawning 3 Temple Patrol bots at <377.760132, 47.070000, 822.753235>
+18:51:21.242 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle UAZ 469 (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4264.365723, 20.471127, 7302.274902>) as driver
+18:51:22.984 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle UAZ 469 (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4264.365723, 20.471127, 7302.274902>)
+18:51:56.179 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle UAZ 469 (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4267.141602, 20.471125, 7295.435059>)
+18:52:02.835 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4268.234863, 20.465944, 7297.060547>) used the  ExpansionCarKey to lock ExpansionUAZ (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4267.141602, 20.471127, 7295.434570>)
+18:52:09.156 [VehicleDeleted] ExpansionUAZ (id=9A0D8C75FF46704831CE8F93D1CF302E pos=<4267.141602, 20.471127, 7295.434570>)
+18:52:09.156 [VirtualGarage] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4268.903320, 20.465942, 7289.914063>) stored a vehicle "ExpansionUAZ" (GlobalID=8000000080000000800000008000F408 pos=<4267.141602, 20.471127, 7295.434570>)
+18:52:44.273 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4252.944336, 20.462500, 7269.530762>) uncovered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4255.338867, 20.452513, 7267.860840>)!
+18:52:53.718 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4252.779785, 20.462486, 7267.627441>) used the  ExpansionCarKey to unlock BMW_X5_red (id=CBB93F0E9746E86E80824682CE220680 pos=<4255.338867, 20.452513, 7267.859375>)
+19:00:48.507 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<4255.338867, 20.452515, 7267.859375>) as driver
+19:00:49.976 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<4255.338867, 20.452511, 7267.859375>)
+19:00:52.265 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<4255.338867, 20.452511, 7267.859375>)
+19:05:15.437 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:05:15.453 [AI Patrol] Spawning 2 Shamans bots at <5051.658691, 20.109940, 2545.384521>
+19:05:27.859 [AI Patrol] Spawning 2 Shamans bots at <5443.289063, 40.548416, 2464.934814>
+19:05:35.390 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4745.098633, 74.956985, 3196.951172>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+19:09:35.093 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<4255.338867, 20.452509, 7267.859375>) as driver
+19:09:50.429 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<4218.253906, 20.430632, 7230.323730>)
+19:09:58.156 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<4218.253906, 20.430630, 7230.323730>) as driver
+19:17:44.601 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3397.267334, 28.303801, 7050.890625>)
+19:19:57.023 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3397.267334, 28.303799, 7050.890625>) as driver
+19:20:36.398 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3241.254395, 28.310631, 6965.350586>)
+19:21:14.953 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3241.254395, 28.310631, 6965.350586>) as driver
+19:21:42.781 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3358.114258, 28.012554, 6903.599609>)
+19:22:25.507 [Party] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+19:25:06.062 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3358.114258, 28.012548, 6903.599609>) as driver
+19:25:07.929 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3358.114258, 28.012547, 6903.599609>)
+19:25:55.218 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5617.565430, 28.722498, 5406.092773>) Entered the safezone
+19:27:16.718 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3701.082764, 20.480816, 6929.606934>)
+19:27:30.515 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3701.082764, 20.480814, 6929.606934>) as driver
+19:27:41.742 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3731.921387, 20.881311, 6971.883789>)
+19:27:57.703 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<3731.921387, 20.881334, 6971.883789>) as driver
+19:29:04.062 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4744.963379, 74.957001, 3197.434814>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+19:29:16.125 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=CBB93F0E9746E86E80824682CE220680 pos=<4260.841797, 20.431669, 7269.887695>)
+19:29:31.812 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): everyone doing well thisevening?
+19:29:51.015 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): so far boss
+19:29:52.335 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): indeed
+19:29:59.992 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): kick ass. im around
+19:30:02.601 [Chat - Global]("FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)): yeah, how about yourselve
+19:30:19.531 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): always good over here. any time im online is a good time for this guy
+19:30:26.679 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): know much about the building system DR?
+19:30:41.007 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): well yes i sure do!
+19:31:02.843 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): would you be able to help a poor soul try to figure this out lol
+19:31:29.140 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): yeah, on my way bru
+19:31:36.312 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ty
+19:31:42.906 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): got a loud room though so im all text chat atm
+19:31:52.242 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): all good
+19:32:03.875 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4736.544922, 74.954254, 3179.001709>) Left the safezone
+19:32:08.578 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): do i look like im walking to you?
+19:32:29.632 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): thanks lol. i was jittering
+19:33:19.710 [Chat - Global]("FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)): just got attacked by ai at my base, that was a first
+19:33:22.437 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): tap X and it wont be snapped, then you can place it further out
+19:33:46.054 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): best try fcrom out.... yep lol
+19:34:33.460 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): woah. like 30 ft above the house eh
+19:34:52.250 [Chat - Global]("FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)): like front door lol
+19:35:05.343 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): aside from moving the lowers out a few feet, i dont think its going to let you
+19:35:22.882 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): ill admin hammer it out for ya lol
+19:35:35.718 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): get the holograms set and ill pop over to build it lol
+19:36:31.492 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): I WONT SEE IT TILL ITS PLACED
+19:36:40.406 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): THATS BEAUTY!
+19:36:44.609 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): woah sorry caps
+19:36:47.304 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4743.010254, 74.954178, 3177.336670>) used the Admin Hammer to build wood_base
+19:36:58.859 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4739.536621, 74.954247, 3178.413818>) used the Admin Hammer to build wood_floorframe
+19:37:02.695 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4739.536621, 74.954247, 3178.413818>) used the Admin Hammer to build wood_floorfinished
+19:37:19.492 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4742.596191, 75.249260, 3180.695557>) used the Admin Hammer to build wood_base
+19:37:24.859 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4742.596191, 75.249260, 3180.695557>) used the Admin Hammer to build wood_doorframe
+19:37:28.304 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4742.596191, 75.249260, 3180.695557>) used the Admin Hammer to build wood_doorfinished
+19:37:34.601 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4743.197754, 75.249229, 3178.438477>) used the Admin Hammer to build wood_base
+19:37:38.570 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4743.197754, 75.249229, 3178.438477>) used the Admin Hammer to build wood_wallframe
+19:37:41.765 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4743.197754, 75.249229, 3178.438477>) used the Admin Hammer to build wood_wallfinished
+19:37:48.367 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4746.541504, 75.249260, 3178.477783>) used the Admin Hammer to build wood_base
+19:37:52.195 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4746.541504, 75.249260, 3178.477783>) used the Admin Hammer to build wood_wallframe
+19:37:55.640 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4746.541504, 75.249260, 3178.477783>) used the Admin Hammer to build wood_wallfinished
+19:37:59.671 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4746.541504, 75.249260, 3178.477783>) used the Admin Hammer to build wood_base
+19:38:02.726 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4746.541504, 75.249260, 3178.477783>) used the Admin Hammer to build wood_floorframe
+19:38:06.023 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4746.541504, 75.249260, 3178.477783>) used the Admin Hammer to build wood_floorfinished
+19:38:17.953 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): no worries, this build system can be a bitch lol
+19:38:45.101 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): i feel that
+19:38:49.968 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): if you need anything else let me know!
+19:39:15.421 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5644.861328, 28.722483, 5415.673828>) Entered the safezone
+19:42:04.929 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): where the heck is your base that you could be attacked by ai farris?
+19:42:20.171 [Chat - Global]("FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)): just outside power plant
+19:42:34.039 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that will do it lol
+19:42:45.968 [Chat - Global]("FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)): they ran over and started to shot at me. but not in the pvp area
+19:43:03.406 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): thats rough. they will still get ya though iirc
+19:43:29.484 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya they will travel outside of pvp hap[pened to me a few times and scared the crap out of me
+19:43:44.406 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): son of a bitch whois going off near the Holler
+19:43:47.750 [Chat - Global]("FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)): they are trying to get someone now
+19:44:09.703 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): When they fall, i will recover the flesh for tonight's stew
+19:44:18.500 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): fuck me thats dark
+19:44:33.804 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): thats fucked up bro
+19:44:58.929 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): The Brotherhood sees your resistance. You will understand soon 
+19:45:13.906 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): resistance to eating dead ai?
+19:45:36.234 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): withering flesh  will sustain, brother
+19:45:36.695 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): whos is this brotherhood? I have only seen you lol
+19:45:55.859 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): fair question
+19:46:13.046 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i am the forewarning of your assimilation
+19:47:05.539 [BaseRaiding] ExpansionWall6x3 (<4741.818359, 74.999550, 3180.938232>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <4742.969727, 75.249260, 3180.823730>) and the code is 1505
+19:47:11.289 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): thats very borg of you, but i get it. welcome to 42 you cooky dude
+19:47:45.132 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4745.399902, 74.956985, 3197.052734>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+19:47:53.000 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4744.084473, 74.957016, 3197.657471>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+19:48:05.343 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): on an unrelated note, im still offering a box of nails for each uncut chicken you bring me
+19:48:11.429 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4262.743164, 20.682081, 7268.687988>) used the  ExpansionCarKey to lock BMW_X5_red (id=CBB93F0E9746E86E80824682CE220680 pos=<4260.841797, 20.431669, 7269.887695>)
+19:48:26.828 [VehicleDeleted] BMW_X5_red (id=CBB93F0E9746E86E80824682CE220680 pos=<4260.841797, 20.431669, 7269.887695>)
+19:48:26.828 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4262.230469, 20.442499, 7268.395508>) covered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4260.841797, 20.431669, 7269.887695>)!
+19:49:23.484 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): 3 boxes for a special bear pelt
+19:50:09.523 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): what of human flesh?
+19:50:23.976 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): ummmmmm. a box of .380?
+19:50:54.070 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ill keep the flesh
+19:51:04.093 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): you do you
+19:51:07.375 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4743.529785, 74.957031, 3198.026611>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+19:51:16.773 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4746.438965, 74.957016, 3198.864502>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+19:51:17.937 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4746.438965, 74.957016, 3198.864502>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+19:52:35.843 [ATM] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) has deposited 6400000 on his ATM account.
+19:54:49.304 [Chat - Global]("FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)): i seen ya running lol
+19:59:17.398 [Chat - Global]("BtWF_Raziel"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): we appreciate this bounty
+20:02:54.750 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>) as passenger
+20:02:58.578 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle HAMMER_H1 black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:03:16.882 [VehicleAttachments] Player Lou Sassole (uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) detached Barrel (type=Barrel_Blue) from vehicle HAMMER_H1 black_rust(id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:04:15.546 [VehicleAttachments] Player Lou Sassole (uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) detached Barrel (type=Barrel_Blue) from vehicle HAMMER_H1 black_rust(id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:05:18.882 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4747.143555, 74.957001, 3198.334473>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:09:04.484 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4744.101563, 74.957008, 3197.235107>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:09:13.984 [VehicleAttachments] Player Lou Sassole (uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) detached Wooden Crate (type=WoodenCrate) from vehicle HAMMER_H1 black_rust(id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:09:22.984 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4747.165039, 74.957008, 3198.779785>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:11:38.359 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:38.359 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:38.359 [BaseBuildingRaiding] They dealt 122.294 * 1 = 122.294 damage with Bullet_308Win from TWP_M134
+20:11:38.359 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29877.7
+20:11:38.359 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:38.476 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:38.476 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:38.476 [BaseBuildingRaiding] They dealt 122.292 * 1 = 122.292 damage with Bullet_308Win from TWP_M134
+20:11:38.476 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29877.7 to 29755.4
+20:11:38.476 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:38.562 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:38.562 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:38.562 [BaseBuildingRaiding] They dealt 122.289 * 1 = 122.289 damage with Bullet_308Win from TWP_M134
+20:11:38.562 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29755.4 to 29633.1
+20:11:38.562 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:38.671 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:38.671 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:38.671 [BaseBuildingRaiding] They dealt 122.29 * 1 = 122.29 damage with Bullet_308Win from TWP_M134
+20:11:38.671 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29633.1 to 29510.8
+20:11:38.671 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:38.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:38.757 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:38.757 [BaseBuildingRaiding] They dealt 122.265 * 1 = 122.265 damage with Bullet_308Win from TWP_M134
+20:11:38.757 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29510.8 to 29388.6
+20:11:38.757 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:38.867 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:38.867 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:38.867 [BaseBuildingRaiding] They dealt 122.254 * 1 = 122.254 damage with Bullet_308Win from TWP_M134
+20:11:38.867 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29388.6 to 29266.3
+20:11:38.867 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:38.960 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:38.960 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:38.960 [BaseBuildingRaiding] They dealt 122.276 * 1 = 122.276 damage with Bullet_308Win from TWP_M134
+20:11:38.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29266.3 to 29144
+20:11:38.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.070 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.070 [BaseBuildingRaiding] They dealt 122.262 * 1 = 122.262 damage with Bullet_308Win from TWP_M134
+20:11:39.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29144 to 29021.8
+20:11:39.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.148 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.148 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.148 [BaseBuildingRaiding] They dealt 122.26 * 1 = 122.26 damage with Bullet_308Win from TWP_M134
+20:11:39.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29021.8 to 28899.5
+20:11:39.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.273 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.273 [BaseBuildingRaiding] They dealt 61.982 * 1 = 61.982 damage with Bullet_308Win from TWP_M134
+20:11:39.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28899.5 to 28837.5
+20:11:39.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.554 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.554 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.554 [BaseBuildingRaiding] They dealt 122.277 * 1 = 122.277 damage with Bullet_308Win from TWP_M134
+20:11:39.554 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28837.5 to 28715.3
+20:11:39.554 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.671 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.671 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.671 [BaseBuildingRaiding] They dealt 122.297 * 1 = 122.297 damage with Bullet_308Win from TWP_M134
+20:11:39.671 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28715.3 to 28593
+20:11:39.671 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.781 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.781 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.781 [BaseBuildingRaiding] They dealt 122.295 * 1 = 122.295 damage with Bullet_308Win from TWP_M134
+20:11:39.781 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28593 to 28470.7
+20:11:39.781 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.859 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.859 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.859 [BaseBuildingRaiding] They dealt 122.292 * 1 = 122.292 damage with Bullet_308Win from TWP_M134
+20:11:39.859 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28470.7 to 28348.4
+20:11:39.859 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:39.968 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:39.976 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:39.976 [BaseBuildingRaiding] They dealt 122.292 * 1 = 122.292 damage with Bullet_308Win from TWP_M134
+20:11:39.976 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28348.4 to 28226.1
+20:11:39.976 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.085 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.085 [BaseBuildingRaiding] They dealt 122.288 * 1 = 122.288 damage with Bullet_308Win from TWP_M134
+20:11:40.085 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28226.1 to 28103.8
+20:11:40.085 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.156 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.75, 20.44, 7248.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.156 [BaseBuildingRaiding] They dealt 122.285 * 1 = 122.285 damage with Bullet_308Win from TWP_M134
+20:11:40.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28103.8 to 27981.5
+20:11:40.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.265 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.265 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.77, 20.44, 7248.43> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.265 [BaseBuildingRaiding] They dealt 122.288 * 1 = 122.288 damage with Bullet_308Win from TWP_M134
+20:11:40.265 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27981.5 to 27859.2
+20:11:40.265 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.382 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.382 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.83, 20.44, 7248.48> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.382 [BaseBuildingRaiding] They dealt 122.306 * 1 = 122.306 damage with Bullet_308Win from TWP_M134
+20:11:40.382 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27859.2 to 27736.9
+20:11:40.382 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.460 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.460 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.92, 20.44, 7248.54> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.460 [BaseBuildingRaiding] They dealt 122.32 * 1 = 122.32 damage with Bullet_308Win from TWP_M134
+20:11:40.460 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27736.9 to 27614.6
+20:11:40.460 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.578 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.99, 20.44, 7248.62> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.578 [BaseBuildingRaiding] They dealt 122.323 * 1 = 122.323 damage with Bullet_308Win from TWP_M134
+20:11:40.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27614.6 to 27492.3
+20:11:40.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.648 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.648 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.01, 20.44, 7248.69> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.648 [BaseBuildingRaiding] They dealt 122.327 * 1 = 122.327 damage with Bullet_308Win from TWP_M134
+20:11:40.648 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27492.3 to 27369.9
+20:11:40.648 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.757 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.09, 20.44, 7248.81> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.757 [BaseBuildingRaiding] They dealt 122.332 * 1 = 122.332 damage with Bullet_308Win from TWP_M134
+20:11:40.757 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27369.9 to 27247.6
+20:11:40.757 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.843 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.14, 20.44, 7248.86> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.843 [BaseBuildingRaiding] They dealt 122.338 * 1 = 122.338 damage with Bullet_308Win from TWP_M134
+20:11:40.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27247.6 to 27125.3
+20:11:40.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:40.953 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:40.953 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.23, 20.44, 7248.93> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:40.953 [BaseBuildingRaiding] They dealt 122.344 * 1 = 122.344 damage with Bullet_308Win from TWP_M134
+20:11:40.953 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27125.3 to 27002.9
+20:11:40.953 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.078 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.33, 20.44, 7249.03> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.078 [BaseBuildingRaiding] They dealt 122.345 * 1 = 122.345 damage with Bullet_308Win from TWP_M134
+20:11:41.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 27002.9 to 26880.6
+20:11:41.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.156 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.39, 20.44, 7249.08> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.156 [BaseBuildingRaiding] They dealt 122.345 * 1 = 122.345 damage with Bullet_308Win from TWP_M134
+20:11:41.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26880.6 to 26758.2
+20:11:41.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.273 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.47, 20.44, 7249.2> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.273 [BaseBuildingRaiding] They dealt 122.346 * 1 = 122.346 damage with Bullet_308Win from TWP_M134
+20:11:41.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26758.2 to 26635.9
+20:11:41.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.343 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.343 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.48, 20.44, 7249.28> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.343 [BaseBuildingRaiding] They dealt 122.352 * 1 = 122.352 damage with Bullet_308Win from TWP_M134
+20:11:41.343 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26635.9 to 26513.5
+20:11:41.343 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.468 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.468 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.48, 20.44, 7249.42> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.468 [BaseBuildingRaiding] They dealt 122.362 * 1 = 122.362 damage with Bullet_308Win from TWP_M134
+20:11:41.468 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26513.5 to 26391.2
+20:11:41.468 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.554 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.554 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.47, 20.44, 7249.53> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.554 [BaseBuildingRaiding] They dealt 122.373 * 1 = 122.373 damage with Bullet_308Win from TWP_M134
+20:11:41.554 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26391.2 to 26268.8
+20:11:41.554 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.664 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.664 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.46, 20.44, 7249.64> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.664 [BaseBuildingRaiding] They dealt 122.383 * 1 = 122.383 damage with Bullet_308Win from TWP_M134
+20:11:41.664 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26268.8 to 26146.4
+20:11:41.664 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.750 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.750 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.45, 20.44, 7249.71> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.750 [BaseBuildingRaiding] They dealt 122.389 * 1 = 122.389 damage with Bullet_308Win from TWP_M134
+20:11:41.750 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26146.4 to 26024
+20:11:41.750 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.875 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.875 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.42, 20.44, 7249.85> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.875 [BaseBuildingRaiding] They dealt 122.4 * 1 = 122.4 damage with Bullet_308Win from TWP_M134
+20:11:41.875 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 26024 to 25901.6
+20:11:41.875 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:41.960 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:41.960 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.4, 20.44, 7249.96> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:41.960 [BaseBuildingRaiding] They dealt 122.411 * 1 = 122.411 damage with Bullet_308Win from TWP_M134
+20:11:41.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25901.6 to 25779.2
+20:11:41.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.078 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.37, 20.44, 7250.07> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.078 [BaseBuildingRaiding] They dealt 122.424 * 1 = 122.424 damage with Bullet_308Win from TWP_M134
+20:11:42.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25779.2 to 25656.8
+20:11:42.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.156 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.36, 20.44, 7250.14> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.156 [BaseBuildingRaiding] They dealt 122.435 * 1 = 122.435 damage with Bullet_308Win from TWP_M134
+20:11:42.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25656.8 to 25534.4
+20:11:42.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.265 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.265 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.33, 20.44, 7250.28> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.265 [BaseBuildingRaiding] They dealt 122.45 * 1 = 122.45 damage with Bullet_308Win from TWP_M134
+20:11:42.265 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25534.4 to 25411.9
+20:11:42.265 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.375 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.375 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.3, 20.44, 7250.39> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.375 [BaseBuildingRaiding] They dealt 122.463 * 1 = 122.463 damage with Bullet_308Win from TWP_M134
+20:11:42.375 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25411.9 to 25289.4
+20:11:42.375 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.460 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.460 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.28, 20.44, 7250.5> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.460 [BaseBuildingRaiding] They dealt 122.473 * 1 = 122.473 damage with Bullet_308Win from TWP_M134
+20:11:42.460 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25289.4 to 25167
+20:11:42.460 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.585 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.25, 20.44, 7250.64> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.585 [BaseBuildingRaiding] They dealt 122.483 * 1 = 122.483 damage with Bullet_308Win from TWP_M134
+20:11:42.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25167 to 25044.5
+20:11:42.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.664 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.664 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.23, 20.44, 7250.71> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.664 [BaseBuildingRaiding] They dealt 122.494 * 1 = 122.494 damage with Bullet_308Win from TWP_M134
+20:11:42.664 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 25044.5 to 24922
+20:11:42.664 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.781 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.781 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.2, 20.44, 7250.81> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.781 [BaseBuildingRaiding] They dealt 122.506 * 1 = 122.506 damage with Bullet_308Win from TWP_M134
+20:11:42.781 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24922 to 24799.5
+20:11:42.781 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.859 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.859 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.18, 20.44, 7250.92> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.859 [BaseBuildingRaiding] They dealt 122.518 * 1 = 122.518 damage with Bullet_308Win from TWP_M134
+20:11:42.859 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24799.5 to 24677
+20:11:42.859 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:42.968 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:42.968 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.15, 20.44, 7251.02> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:42.968 [BaseBuildingRaiding] They dealt 122.53 * 1 = 122.53 damage with Bullet_308Win from TWP_M134
+20:11:42.968 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24677 to 24554.4
+20:11:42.968 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.085 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.12, 20.44, 7251.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.085 [BaseBuildingRaiding] They dealt 122.532 * 1 = 122.532 damage with Bullet_308Win from TWP_M134
+20:11:43.085 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24554.4 to 24431.9
+20:11:43.085 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.148 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.148 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.09, 20.44, 7251.2> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.148 [BaseBuildingRaiding] They dealt 122.54 * 1 = 122.54 damage with Bullet_308Win from TWP_M134
+20:11:43.148 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24431.9 to 24309.4
+20:11:43.148 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.273 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.04, 20.44, 7251.34> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.273 [BaseBuildingRaiding] They dealt 122.549 * 1 = 122.549 damage with Bullet_308Win from TWP_M134
+20:11:43.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24309.4 to 24186.8
+20:11:43.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.359 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.359 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4539.02, 20.44, 7251.41> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.359 [BaseBuildingRaiding] They dealt 122.559 * 1 = 122.559 damage with Bullet_308Win from TWP_M134
+20:11:43.359 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24186.8 to 24064.3
+20:11:43.359 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.468 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.468 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.96, 20.44, 7251.54> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.468 [BaseBuildingRaiding] They dealt 122.566 * 1 = 122.566 damage with Bullet_308Win from TWP_M134
+20:11:43.468 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 24064.3 to 23941.7
+20:11:43.468 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.585 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.585 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.88, 20.44, 7251.61> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.585 [BaseBuildingRaiding] They dealt 122.575 * 1 = 122.575 damage with Bullet_308Win from TWP_M134
+20:11:43.585 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23941.7 to 23819.1
+20:11:43.585 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.656 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.656 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.82, 20.44, 7251.64> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.656 [BaseBuildingRaiding] They dealt 122.585 * 1 = 122.585 damage with Bullet_308Win from TWP_M134
+20:11:43.656 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23819.1 to 23696.5
+20:11:43.656 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.765 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.72, 20.44, 7251.74> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.765 [BaseBuildingRaiding] They dealt 122.602 * 1 = 122.602 damage with Bullet_308Win from TWP_M134
+20:11:43.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23696.5 to 23573.9
+20:11:43.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.875 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.875 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.62, 20.44, 7251.78> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.875 [BaseBuildingRaiding] They dealt 122.611 * 1 = 122.611 damage with Bullet_308Win from TWP_M134
+20:11:43.875 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23573.9 to 23451.3
+20:11:43.875 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:43.960 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:43.960 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.52, 20.44, 7251.81> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:43.960 [BaseBuildingRaiding] They dealt 122.621 * 1 = 122.621 damage with Bullet_308Win from TWP_M134
+20:11:43.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23451.3 to 23328.7
+20:11:43.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.078 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.42, 20.44, 7251.84> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.078 [BaseBuildingRaiding] They dealt 122.631 * 1 = 122.631 damage with Bullet_308Win from TWP_M134
+20:11:44.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23328.7 to 23206.1
+20:11:44.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.156 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.35, 20.44, 7251.86> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.156 [BaseBuildingRaiding] They dealt 122.645 * 1 = 122.645 damage with Bullet_308Win from TWP_M134
+20:11:44.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23206.1 to 23083.4
+20:11:44.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.265 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.265 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.22, 20.44, 7251.9> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.265 [BaseBuildingRaiding] They dealt 122.657 * 1 = 122.657 damage with Bullet_308Win from TWP_M134
+20:11:44.265 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 23083.4 to 22960.8
+20:11:44.265 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.390 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.390 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.08, 20.44, 7251.93> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.390 [BaseBuildingRaiding] They dealt 122.673 * 1 = 122.673 damage with Bullet_308Win from TWP_M134
+20:11:44.390 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22960.8 to 22838.1
+20:11:44.390 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.460 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.460 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4538.01, 20.44, 7251.95> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.460 [BaseBuildingRaiding] They dealt 122.687 * 1 = 122.687 damage with Bullet_308Win from TWP_M134
+20:11:44.460 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22838.1 to 22715.4
+20:11:44.460 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.578 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.91, 20.44, 7251.98> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.578 [BaseBuildingRaiding] They dealt 122.698 * 1 = 122.698 damage with Bullet_308Win from TWP_M134
+20:11:44.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22715.4 to 22592.7
+20:11:44.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.648 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.656 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.84, 20.44, 7252> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.656 [BaseBuildingRaiding] They dealt 122.711 * 1 = 122.711 damage with Bullet_308Win from TWP_M134
+20:11:44.656 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22592.7 to 22470
+20:11:44.656 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.765 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.7, 20.44, 7252.03> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.765 [BaseBuildingRaiding] They dealt 122.726 * 1 = 122.726 damage with Bullet_308Win from TWP_M134
+20:11:44.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22470 to 22347.3
+20:11:44.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.882 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.6, 20.44, 7252.06> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.882 [BaseBuildingRaiding] They dealt 122.738 * 1 = 122.738 damage with Bullet_308Win from TWP_M134
+20:11:44.882 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22347.3 to 22224.5
+20:11:44.882 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:44.960 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:44.960 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.5, 20.44, 7252.09> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:44.960 [BaseBuildingRaiding] They dealt 122.756 * 1 = 122.756 damage with Bullet_308Win from TWP_M134
+20:11:44.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22224.5 to 22101.8
+20:11:44.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.078 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.41, 20.44, 7252.12> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.078 [BaseBuildingRaiding] They dealt 122.771 * 1 = 122.771 damage with Bullet_308Win from TWP_M134
+20:11:45.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22101.8 to 21979
+20:11:45.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.156 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.38, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.156 [BaseBuildingRaiding] They dealt 122.77 * 1 = 122.77 damage with Bullet_308Win from TWP_M134
+20:11:45.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21979 to 21856.2
+20:11:45.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.265 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.265 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.265 [BaseBuildingRaiding] They dealt 122.754 * 1 = 122.754 damage with Bullet_308Win from TWP_M134
+20:11:45.265 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21856.2 to 21733.5
+20:11:45.265 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.375 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.375 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.375 [BaseBuildingRaiding] They dealt 122.746 * 1 = 122.746 damage with Bullet_308Win from TWP_M134
+20:11:45.382 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21733.5 to 21610.7
+20:11:45.382 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.453 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.460 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.460 [BaseBuildingRaiding] They dealt 122.743 * 1 = 122.743 damage with Bullet_308Win from TWP_M134
+20:11:45.460 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21610.7 to 21488
+20:11:45.460 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.570 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.570 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.570 [BaseBuildingRaiding] They dealt 122.743 * 1 = 122.743 damage with Bullet_308Win from TWP_M134
+20:11:45.570 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21488 to 21365.3
+20:11:45.570 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.687 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.687 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.687 [BaseBuildingRaiding] They dealt 122.742 * 1 = 122.742 damage with Bullet_308Win from TWP_M134
+20:11:45.687 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21365.3 to 21242.5
+20:11:45.687 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.757 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.757 [BaseBuildingRaiding] They dealt 122.741 * 1 = 122.741 damage with Bullet_308Win from TWP_M134
+20:11:45.757 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21242.5 to 21119.8
+20:11:45.757 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.875 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.875 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.875 [BaseBuildingRaiding] They dealt 122.738 * 1 = 122.738 damage with Bullet_308Win from TWP_M134
+20:11:45.875 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 21119.8 to 20997
+20:11:45.875 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:45.984 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:45.984 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:45.984 [BaseBuildingRaiding] They dealt 122.737 * 1 = 122.737 damage with Bullet_308Win from TWP_M134
+20:11:45.984 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20997 to 20874.3
+20:11:45.984 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.070 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.070 [BaseBuildingRaiding] They dealt 122.736 * 1 = 122.736 damage with Bullet_308Win from TWP_M134
+20:11:46.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20874.3 to 20751.6
+20:11:46.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.179 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.179 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.179 [BaseBuildingRaiding] They dealt 122.743 * 1 = 122.743 damage with Bullet_308Win from TWP_M134
+20:11:46.179 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20751.6 to 20628.8
+20:11:46.179 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.250 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.250 [BaseBuildingRaiding] They dealt 122.751 * 1 = 122.751 damage with Bullet_308Win from TWP_M134
+20:11:46.250 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20628.8 to 20506.1
+20:11:46.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.367 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.367 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.367 [BaseBuildingRaiding] They dealt 122.752 * 1 = 122.752 damage with Bullet_308Win from TWP_M134
+20:11:46.367 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20506.1 to 20383.3
+20:11:46.367 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.484 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.484 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.484 [BaseBuildingRaiding] They dealt 122.751 * 1 = 122.751 damage with Bullet_308Win from TWP_M134
+20:11:46.484 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20383.3 to 20260.6
+20:11:46.484 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.554 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.554 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.554 [BaseBuildingRaiding] They dealt 122.746 * 1 = 122.746 damage with Bullet_308Win from TWP_M134
+20:11:46.562 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20260.6 to 20137.8
+20:11:46.562 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.671 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.671 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.671 [BaseBuildingRaiding] They dealt 122.743 * 1 = 122.743 damage with Bullet_308Win from TWP_M134
+20:11:46.671 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20137.8 to 20015.1
+20:11:46.671 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.781 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.781 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.781 [BaseBuildingRaiding] They dealt 122.741 * 1 = 122.741 damage with Bullet_308Win from TWP_M134
+20:11:46.781 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20015.1 to 19892.3
+20:11:46.781 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.859 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.859 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.859 [BaseBuildingRaiding] They dealt 122.74 * 1 = 122.74 damage with Bullet_308Win from TWP_M134
+20:11:46.859 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19892.3 to 19769.6
+20:11:46.859 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:46.976 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:46.976 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:46.976 [BaseBuildingRaiding] They dealt 122.74 * 1 = 122.74 damage with Bullet_308Win from TWP_M134
+20:11:46.976 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19769.6 to 19646.9
+20:11:46.976 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.046 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.046 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.046 [BaseBuildingRaiding] They dealt 122.739 * 1 = 122.739 damage with Bullet_308Win from TWP_M134
+20:11:47.046 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19646.9 to 19524.1
+20:11:47.046 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.156 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.156 [BaseBuildingRaiding] They dealt 122.733 * 1 = 122.733 damage with Bullet_308Win from TWP_M134
+20:11:47.156 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19524.1 to 19401.4
+20:11:47.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.273 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.273 [BaseBuildingRaiding] They dealt 122.729 * 1 = 122.729 damage with Bullet_308Win from TWP_M134
+20:11:47.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19401.4 to 19278.7
+20:11:47.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.351 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.351 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.351 [BaseBuildingRaiding] They dealt 122.728 * 1 = 122.728 damage with Bullet_308Win from TWP_M134
+20:11:47.351 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19278.7 to 19155.9
+20:11:47.351 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.460 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.460 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.460 [BaseBuildingRaiding] They dealt 122.723 * 1 = 122.723 damage with Bullet_308Win from TWP_M134
+20:11:47.460 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19155.9 to 19033.2
+20:11:47.460 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.460 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.460 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.460 [BaseBuildingRaiding] They dealt 49.0327 * 1 = 49.0327 damage with Bullet_308Win from TWP_M134
+20:11:47.460 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19033.2 to 18984.2
+20:11:47.460 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.578 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.578 [BaseBuildingRaiding] They dealt 122.681 * 1 = 122.681 damage with Bullet_308Win from TWP_M134
+20:11:47.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18984.2 to 18861.5
+20:11:47.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.687 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.687 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.687 [BaseBuildingRaiding] They dealt 122.722 * 1 = 122.722 damage with Bullet_308Win from TWP_M134
+20:11:47.687 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18861.5 to 18738.8
+20:11:47.687 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.687 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.687 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.687 [BaseBuildingRaiding] They dealt 101.293 * 1 = 101.293 damage with Bullet_308Win from TWP_M134
+20:11:47.687 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18738.8 to 18637.5
+20:11:47.687 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.773 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.773 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.773 [BaseBuildingRaiding] They dealt 122.68 * 1 = 122.68 damage with Bullet_308Win from TWP_M134
+20:11:47.773 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18637.5 to 18514.8
+20:11:47.773 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.843 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.843 [BaseBuildingRaiding] They dealt 122.734 * 1 = 122.734 damage with Bullet_308Win from TWP_M134
+20:11:47.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18514.8 to 18392.1
+20:11:47.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:47.953 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:47.960 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:47.960 [BaseBuildingRaiding] They dealt 122.739 * 1 = 122.739 damage with Bullet_308Win from TWP_M134
+20:11:47.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18392.1 to 18269.3
+20:11:47.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:48.070 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:48.070 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:48.070 [BaseBuildingRaiding] They dealt 122.746 * 1 = 122.746 damage with Bullet_308Win from TWP_M134
+20:11:48.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18269.3 to 18146.6
+20:11:48.070 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:48.179 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:48.179 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:48.179 [BaseBuildingRaiding] They dealt 122.753 * 1 = 122.753 damage with Bullet_308Win from TWP_M134
+20:11:48.179 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18146.6 to 18023.8
+20:11:48.179 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:48.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:48.250 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:48.250 [BaseBuildingRaiding] They dealt 122.758 * 1 = 122.758 damage with Bullet_308Win from TWP_M134
+20:11:48.250 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18023.8 to 17901.1
+20:11:48.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:48.367 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:48.367 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:48.367 [BaseBuildingRaiding] They dealt 122.762 * 1 = 122.762 damage with Bullet_308Win from TWP_M134
+20:11:48.367 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17901.1 to 17778.3
+20:11:48.367 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:48.476 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:48.476 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:48.476 [BaseBuildingRaiding] They dealt 122.763 * 1 = 122.763 damage with Bullet_308Win from TWP_M134
+20:11:48.476 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17778.3 to 17655.5
+20:11:48.476 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:48.554 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:48.554 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:48.554 [BaseBuildingRaiding] They dealt 122.766 * 1 = 122.766 damage with Bullet_308Win from TWP_M134
+20:11:48.554 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17655.5 to 17532.8
+20:11:48.554 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:49.875 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:49.875 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:49.875 [BaseBuildingRaiding] They dealt 122.768 * 1 = 122.768 damage with Bullet_308Win from TWP_M134
+20:11:49.875 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17532.8 to 17410
+20:11:49.875 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:49.976 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:49.976 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:49.976 [BaseBuildingRaiding] They dealt 122.765 * 1 = 122.765 damage with Bullet_308Win from TWP_M134
+20:11:49.976 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17410 to 17287.2
+20:11:49.976 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:50.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:50.085 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:50.085 [BaseBuildingRaiding] They dealt 122.762 * 1 = 122.762 damage with Bullet_308Win from TWP_M134
+20:11:50.093 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17287.2 to 17164.5
+20:11:50.093 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:50.164 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:50.164 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:50.164 [BaseBuildingRaiding] They dealt 122.759 * 1 = 122.759 damage with Bullet_308Win from TWP_M134
+20:11:50.164 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17164.5 to 17041.7
+20:11:50.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:50.289 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:50.289 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:50.289 [BaseBuildingRaiding] They dealt 122.756 * 1 = 122.756 damage with Bullet_308Win from TWP_M134
+20:11:50.289 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17041.7 to 16919
+20:11:50.289 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:50.359 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:50.367 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:50.367 [BaseBuildingRaiding] They dealt 122.75 * 1 = 122.75 damage with Bullet_308Win from TWP_M134
+20:11:50.367 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 16919 to 16796.2
+20:11:50.367 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:50.453 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:50.453 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:50.453 [BaseBuildingRaiding] They dealt 122.75 * 1 = 122.75 damage with Bullet_308Win from TWP_M134
+20:11:50.453 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 16796.2 to 16673.5
+20:11:50.453 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:50.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:50.578 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:50.578 [BaseBuildingRaiding] They dealt 122.749 * 1 = 122.749 damage with Bullet_308Win from TWP_M134
+20:11:50.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 16673.5 to 16550.7
+20:11:50.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:11:50.679 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:11:50.679 [BaseBuildingRaiding] Player "BtWF_Raziel" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <4537.36, 20.44, 7252.13> damaged ExpansionWall6x3 at <4534.87, 20.43, 7252.35>
+20:11:50.679 [BaseBuildingRaiding] They dealt 122.749 * 1 = 122.749 damage with Bullet_308Win from TWP_M134
+20:11:50.679 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 16550.7 to 16428
+20:11:50.679 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:12:46.617 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4560.592285, 34.072685, 6993.242188>) Left the safezone
+20:12:49.531 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4745.058105, 74.957001, 3197.466309>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:14:07.304 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4744.426758, 74.957008, 3197.327393>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:21:51.140 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): Hey DR how do I make or get a canvas cover for my hummer? looks like there is a slot for it but saw nothing at the trader
+20:31:03.234 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): sorry about the wait. it should be a regular camo net for covering when not in use. if i find one specifically for it ill sdend it your way
+20:31:34.476 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i have a cammo net be there is supposed to be one that closes off the back
+20:33:46.726 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): whats the actual name of it when you look at a part? is it H1?
+20:34:18.617 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4746.739258, 74.957008, 3198.653320>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:34:47.500 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hammer_H1 upper trunk lid
+20:35:18.710 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): and another slot called "thing bag for hammer" whatever tf that is lol
+20:35:55.750 [VehicleAttachments] Player [ADMIN]DrKilledByDeath (uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) detached HAMMER_H1 Upper trunk lid (type=HAMMER_Doors_cargo3) from vehicle HAMMER_H1(id=6873067DA845287EACAE109A7DE3A489 pos=<4606.135742, 67.086090, 7146.879883>)
+20:36:46.445 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4744.807617, 74.957008, 3197.733398>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:36:58.539 [VehicleDeleted] HAMMER_H1 (id=6873067DA845287EACAE109A7DE3A489 pos=<4606.135742, 67.086090, 7146.879883>)
+20:37:18.375 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): found the trunk lid, no clue about this thing bag though, ima send that one along to the team lol
+20:37:29.335 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol ok ty
+20:37:43.843 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): no worries
+20:37:56.804 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): oh,m ima find it lol
+20:38:14.695 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lmao
+20:38:25.203 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5606.369141, 28.709999, 5376.315430>) Entered the safezone
+20:38:35.218 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4746.806641, 74.957016, 3198.951660>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:38:57.382 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4746.525879, 74.957001, 3198.146484>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:39:17.750 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): foundddd ittttt
+20:39:21.703 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4744.870117, 75.317413, 3180.890869>) Left the safezone
+20:39:31.984 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh/
+20:40:08.382 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4745.751465, 74.956993, 3197.496338>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:40:28.953 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): nice
+20:40:33.359 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): the roof got swaggggg
+20:40:40.875 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): cheers!
+20:40:52.585 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4746.898438, 74.957008, 3198.708252>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=5877895E9F4C8718E7F19DA49AA485C9 pos=<4744.002441, 74.997406, 3199.887207>)
+20:41:05.187 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5625.860352, 28.713665, 5401.510742>) Entered the safezone
+20:41:10.953 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): holy shit it's 200 extra storage for that thing lol
+20:41:28.140 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): not bad for something ive never seen before lol
+20:41:34.507 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): right lol
+20:43:30.101 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5631.705078, 32.337070, 5400.935059>) Entered the safezone
+21:04:21.476 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5619.829102, 28.415953, 5585.251953>) Left the safezone
+21:06:13.203 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5607.485352, 28.518597, 5596.511230>) paired a  ExpansionCarKey to Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.954102, 28.473007, 5596.326660>)
+21:06:20.734 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5607.485352, 28.518597, 5596.511230>) used the  ExpansionCarKey to lock Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.954102, 28.473007, 5596.326660>)
+21:06:50.125 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5606.905273, 28.734720, 5596.766113>) used the  ExpansionCarKey to unlock Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.954102, 28.473007, 5596.326660>)
+21:06:57.093 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5605.486816, 29.048758, 5597.194824>) used the  ExpansionCarKey to lock Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.954102, 28.473007, 5596.326660>)
+21:06:59.062 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5605.687500, 29.024284, 5597.125000>) used the  ExpansionCarKey to unlock Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.954102, 28.473007, 5596.326660>)
+21:07:10.101 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5605.356934, 29.162008, 5597.234863>) used the  ExpansionCarKey to lock Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.954102, 28.473007, 5596.326660>)
+21:07:13.429 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5605.816406, 29.046946, 5597.187988>) used the  ExpansionCarKey to unlock Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.954102, 28.473007, 5596.326660>)
+21:07:23.460 [VehicleEnter] Player BtWF_Raziel [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Fennek BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.951172, 28.472969, 5596.327148>) as driver
+21:07:29.242 [VehicleEngine] Player BtWF_Raziel [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Fennek BIOHAZARD (Locked) (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5604.952148, 28.472969, 5596.327148>)
+21:07:52.148 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:08:59.859 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5659.244629, 29.948772, 5521.176758>) Entered the safezone
+21:09:40.804 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5687.416992, 33.581070, 5252.813965>) Left the safezone
+21:09:47.585 [VehicleLeave] Player BtWF_Raziel [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Fennek BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5686.462891, 32.524769, 5253.218750>)
+21:09:56.476 [VehicleCarKey] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5688.104004, 32.614437, 5255.540039>) used the  ExpansionCarKey to lock Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5686.462402, 32.524765, 5253.218262>)
+21:10:00.937 [VehicleDeleted] Fennek_BIOHAZARD (id=DD3770D1784905B3B040B6A919C74B77 pos=<-0.004209, 0.835681, 0.367563>)
+21:10:00.953 [VehicleDeleted] Fennek_BIOHAZARD (id=AA5A0D2E6C465F4D555D21BA33C178AD pos=<5686.462402, 32.524765, 5253.218262>)
+21:10:00.953 [VirtualGarage] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5688.104004, 32.614437, 5255.540039>) stored a vehicle "Fennek_BIOHAZARD" (GlobalID=8000000080000000800000008001C924 pos=<5686.462402, 32.524765, 5253.218262>)
+21:15:07.398 [Safezone] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5663.807129, 32.605339, 5258.777832>) Entered the safezone
+21:45:12.750 [Party] Player "BtWF_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+22:27:29.460 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer

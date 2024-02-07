@@ -1,71 +1,39 @@
 
 
 ******************************************************************************
-AdminLog started on 2024-02-04 at 12:00:12
-12:01:08 | Player "Stahlhelm Sturm" is connected (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=)
-12:01:38 | Player "Delgo" is connected (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=)
-12:01:51 | Player "[NBY2] grenfell" is connected (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=)
-12:05:47 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<6976.0, 5406.1, 8.7>)[HP: 99.6913] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
-12:05:49 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<6978.6, 5403.7, 8.7>)[HP: 99.0094] hit by Infected into Torso(1) for 1.54375 damage (MeleeInfected)
-12:08:28 | Player "FARRIS" is connected (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)
-12:16:17 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<5480.1, 4639.2, 5.8>)[HP: 93.75] hit by Beast bear into Head(0) for 3.125 damage (MeleeBear)
-12:16:23 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<5453.3, 4625.5, 5.3>)[HP: 87.9926] hit by Beast bear into Torso(16) for 5.9375 damage (MeleeBear)
-12:36:53 | Player "Delgo" (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg= pos=<7705.8, 3743.4, 15.7>)[HP: 99.2775] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
-12:36:55 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<7707.8, 3750.5, 15.3>)[HP: 97.9812] hit by Infected into Torso(1) for 2.01875 damage (MeleeSoldierInfected)
-12:36:57 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<7710.4, 3751.1, 14.9>)[HP: 95.3687] hit by Infected into Torso(1) for 2.6125 damage (MeleeSoldierInfectedLong)
-12:37:07 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<7696.0, 3750.8, 16.8>)[HP: 93.7101] hit by Infected into Torso(1) for 2.01875 damage (MeleeSoldierInfected)
-12:37:27 | Player "[NBY2] grenfell" (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE= pos=<7692.9, 3749.7, 17.3>)[HP: 92.7065] hit by Infected into Torso(1) for 1.54375 damage (MeleeInfected)
-12:37:34 | Player "Delgo" (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg= pos=<7723.4, 3752.0, 14.0>)[HP: 98.6188] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
-12:37:36 | Player "Delgo" (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg= pos=<7724.9, 3740.4, 14.3>)[HP: 97.2375] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
-12:37:37 | Player "Delgo" (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg= pos=<7726.7, 3739.6, 14.3>)[HP: 95.5213] hit by Infected into Torso(1) for 1.80625 damage (MeleeInfectedLong)
-12:40:59 | Player "brailsford40" is connected (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)
-12:45:00 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10090.4, 7877.5, 6.3>)[HP: 98.2171] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
-12:45:31 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10058.5, 7912.3, 8.7>)[HP: 98.8094] hit by Infected into Block(-1) for 0 damage 
-12:45:51 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10053.3, 7963.0, 8.9>)[HP: 99.2256] hit by Infected into Block(-1) for 0 damage 
-12:45:53 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10053.8, 7959.4, 8.9>)[HP: 98.7327] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
-12:45:55 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10053.5, 7957, 8.9>)[HP: 96.6077] hit by Infected into RightLeg(3) for 8.5 damage (MeleeInfectedLong)
-12:47:40 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10107.3, 7930.1, 9.0>)[HP: 98.7095] hit by Infected into Block(-1) for 0 damage 
-12:53:50 | Player "[NBY2] grenfell"(id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has been disconnected
-12:55:46 | Player "FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has been disconnected
-12:59:15 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10357.1, 7862.5, 24.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
-12:59:40 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10379.3, 7827.0, 24.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
-13:06:28 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10390.4, 7863.0, 24.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
-13:06:37 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10382.2, 7853.1, 24.9>)[HP: 98.375] hit by Infected into RightLeg(3) for 6.5 damage (MeleeInfected)
-13:07:27 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10416, 7917.5, 24.8>)[HP: 99.5107] hit by Infected into Block(-1) for 0 damage 
-13:18:59 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<12483.3, 7667.9, 1.8>)[HP: 97.875] hit by Infected into RightLeg(3) for 8.5 damage (MeleeSoldierInfected)
-13:19:04 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<12476.9, 7666.7, 2.4>)[HP: 95.2025] hit by Infected into RightLeg(3) for 11 damage (MeleeSoldierInfectedLong)
-13:19:49 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<12481.3, 7669.3, 1.8>)[HP: 93.145] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
-13:19:53 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<12487.7, 7669.8, 1.8>)[HP: 92.5783] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
-13:19:56 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<12486.7, 7664.4, 1.9>)[HP: 90.5312] hit by Infected into RightLeg(3) for 8.5 damage (MeleeSoldierInfected)
-13:19:58 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<12484.4, 7663.6, 1.8>)[HP: 88.4062] hit by Infected into RightLeg(3) for 8.5 damage (MeleeSoldierInfected)
-13:20:32 | Player "Lou Sassole" is connected (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
-13:27:09 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8852.2, 8709.9, 5.1>)[HP: 99.4475] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
-13:27:15 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8850.9, 8709.1, 5.1>)[HP: 99.6276] hit by Infected into Block(-1) for 0 damage 
-13:27:16 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8853.9, 8709.6, 5.1>)[HP: 99.6276] hit by Infected into Block(-1) for 0 damage 
-13:33:43 | Player "[NBY2] grenfell" is connected (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=)
-13:34:36 | Player "[Admin] Bunker" is connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
-13:35:44 | [COT] 76561198036774377: Teleported to position <3493.909912, 6.557621, 15899.228516>
-13:40:25 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<8d9e7b40>, 50000, 5000, 0) at <3492.379395, 6.559308, 15896.281250>
-13:40:31 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<8d9fafb0>, 50000, 5000, 0) at <3490.609619, 6.528623, 15901.493164>
-13:40:46 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<4c4eddb0>, 50000, 5000, 0) at <3498.528809, 6.554472, 15896.315430>
-13:40:52 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<983579c0>, 50000, 5000, 0) at <3501.066895, 6.561473, 15903.355469>
-13:40:59 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<647cf4d0>, 50000, 5000, 0) at <3496.065674, 6.488580, 15910.380859>
-13:41:06 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ebf480>, 50000, 5000, 0) at <3501.572510, 6.516364, 15912.575195>
-13:41:15 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ed5500>, 50000, 5000, 0) at <3509.461914, 6.494158, 15911.472656>
-13:41:25 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ed28f0>, 50000, 5000, 0) at <3511.107178, 6.283669, 15901.143555>
-13:41:33 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ec2090>, 50000, 5000, 0) at <3506.418701, 6.381123, 15891.486328>
-13:41:44 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ecd0d0>, 50000, 5000, 0) at <3499.215820, 6.371194, 15885.514648>
-13:41:51 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ed8110>, 50000, 5000, 0) at <3505.276367, 6.025067, 15880.058594>
-13:42:01 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ecfce0>, 50000, 5000, 0) at <3491.687500, 6.177364, 15880.947266>
-13:42:11 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ec78b0>, 50000, 5000, 0) at <3486.184326, 6.446223, 15887.717773>
-13:42:16 | [COT] 76561198036774377: Spawned Entity Mh-6 Front-Left Door (Expansion_Mh6_Door_1_1<d48c3730>, 50000, 500, 0) at <3483.739502, 6.514354, 15894.523438>
-13:42:18 | [COT] 76561198036774377: Spawned Entity Mh-6 Front-Left Door (Expansion_Mh6_Door_1_1<d488a5c0>, 50000, 500, 0) at <3485.332764, 6.517031, 15893.475586>
-13:42:23 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6ec4ca0>, 50000, 5000, 0) at <3485.686768, 6.729668, 15893.306641>
-13:42:32 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6edad20>, 50000, 5000, 0) at <3478.167969, 6.470057, 15892.649414>
-13:42:40 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6eca4c0>, 50000, 5000, 0) at <3475.000732, 6.400093, 15897.394531>
-13:42:48 | [COT] 76561198036774377: Spawned Entity Mh-6 Little Bird (ExpansionMh6<b6eeb580>, 50000, 5000, 0) at <3479.696045, 6.408477, 15902.028320>
-13:43:47 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8540.9, 8758.4, 5.1>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
-13:43:49 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8541.0, 8755.6, 5.1>)[HP: 95.3938] hit by Infected into Torso(1) for 4.14375 damage (MeleeInfected)
-13:43:52 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8539.5, 8759.1, 5.1>)[HP: 91.34] hit by Infected into Torso(1) for 4.14375 damage (MeleeInfected)
-13:43:55 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8538.9, 8757.4, 5.1>)[HP: 90.1301] hit by Infected into RightLeg(3) for 5.2 damage (MeleeInfected)
-13:43:56 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8539.1, 8757.6, 5.1>)[HP: 85.9863] hit by Infected into Torso(1) for 4.14375 damage (MeleeInfected)
+AdminLog started on 2024-02-06 at 20:33:22
+20:37:16 | Player "FARRIS" is connected (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)
+21:09:44 | Player "FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has been disconnected
+21:15:53 | Player "AbyssStryder" is connected (id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk=)
+21:31:20 | Player "Lou Sassole" is connected (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+21:34:33 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hello
+21:43:32 | Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5306.8, 3587.1, 74.0>)[HP: 99.2775] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+21:56:09 | Player "AbyssStryder"(id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk=) has been disconnected
+22:10:04 | Player "AbyssStryder" is connected (id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk=)
+22:17:31 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hello
+22:23:55 | Player "Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has been disconnected
+22:26:53 | Player "[NIPS] Tomb Raver" is connected (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI=)
+22:27:16 | Player "AbyssStryder" (id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk= pos=<9682.4, 4126.5, 20.2>)[HP: 99.3094] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+22:43:06 | Player "Josh" is connected (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)
+22:49:56 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8825.2, 8976.1, 5.1>)[HP: 98.5375] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+22:49:57 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8825.3, 8976.4, 5.1>)[HP: 97.6875] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+22:49:59 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8824.5, 8976.7, 5.1>)[HP: 95.865] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
+23:09:28 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8615.0, 9315.1, 5.1>)[HP: 98.1937] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
+23:09:30 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8615.6, 9315.1, 5.1>)[HP: 96.4775] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
+23:11:05 | Player "[NIPS] Tomb Raver"(id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI=) has been disconnected
+23:15:16 | Player "[Admin] Bunker"(id=Unknown) has been disconnected
+23:16:59 | Player "[Admin] Bunker" is connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
+23:17:57 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+23:18:01 | [COT] 76561198036774377: Set GodMode To true [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+23:18:12 | [COT] 76561198036774377: Set rain to 0 0 0
+23:18:12 | [COT] 76561198036774377: Set storm to 0 0.8 4000
+23:18:12 | [COT] 76561198036774377: Set fog to 0 0 0
+23:18:12 | [COT] 76561198036774377: Set overcast to 0.540857 0 0
+23:18:12 | [COT] 76561198036774377: Set the date to 2024/9/27 3:50
+23:18:12 | [COT] 76561198036774377: Set wind to 13.657 13.657 1
+23:18:57 | [COT] 76561198036774377: Teleported to position <4251.858398, 20.450001, 7266.903320>
+23:19:22 | [COT] 76561198036774377: Entered the Free Camera
+23:19:29 | [COT] 76561198036774377: Left the Free Camera
+23:21:42 | [COT] 76561198036774377: Teleported to position <3744.532959, 11.450000, 9722.599609>
+23:23:47 | [COT] 76561198036774377: Teleported to position <7203.895020, 6.650000, 8465.269531>
+23:26:05 | Player "[Admin] Bunker"(id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has been disconnected

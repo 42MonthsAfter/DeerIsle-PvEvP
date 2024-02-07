@@ -1,0 +1,37 @@
+00:04:17.951 [AI Patrol] Spawning 3 Camp Bear Patrol bots at <8957.710938, 19.882856, 6038.232422>
+00:04:41.954 [SpawnSelection] Player "Zane" (id=aBd-XkURjLGoaCQq3LejXv1agK3RwkAks9KwckAKZ6Q=) spawned at <8330.190430, 5.130000, 9320.299805>
+00:19:24.179 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+00:22:54.169 [Killfeed] Zane got killed.
+00:25:48.281 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:26:08.554 [SpawnSelection] Player "Zane" (id=aBd-XkURjLGoaCQq3LejXv1agK3RwkAks9KwckAKZ6Q=) spawned at <5665.169922, 28.708799, 5392.490234>
+00:26:08.729 [Safezone] Player "Zane" (id=aBd-XkURjLGoaCQq3LejXv1agK3RwkAks9KwckAKZ6Q= pos=<5665.169922, 28.708799, 5392.490234>) Entered the safezone
+00:28:15.463 [ATM] Player "Zane" (id=aBd-XkURjLGoaCQq3LejXv1agK3RwkAks9KwckAKZ6Q=) has withdrawn 10000 from his ATM account.
+00:29:04.205 [BaseBuildingRaiding] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5560.161621, 34.852497, 617.497864>) deployed ExpansionSatchel at <5560.288086, 35.509537, 616.896973>
+00:29:25.437 [ATM] Player "Zane" (id=aBd-XkURjLGoaCQq3LejXv1agK3RwkAks9KwckAKZ6Q=) has deposited 10000 on his ATM account.
+00:29:34.309 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<836e7240> at <5561.22, 36.29, 617.45> EXPLOSION range 5 dropoff 2.5
+00:31:42.068 [Safezone] Player "Zane" (id=aBd-XkURjLGoaCQq3LejXv1agK3RwkAks9KwckAKZ6Q= pos=<5802.202148, 75.937447, 5448.547852>) Left the safezone
+00:34:15.517 [BaseBuildingRaiding] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5586.337402, 38.376648, 642.678955>) deployed ExpansionSatchel at <5586.657227, 39.038273, 642.157349>
+00:34:45.621 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<7838eda0> at <5587.67, 37.93, 642.08> EXPLOSION range 5 dropoff 2.5
+00:41:28.265 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+03:06:06.353 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4687.052734, 20.430000, 7220.068359>
+03:22:19.774 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8839.929688, 44.809639, 9963.569336>) uncovered vehicle "ExpansionUh1h" (GlobalID=8000000080000000800000008001D47B pos=<8838.796875, 44.915688, 9972.495117>)!
+03:23:33.094 [VehicleDeleted] ExpansionUh1h (id=D451565F0B4A7555E0045185E83F848C pos=<8838.794922, 44.921452, 9972.494141>)
+03:23:33.094 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8839.342773, 44.809532, 9967.208008>) covered vehicle "ExpansionUh1h" (GlobalID=8000000080000000800000008001D47B pos=<8838.794922, 44.924603, 9972.494141>)!
+03:39:15.711 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<8843.462891, 44.831474, 9962.028320>) uncovered vehicle "ExpansionUh1h" (GlobalID=8000000080000000800000008001D47B pos=<8838.794922, 44.921452, 9972.494141>)!
+03:47:36.637 [AI Patrol] Spawning 3 Temple Patrol bots at <411.302460, 47.070000, 749.664490>
+03:47:36.650 [AI Patrol] Spawning 3 Temple Patrol bots at <422.461517, 55.318100, 688.971375>
+03:47:36.661 [AI Patrol] Spawning 3 Temple Patrol bots at <321.350525, 48.908298, 551.687744>
+03:47:38.319 [VehicleEnter] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] entered vehicle UH-1H (id=AA027137E546E21842018FB0AF77A4D5 pos=<8838.799805, 44.916164, 9972.496094>) as pilot
+03:47:45.838 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] started vehicle UH-1H (id=AA027137E546E21842018FB0AF77A4D5 pos=<8838.808594, 44.915897, 9972.500977>)
+03:49:20.379 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Basebuilding
+03:51:23.173 [VehicleEngine] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] stopped vehicle UH-1H (id=AA027137E546E21842018FB0AF77A4D5 pos=<4718.574219, 19.090336, 7619.795898>)
+03:51:26.899 [VehicleLeave] Player Josh [uid=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=] left vehicle UH-1H (id=AA027137E546E21842018FB0AF77A4D5 pos=<4718.595703, 18.586636, 7619.846191>)
+03:51:40.165 [VehicleDeleted] ExpansionUh1h (id=AA027137E546E21842018FB0AF77A4D5 pos=<4718.599609, 18.600433, 7619.854980>)
+03:51:40.166 [VehicleCover] Player "Josh" (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps= pos=<4717.956543, 18.324402, 7617.362305>) covered vehicle "ExpansionUh1h" (GlobalID=8000000080000000800000008001D47B pos=<4718.599609, 18.603586, 7619.854980>)!
+04:45:58.621 [AI Patrol] Spawning 2 Shamans bots at <9747.062500, 35.916401, 11035.072266>
+04:52:11.312 [Killfeed] Blakord Crusader got killed by Survivor (Shamans) with KA-M from a distance of 38 m.
+04:52:48.931 [AI Patrol] Spawning 3 Prison Island Patrol bots at <5283.422363, 24.042122, 664.618774>
+04:53:39.412 [SpawnSelection] Player "Blakord Crusader" (id=JXpEkKpuqAiALF33zCY4ovK5Ldg0o08dPKf3j01pTGc=) spawned at <8956.400391, 5.130000, 8931.730469>
+05:09:44.044 [Killfeed] Blakord Crusader got killed by Survivor (Shamans) with KA-M from a distance of 30 m.
+05:10:28.099 [SpawnSelection] Player "Blakord Crusader" (id=JXpEkKpuqAiALF33zCY4ovK5Ldg0o08dPKf3j01pTGc=) spawned at <8330.190430, 5.130000, 9320.299805>
+05:49:53.535 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5658.799316, 28.807272, 5531.088379>) Entered the safezone
