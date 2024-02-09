@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 21,
+    "ID": 57,
+    "Type": 1,
+    "Title": "Kill 6 Zombies with a Pipewrench",
+    "Descriptions": [
+        "Ever killed a zombie with a pipewrench? How about six?",
+        "You're going to be buff after this one.",
+        "Well done, my friend. Regular zombies are easy though, how about we set things up for the next one?"
+    ],
+    "ObjectiveText": "Kill 6 Zombies with a Pipewrench",
+    "FollowUpQuest": 58,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_Mossberg500",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        6
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 57,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

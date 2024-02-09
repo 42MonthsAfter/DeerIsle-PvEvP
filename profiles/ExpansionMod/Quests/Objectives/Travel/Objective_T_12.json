@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 12,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Kushville",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        7532.27,
+        24.3073,
+        3902.67
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Kushville",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 29,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 6 Cans of KVASS",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 6,
+            "ClassName": "SodaCan_Kvass",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

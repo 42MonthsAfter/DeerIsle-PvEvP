@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 6,
+    "ClassName": "ExpansionQuestNPCNiki",
+    "Position": [
+        5580.58, 
+        32.4368, 
+        5376.23
+    ],
+    "Orientation": [
+        8.40273,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Niki",
+    "DefaultNPCText": "What do you want? I am busy...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "NPC6Loadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

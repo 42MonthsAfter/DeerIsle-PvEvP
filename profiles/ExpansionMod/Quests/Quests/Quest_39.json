@@ -1,0 +1,74 @@
+{
+    "ConfigVersion": 21,
+    "ID": 39,
+    "Type": 1,
+    "Title": "Bring Me 3 Bluegills",
+    "Descriptions": [
+        "So yeah, black bass were good but I have a theory that people won't know the difference if it's a lesser fish. Want to get me some bluegill to help me prove my point?",
+        "This should be easy! Those little bastards are every where!",
+        "What do you think about this new stew? Can you tell a difference?"
+    ],
+    "ObjectiveText": "Bring Me 3 Bluegills",
+    "FollowUpQuest": 40,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_MP7Eagle",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_MP7Eagle_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 39,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

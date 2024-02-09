@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 76,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort a survivor to Area 42",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        13615,  
+        13.0908,
+        10004.9
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

@@ -4,7 +4,7 @@
     "UseWholeMapForInviteList": 1,
     "TerritorySize": 120.0,
     "TerritoryPerimeterSize": 60.0,
-    "MaxMembersInTerritory": 0,
+    "MaxMembersInTerritory": 8,
     "MaxTerritoryPerPlayer": 1,
     "TerritoryInviteAcceptRadius": 150.0,
     "AuthenticateCodeLockIfTerritoryMember": 1

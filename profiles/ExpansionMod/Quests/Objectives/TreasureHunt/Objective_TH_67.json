@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 67,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash at RCFI",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            3730.26, 
+            13.2424, 
+            8739.33
+        ],
+        [
+            3641.4,  
+            12.0436,
+            8899.31
+        ],
+        [
+            3773.03,  
+            15.9926,
+            8993.24
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_XM8",
+            "Attachments": [
+                "TWP_XM8_mag_30Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_G56",
+            "Attachments": [
+                "TWP_G56_mag_32Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

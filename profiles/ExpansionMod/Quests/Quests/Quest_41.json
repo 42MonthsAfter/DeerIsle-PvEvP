@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 21,
+    "ID": 41,
+    "Type": 1,
+    "Title": "Kill 10 Zombies",
+    "Descriptions": [
+        "This shouldn't be too tough for a survivor like yourself. Go out and kill 10 zombies however you can.",
+        "I though we already talked about this? Aren't you supposed to be cleansing zombies?",
+        "See, that wasn't so hard now was it?"
+    ],
+    "ObjectiveText": "Kill 10 Zombies",
+    "FollowUpQuest": 42,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_SR3",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_SR3_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 41,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

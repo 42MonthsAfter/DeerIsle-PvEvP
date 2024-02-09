@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 74,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort a survivor to RCFI",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        3685.81, 
+        13.7242, 
+        8917.2
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

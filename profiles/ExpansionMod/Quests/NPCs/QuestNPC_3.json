@@ -1,27 +1,28 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 6,
     "ID": 3,
-    "ClassName": "ExpansionQuestBoardLarge",
+    "ClassName": "ExpansionQuestNPCManua",
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        5637, 
+        29.285, 
+        5401.03 
     ],
     "Orientation": [
-        0.0,
+        174.327,
         0.0,
         0.0
     ],
-    "NPCName": "Quest Board",
-    "DefaultNPCText": "There is nothing to do here for you...",
+    "NPCName": "Manua",
+    "DefaultNPCText": "What do you want? I am busy...",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "",
+    "NPCLoadoutFile": "NPC3Loadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 1
+    "NPCType": 0,
+    "Active": 1
 }

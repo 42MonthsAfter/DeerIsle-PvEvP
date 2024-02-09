@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 19,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Area 42",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        13657.4,  
+        12.91,
+        9908.04
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Area 42",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

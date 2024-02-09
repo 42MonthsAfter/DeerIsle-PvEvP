@@ -1,0 +1,67 @@
+{
+    "ConfigVersion": 21,
+    "ID": 22,
+    "Type": 1,
+    "Title": "Collect 4 Wrenches",
+    "Descriptions": [
+        "See all those cars over there by the auto trader? Yeah, I'm working on getting them up and running but need your help. Could use 4 wrentchs to get started.",
+        "This too much of an ask?",
+        "Niiiiiice. I'm going to get this whips running soon."
+    ],
+    "ObjectiveText": "Collect 4 Wrenches",
+    "FollowUpQuest": 23,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_SigSauerP229",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_SigSauerP229_mag_13Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 22,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

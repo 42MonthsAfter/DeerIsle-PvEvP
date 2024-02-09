@@ -1,40 +1,59 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 1,
     "Type": 1,
-    "Title": "A dirty rat's job",
+    "Title": "Collect Your Own Blood",
     "Descriptions": [
-        "Shit man, who are you? Is your name %1? I thought we already dealt with you. ** (He stares at you for a moment and then begins to smile) ** Ah nevermind... Today is your lucky day, my friend! If you do me a little favor, I'll make sure you get off this island as soon as possible. I swear by my mother's beard! All you have to do is take this NOTE here to my useless colleague Steve and have him read it, then he will give something to you. Bring it to me! You can find Steve in the little village down the street in the north west. Make sure he reads the note and don't come back empty handed!",
-        "I thought I made clear what you need to do?! Go to Steve now and don't come back empty handed!",
-        "Look at that... Another little bambi in the forests of death..."
+        "Tap that vien! Get yourself an empty blood bag and fill that sucker up with your own blood.",
+        "What are you waiting for? Not afraid of needles are you?",
+        "See that wasn't so bad now was it? Now you need to get that blood tested."
     ],
-    "ObjectiveText": "Deliver the note and talk to Steve.",
+    "ObjectiveText": "Collect Your Own Blood",
     "FollowUpQuest": 2,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
-    "NeedToSelectReward": 0,
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "PistolSuppressor",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
         1
     ],
     "QuestTurnInIDs": [
-        2
+        1
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 1,
-            "ObjectiveType": 5
+            "ObjectiveType": 10
         }
     ],
     "QuestColor": 0,
@@ -43,9 +62,11 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

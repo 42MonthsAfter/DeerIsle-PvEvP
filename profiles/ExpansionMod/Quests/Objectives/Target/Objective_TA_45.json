@@ -1,0 +1,27 @@
+{
+    "ConfigVersion": 26,
+    "ID": 45,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 20 Construction Workers",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 20,
+    "ClassNames": [
+        "ZmbM_ConstrWorkerNormal_Base",
+        "ZmbM_HeavyIndustryWorker_Base",
+        "ZmbM_OffshoreWorker_Base"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 26,
+    "ID": 4,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Kick It By the Fire",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionPlaceFireplaceIndoor"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

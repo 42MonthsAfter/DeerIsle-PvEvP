@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 21,
+    "ID": 80,
+    "Type": 1,
+    "Title": "Escort a survivor to the Crater",
+    "Descriptions": [
+        "I've got someone that needs help getting from A to B. Think you are up for the challenge?",
+        "You can always give up if you aren't up for it.",
+        "Nice work! Come back if you're looking for more escort trips."
+    ],
+    "ObjectiveText": "Escort a survivor to the Crater",
+    "FollowUpQuest": 81,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_ARX160",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_ARX160_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        8
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 80,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

@@ -1,39 +1,60 @@
 
 
 ******************************************************************************
-AdminLog started on 2024-02-06 at 20:33:22
-20:37:16 | Player "FARRIS" is connected (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=)
-21:09:44 | Player "FARRIS"(id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has been disconnected
-21:15:53 | Player "AbyssStryder" is connected (id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk=)
-21:31:20 | Player "Lou Sassole" is connected (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
-21:34:33 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hello
-21:43:32 | Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<5306.8, 3587.1, 74.0>)[HP: 99.2775] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
-21:56:09 | Player "AbyssStryder"(id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk=) has been disconnected
-22:10:04 | Player "AbyssStryder" is connected (id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk=)
-22:17:31 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hello
-22:23:55 | Player "Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has been disconnected
-22:26:53 | Player "[NIPS] Tomb Raver" is connected (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI=)
-22:27:16 | Player "AbyssStryder" (id=KQ9gJ4FxR1CNCGBT69L6SaLGYl8aJAwOMmzAAmOZsSk= pos=<9682.4, 4126.5, 20.2>)[HP: 99.3094] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
-22:43:06 | Player "Josh" is connected (id=HAFduBzmpDN4tgqni6CFo0kwJ2aFYdhg5CPf66P8Zps=)
-22:49:56 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8825.2, 8976.1, 5.1>)[HP: 98.5375] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
-22:49:57 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8825.3, 8976.4, 5.1>)[HP: 97.6875] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
-22:49:59 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8824.5, 8976.7, 5.1>)[HP: 95.865] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
-23:09:28 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8615.0, 9315.1, 5.1>)[HP: 98.1937] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
-23:09:30 | Player "[NIPS] Tomb Raver" (id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI= pos=<8615.6, 9315.1, 5.1>)[HP: 96.4775] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
-23:11:05 | Player "[NIPS] Tomb Raver"(id=Owlxt_2uAhQbA15RLpYnlEx9enRmifalwfLNdwcmbKI=) has been disconnected
-23:15:16 | Player "[Admin] Bunker"(id=Unknown) has been disconnected
-23:16:59 | Player "[Admin] Bunker" is connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
-23:17:57 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-23:18:01 | [COT] 76561198036774377: Set GodMode To true [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-23:18:12 | [COT] 76561198036774377: Set rain to 0 0 0
-23:18:12 | [COT] 76561198036774377: Set storm to 0 0.8 4000
-23:18:12 | [COT] 76561198036774377: Set fog to 0 0 0
-23:18:12 | [COT] 76561198036774377: Set overcast to 0.540857 0 0
-23:18:12 | [COT] 76561198036774377: Set the date to 2024/9/27 3:50
-23:18:12 | [COT] 76561198036774377: Set wind to 13.657 13.657 1
-23:18:57 | [COT] 76561198036774377: Teleported to position <4251.858398, 20.450001, 7266.903320>
-23:19:22 | [COT] 76561198036774377: Entered the Free Camera
-23:19:29 | [COT] 76561198036774377: Left the Free Camera
-23:21:42 | [COT] 76561198036774377: Teleported to position <3744.532959, 11.450000, 9722.599609>
-23:23:47 | [COT] 76561198036774377: Teleported to position <7203.895020, 6.650000, 8465.269531>
-23:26:05 | Player "[Admin] Bunker"(id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has been disconnected
+AdminLog started on 2024-02-08 at 21:08:45
+21:11:06 | Player "[Admin] Bunker" is connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
+21:11:23 | Player "Lou Sassole" is connected (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+21:11:48 | Player "Captain Sodomy" is connected (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)
+21:12:10 | [COT] 76561198036774377: Teleported to position <5644.443359, 28.678007, 5379.671875>
+21:12:19 | [COT] 76561198036774377: Set rain to 0 0 0
+21:12:19 | [COT] 76561198036774377: Set storm to 0 0.8 4000
+21:12:19 | [COT] 76561198036774377: Set fog to 0 0 0
+21:12:19 | [COT] 76561198036774377: Set overcast to 0.103251 0 0
+21:12:19 | [COT] 76561198036774377: Set the date to 2024/10/15 6:14
+21:12:19 | [COT] 76561198036774377: Set wind to 12.1273 12.1273 1
+21:12:32 | Player "OrdepRoinuj" is connected (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)
+21:13:30 | Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<9762.9, 4339.4, 6.1>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+21:22:03 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167dfc60>, 100, 5, 0) at <5636.479492, 29.285004, 5400.037109>
+21:22:03 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167dce20>, 100, 5, 0) at <5636.478516, 29.338800, 5400.032715>
+21:22:04 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167e1f10>, 100, 5, 0) at <5636.476563, 29.397043, 5400.027344>
+21:22:04 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167df0d0>, 100, 5, 0) at <5636.474121, 29.455286, 5400.020996>
+21:22:04 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167db700>, 100, 5, 0) at <5636.471191, 29.513529, 5400.014160>
+21:23:01 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ANYONE ELSE HAVE EAT THE VITAMINS QUEST ACTIVE?
+21:23:08 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): sorry caps lol
+21:23:31 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): quests?
+21:23:33 | [Chat - Global]("OrdepRoinuj"(id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)): not me
+21:23:46 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yes come to holler. we have quests now
+21:23:56 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): oh nice
+21:24:16 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya one of them is kill 4 bandits and the reward is a beowulf
+21:41:35 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ordep can you give me a push? ended up high centered cause opf lag lol
+21:46:26 | [COT] 76561198036774377: Set GodMode To true [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:46:27 | [COT] 76561198036774377: Set Invisibility To 1 [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:46:29 | [COT] 76561198036774377: Set Invisibility To 0 [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:46:31 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:46:31 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:47:10 | [COT] 76561198036774377: Teleported to position <2628.812988, 22.562180, 4989.627930>
+21:48:39 | [COT] 76561198036774377: Set GodMode To false [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:48:42 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2541.8, 4227.0, 22.6>)[HP: 85.75] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2542.0, 4226.0, 22.6>) into Torso(41) for 14.25 damage (MeleeFist_Heavy)
+21:48:46 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2546.3, 4227.6, 22.6>)[HP: 65.84] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2542.1, 4228.7, 22.6>) into Torso(25) for 20 damage (Bullet_22) with MK II from 4.40494 meters 
+21:48:47 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.3, 4227.5, 22.6>)[HP: 45.9301] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2542.2, 4229.3, 22.6>) into Torso(31) for 20 damage (Bullet_22) with MK II from 6.3373 meters 
+21:48:49 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2547.8, 4227.5, 22.6>)[HP: 25.9301] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2544.3, 4230.1, 22.6>) into Torso(32) for 20 damage (Bullet_22) with MK II from 4.3967 meters 
+21:48:49 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2547.6, 4226.7, 22.6>)[HP: 5.93005] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2544.4, 4230.2, 22.6>) into Torso(19) for 20 damage (Bullet_22) with MK II from 4.75494 meters 
+21:48:49 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2547.4, 4226.2, 22.6>) is unconscious
+21:48:55 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4226.1, 22.6>) regained consciousness
+21:48:57 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:49:00 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 80] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.5, 4220.8, 22.6>) into Torso(32) for 20 damage (Bullet_22) with MK II from 6.30545 meters 
+21:49:01 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 60] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.3, 4220.6, 22.6>) into Torso(1) for 20 damage (Bullet_22) with MK II from 6.31316 meters 
+21:49:01 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 40] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.2, 4220.5, 22.6>) into Torso(1) for 20 damage (Bullet_22) with MK II from 6.31741 meters 
+21:49:01 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 20] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.1, 4220.4, 22.6>) into Torso(25) for 20 damage (Bullet_22) with MK II from 6.32203 meters 
+21:49:02 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>) is unconscious
+21:49:08 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:49:08 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.3, 4226.2, 22.6>) regained consciousness
+21:49:13 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.3, 4225.6, 22.7>)[HP: 80] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2559.3, 4216.2, 22.4>) into Torso(32) for 20 damage (Bullet_22) with MK II from 14.5321 meters 
+21:49:25 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:49:26 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:49:26 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+21:49:53 | [COT] 76561198036774377: Teleported to position <5630.444336, 28.709999, 5416.634766>
+21:59:20 | Player "[Admin] Bunker"(id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has been disconnected
+22:02:47 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): my god the ai are relentless. chased me down shooting at me while i am just minding my own business driving past a heli crash lol
+22:03:02 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): haha love that shit
+22:03:38 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): man i looked back and i could see them chasing me down the road like wtf give up already lol

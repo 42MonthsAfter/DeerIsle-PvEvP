@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 8,
+    "ClassName": "ExpansionQuestNPCNaomi",
+    "Position": [
+        5616.32,
+        29.0208,
+        5420.58
+    ],
+    "Orientation": [
+        152.877,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Naomi",
+    "DefaultNPCText": "What do you want? I am busy...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "NPC8Loadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

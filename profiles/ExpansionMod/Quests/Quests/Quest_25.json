@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 21,
+    "ID": 25,
+    "Type": 1,
+    "Title": "Collect 4 3 Digit Combination Locks",
+    "Descriptions": [
+        "Ask me how many times my bike has been stollen? Go on. Ask me. 17. 17 times. Scoop me up some combination locks so I can put an end to this nightmare.",
+        "You're going to be able to see my bike because it was stolen. I thought we covered this?",
+        "My bike will be safer that Pee-Wee's now, all because of you. Thank you!"
+    ],
+    "ObjectiveText": "Collect 4 3 Digit Combination Locks",
+    "FollowUpQuest": 26,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_Beretta92FS",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_Beretta92FS_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 25,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21,
+        22,
+        23,
+        24
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

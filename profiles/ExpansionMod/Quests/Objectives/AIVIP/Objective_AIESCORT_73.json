@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 73,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort a survivor to Camp Eagle",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        8899.53,  
+        45.9071,
+        3847.66
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

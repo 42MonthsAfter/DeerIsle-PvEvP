@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 26,
+    "ID": 10,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Get a Tent",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionToggleTentOpen"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

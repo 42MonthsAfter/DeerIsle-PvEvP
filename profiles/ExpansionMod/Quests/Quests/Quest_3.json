@@ -1,27 +1,27 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 3,
     "Type": 1,
-    "Title": "Peter's package",
+    "Title": "Eat Some Vitamins",
     "Descriptions": [
-        "Oh right, here's what Peter wants. Bring it to him and he will be satisfied. Don't even think about opening the package! Just go and bring it to him.",
-        "What are you still doing here? Go to Peter!",
-        "Why did this take so long?... You got what I wanted? ** (He looks at the package with wide eyes and rips it out of your hands) ** Good!... What? Your way out? Well what should I say, but I lied to you. There is no fucking way out of this hell, and you will die here like all of us. You can have this backpack and try your luck out there. I am sorry I lied to you, but we all have to survive here somehow. I wish you good luck out there... You will need it."
+        "Got the sniffles? Cough due to cold? No? Keep it that way! Take some vitamins to keep healthy.",
+        "What are you looking at? I don't them and if I did I wouldn't give them to you!",
+        "Nice work! Taking those regularly will help keep you from getting sick, so take them on the regular!"
     ],
-    "ObjectiveText": "Go back to Peter and give him the package from Steve.",
-    "FollowUpQuest": -1,
-    "Repeatable": 0,
+    "ObjectiveText": "Eat Some Vitamins",
+    "FollowUpQuest": 4,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TaloonBag_Blue",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 30,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -29,25 +29,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "TaloonBag_Green",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TaloonBag_Orange",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TaloonBag_Violet",
+            "ClassName": "GorkaEJacket_Autumn",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -59,9 +41,9 @@
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        2
+        1
     ],
     "QuestTurnInIDs": [
         1
@@ -69,22 +51,25 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
-            "ID": 2,
-            "ObjectiveType": 5
+            "ConfigVersion": 26,
+            "ID": 3,
+            "ObjectiveType": 10
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
+        1,
         2
     ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

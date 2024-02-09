@@ -1,172 +1,45 @@
-02-06 20:33:49 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Initialisation
-02-06 20:33:49 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Creating Containers: 4
-02-06 20:33:49 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <13921.933594, -21.636478, 9308.594727>
-02-06 20:33:49 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <2193.165527, -19.860001, 14639.040039>
-02-06 20:33:49 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <13990.445313, -35.429993, 9321.177734>
-02-06 20:33:49 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <11101.253906, 9.150000, 2321.347656>
-02-06 20:35:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.3515) 0 -> 0
-02-06 20:37:43 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<9903b0e0>
-02-06 20:37:43 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<b370180>
-02-06 20:38:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.651) 0 -> 0
-02-06 20:41:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (20.2704) 0 -> 0
-02-06 20:44:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (22.0674) 0 -> 0
-02-06 20:47:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (23.8644) 0 -> 0
-02-06 20:50:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (1.66143) 0 -> 0
-02-06 20:51:18 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (1.92232) 0
-02-06 20:53:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (3.45844) 0 -> 0
-02-06 20:54:39 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (3.93371) overcast: 0
-02-06 20:54:39 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (3.93371) 0
-02-06 20:56:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.25544) 0 -> 0
-02-06 20:59:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.74886) 0 -> 0
-02-06 21:02:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.04836) 0 -> 0
-02-06 21:05:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.34787) 0 -> 0
-02-06 21:08:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (6.64737) 0
-02-06 21:09:43 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<9903b0e0>
-02-06 21:09:43 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<b370180>
-02-06 21:09:43 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<b370180> saved as alive
-02-06 21:10:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (6.82244) 0.684585
-02-06 21:12:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (6.97751) 0.379578
-02-06 21:12:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (7.01106) overcast: 0.752892
-02-06 21:12:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (7.01106) 0.41918
-02-06 21:14:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.16593) 0.601952 -> 0
-02-06 21:17:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.46542) 0 -> 0
-02-06 21:17:04 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<9903b0e0>
-02-06 21:17:04 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<14dad880>
-02-06 21:20:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.76491) 0 -> 0
-02-06 21:21:45 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (7.93997) 0.0994631
-02-06 21:22:16 | Server | Debug | recipes | n/a | n/a | Inheriting health from ingredient:1
-02-06 21:22:26 | Server | Debug | recipes | n/a | n/a | Inheriting health from ingredient:1
-02-06 21:23:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.06441) 0 -> 0
-02-06 21:23:47 | Server | Debug | recipes | n/a | n/a | Inheriting health from ingredient:1
-02-06 21:24:03 | Server | Debug | recipes | n/a | n/a | Recipe Do method called
-02-06 21:24:20 | Server | Debug | recipes | n/a | n/a | Recipe Do method called
-02-06 21:25:02 | Server | Debug | recipes | n/a | n/a | Inheriting health from ingredient:1
-02-06 21:26:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.36391) 0 -> 0
-02-06 21:26:21 | Server | Debug | recipes | n/a | n/a | Recipe Do method called
-02-06 21:29:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.66341) 0 -> 0
-02-06 21:31:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.96291) 0 -> 0
-02-06 21:32:24 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<9903b0e0>
-02-06 21:32:24 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<12c9b010>
-02-06 21:34:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.26241) 0 -> 0
-02-06 21:36:25 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (9.40572) overcast: 0.139155
-02-06 21:36:25 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (9.40572) 0
-02-06 21:37:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.56191) 0 -> 0
-02-06 21:40:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.86141) 0 -> 0
-02-06 21:42:57 | Server | Debug | recipes | n/a | n/a | Inheriting health from ingredient:0
-02-06 21:42:57 | Server | Debug | recipes | n/a | n/a | Inheriting health from ingredient:0
-02-06 21:42:57 | Server | Debug | recipes | n/a | n/a | Recipe Do method called
-02-06 21:43:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.1609) 0 -> 0
-02-06 21:46:36 | Server | Debug | recipes | n/a | n/a | Recipe Do method called
-02-06 21:46:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (10.4604) 0
-02-06 21:48:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.5955) 0.520743 -> 0.926072
-02-06 21:49:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.7155) 0.92434 -> 0.945482
-02-06 21:50:54 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.8539) 0.944161 -> 0.882394
-02-06 21:52:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (10.9862) 0.00014717
-02-06 21:52:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.0156) 0.882394 -> 0.975896
-02-06 21:54:25 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.2057) 0.975896 -> 0.824427
-02-06 21:56:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.3675) 0.825487 -> 0.936259
-02-06 21:56:09 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<9903b0e0>
-02-06 21:56:09 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<14dad880>
-02-06 21:56:09 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<14dad880> saved as alive
-02-06 21:57:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (11.4728) overcast: 0.993554
-02-06 21:57:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (11.4728) 0.885716
-02-06 21:58:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.5659) 0.936259 -> 0.960094
-02-06 21:59:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (11.6809) 0.960094
-02-06 22:00:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (11.8477) 0.608269
-02-06 22:02:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.976) 0.468264 -> 0
-02-06 22:05:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.2755) 0 -> 0
-02-06 22:08:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.575) 0 -> 0
-02-06 22:10:37 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<9903b0e0>
-02-06 22:10:37 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<8b407020>
-02-06 22:11:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.8745) 0 -> 0
-02-06 22:14:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.174) 0 -> 0
-02-06 22:14:20 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (13.1969) overcast: 0.380447
-02-06 22:14:20 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (13.1969) 0
-02-06 22:17:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.4735) 0 -> 0
-02-06 22:20:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.773) 0 -> 0
-02-06 22:22:41 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (14.0324) 0
-02-06 22:23:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.0725) 0 -> 0
-02-06 22:24:06 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<9903b0e0>
-02-06 22:24:06 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<12c9b010>
-02-06 22:24:06 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<12c9b010> saved as alive
-02-06 22:26:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.372) 0 -> 0
-02-06 22:27:59 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<9903b0e0>
-02-06 22:27:59 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<4a14730>
-02-06 22:29:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.6715) 0 -> 0
-02-06 22:32:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.971) 0 -> 0
-02-06 22:35:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.2705) 0 -> 0
-02-06 22:37:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (15.4959) overcast: 0.3805
-02-06 22:37:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (15.4959) 0
-02-06 22:38:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.57) 0 -> 0
-02-06 22:41:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.8695) 0 -> 0
-02-06 22:43:36 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<9903b0e0>
-02-06 22:43:36 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<ac479020>
-02-06 22:44:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.169) 0 -> 0
-02-06 22:47:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.4685) 0 -> 0
-02-06 22:47:41 | Server | Debug | recipes | n/a | n/a |   = -1
-02-06 22:47:41 | Server | Debug | recipes | n/a | n/a | Recipe Do method called
-02-06 22:50:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.768) 0 -> 0
-02-06 22:53:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.0675) 0 -> 0
-02-06 22:53:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (17.0786) 0
-02-06 22:56:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.367) 0 -> 0
-02-06 22:59:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.6665) 0 -> 0
-02-06 23:02:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.966) 0 -> 0
-02-06 23:02:45 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (18.0388) overcast: 0.111661
-02-06 23:02:45 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (18.0388) 0
-02-06 23:05:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.2655) 0 -> 0
-02-06 23:08:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.565) 0 -> 0
-02-06 23:08:30 | Server | Debug | recipes | n/a | n/a | Recipe Do method called
-02-06 23:11:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (19.966) 0 -> 0
-02-06 23:11:07 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<9903b0e0>
-02-06 23:11:07 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<4a14730>
-02-06 23:11:07 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<4a14730> saved as alive
-02-06 23:11:26 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:35 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:38 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:41 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:45 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:48 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:51 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:54 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:11:58 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:01 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:05 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:08 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:11 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:14 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:17 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:21 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:24 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:27 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:34 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:37 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:41 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:44 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:47 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:50 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:54 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:12:57 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:13:00 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:13:23 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:13:27 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:13:30 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:13:33 | Server | Action | ActionFertilizeSlot<e5cf280> | SurvivorBase<ac479020> | Do | Action component returned wrong value
-02-06 23:14:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (21.763) 0 -> 0
-02-06 23:16:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (23.0331) overcast: 0.619871
-02-06 23:16:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (23.0331) 0
-02-06 23:17:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (23.56) 0 -> 0
-02-06 23:17:32 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<9903b0e0>
-02-06 23:17:32 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<7af21020>
-02-06 23:18:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (3.83335) overcast: 0.540857
-02-06 23:18:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (3.83335) 0
-02-06 23:18:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (3.83335) 0
-02-06 23:18:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (3.83335) 0 -> 0
-02-06 23:21:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.5395) 0 -> 0
-02-06 23:24:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.839) 0 -> 0
-02-06 23:25:58 | Server | Debug | recipes | n/a | n/a | Inheriting health from ingredient:1
-02-06 23:26:05 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<9903b0e0>
-02-06 23:26:05 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<7af21020>
-02-06 23:26:05 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<7af21020> saved as alive
-02-06 23:27:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.1385) 0 -> 0
-02-06 23:30:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.438) 0 -> 0
-02-06 23:33:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.7375) 0 -> 0
+02-08 21:09:12 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Initialisation
+02-08 21:09:12 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Creating Containers: 4
+02-08 21:09:12 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <14039.685547, -35.429993, 9085.562500>
+02-08 21:09:12 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <1084.892456, -25.374832, 14109.639648>
+02-08 21:09:12 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <14009.321289, -16.502541, 9386.013672>
+02-08 21:09:12 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <11159.469727, 8.860691, 2295.847168>
+02-08 21:10:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (22.7594) 0
+02-08 21:11:40 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<1b7e7b00>
+02-08 21:11:40 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<a153cff0>
+02-08 21:12:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (23.6933) 0 -> 0
+02-08 21:12:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (6.23334) overcast: 0.103251
+02-08 21:12:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (6.23334) 0
+02-08 21:12:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (6.23334) 0
+02-08 21:12:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.23334) 0 -> 0
+02-08 21:12:19 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<1b7e7b00>
+02-08 21:12:19 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<a08b1ed0>
+02-08 21:12:41 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<1b7e7b00>
+02-08 21:12:41 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<3160d410>
+02-08 21:13:08 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<1b7e7b00>
+02-08 21:13:08 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<99e06200>
+02-08 21:15:18 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.53284) 0 -> 0
+02-08 21:18:18 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.83234) 0 -> 0
+02-08 21:21:18 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.13186) 0 -> 0
+02-08 21:24:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.43138) 0 -> 0
+02-08 21:27:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.7309) 0 -> 0
+02-08 21:30:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.03042) 0 -> 0
+02-08 21:33:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.32992) 0 -> 0
+02-08 21:34:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (8.40168) overcast: 0.4961
+02-08 21:34:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (8.40168) 0
+02-08 21:36:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.62942) 0 -> 0
+02-08 21:39:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.92892) 0 -> 0
+02-08 21:42:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.22841) 0 -> 0
+02-08 21:42:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (9.27887) 0
+02-08 21:45:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.52791) 0 -> 0
+02-08 21:48:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.82741) 0 -> 0
+02-08 21:50:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (10.0286) overcast: 0.391446
+02-08 21:50:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (10.0286) 0
+02-08 21:51:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.1269) 0 -> 0
+02-08 21:54:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.4264) 0 -> 0
+02-08 21:57:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.7259) 0 -> 0
+02-08 21:59:34 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<1b7e7b00>
+02-08 21:59:34 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<a153cff0>
+02-08 21:59:34 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<a153cff0> saved as alive
+02-08 22:00:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.0254) 0 -> 0
+02-08 22:03:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.3249) 0 -> 0

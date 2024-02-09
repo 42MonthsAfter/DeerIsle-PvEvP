@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 21,
+    "ID": 30,
+    "Type": 1,
+    "Title": "Collect 10 Yellow Construction Helmets",
+    "Descriptions": [
+        "Me and the boys are starting a construction company but are missing some of the gear. Can you get us some helmets? We need 10. And they need to be yellow.",
+        "Don't ask why they need to be yellow, they just do.",
+        "I can't believe you did this. I was just joking but I guess I need to pay you now for the hard work."
+    ],
+    "ObjectiveText": "Collect 10 Yellow Construction Helmets",
+    "FollowUpQuest": 31,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_1911_WilsonCombat",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_1911_WilsonCombat_mag_7Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 30,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

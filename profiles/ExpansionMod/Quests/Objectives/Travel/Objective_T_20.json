@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 20,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit the Temple",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        364.643, 
+        54.3806, 
+        877.744
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "The Temple",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

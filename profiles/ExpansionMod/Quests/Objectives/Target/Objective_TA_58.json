@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 26,
+    "ID": 58,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 8 Military Zombies with a Steak Knife",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 8,
+    "ClassNames": [
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_Officer_Desert",
+        "ZmbM_usSoldier_Heavy_Woodland",
+        "ZmbM_usSoldier_normal_Woodland",
+        "InfectedSoldierHardJMC",
+        "InfectedSoldierHardJMCWinter"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "SteakKnife"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

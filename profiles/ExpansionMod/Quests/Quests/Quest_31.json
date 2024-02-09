@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 21,
+    "ID": 31,
+    "Type": 1,
+    "Title": "Bring Me 3 Whole Roosters",
+    "Descriptions": [
+        "This is going to sound a little strange... but I need me some chickens. Dead roosters. Dead whole chickens. No, you can't ask why. Mind yo business.",
+        "Tut tut, Colonel Sanders. I'm waiting.",
+        "Yes! Now I need some alone time. Bugger off."
+    ],
+    "ObjectiveText": "Bring Me 3 Whole Roosters",
+    "FollowUpQuest": 32,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_P2000Protector",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_P2000Protector_mag_16Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 31,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

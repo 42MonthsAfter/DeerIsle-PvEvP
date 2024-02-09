@@ -1,11 +1,12 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 10,
-    "ObjectiveText": "Lockpick a vehicle:",
+    "ObjectiveText": "Collect Your Own Blood",
     "TimeLimit": -1,
+    "Active": 1,
     "ActionNames": [
-        "ExpansionActionPickVehicleLock"
+        "ActionCollectBloodSelf"
     ],
     "AllowedClassNames": [],
     "ExcludedClassNames": [],

@@ -1,0 +1,71 @@
+{
+    "ConfigVersion": 21,
+    "ID": 26,
+    "Type": 1,
+    "Title": "Collect 6 Screwdrivers",
+    "Descriptions": [
+        "I need some screwdrivers. No, not the drink. Well...yeah that drink too, but I'll settle for tool first. We will work on the drinks later.",
+        "If you can't get the tools, I'll take the drinks. Just saying.",
+        "Hells yes! No it's time to work on the beverages!"
+    ],
+    "ObjectiveText": "Collect 6 Screwdrivers",
+    "FollowUpQuest": 27,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_BerettaDEBlack",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_BerettaDE_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 26,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21,
+        22,
+        23,
+        24,
+        25
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

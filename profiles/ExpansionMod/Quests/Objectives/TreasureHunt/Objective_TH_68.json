@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 68,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash at Camp Bear",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            8907.91,  
+            20.9044,
+            5953.52
+        ],
+        [
+            8720.47,  
+            12.4441,
+            6051.77
+        ],
+        [
+            8592.94,  
+            1.65726,
+            6076.61
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_ThompsonMK2",
+            "Attachments": [
+                "TWP_ThompsonMK2_mag_50Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AK47Blue",
+            "Attachments": [
+                "TWP_AK47Blue_mag_35Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

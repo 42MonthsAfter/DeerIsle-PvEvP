@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 69,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash on Alcatraz Island",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            15689.9,  
+            22.2526,
+            4995.47
+        ],
+        [
+            15817.6,  
+            22.2401,
+            5109.64
+        ],
+        [
+            15708.2,  
+            32.8022,
+            4653.03
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_AK12_mag_30Rnd",
+            "Attachments": [
+                "TWP_AK12Tan_mag_30Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AK9",
+            "Attachments": [
+                "TWP_AK9_mag_30Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

@@ -1,27 +1,36 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 12,
     "Type": 1,
-    "Title": "Apple Juice",
+    "Title": "Visit Kushville",
     "Descriptions": [
-        "PLACEHOLDER",
-        "Obtain 5 apples.",
-        "Turn in quest to get reward."
+        "Have you ever been down to Kushville? I don't mean the kush that's sold by that hippie over there, I mean the town?",
+        "Come on, it's not that far of a hike.",
+        "Wasn't that nice? I'm thinking about setting up a summer cabin down there."
     ],
-    "ObjectiveText": "Get 5 apples",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Visit Kushville",
+    "FollowUpQuest": 13,
     "Repeatable": 1,
-    "IsDailyQuest": 1,
-    "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 10,
+            "ClassName": "TWP_Stielhandgranate",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TWP_MK2_Grenade",
+            "Amount": 2,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -29,33 +38,37 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        1
+        2
     ],
     "QuestTurnInIDs": [
-        1
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
-            "ID": 1,
-            "ObjectiveType": 4
+            "ConfigVersion": 26,
+            "ID": 12,
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        11
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

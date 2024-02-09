@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 22,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 4 Wrenches",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 4,
+            "ClassName": "Wrench",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

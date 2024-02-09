@@ -1,63 +1,84 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 18,
     "Type": 1,
-    "Title": "The Endless Hunger",
+    "Title": "Visit RCFI",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "If you're looking for a come up, RCFI is a great place to get started. Just be mindful of any patrols out there looking to shoot first and ask questions second.",
+        "Better get on your horse there John Wayne.",
+        "I'm more and more impressed with you, mate."
     ],
-    "ObjectiveText": "PLACEHOLDER",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Visit RCFI",
+    "FollowUpQuest": 19,
     "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
-            "Attachments": [],
+            "ClassName": "TWP_Vepr_Sok94",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_Vepr_Sok94_mag_10Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TWP_Ash12",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_Ash12_mag_10Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        1
+        2
     ],
     "QuestTurnInIDs": [
-        1
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
-            "ID": 3,
-            "ObjectiveType": 2
+            "ConfigVersion": 26,
+            "ID": 18,
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
-        16
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
     ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

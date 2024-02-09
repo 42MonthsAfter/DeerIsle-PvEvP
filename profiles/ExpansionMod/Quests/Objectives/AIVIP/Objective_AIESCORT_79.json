@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 79,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort a survivor to Power Plant",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        4637.44,  
+        20.57,
+        7070.7
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

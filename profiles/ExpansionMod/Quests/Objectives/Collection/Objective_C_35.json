@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 35,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 4 Cow Pelts",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 4,
+            "ClassName": "CowPelt",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

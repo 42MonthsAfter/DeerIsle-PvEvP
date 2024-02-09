@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 21,
+    "ID": 38,
+    "Type": 1,
+    "Title": "Bring Me 4 Black Bass",
+    "Descriptions": [
+        "I've been trying a new recipe, but am missing the main ingrediant; black bass. Any chance you can round up 4 of those bad boys for me?",
+        "You will be the first served, I just need those fishes.",
+        "Time for me to get into the kitchen!"
+    ],
+    "ObjectiveText": "Bring Me 4 Black Bass",
+    "FollowUpQuest": 39,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_P90Shallow_Grave",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_P90Shallow_Grave_mag_50Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 38,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

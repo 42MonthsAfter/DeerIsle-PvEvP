@@ -1,0 +1,67 @@
+{
+    "ConfigVersion": 21,
+    "ID": 52,
+    "Type": 1,
+    "Title": "Kill 5 Zombies with an IJ",
+    "Descriptions": [
+        "Your good at the silent killing, but that's easier than making a lot of noise, isn't it? How about you try killing 5 zombies with an IJ?",
+        "Might be easier if you got yourself a silencer.",
+        "Well done. Think you are down for making more noise next time?."
+    ],
+    "ObjectiveText": "Kill 5 Zombies with an IJ",
+    "FollowUpQuest": 53,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_AA12",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_AA12_mag_32Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        6
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 52,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        51
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

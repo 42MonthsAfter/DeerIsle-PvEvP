@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 71,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort a survivor to Portland",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        6378.94,  
+        37.25,
+        14856.4
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

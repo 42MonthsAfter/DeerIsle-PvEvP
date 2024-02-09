@@ -1,0 +1,36 @@
+************************** 2024-02-07T15:46:55+00:00 **************************
+2024-02-07T15:46:55+00:00 | [INFO	] GameLabs v1.932 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-02-07T15:47:05+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-02-07T15:47:05+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-02-07T15:47:05+00:00 | [INFO	] Experimental speed check is enabled
+2024-02-07T15:57:06+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-07T15:57:06+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-07T15:57:06+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198054951691, distance=5131.96u, unitsPerSecond=2052.79 [threshold=8, inVehicle=0, triggers=1])
+2024-02-07T15:57:06+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-07T15:57:06+00:00 | [WARN	] ****************************************
+2024-02-07T16:23:50+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:23:55+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:00+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:05+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:10+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:15+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:20+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:25+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:30+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:35+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:24:40+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-07T16:27:51+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-07T16:27:51+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-07T16:27:51+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198065439876, distance=4010.5u, unitsPerSecond=1604.2 [threshold=8, inVehicle=0, triggers=1])
+2024-02-07T16:27:51+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-07T16:27:51+00:00 | [WARN	] ****************************************
+2024-02-07T16:47:05+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-07T16:47:05+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-07T16:47:06+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-07T16:49:17+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-07T16:49:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-07T16:49:17+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199178520556, distance=5602.5u, unitsPerSecond=2241 [threshold=8, inVehicle=0, triggers=1])
+2024-02-07T16:49:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-07T16:49:17+00:00 | [WARN	] ****************************************
+2024-02-07T17:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-02-07T17:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

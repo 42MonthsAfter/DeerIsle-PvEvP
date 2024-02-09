@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 30,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 10 Yellow Construction Helmets",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 10,
+            "ClassName": "ConstructionHelmet_Yellow",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

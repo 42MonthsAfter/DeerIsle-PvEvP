@@ -1,32 +1,27 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 2,
     "Type": 1,
-    "Title": "A favor for Steve...",
+    "Title": "Discover Your Blood Type",
     "Descriptions": [
-        "So, Peter sends you, hmm? Well I have what he wants, although he still owes me something... But I'm also not a bad guy. Let's say if you do me a favor, too, I'll give you what Peter wants and even more. I gotta keep watch and make sure no shit happens around here. I want you to take this sledgehammer and clean up the village with it. There are a few Infected that have to be eliminated before they start moving into the camp.",
-        "You are not done yet? How hard can it be to smash some heads with that hammer... Come back when the job is done!",
-        "Oh there you are! I thought the Infected got your ass and killed you... Well, here is your reward."
+        "Find yourself a blood test kit and the wild and figure out what type of blood you are rocking.",
+        "You're not going to find it just laying around here. Better get out and check some medical buildings.",
+        "Nice! Make sure you only use your blood type, unless you know a universal doner!"
     ],
-    "ObjectiveText": "Kill 10 civilian Infected with Steve's sledgehammer.",
+    "ObjectiveText": "Discover Your Blood Type",
     "FollowUpQuest": 3,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [
-        {
-            "ClassName": "SledgeHammer",
-            "Amount": 1
-        }
-    ],
+    "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "WaterBottle",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 20,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -34,7 +29,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "TunaCan",
+            "ClassName": "Mag_STANAG_60Rnd",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -43,27 +38,22 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        2
+        1
     ],
     "QuestTurnInIDs": [
-        2
+        1
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 2,
-            "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 22,
-            "ID": 1,
-            "ObjectiveType": 2
+            "ObjectiveType": 10
         }
     ],
     "QuestColor": 0,
@@ -74,9 +64,11 @@
     ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 21,
+    "ID": 61,
+    "Type": 1,
+    "Title": "Find the Stash in Old Town",
+    "Descriptions": [
+        "Rumor has it there is a something buried out in Old Town. Be careful though, there are some rogue survivors out there that don't take friendly to outsiders. Don't forget your shovel.",
+        "Get on your horse! Someone could be looking for this right now.",
+        "Nice job! Up for another challenge?"
+    ],
+    "ObjectiveText": "Find the Stash in Old Town",
+    "FollowUpQuest": 62,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        7
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 61,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

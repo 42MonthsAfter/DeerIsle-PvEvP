@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 64,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash on Prison Island",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            5330.92,  
+            34.3575,
+            678.855
+        ],
+        [
+            5454.43, 
+            34.8525, 
+            712.77
+        ],
+        [
+            5575.03, 
+            34.8525, 
+            628.695
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_SR47",
+            "Attachments": [
+                "TWP_SR47_mag_30Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_StenGun",
+            "Attachments": [
+                "TWP_StenGun_mag_32Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

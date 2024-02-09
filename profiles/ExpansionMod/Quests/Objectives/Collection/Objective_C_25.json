@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 25,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 4 3 Digit Combination Locks",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 4,
+            "ClassName": "CombinationLock",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

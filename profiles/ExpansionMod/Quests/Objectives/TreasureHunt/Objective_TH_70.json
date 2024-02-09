@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 70,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash at Paris Island",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            2980.01,  
+            22.45,
+            3949.12
+        ],
+        [
+            2635.39,  
+            24.5975,
+            3855.02
+        ],
+        [
+            2615.76, 
+            35.1, 
+            3427.21
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_ACWR",
+            "Attachments": [
+                "TWP_ACWR_mag_30Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_ACR",
+            "Attachments": [
+                "TWP_ACR_mag_30Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

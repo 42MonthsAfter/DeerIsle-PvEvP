@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 37,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 5 Pig Pelts",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "PigPelt",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

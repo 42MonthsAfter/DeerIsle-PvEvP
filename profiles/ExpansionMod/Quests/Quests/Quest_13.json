@@ -1,35 +1,26 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 13,
     "Type": 1,
-    "Title": "Catch a Fish",
+    "Title": "Visit Bayville",
     "Descriptions": [
-        "PLACEHOLDER",
-        "Craft an improvised fishing rod and catch a mackerel.",
-        "Turn in quest to get reward."
+        "Little treasure of the north east, Bayville is a nice little berg just north east of the raceway. Check it out and let me know what you think.",
+        "Come on, where is your adventure spirit?",
+        "Well, what did you think? Was it worth the trip?"
     ],
-    "ObjectiveText": "Craft an improvised fishing rod and catch a mackerel!",
-    "FollowUpQuest": -1,
-    "Repeatable": 0,
+    "ObjectiveText": "Visit Bayville",
+    "FollowUpQuest": 14,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "ImprovisedFishingRod",
+            "ClassName": "CP_CannabisBrickSkunk",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -38,38 +29,38 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        1
+        2
     ],
     "QuestTurnInIDs": [
-        1
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
-            "ID": 1,
-            "ObjectiveType": 11
-        },
-        {
-            "ConfigVersion": 22,
-            "ID": 2,
-            "ObjectiveType": 4
+            "ConfigVersion": 26,
+            "ID": 13,
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        11,
+        12
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 72,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort a survivor to Paris Island",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        2931.95, 
+        22.45, 
+        3545.33
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

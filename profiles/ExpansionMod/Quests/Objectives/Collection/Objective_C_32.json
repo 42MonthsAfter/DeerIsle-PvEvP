@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 32,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 5 Minnows",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "geb_Minnow",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

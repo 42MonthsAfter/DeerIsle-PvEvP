@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 80,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort a survivor to the Crater",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        14160.2,  
+        137.44,
+        2622.73
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

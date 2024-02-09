@@ -1,0 +1,62 @@
+{
+    "ConfigVersion": 21,
+    "ID": 69,
+    "Type": 1,
+    "Title": "Find the Stash on Alcatraz Island",
+    "Descriptions": [
+        "Feel like getting wet? Probably going to be worth the trip. Don't forget your shovel.",
+        "Don't forget to pack your swim trunks!",
+        "Nice work, Sonny Jim! Want to try the last one I know about?"
+    ],
+    "ObjectiveText": "Find the Stash on Alcatraz Island",
+    "FollowUpQuest": 70,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        7
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 69,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

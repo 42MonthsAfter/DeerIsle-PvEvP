@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 5,
+    "ClassName": "ExpansionQuestNPCJudy",
+    "Position": [
+        5596.63, 
+        28.8275, 
+        5355.96
+    ],
+    "Orientation": [
+        177.617,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Judy",
+    "DefaultNPCText": "What do you want? I am busy...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "NPC5Loadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

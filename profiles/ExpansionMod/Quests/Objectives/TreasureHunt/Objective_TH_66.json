@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 66,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash at the Crater",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            13441.7, 
+            50.75, 
+            3258.02
+        ],
+        [
+            12253.6, 
+            27.3918, 
+            2256.9
+        ],
+        [
+            13004.1,  
+            21.1125,
+            1513.2
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_Type64",
+            "Attachments": [
+                "TWP_Type64_mag_20Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_Type89",
+            "Attachments": [
+                "TWP_Type89_mag_30Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

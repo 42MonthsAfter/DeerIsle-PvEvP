@@ -1,23 +1,36 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 8,
     "Type": 1,
-    "Title": "Killed 10 Infected",
-    "Descriptions": [],
-    "ObjectiveText": "You have killed 10 Infected! Reward: 100 Hryvnia",
-    "FollowUpQuest": -1,
-    "Repeatable": 0,
+    "Title": "Raise a Flag",
+    "Descriptions": [
+        "It's time to get you a place to stay long term. To kick things off you are going to need a flag. Build yourself a flag pole and raise the flag.",
+        "Get those colors in the air, let people know your land is claimed.",
+        "Way to go! You are one step closer to get yourself some long term housing."
+    ],
+    "ObjectiveText": "Raise a Flag",
+    "FollowUpQuest": 9,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
+            "Amount": 80,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CarBattery",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -25,29 +38,43 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
-    "QuestGiverIDs": [],
-    "QuestTurnInIDs": [],
-    "IsAchievement": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
-            "ID": 3,
-            "ObjectiveType": 2
+            "ConfigVersion": 26,
+            "ID": 8,
+            "ObjectiveType": 10
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

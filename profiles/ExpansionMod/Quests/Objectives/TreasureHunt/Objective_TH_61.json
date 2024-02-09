@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 61,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash in Old Town",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            1811.84, 
+            9.2025, 
+            9084.49
+        ],
+        [
+            1914.52,
+            9.2025,
+            9039.89
+        ],
+        [
+            2019,  
+            9.19,
+            8984.11
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_ScarDragon",
+            "Attachments": [
+                "TWP_ScarDragon_mag_50Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_ScarL",
+            "Attachments": [
+                "TWP_ScarL_mag_30Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

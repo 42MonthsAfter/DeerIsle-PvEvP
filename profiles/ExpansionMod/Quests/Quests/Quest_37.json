@@ -1,0 +1,72 @@
+{
+    "ConfigVersion": 21,
+    "ID": 37,
+    "Type": 1,
+    "Title": "Bring Me 5 Pig Pelts",
+    "Descriptions": [
+        "So this is going to sound pretty crazy, but we are thinking about starting a football league. I know, but things get boring around here. We need to make some balls thouh. Any chance you could get us some pig pelts?",
+        "We are all counting on you!",
+        "This is going to be amazing. The half time show is going to be next level."
+    ],
+    "ObjectiveText": "Bring Me 5 Pig Pelts",
+    "FollowUpQuest": 38,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_Tec9",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_Tec9_mag_50Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 37,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 13,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Bayville",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10300.8,
+        6.1776,
+        12043.8
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Bayville",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

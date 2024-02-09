@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 21,
+    "ID": 35,
+    "Type": 1,
+    "Title": "Bring Me 4 Cow Pelts",
+    "Descriptions": [
+        "Alright, so here is the deal, I'm thinking about trying to make some boots but need some genuine leather. Any chance you can grab me enough cow pelts so I can make a few trial pairs?",
+        "Moo moo buckaroo. Where those pelts at.",
+        "Getting it done! Thank you so much. I can't wait to get my cobbler on."
+    ],
+    "ObjectiveText": "Bring Me 4 Cow Pelts",
+    "FollowUpQuest": 36,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_SST30",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_SST30_mag_35Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 35,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        31,
+        32,
+        33,
+        34
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

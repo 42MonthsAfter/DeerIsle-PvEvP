@@ -1,0 +1,19 @@
+10:48:01.644 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+10:48:02.585 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+10:50:30.921 [BaseRaiding] ExpansionWall6x3 (<6303.669434, 43.797268, 14164.417969>) Code set by player "OrdepRoinuj" (ID = "jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=" at <6304.616699, 43.882305, 14164.291992>) and the code is 252304
+10:57:05.281 [SpawnSelection] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) spawned at <6913.919922, 25.018900, 1707.739990>
+11:03:05.800 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Basebuilding
+11:06:42.687 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Loosey Goosey" (id=28 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:27:38.949 [AI Patrol] Spawning 3 Camp Bear Patrol bots at <8856.985352, 22.686905, 5965.937012>
+11:27:50.167 [SpawnSelection] Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) spawned at <6913.919922, 25.018900, 1707.739990>
+11:30:47.320 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) joinded the party "Carrots" (id=43 ownerUID= ownerName=)
+11:30:47.320 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) created a party named Carrots (CAR)
+11:30:59.601 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) invited the player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=)to the party named Carrots
+11:31:21.777 [Party] Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) joinded the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)
+11:48:17.382 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8922.155273, 45.728474, 3868.005127>
+11:49:15.679 [SpawnSelection] Player "IXLifeG" (id=31r22TMVqiTsWpFwvDcNv2UxSbPHU9y0kjdkzOtzoW8=) spawned at <4613.680176, 14.754800, 1560.599976>
+11:49:15.777 [AI Patrol] Spawning 2 Shamans bots at <5585.410156, 52.917259, 1421.968018>
+11:50:23.656 [AI Patrol] Spawning 3 Prison Island Patrol bots at <5237.545898, 15.628292, 675.539734>
+11:59:16.277 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) left the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)
+11:59:16.281 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+11:59:16.281 [Party] Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) left the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)

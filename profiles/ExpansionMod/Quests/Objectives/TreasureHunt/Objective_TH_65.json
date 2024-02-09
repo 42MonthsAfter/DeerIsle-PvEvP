@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 65,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash on Area 42",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            13589.3,  
+            18.4162,
+            9791.53
+        ],
+        [
+            13345.3,  
+            12.91,
+            9924.66
+        ],
+        [
+            13163.9,  
+            12.1457,
+            9818.18
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_STG58",
+            "Attachments": [
+                "TWP_STG58_mag_20Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_Thompson",
+            "Attachments": [
+                "TWP_Thompson_mag_50Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

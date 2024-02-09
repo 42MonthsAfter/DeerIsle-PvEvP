@@ -1,0 +1,67 @@
+{
+    "ConfigVersion": 21,
+    "ID": 32,
+    "Type": 1,
+    "Title": "Bring Me 5 Minnows",
+    "Descriptions": [
+        "I'm thinking about starting a minow spawn tank, but lack the minnows. And water. And talk. Let's get started with the minnows.",
+        "How hard can it be to get these little fishes?",
+        "Well done! How long did that take you?"
+    ],
+    "ObjectiveText": "Bring Me 5 Minnows",
+    "FollowUpQuest": 33,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_SigSauerP250Colored",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_SigSauerP250Colored_mag_10Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 32,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        31
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

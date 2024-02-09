@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 26,
+    "ID": 62,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash in the Power Plant",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            4763.07,  
+            18.7837,
+            6999.34
+        ],
+        [
+            4649.63,  
+            20.43,
+            7201.8
+        ],
+        [
+            4538.65, 
+            20.4424, 
+            7192.5
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "TWP_RPK16Tan",
+            "Attachments": [
+                "TWP_RPK16tan_mag_100Rnd"
+            ],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_ScarH",
+            "Attachments": [
+                "TWP_ScarH_mag_30Rnd"
+            ],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05000000074505806,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 18,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit RCFI",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3730.43,  
+        9.35,
+        8854.7
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "RCFI",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,64 +1,85 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 19,
     "Type": 1,
-    "Title": "Where Kings Walk",
+    "Title": "Visit Area 42",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Okay, this one is going to take some team work. Get your gear together and go visit Area 42. Watch your back though, there are people gunning for you all over the place out there.",
+        "What? This one have you too scared?",
+        "YO! Look at you! Getting out there and getting things done."
     ],
-    "ObjectiveText": "PLACEHOLDER",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Visit Area 42",
+    "FollowUpQuest": 20,
     "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 500,
-            "Attachments": [],
+            "ClassName": "TWP_MK14",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_MK14_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TWP_MSBSGrotC",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_MSBSGrotC_mag_30Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        1
+        2
     ],
     "QuestTurnInIDs": [
-        1
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
-            "ID": 4,
-            "ObjectiveType": 2
+            "ConfigVersion": 26,
+            "ID": 19,
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
         17,
         18
     ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
 }

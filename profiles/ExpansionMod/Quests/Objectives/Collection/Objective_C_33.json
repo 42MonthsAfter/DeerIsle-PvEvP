@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 33,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 3 Lake Trout",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 3,
+            "ClassName": "geb_LakeTrout",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}
