@@ -43,3 +43,44 @@
 02-08 21:59:34 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<a153cff0> saved as alive
 02-08 22:00:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.0254) 0 -> 0
 02-08 22:03:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.3249) 0 -> 0
+02-08 22:04:46 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<1b7e7b00>
+02-08 22:04:46 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<2037e020>
+02-08 22:06:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.6244) 0 -> 0
+02-08 22:09:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.9239) 0 -> 0
+02-08 22:12:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.2234) 0 -> 0
+02-08 22:13:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (12.3251) 0
+02-08 22:15:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.5229) 0 -> 0
+02-08 22:16:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (12.6876) overcast: 0.258351
+02-08 22:16:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (12.6876) 0
+02-08 22:18:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.8224) 0 -> 0
+02-08 22:21:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.1219) 0 -> 0
+02-08 22:24:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.4214) 0 -> 0
+02-08 22:27:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.7209) 0 -> 0
+02-08 22:30:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.0204) 0 -> 0
+02-08 22:31:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (14.195) overcast: 0.620835
+02-08 22:31:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (14.195) 0
+02-08 22:33:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.3199) 0 -> 0
+02-08 22:36:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.6194) 0 -> 0
+02-08 22:39:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.9189) 0 -> 0
+02-08 22:39:37 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<1b7e7b00>
+02-08 22:39:37 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<3160d410>
+02-08 22:39:37 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<3160d410> saved as alive
+02-08 22:42:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.2184) 0 -> 0
+02-08 22:43:41 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (15.3712) 0
+02-08 22:45:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.5179) 0 -> 0
+02-08 22:46:20 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<1b7e7b00>
+02-08 22:46:20 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<44ef5f70>
+02-08 22:48:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.8174) 0 -> 0
+02-08 22:51:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.1169) 0 -> 0
+02-08 22:54:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.4164) 0 -> 0
+02-08 22:56:33 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (16.6577) overcast: 0.175594
+02-08 22:56:33 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (16.6577) 0
+02-08 22:57:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.7159) 0 -> 0
+02-08 23:00:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.0154) 0 -> 0
+02-08 23:01:11 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<1b7e7b00>
+02-08 23:01:11 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<99e06200>
+02-08 23:01:11 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<99e06200> saved as alive
+02-08 23:03:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.3149) 0 -> 0
+02-08 23:06:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.6144) 0 -> 0
+02-08 23:09:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.3475) 0 -> 0
+02-08 23:12:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (20.1445) 0 -> 0

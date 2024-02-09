@@ -27,7 +27,7 @@
     "WeeklyResetDay": "Friday",
     "WeeklyResetMinute": 0,
     "WeeklyResetHour": 0,
-    "DailyResetHour": 0,
+    "DailyResetHour": 6,
     "DailyResetMinute": 0,
     "UseUTCTime": 0,
     "UseQuestNPCIndicators": 1,

@@ -9,10 +9,10 @@
         "Hell yes! I'm going to have the warmest hands in the Holler. No, I won't prove it. Freaking weirdo."
     ],
     "ObjectiveText": "Collect 5 Heat Packs",
-    "FollowUpQuest": 25,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -52,11 +52,7 @@
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        21,
-        22,
-        23
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,

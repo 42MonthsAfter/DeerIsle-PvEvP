@@ -9,10 +9,10 @@
         "Well done. Think you are down for making more noise next time?."
     ],
     "ObjectiveText": "Kill 5 Zombies with an IJ",
-    "FollowUpQuest": 53,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -52,9 +52,7 @@
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        51
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,

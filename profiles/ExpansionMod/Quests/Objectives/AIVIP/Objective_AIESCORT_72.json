@@ -3,7 +3,7 @@
     "ID": 72,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Paris Island",
-    "TimeLimit": 180,
+    "TimeLimit": -1,
     "Active": 1,
     "Position": [
         2931.95, 

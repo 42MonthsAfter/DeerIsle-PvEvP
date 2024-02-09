@@ -1515,4 +1515,591 @@
 22:01:43 Average server FPS: 6242.80 (measured interval: 10 s)
 22:01:53 Average server FPS: 6300.50 (measured interval: 10 s)
 22:02:03 Average server FPS: 6278.00 (measured interval: 10 s)
-22:02:10 !!! [CE][Point] Removing 8523.686523, 5142
+22:02:10 !!! [CE][Point] Removing 8523.686523, 5142.912598 from PiceaAbies_fallenB
+22:02:13 Average server FPS: 7764.90 (measured interval: 10 s)
+22:02:23 Average server FPS: 7842.30 (measured interval: 10 s)
+22:02:33 Average server FPS: 7715.20 (measured interval: 10 s)
+22:02:43 Average server FPS: 7913.30 (measured interval: 10 s)
+22:02:53 Average server FPS: 7812.50 (measured interval: 10 s)
+22:03:03 Average server FPS: 7677.80 (measured interval: 10 s)
+22:03:13 Average server FPS: 7846.10 (measured interval: 10 s)
+22:03:23 Average server FPS: 7677.60 (measured interval: 10 s)
+22:03:33 Average server FPS: 7654.20 (measured interval: 10 s)
+22:03:43 Average server FPS: 7746.60 (measured interval: 10 s)
+22:03:53 Average server FPS: 7625.80 (measured interval: 10 s)
+22:03:58 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+22:03:58 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+22:04:03 Average server FPS: 7391.10 (measured interval: 10 s)
+22:04:08 [Login]: Adding player [Admin] Bunker (33629357) to login queue at position 0
+22:04:08 [LoginMachine]: Add player [Admin] Bunker (33629357 192.168.1.64:2304)
+22:04:08 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid ) Entering AuthPlayerLoginState
+22:04:09 BattlEye Server: Player #4 [Admin] Bunker (192.168.1.64:2304) connected
+22:04:09 Player [Admin] Bunker connecting.
+22:04:09 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid ) Entering WaitAuthPlayerLoginState
+22:04:11 BattlEye Server: Player #4 [Admin] Bunker - BE GUID: de14957533e35de36c2632310be2da2e
+22:04:13 BattlEye Server: Verified GUID (de14957533e35de36c2632310be2da2e) of player #4 [Admin] Bunker
+22:04:13 Player [Admin] Bunker connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=).
+22:04:13 Player "[Admin] Bunker" is connected (steamID=76561198036774377)
+22:04:13 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid ) Entering WaitPlayerAssignedLoginState
+22:04:13 Average server FPS: 7428.80 (measured interval: 10 s)
+22:04:14 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetLoginTimeLoginState
+22:04:14 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBWaitLoginTimeLoginState
+22:04:23 Average server FPS: 7521.50 (measured interval: 10 s)
+22:04:29 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetCharacterLoginState
+22:04:29 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering CreateNetObjectsLoginState
+22:04:29 Player [Admin] Bunker dpid=33629357 at pos (5629.3, 28.7, 5406.5) 
+22:04:29 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering PreloadCamLoginState
+22:04:29 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering WaitPreloadCamLoginState
+22:04:33 Average server FPS: 7794.40 (measured interval: 10 s)
+22:04:43 Average server FPS: 7444.50 (measured interval: 10 s)
+22:04:46 [StateMachine]: Player [Admin] Bunker (dpnid 33629357 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering GetLoadedCharLoginState
+22:04:46 <LOAD EXISTING CHAR>:
+    charID 2
+    playerID 2
+    dpnid 33629357
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+22:04:49 BattlEye Server: RCon admin #1: (To [Admin] Bunker) Welcome on 42 Months After | Hard Core PvEvP | AI | Trader | PvP Zones
+22:04:53 Average server FPS: 6375.10 (measured interval: 10 s)
+22:05:03 Average server FPS: 6204.50 (measured interval: 10 s)
+22:05:13 Average server FPS: 6221.10 (measured interval: 10 s)
+22:05:19 !!! [CE][Point] Removing 8634.779297, 5075.396973 from PiceaAbies_fallenB
+22:05:23 Average server FPS: 6626.20 (measured interval: 10 s)
+22:05:33 Average server FPS: 6739.20 (measured interval: 10 s)
+22:05:43 Average server FPS: 6565.80 (measured interval: 10 s)
+22:05:44 !!! [CE][Point] Removing 8540.234375, 5227.547363 from PathD10
+22:05:53 Average server FPS: 6701.80 (measured interval: 10 s)
+22:06:03 Average server FPS: 6651.20 (measured interval: 10 s)
+22:06:13 Average server FPS: 6567.80 (measured interval: 10 s)
+22:06:23 Average server FPS: 6703.70 (measured interval: 10 s)
+22:06:33 Average server FPS: 6582.10 (measured interval: 10 s)
+22:06:43 Average server FPS: 6798.90 (measured interval: 10 s)
+22:06:53 Average server FPS: 6802.50 (measured interval: 10 s)
+22:07:03 !!! [CE][Point] Removing 10284.583008, 4073.772217 from Land_Boat_Small1
+22:07:03 Average server FPS: 6482.50 (measured interval: 10 s)
+22:07:13 Average server FPS: 6745.10 (measured interval: 10 s)
+22:07:23 Average server FPS: 6829.90 (measured interval: 10 s)
+22:07:33 Average server FPS: 6691.40 (measured interval: 10 s)
+22:07:43 Average server FPS: 6802.20 (measured interval: 10 s)
+22:07:53 Average server FPS: 6797.90 (measured interval: 10 s)
+22:08:03 Average server FPS: 6897.80 (measured interval: 10 s)
+22:08:13 Average server FPS: 6954.50 (measured interval: 10 s)
+22:08:23 Average server FPS: 6702.90 (measured interval: 10 s)
+22:08:33 Average server FPS: 6796.20 (measured interval: 10 s)
+22:08:43 Average server FPS: 6844.20 (measured interval: 10 s)
+22:08:53 Average server FPS: 6640.80 (measured interval: 10 s)
+22:08:54 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:08:54 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:09:03 Average server FPS: 6658.70 (measured interval: 10 s)
+22:09:13 Average server FPS: 6645.50 (measured interval: 10 s)
+22:09:23 Average server FPS: 6599.80 (measured interval: 10 s)
+22:09:33 Average server FPS: 6629.20 (measured interval: 10 s)
+22:09:43 Average server FPS: 6447.60 (measured interval: 10 s)
+22:09:53 Average server FPS: 6580.00 (measured interval: 10 s)
+22:10:03 Average server FPS: 6564.30 (measured interval: 10 s)
+22:10:13 Average server FPS: 6497.40 (measured interval: 10 s)
+22:10:23 Average server FPS: 6663.40 (measured interval: 10 s)
+22:10:33 Average server FPS: 6547.30 (measured interval: 10 s)
+22:10:43 Average server FPS: 6373.60 (measured interval: 10 s)
+22:10:53 Average server FPS: 6447.40 (measured interval: 10 s)
+22:11:03 Average server FPS: 6377.70 (measured interval: 10 s)
+22:11:13 Average server FPS: 6527.00 (measured interval: 10 s)
+22:11:23 Average server FPS: 6818.10 (measured interval: 10 s)
+22:11:33 BattlEye Server: RCon admin #1: (Global) Know the rules! Hit 'B' to read up!
+22:11:33 Average server FPS: 6579.30 (measured interval: 10 s)
+22:11:43 Average server FPS: 6366.40 (measured interval: 10 s)
+22:11:53 Average server FPS: 6502.80 (measured interval: 10 s)
+22:12:01 !!! [CE][Point] Removing 7180.978516, 11679.879883 from Land_BusStation_wall_bench
+22:12:03 Average server FPS: 6636.10 (measured interval: 10 s)
+22:12:13 Average server FPS: 6492.00 (measured interval: 10 s)
+22:12:23 Average server FPS: 6138.70 (measured interval: 10 s)
+22:12:33 Average server FPS: 6604.90 (measured interval: 10 s)
+22:12:43 Average server FPS: 6643.30 (measured interval: 10 s)
+22:12:53 Average server FPS: 6606.00 (measured interval: 10 s)
+22:13:03 Average server FPS: 6621.80 (measured interval: 10 s)
+22:13:13 Average server FPS: 6326.90 (measured interval: 10 s)
+22:13:23 Average server FPS: 6477.10 (measured interval: 10 s)
+22:13:33 BattlEye Server: RCon admin #1: (Global) Help shape the world! Discord.42MonthsAfter.com
+22:13:33 Average server FPS: 6778.50 (measured interval: 10 s)
+22:13:43 Average server FPS: 6646.90 (measured interval: 10 s)
+22:13:53 Average server FPS: 6599.00 (measured interval: 10 s)
+22:14:03 Average server FPS: 6781.80 (measured interval: 10 s)
+22:14:13 Average server FPS: 6540.60 (measured interval: 10 s)
+22:14:23 Average server FPS: 6804.00 (measured interval: 10 s)
+22:14:33 Average server FPS: 6750.00 (measured interval: 10 s)
+22:14:43 Average server FPS: 6545.30 (measured interval: 10 s)
+22:14:53 Average server FPS: 6665.20 (measured interval: 10 s)
+22:15:03 Average server FPS: 6421.85 (measured interval: 10 s)
+22:15:09 !!! [CE][Point] Removing 5433.507813, 9323.861328 from Land_Boat_Small1
+22:15:13 Average server FPS: 6219.30 (measured interval: 10 s)
+22:15:23 Average server FPS: 6655.50 (measured interval: 10 s)
+22:15:33 BattlEye Server: RCon admin #1: (Global) Base raiding on weekends only! Hit 'B' for details.
+22:15:33 Average server FPS: 6542.70 (measured interval: 10 s)
+22:15:43 Average server FPS: 5954.00 (measured interval: 10 s)
+22:15:53 Average server FPS: 6723.00 (measured interval: 10 s)
+22:16:03 Average server FPS: 6109.70 (measured interval: 10 s)
+22:16:13 Average server FPS: 5748.40 (measured interval: 10 s)
+22:16:23 Average server FPS: 6277.00 (measured interval: 10 s)
+22:16:33 Average server FPS: 6255.70 (measured interval: 10 s)
+22:16:43 Average server FPS: 6317.70 (measured interval: 10 s)
+22:16:53 Average server FPS: 6104.40 (measured interval: 10 s)
+22:17:03 Average server FPS: 6284.80 (measured interval: 10 s)
+22:17:13 Average server FPS: 6382.80 (measured interval: 10 s)
+22:17:23 Average server FPS: 6218.50 (measured interval: 10 s)
+22:17:33 BattlEye Server: RCon admin #1: (Global) Monthly givaways worth $100! Join the Discord!
+22:17:33 Average server FPS: 6341.20 (measured interval: 10 s)
+22:17:43 Average server FPS: 6279.30 (measured interval: 10 s)
+22:17:53 Average server FPS: 6341.60 (measured interval: 10 s)
+22:18:03 Average server FPS: 6537.40 (measured interval: 10 s)
+22:18:13 Average server FPS: 6292.00 (measured interval: 10 s)
+22:18:23 Average server FPS: 5902.90 (measured interval: 10 s)
+22:18:33 Average server FPS: 5959.80 (measured interval: 10 s)
+22:18:43 Average server FPS: 5752.00 (measured interval: 10 s)
+22:18:45 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+22:18:53 Average server FPS: 5591.20 (measured interval: 10 s)
+22:19:03 Average server FPS: 5965.60 (measured interval: 10 s)
+22:19:10 !!! [CE][Point] Removing 7174.379883, 11676.623047 from Land_BusStation_wall_bench
+22:19:13 Average server FPS: 5778.00 (measured interval: 10 s)
+22:19:23 Average server FPS: 5948.50 (measured interval: 10 s)
+22:19:33 Average server FPS: 5796.80 (measured interval: 10 s)
+22:19:43 Average server FPS: 5828.60 (measured interval: 10 s)
+22:19:53 Average server FPS: 6002.80 (measured interval: 10 s)
+22:20:03 Average server FPS: 5946.70 (measured interval: 10 s)
+22:20:05 !!! [CE][Point] Removing 5329.039063, 7551.504395 from QuercusRobur_fallenB
+22:20:06 !!! [CE][Point] Removing 5225.720215, 7526.324707 from PlumTree1
+22:20:13 Average server FPS: 6030.30 (measured interval: 10 s)
+22:20:23 Average server FPS: 5980.00 (measured interval: 10 s)
+22:20:33 Average server FPS: 5945.30 (measured interval: 10 s)
+22:20:43 Average server FPS: 6170.20 (measured interval: 10 s)
+22:20:53 Average server FPS: 6086.90 (measured interval: 10 s)
+22:21:03 Average server FPS: 6049.70 (measured interval: 10 s)
+22:21:13 Average server FPS: 6272.50 (measured interval: 10 s)
+22:21:23 Average server FPS: 6092.40 (measured interval: 10 s)
+22:21:28 !!! [CE][Point] Removing 5329.039063, 7551.504395 from QuercusRobur_fallenB
+22:21:33 Average server FPS: 6255.30 (measured interval: 10 s)
+22:21:43 Average server FPS: 6197.00 (measured interval: 10 s)
+22:21:53 Average server FPS: 6085.10 (measured interval: 10 s)
+22:21:54 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+22:22:03 Average server FPS: 6129.40 (measured interval: 10 s)
+22:22:13 Average server FPS: 6021.80 (measured interval: 10 s)
+22:22:23 Average server FPS: 6006.60 (measured interval: 10 s)
+22:22:33 Average server FPS: 6519.20 (measured interval: 10 s)
+22:22:43 Average server FPS: 6451.70 (measured interval: 10 s)
+22:22:53 Average server FPS: 6433.80 (measured interval: 10 s)
+22:23:03 Average server FPS: 6159.10 (measured interval: 10 s)
+22:23:13 Average server FPS: 5853.20 (measured interval: 10 s)
+22:23:14 !!! [CE][Point] Removing 5329.039063, 7551.504395 from QuercusRobur_fallenB
+22:23:23 Average server FPS: 5926.90 (measured interval: 10 s)
+22:23:33 Average server FPS: 5708.70 (measured interval: 10 s)
+22:23:43 Average server FPS: 5787.10 (measured interval: 10 s)
+22:23:53 Average server FPS: 5987.80 (measured interval: 10 s)
+22:24:03 Average server FPS: 5760.20 (measured interval: 10 s)
+22:24:13 Average server FPS: 5959.60 (measured interval: 10 s)
+22:24:23 Average server FPS: 5884.00 (measured interval: 10 s)
+22:24:33 Average server FPS: 5536.60 (measured interval: 10 s)
+22:24:43 Average server FPS: 5968.30 (measured interval: 10 s)
+22:24:53 Average server FPS: 5760.50 (measured interval: 10 s)
+22:25:03 Average server FPS: 5673.60 (measured interval: 10 s)
+22:25:13 Average server FPS: 5823.40 (measured interval: 10 s)
+22:25:23 Average server FPS: 5761.40 (measured interval: 10 s)
+22:25:33 Average server FPS: 5292.80 (measured interval: 10 s)
+22:25:43 Average server FPS: 6367.70 (measured interval: 10 s)
+22:25:53 Average server FPS: 6399.90 (measured interval: 10 s)
+22:25:53 !!! [CE][Point] Removing 11034.876953, 2295.144287 from Land_Mil_GuardShed
+22:25:58 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+22:26:03 Average server FPS: 6462.80 (measured interval: 10 s)
+22:26:13 Average server FPS: 6338.40 (measured interval: 10 s)
+22:26:21 !!! [CE][Point] Removing 11035.290039, 2296.514404 from Land_Mil_GuardShed
+22:26:23 Average server FPS: 6309.00 (measured interval: 10 s)
+22:26:33 Average server FPS: 6574.90 (measured interval: 10 s)
+22:26:43 Average server FPS: 6352.60 (measured interval: 10 s)
+22:26:53 Average server FPS: 6407.40 (measured interval: 10 s)
+22:27:03 Average server FPS: 6536.60 (measured interval: 10 s)
+22:27:13 Average server FPS: 6278.90 (measured interval: 10 s)
+22:27:23 Average server FPS: 6486.30 (measured interval: 10 s)
+22:27:33 Average server FPS: 6420.90 (measured interval: 10 s)
+22:27:43 Average server FPS: 6313.60 (measured interval: 10 s)
+22:27:45 !!! [CE][Point] Removing 5490.157227, 4749.616699 from PiceaAbies_fallenB
+22:27:53 Average server FPS: 6338.30 (measured interval: 10 s)
+22:28:03 Average server FPS: 6057.20 (measured interval: 10 s)
+22:28:13 Average server FPS: 6200.80 (measured interval: 10 s)
+22:28:23 Average server FPS: 6311.30 (measured interval: 10 s)
+22:28:33 Average server FPS: 6178.50 (measured interval: 10 s)
+22:28:34 !!! [CE][Point] Removing 11033.924805, 2295.949951 from Land_Mil_GuardShed
+22:28:43 Average server FPS: 6066.80 (measured interval: 10 s)
+22:28:53 Average server FPS: 5995.20 (measured interval: 10 s)
+22:29:03 Average server FPS: 6157.80 (measured interval: 10 s)
+22:29:13 Average server FPS: 6297.30 (measured interval: 10 s)
+22:29:23 Average server FPS: 6084.90 (measured interval: 10 s)
+22:29:33 Average server FPS: 5919.70 (measured interval: 10 s)
+22:29:43 Average server FPS: 6014.00 (measured interval: 10 s)
+22:29:53 Average server FPS: 5851.80 (measured interval: 10 s)
+22:29:55 !!! [CE][Point] Removing 7166.499512, 11588.201172 from Land_BusStation_wall_bench
+22:30:03 Average server FPS: 5926.80 (measured interval: 10 s)
+22:30:13 Average server FPS: 5824.80 (measured interval: 10 s)
+22:30:23 Average server FPS: 5767.10 (measured interval: 10 s)
+22:30:33 Average server FPS: 5739.80 (measured interval: 10 s)
+22:30:43 Average server FPS: 5596.40 (measured interval: 10 s)
+22:30:53 Average server FPS: 5857.10 (measured interval: 10 s)
+22:31:03 Average server FPS: 6024.30 (measured interval: 10 s)
+22:31:13 Average server FPS: 6056.30 (measured interval: 10 s)
+22:31:23 Average server FPS: 6177.30 (measured interval: 10 s)
+22:31:33 Average server FPS: 5973.30 (measured interval: 10 s)
+22:31:43 Average server FPS: 5765.10 (measured interval: 10 s)
+22:31:53 Average server FPS: 5918.00 (measured interval: 10 s)
+22:32:03 Average server FPS: 5754.80 (measured interval: 10 s)
+22:32:13 Average server FPS: 5963.70 (measured interval: 10 s)
+22:32:23 Average server FPS: 6027.30 (measured interval: 10 s)
+22:32:33 Average server FPS: 5856.10 (measured interval: 10 s)
+22:32:41 !!! [CE][Point] Removing 9758.086914, 5396.448730 from PiceaAbies_stump
+22:32:43 Average server FPS: 5897.90 (measured interval: 10 s)
+22:32:53 Average server FPS: 5925.90 (measured interval: 10 s)
+22:33:03 Average server FPS: 5979.10 (measured interval: 10 s)
+22:33:04 !!! [CE][Point] Removing 7195.206543, 11575.607422 from Land_BusStation_wall_bench
+22:33:13 Average server FPS: 5841.50 (measured interval: 10 s)
+22:33:23 Average server FPS: 5800.50 (measured interval: 10 s)
+22:33:33 Average server FPS: 5699.20 (measured interval: 10 s)
+22:33:43 Average server FPS: 5831.60 (measured interval: 10 s)
+22:33:53 Average server FPS: 5670.00 (measured interval: 10 s)
+22:34:03 Average server FPS: 5847.60 (measured interval: 10 s)
+22:34:13 Average server FPS: 5892.50 (measured interval: 10 s)
+22:34:23 Average server FPS: 5708.60 (measured interval: 10 s)
+22:34:33 Average server FPS: 5610.80 (measured interval: 10 s)
+22:34:43 Average server FPS: 5723.70 (measured interval: 10 s)
+22:34:53 Average server FPS: 5569.20 (measured interval: 10 s)
+22:35:03 Average server FPS: 5798.90 (measured interval: 10 s)
+22:35:13 Average server FPS: 5615.70 (measured interval: 10 s)
+22:35:23 Average server FPS: 5579.90 (measured interval: 10 s)
+22:35:33 Average server FPS: 5838.60 (measured interval: 10 s)
+22:35:43 Average server FPS: 5580.50 (measured interval: 10 s)
+22:35:53 Average server FPS: 5778.60 (measured interval: 10 s)
+22:36:03 Average server FPS: 5931.40 (measured interval: 10 s)
+22:36:12 !!! [CE][Point] Removing 2447.966309, 13671.327148 from Land_Boat_Small1
+22:36:13 Average server FPS: 5750.40 (measured interval: 10 s)
+22:36:23 Average server FPS: 5964.90 (measured interval: 10 s)
+22:36:33 Average server FPS: 5756.90 (measured interval: 10 s)
+22:36:43 Average server FPS: 5997.00 (measured interval: 10 s)
+22:36:53 Average server FPS: 6130.80 (measured interval: 10 s)
+22:37:03 Average server FPS: 5813.30 (measured interval: 10 s)
+22:37:13 Average server FPS: 5862.50 (measured interval: 10 s)
+22:37:23 Average server FPS: 5717.10 (measured interval: 10 s)
+22:37:33 Average server FPS: 5638.00 (measured interval: 10 s)
+22:37:35 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+22:37:35 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban2_police', failed to spawn loot
+22:37:35 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+22:37:43 Average server FPS: 5470.80 (measured interval: 10 s)
+22:37:53 Average server FPS: 5852.70 (measured interval: 10 s)
+22:38:03 Average server FPS: 6136.20 (measured interval: 10 s)
+22:38:13 Average server FPS: 6540.10 (measured interval: 10 s)
+22:38:23 Average server FPS: 6417.70 (measured interval: 10 s)
+22:38:33 Average server FPS: 6705.00 (measured interval: 10 s)
+22:38:43 Average server FPS: 6812.60 (measured interval: 10 s)
+22:38:53 Average server FPS: 6300.10 (measured interval: 10 s)
+22:38:58 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+22:39:03 Average server FPS: 6414.10 (measured interval: 10 s)
+22:39:13 Average server FPS: 6605.90 (measured interval: 10 s)
+22:39:22 [Disconnect]: Start script disconnect 84057113 (dbCharacterId 19 dbPlayerId 19) logoutTime 15
+22:39:22 !!! [CE][Point] Removing 4659.448242, 3175.040527 from PiceaAbies_fallen
+22:39:23 Average server FPS: 6422.70 (measured interval: 10 s)
+22:39:24 !!! [CE][Point] Removing 9575.730469, 5264.364746 from Stones
+22:39:26 [Disconnect]: Client 84057113 disconnecting
+22:39:26 [Disconnect]: Client 84057113 early disconnect
+22:39:26 [Disconnect]: Start script disconnect 84057113 (dbCharacterId 19 dbPlayerId 19) logoutTime 15
+22:39:33 Average server FPS: 6569.30 (measured interval: 10 s)
+22:39:37 [Disconnect]: Finish script disconnect 84057113 (ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+22:39:37 [Disconnect]: DisconnectPlayerFinish 84057113
+22:39:37 [Disconnect]: Remove player info 84057113
+22:39:37 [Disconnect]: Player destroy 84057113 
+22:39:37 Player Lou Sassole disconnected.
+22:39:37 BattlEye Server: Player #1 Lou Sassole disconnected
+22:39:43 Average server FPS: 7265.90 (measured interval: 10 s)
+22:39:53 Average server FPS: 7814.50 (measured interval: 10 s)
+22:40:03 Average server FPS: 7779.80 (measured interval: 10 s)
+22:40:13 Average server FPS: 7653.50 (measured interval: 10 s)
+22:40:23 Average server FPS: 8039.00 (measured interval: 10 s)
+22:40:33 Average server FPS: 8344.70 (measured interval: 10 s)
+22:40:43 Average server FPS: 8318.00 (measured interval: 10 s)
+22:40:53 Average server FPS: 8496.50 (measured interval: 10 s)
+22:41:03 Average server FPS: 8293.30 (measured interval: 10 s)
+22:41:13 Average server FPS: 8420.70 (measured interval: 10 s)
+22:41:23 Average server FPS: 8472.60 (measured interval: 10 s)
+22:41:33 BattlEye Server: RCon admin #1: (Global) Know the rules! Hit 'B' to read up!
+22:41:33 Average server FPS: 8215.00 (measured interval: 10 s)
+22:41:35 !!! [CE][Point] Removing 7161.974609, 11576.686523 from Land_BusStation_wall_bench
+22:41:43 Average server FPS: 7939.40 (measured interval: 10 s)
+22:41:53 Average server FPS: 8253.20 (measured interval: 10 s)
+22:42:03 Average server FPS: 8087.30 (measured interval: 10 s)
+22:42:13 Average server FPS: 8163.40 (measured interval: 10 s)
+22:42:23 Average server FPS: 8360.80 (measured interval: 10 s)
+22:42:31 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_sed01_aban1_police', failed to spawn loot
+22:42:33 Average server FPS: 8045.40 (measured interval: 10 s)
+22:42:43 Average server FPS: 8418.90 (measured interval: 10 s)
+22:42:53 Average server FPS: 8273.70 (measured interval: 10 s)
+22:43:03 Average server FPS: 8495.10 (measured interval: 10 s)
+22:43:13 Average server FPS: 8571.90 (measured interval: 10 s)
+22:43:23 Average server FPS: 8382.20 (measured interval: 10 s)
+22:43:33 BattlEye Server: RCon admin #1: (Global) Help shape the world! Discord.42MonthsAfter.com
+22:43:33 Average server FPS: 8445.10 (measured interval: 10 s)
+22:43:43 Average server FPS: 8210.30 (measured interval: 10 s)
+22:43:53 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+22:43:53 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+22:43:53 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+22:43:53 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+22:43:53 Average server FPS: 7958.10 (measured interval: 10 s)
+22:44:03 Average server FPS: 8253.60 (measured interval: 10 s)
+22:44:13 Average server FPS: 8189.70 (measured interval: 10 s)
+22:44:19 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+22:44:23 Average server FPS: 8138.30 (measured interval: 10 s)
+22:44:33 Average server FPS: 8569.50 (measured interval: 10 s)
+22:44:43 Average server FPS: 8289.40 (measured interval: 10 s)
+22:44:53 Average server FPS: 8429.50 (measured interval: 10 s)
+22:44:56 [Login]: Adding player Capt Chaos (122652546) to login queue at position 0
+22:44:56 [LoginMachine]: Add player Capt Chaos (122652546 206.246.22.218:2304)
+22:44:56 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid ) Entering AuthPlayerLoginState
+22:44:56 BattlEye Server: Player #5 Capt Chaos (206.246.22.218:2304) connected
+22:44:56 Player Capt Chaos connecting.
+22:44:56 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid ) Entering WaitAuthPlayerLoginState
+22:45:00 BattlEye Server: Player #5 Capt Chaos - BE GUID: 46d66cf49fbe4e29e15e271c7bb0d780
+22:45:02 BattlEye Server: Verified GUID (46d66cf49fbe4e29e15e271c7bb0d780) of player #5 Capt Chaos
+22:45:02 Player Capt Chaos connected (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=).
+22:45:02 Player "Capt Chaos" is connected (steamID=76561198940915030)
+22:45:02 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid ) Entering WaitPlayerAssignedLoginState
+22:45:03 Average server FPS: 8072.00 (measured interval: 10 s)
+22:45:04 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) Entering DBGetLoginTimeLoginState
+22:45:04 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) Entering DBWaitLoginTimeLoginState
+22:45:13 Average server FPS: 8073.40 (measured interval: 10 s)
+22:45:19 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) Entering DBGetCharacterLoginState
+22:45:19 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) Entering CreateNetObjectsLoginState
+22:45:19 Player Capt Chaos dpid=122652546 at pos (10289.1, 9.5, 12060.8) 
+22:45:19 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) Entering PreloadCamLoginState
+22:45:19 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) Entering WaitPreloadCamLoginState
+22:45:23 Average server FPS: 8179.90 (measured interval: 10 s)
+22:45:33 BattlEye Server: RCon admin #1: (Global) Base raiding on weekends only! Hit 'B' for details.
+22:45:33 Average server FPS: 8170.30 (measured interval: 10 s)
+22:45:43 Average server FPS: 8455.60 (measured interval: 10 s)
+22:45:53 Average server FPS: 8532.00 (measured interval: 10 s)
+22:46:03 Average server FPS: 8386.90 (measured interval: 10 s)
+22:46:06 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+22:46:06 [CE][SpawnRandomLoot] (StaticVanPinkies) :: Type: Land_jmc_van_pinkies, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+22:46:13 Average server FPS: 8065.80 (measured interval: 10 s)
+22:46:20 [StateMachine]: Player Capt Chaos (dpnid 122652546 uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) Entering GetLoadedCharLoginState
+22:46:20 <LOAD EXISTING CHAR>:
+    charID 14
+    playerID 14
+    dpnid 122652546
+    uid KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+22:46:23 Average server FPS: 7518.60 (measured interval: 10 s)
+22:46:33 Average server FPS: 6917.90 (measured interval: 10 s)
+22:46:37 BattlEye Server: RCon admin #1: (To Capt Chaos) Welcome on 42 Months After | Hard Core PvEvP | AI | Trader | PvP Zones
+22:46:43 Average server FPS: 6705.70 (measured interval: 10 s)
+22:46:53 Average server FPS: 6548.80 (measured interval: 10 s)
+22:47:03 Average server FPS: 6561.20 (measured interval: 10 s)
+22:47:13 Average server FPS: 6826.70 (measured interval: 10 s)
+22:47:23 Average server FPS: 6665.80 (measured interval: 10 s)
+22:47:27 !!! [CE][Point] Removing 10246.179688, 4716.792480 from Haybale
+22:47:33 BattlEye Server: RCon admin #1: (Global) Monthly givaways worth $100! Join the Discord!
+22:47:33 Average server FPS: 6561.70 (measured interval: 10 s)
+22:47:43 Average server FPS: 6694.00 (measured interval: 10 s)
+22:47:53 Average server FPS: 6564.40 (measured interval: 10 s)
+22:48:03 Average server FPS: 6791.70 (measured interval: 10 s)
+22:48:13 Average server FPS: 6655.40 (measured interval: 10 s)
+22:48:23 Average server FPS: 6573.50 (measured interval: 10 s)
+22:48:33 Average server FPS: 6869.30 (measured interval: 10 s)
+22:48:43 Average server FPS: 6723.50 (measured interval: 10 s)
+22:48:53 Average server FPS: 6729.50 (measured interval: 10 s)
+22:49:03 Average server FPS: 6901.90 (measured interval: 10 s)
+22:49:13 Average server FPS: 6650.70 (measured interval: 10 s)
+22:49:23 Average server FPS: 6774.40 (measured interval: 10 s)
+22:49:33 Average server FPS: 6427.00 (measured interval: 10 s)
+22:49:43 Average server FPS: 6434.50 (measured interval: 10 s)
+22:49:53 Average server FPS: 6551.50 (measured interval: 10 s)
+22:50:03 Average server FPS: 6258.50 (measured interval: 10 s)
+22:50:13 Average server FPS: 6621.20 (measured interval: 10 s)
+22:50:23 Average server FPS: 6439.30 (measured interval: 10 s)
+22:50:33 Average server FPS: 6396.50 (measured interval: 10 s)
+22:50:43 Average server FPS: 6435.60 (measured interval: 10 s)
+22:50:53 Average server FPS: 6406.60 (measured interval: 10 s)
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_5, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_clean_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_burned_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_3, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_old_1, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_bloody_2, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:02 [CE][SpawnRandomLoot] (StaticSkeletonEventspawn) :: Type: Land_jmc_skeleton_gnawed_4, lootmin: 1, lootmax: 1, wanted: 1, deloot: 2, containermaxsum: 2
+22:51:03 Average server FPS: 6386.80 (measured interval: 10 s)
+22:51:13 Average server FPS: 6572.30 (measured interval: 10 s)
+22:51:23 Average server FPS: 6702.60 (measured interval: 10 s)
+22:51:33 Average server FPS: 6600.70 (measured interval: 10 s)
+22:51:43 Average server FPS: 6651.70 (measured interval: 10 s)
+22:51:53 Average server FPS: 6472.60 (measured interval: 10 s)
+22:52:03 Average server FPS: 6775.50 (measured interval: 10 s)
+22:52:13 Average server FPS: 6773.30 (measured interval: 10 s)
+22:52:23 Average server FPS: 6619.50 (measured interval: 10 s)
+22:52:24 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+22:52:33 Average server FPS: 6751.60 (measured interval: 10 s)
+22:52:43 Average server FPS: 6776.80 (measured interval: 10 s)
+22:52:53 Average server FPS: 6852.40 (measured interval: 10 s)
+22:53:03 Average server FPS: 6978.30 (measured interval: 10 s)
+22:53:13 Average server FPS: 6799.80 (measured interval: 10 s)
+22:53:23 Average server FPS: 7095.50 (measured interval: 10 s)
+22:53:33 Average server FPS: 6956.40 (measured interval: 10 s)
+22:53:43 Average server FPS: 6907.20 (measured interval: 10 s)
+22:53:53 Average server FPS: 6900.40 (measured interval: 10 s)
+22:54:03 Average server FPS: 6930.30 (measured interval: 10 s)
+22:54:13 Average server FPS: 6988.20 (measured interval: 10 s)
+22:54:23 Average server FPS: 7151.30 (measured interval: 10 s)
+22:54:33 Average server FPS: 6711.10 (measured interval: 10 s)
+22:54:43 Average server FPS: 6977.70 (measured interval: 10 s)
+22:54:53 Average server FPS: 6914.30 (measured interval: 10 s)
+22:55:02 !!! [CE][Point] Removing 7160.763672, 11576.671875 from Land_BusStation_wall_bench
+22:55:03 Average server FPS: 6656.40 (measured interval: 10 s)
+22:55:13 Average server FPS: 6660.20 (measured interval: 10 s)
+22:55:23 Average server FPS: 6534.20 (measured interval: 10 s)
+22:55:29 !!! [CE][Point] Removing 6222.925781, 14060.771484 from Land_BusStation_wall_bench
+22:55:33 Average server FPS: 6717.80 (measured interval: 10 s)
+22:55:43 Average server FPS: 6839.40 (measured interval: 10 s)
+22:55:53 Average server FPS: 6722.50 (measured interval: 10 s)
+22:56:03 Average server FPS: 6721.30 (measured interval: 10 s)
+22:56:13 Average server FPS: 6615.20 (measured interval: 10 s)
+22:56:23 Average server FPS: 6464.00 (measured interval: 10 s)
+22:56:33 Average server FPS: 6750.80 (measured interval: 10 s)
+22:56:43 Average server FPS: 6741.00 (measured interval: 10 s)
+22:56:53 Average server FPS: 6392.70 (measured interval: 10 s)
+22:57:03 Average server FPS: 6764.40 (measured interval: 10 s)
+22:57:13 Average server FPS: 6550.20 (measured interval: 10 s)
+22:57:23 Average server FPS: 6689.30 (measured interval: 10 s)
+22:57:33 Average server FPS: 6836.50 (measured interval: 10 s)
+22:57:43 Average server FPS: 6587.70 (measured interval: 10 s)
+22:57:53 Average server FPS: 6801.20 (measured interval: 10 s)
+22:58:03 Average server FPS: 6732.60 (measured interval: 10 s)
+22:58:13 Average server FPS: 6497.40 (measured interval: 10 s)
+22:58:23 Average server FPS: 6715.80 (measured interval: 10 s)
+22:58:33 Average server FPS: 6417.00 (measured interval: 10 s)
+22:58:41 !!! [CE][Point] Removing 8701.543945, 9377.973633 from Stones
+22:58:43 Average server FPS: 6368.70 (measured interval: 10 s)
+22:58:53 Average server FPS: 6449.00 (measured interval: 10 s)
+22:59:03 Average server FPS: 6592.90 (measured interval: 10 s)
+22:59:13 Average server FPS: 6630.00 (measured interval: 10 s)
+22:59:23 Average server FPS: 6633.30 (measured interval: 10 s)
+22:59:33 Average server FPS: 6655.80 (measured interval: 10 s)
+22:59:43 Average server FPS: 6763.20 (measured interval: 10 s)
+22:59:53 Average server FPS: 6531.50 (measured interval: 10 s)
+23:00:00 BattlEye Server: RCon admin #1: (Global) Server is restarting in 60 minutes
+23:00:03 Average server FPS: 6648.20 (measured interval: 10 s)
+23:00:13 Average server FPS: 6696.10 (measured interval: 10 s)
+23:00:23 Average server FPS: 6157.70 (measured interval: 10 s)
+23:00:25 !!! [CE][Point] Removing 1764.571167, 14735.247070 from Land_Boat_Small3
+23:00:33 Average server FPS: 6327.50 (measured interval: 10 s)
+23:00:43 Average server FPS: 6588.90 (measured interval: 10 s)
+23:00:52 !!! [CE][Point] Removing 1606.624512, 15803.504883 from Land_Boat_Small1
+23:00:53 Average server FPS: 6212.90 (measured interval: 10 s)
+23:00:56 [Disconnect]: Start script disconnect 1937451793 (dbCharacterId 95 dbPlayerId 95) logoutTime 15
+23:00:59 [Disconnect]: Client 1937451793 disconnecting
+23:00:59 [Disconnect]: Client 1937451793 early disconnect
+23:00:59 [Disconnect]: Start script disconnect 1937451793 (dbCharacterId 95 dbPlayerId 95) logoutTime 15
+23:01:03 Average server FPS: 7016.10 (measured interval: 10 s)
+23:01:10 [Disconnect]: No packets from 1937451793
+23:01:10 Player OrdepRoinuj (1937451793) kicked from server: 4 (Connection with host has been lost.)
+23:01:11 [Disconnect]: Remove player info 1937451793
+23:01:11 [Disconnect]: Player destroy 1937451793 
+23:01:11 Player OrdepRoinuj disconnected.
+23:01:11 BattlEye Server: Player #3 OrdepRoinuj disconnected
+23:01:11 [Disconnect]: Finish script disconnect -1 (jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)
+23:01:13 Average server FPS: 6903.75 (measured interval: 10 s)
+23:01:23 Average server FPS: 8066.90 (measured interval: 10 s)
+23:01:33 Average server FPS: 8182.80 (measured interval: 10 s)
+23:01:43 Average server FPS: 8034.30 (measured interval: 10 s)
+23:01:47 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+23:01:53 Average server FPS: 8002.70 (measured interval: 10 s)
+23:02:03 Average server FPS: 8424.80 (measured interval: 10 s)
+23:02:13 Average server FPS: 8203.50 (measured interval: 10 s)
+23:02:15 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+23:02:23 Average server FPS: 8485.30 (measured interval: 10 s)
+23:02:33 Average server FPS: 8525.00 (measured interval: 10 s)
+23:02:43 Average server FPS: 8505.00 (measured interval: 10 s)
+23:02:53 Average server FPS: 8621.80 (measured interval: 10 s)
+23:03:03 Average server FPS: 8516.10 (measured interval: 10 s)
+23:03:13 Average server FPS: 8652.40 (measured interval: 10 s)
+23:03:23 Average server FPS: 8643.70 (measured interval: 10 s)
+23:03:33 Average server FPS: 8384.80 (measured interval: 10 s)
+23:03:43 Average server FPS: 8175.30 (measured interval: 10 s)
+23:03:53 Average server FPS: 8211.00 (measured interval: 10 s)
+23:04:03 Average server FPS: 8499.10 (measured interval: 10 s)
+23:04:13 Average server FPS: 8640.40 (measured interval: 10 s)
+23:04:23 Average server FPS: 8494.60 (measured interval: 10 s)
+23:04:33 Average server FPS: 8706.70 (measured interval: 10 s)
+23:04:43 Average server FPS: 8413.50 (measured interval: 10 s)
+23:04:53 Average server FPS: 7972.80 (measured interval: 10 s)
+23:05:03 Average server FPS: 8073.50 (measured interval: 10 s)
+23:05:13 Average server FPS: 8175.40 (measured interval: 10 s)
+23:05:23 Average server FPS: 7889.50 (measured interval: 10 s)
+23:05:24 [CE][SpawnRandomLoot] (StaticVanAmbulance) :: Type: Land_jmc_van_ambulance, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:05:33 Average server FPS: 8494.10 (measured interval: 10 s)
+23:05:43 Average server FPS: 8363.70 (measured interval: 10 s)
+23:05:53 Average server FPS: 8303.20 (measured interval: 10 s)
+23:06:03 Average server FPS: 8467.20 (measured interval: 10 s)
+23:06:13 Average server FPS: 8074.90 (measured interval: 10 s)
+23:06:23 Average server FPS: 7971.30 (measured interval: 10 s)
+23:06:33 Average server FPS: 8184.40 (measured interval: 10 s)
+23:06:43 Average server FPS: 8011.10 (measured interval: 10 s)
+23:06:53 Average server FPS: 7961.30 (measured interval: 10 s)
+23:07:03 Average server FPS: 7969.40 (measured interval: 10 s)
+23:07:13 Average server FPS: 8035.80 (measured interval: 10 s)
+23:07:23 Average server FPS: 8051.20 (measured interval: 10 s)
+23:07:33 Average server FPS: 8037.10 (measured interval: 10 s)
+23:07:43 Average server FPS: 8216.40 (measured interval: 10 s)
+23:07:53 Average server FPS: 7865.20 (measured interval: 10 s)
+23:08:03 !!! [CE][Point] Removing 7152.188965, 11606.745117 from Land_BusStation_wall_bench
+23:08:03 Average server FPS: 8083.50 (measured interval: 10 s)
+23:08:13 Average server FPS: 8312.50 (measured interval: 10 s)
+23:08:23 Average server FPS: 8379.00 (measured interval: 10 s)
+23:08:29 !!! [CE][Point] Removing 11598.012695, 10403.141602 from Land_Boat_Small1
+23:08:33 Average server FPS: 8770.30 (measured interval: 10 s)
+23:08:43 Average server FPS: 8819.80 (measured interval: 10 s)
+23:08:53 Average server FPS: 8488.40 (measured interval: 10 s)
+23:09:03 Average server FPS: 8828.30 (measured interval: 10 s)
+23:09:13 Average server FPS: 8955.90 (measured interval: 10 s)
+23:09:23 Average server FPS: 8592.00 (measured interval: 10 s)
+23:09:33 Average server FPS: 8815.50 (measured interval: 10 s)
+23:09:43 Average server FPS: 8739.20 (measured interval: 10 s)
+23:09:53 Average server FPS: 8554.40 (measured interval: 10 s)
+23:10:03 Average server FPS: 8600.70 (measured interval: 10 s)
+23:10:13 Average server FPS: 8575.50 (measured interval: 10 s)
+23:10:23 Average server FPS: 8884.00 (measured interval: 10 s)
+23:10:33 Average server FPS: 8785.00 (measured interval: 10 s)
+23:10:43 Average server FPS: 8602.20 (measured interval: 10 s)
+23:10:53 Average server FPS: 8907.90 (measured interval: 10 s)
+23:11:03 Average server FPS: 8814.00 (measured interval: 10 s)
+23:11:13 Average server FPS: 8770.60 (measured interval: 10 s)
+23:11:23 Average server FPS: 9083.50 (measured inte

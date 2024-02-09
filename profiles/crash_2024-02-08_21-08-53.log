@@ -896,3 +896,25 @@ PVEZ/4_World/entities\manbase\playerbase.c:62
 
 Runtime mode
 CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@CannabisPlus;@Collectable Items;@Dabs Framework;@DayZ Editor Loader;@GarbageSearch;@gebsfish;@MunghardsItempack;@TeddysWeaponPack;@WindstridesClothingPack;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@GameLabs;@FlipTransport;@42 Months After Deer Isle Mod Pack; 
+
+
+------------------------------------
+DEER-ISLE-SERVE, 08.02 2024 22:15:28
+[DamageSystemData::GetMaxHealth] :: [deer_whitestag] :: Could not find zone "Zone_Chest"
+Class:      'ActionSkinning'
+Function: 'SpawnItems'
+Stack trace:
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:313
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:76
+WindstrideClothing/scripts/4_World/humanskull\humanskull.c:5
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:217
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\actioncontinuousbase.c:25
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\classes\useractionscomponent\actions\actionbases.c:205
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:66
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:320
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:23
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@CannabisPlus;@Collectable Items;@Dabs Framework;@DayZ Editor Loader;@GarbageSearch;@gebsfish;@MunghardsItempack;@TeddysWeaponPack;@WindstridesClothingPack;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@GameLabs;@FlipTransport;@42 Months After Deer Isle Mod Pack; 

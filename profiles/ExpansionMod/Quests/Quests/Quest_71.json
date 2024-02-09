@@ -9,10 +9,10 @@
         "Nice work! Come back if you're looking for more escort trips."
     ],
     "ObjectiveText": "Escort a survivor to Portland",
-    "FollowUpQuest": 72,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,

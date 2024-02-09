@@ -9,10 +9,10 @@
         "Hells yes! No it's time to work on the beverages!"
     ],
     "ObjectiveText": "Collect 6 Screwdrivers",
-    "FollowUpQuest": 27,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -52,13 +52,7 @@
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        21,
-        22,
-        23,
-        24,
-        25
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,

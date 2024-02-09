@@ -9,10 +9,10 @@
         "See, that wasn't so hard now was it?"
     ],
     "ObjectiveText": "Kill 10 Zombies",
-    "FollowUpQuest": 42,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,

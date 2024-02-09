@@ -3,7 +3,7 @@
     "ID": 71,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Portland",
-    "TimeLimit": 180,
+    "TimeLimit": -1,
     "Active": 1,
     "Position": [
         6378.94,  

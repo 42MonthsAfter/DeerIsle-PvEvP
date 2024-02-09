@@ -3,7 +3,7 @@
     "ID": 75,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Prison Island",
-    "TimeLimit": 180,
+    "TimeLimit": -1,
     "Active": 1,
     "Position": [
         5525.24,  

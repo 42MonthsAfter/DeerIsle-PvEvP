@@ -3,7 +3,7 @@
     "ID": 79,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Power Plant",
-    "TimeLimit": 180,
+    "TimeLimit": -1,
     "Active": 1,
     "Position": [
         4637.44,  

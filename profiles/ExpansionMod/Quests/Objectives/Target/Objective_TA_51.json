@@ -78,7 +78,20 @@
         "ZmbF_SurvivorNormal_Base",
         "ZmbF_SurvivorNormal_LT_Base",
         "ZmbF_VillagerOld_Base",
-        "ZmbF_VillagerOld_LT_Base"
+        "ZmbF_VillagerOld_LT_Base",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_Officer_Desert",
+        "ZmbM_usSoldier_Heavy_Woodland",
+        "ZmbM_usSoldier_normal_Woodland",
+        "InfectedSoldierHardJMC",
+        "InfectedSoldierHardJMCWinter",
+        "ZmbM_kid",
+        "ZmbM_kid2",
+        "ZmbM_kid3",
+        "ZmbF_kid",
+        "ZmbF_kid2",
+        "ZmbF_kid3"
     ],
     "CountSelfKill": 0,
     "AllowedWeapons": [

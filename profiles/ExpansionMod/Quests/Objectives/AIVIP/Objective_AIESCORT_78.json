@@ -3,7 +3,7 @@
     "ID": 78,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Camp Bear",
-    "TimeLimit": 180,
+    "TimeLimit": -1,
     "Active": 1,
     "Position": [
         8886.76, 

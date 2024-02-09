@@ -3,7 +3,7 @@
     "ID": 77,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Old Town",
-    "TimeLimit": 180,
+    "TimeLimit": -1,
     "Active": 1,
     "Position": [
         1864.16,  

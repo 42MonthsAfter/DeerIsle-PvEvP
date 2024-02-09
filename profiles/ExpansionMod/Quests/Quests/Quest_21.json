@@ -1,4 +1,4 @@
-{
+ {
     "ConfigVersion": 21,
     "ID": 21,
     "Type": 1,
@@ -9,10 +9,10 @@
         "Amazing! I'm one step closer to be the Andy Warhol of Deer Isle."
     ],
     "ObjectiveText": "Collect 5 Packs of Pumpkin Seeds",
-    "FollowUpQuest": 22,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,

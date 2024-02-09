@@ -3,7 +3,7 @@
     "ID": 80,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to the Crater",
-    "TimeLimit": 180,
+    "TimeLimit": -1,
     "Active": 1,
     "Position": [
         14160.2,  

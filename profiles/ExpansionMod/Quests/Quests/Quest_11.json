@@ -9,10 +9,10 @@
         "Wow, you made it all the way up north and back? Nice work."
     ],
     "ObjectiveText": "Visit Porland",
-    "FollowUpQuest": 12,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,

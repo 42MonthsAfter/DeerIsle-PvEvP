@@ -2725,3 +2725,417 @@ SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.966399
 SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
 SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
 SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:04:14.273 [EXPANSION DEBUG]: ExpansionHardlineModule<c57f510> ::LoadPlayerData - Loaded player hardline data for player [Admin] Bunker[mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [FBF_Config] MissionServer --> Sending instance of cfg to client: [Admin] Bunker
+SCRIPT       : [CP] -> Sucessfully sent: [Admin] Bunker CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 22:04:45.859 [EXPANSION DEBUG]: SurvivorBase<2037e020>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : [EditorLoader] Sent Deleted objects in 0.001s
+SCRIPT       : Sending ClassicWalkConfig to Player: [Admin] Bunker RPC: 192837
+SCRIPT       : Sending SMK_Config to Player: [Admin] Bunker RPC: 978241
+SCRIPT       : Sending DivingLootConfig to Player: [Admin] Bunker RPC: 827716
+SCRIPT       : 22:04:45.867 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending 69 quest configs to client with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:04:45.875 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for 2 quests to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:04:46.328 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:04:46.328 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 11 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.397076
+SCRIPT       : 22:06:24.648 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:24.648 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:25.148 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:25.148 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:06:57.453 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:57.453 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:57.617 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:57.617 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:57.812 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:57.812 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:57.953 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:57.953 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:58.109 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:06:58.109 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:07:12.882 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.882 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.890 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.890 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.890 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.890 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.898 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.898 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.898 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:07:12.898 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 21 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:08:06.914 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:08:07.906 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:08:40.687 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:08:40.687 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 11 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:08:55.554 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:08:55.554 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 22 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:08:56.046 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:08:56.054 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 22 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.125 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.125 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 22 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.125 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.125 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 22 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.132 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.132 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 22 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.132 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Quest configs already synched for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 22:09:04.132 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for quest ID 22 to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.772698
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<17e57f10> closes stable state=Pistol_OPE_DIS_BU0_MA1<5c93760> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<25298e0> closes stable state=Pistol_OPE_DIS_BU0_MA1<17da5410> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<25298e0> closes stable state=Pistol_OPE_DIS_BU0_MA1<17da5410> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<17e57f10> closes stable state=Pistol_OPE_DIS_BU0_MA1<5c93760> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<25298e0> closes stable state=Pistol_OPE_DIS_BU0_MA1<17da5410> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<17e57f10> closes stable state=Pistol_OPE_DIS_BU0_MA1<5c93760> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<25298e0> closes stable state=Pistol_OPE_DIS_BU0_MA1<17da5410> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<17e57f10> closes stable state=Pistol_OPE_DIS_BU0_MA1<5c93760> id=10
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.829829
+SCRIPT       : 22:12:12.867 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:12:13.867 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 1 Actual: 0 Change: 0 Time: 0.834651
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:15:10.781 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:15:11.781 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.615009
+SCRIPT    (E): [DamageSystemData::GetMaxHealth] :: [deer_whitestag] :: Could not find zone "Zone_Chest"
+Class:      'ActionSkinning'
+Function: 'SpawnItems'
+Stack trace:
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:313
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:76
+WindstrideClothing/scripts/4_World/humanskull\humanskull.c:5
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:217
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\actioncontinuousbase.c:25
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\classes\useractionscomponent\actions\actionbases.c:205
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:66
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:320
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:23
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:15:33.984 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:15:34.984 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:16:05.484 [EXPANSION DEBUG]: HAMMER_H1_black_rust<5b62a020>::ExpansionSetLastDriverUID - ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+SCRIPT       : 22:16:06.484 [EXPANSION DEBUG]: HAMMER_H1_black_rust<5b62a020>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 0 Actual: 0.258351 Change: 0 Time: 0.834651
+SCRIPT       : m_clearWeatherChance: 55
+SCRIPT       : m_badWeatherChance  : 85
+SCRIPT       : Setting Overcast to: 0.620835 Time: 807 Length: 91
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:17:04.531 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:17:05.531 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:17:46.656 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:17:47.656 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.699515
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:18:14.546 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK101:21637 at location { type=HANDS item=AK101:22280 parent=eAI_SurvivorM_Elias:22:INSTANCETYPE_AI_SERVER }
+SCRIPT       : 22:18:14.546 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_AK101_30Rnd:22370 at location { type=ATTACHMENT item=null parent=AK101:21637 slot=magazine }
+SCRIPT       : 22:18:14.546 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK_PlasticHndgrd:20012 at location { type=ATTACHMENT item=null parent=AK101:21637 slot=weaponHandguardAK }
+SCRIPT       : 22:18:14.546 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK_WoodBttstck:21594 at location { type=ATTACHMENT item=null parent=AK101:21637 slot=weaponButtstockAK }
+SCRIPT       : 22:18:14.617 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created MakarovIJ70:20765 at location { type=HANDS item=MakarovIJ70:11512 parent=eAI_SurvivorM_Indar:35:INSTANCETYPE_AI_SERVER }
+SCRIPT       : 22:18:14.656 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AKS74U:22280 at location { type=HANDS item=AKS74U:13563 parent=eAI_SurvivorM_Manua:28:INSTANCETYPE_AI_SERVER }
+SCRIPT       : 22:18:14.656 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AKS74U_Bttstck:11512 at location { type=ATTACHMENT item=null parent=AKS74U:22280 slot=weaponButtstockAK }
+SCRIPT       : 22:18:14.656 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_AK74_30Rnd:34331 at location { type=ATTACHMENT item=null parent=AKS74U:22280 slot=magazine }
+SCRIPT       : 22:18:24.492 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:18:25.492 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:20:14.070 [EXPANSION DEBUG]: SurvivorBase<3160d410>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 22:20:49.625 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'twp_cz805_mag_30rnd' does not exist!
+SCRIPT       : 22:20:49.742 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'twp_mk1twp_ar15urban_mag_30rnd4_mag_20rnd' does not exist!
+SCRIPT       : 22:20:49.742 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'doc_suppressor_556_blue' does not exist!
+SCRIPT       : 22:20:50.304 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'mag_saiga_8rnd' does not exist!
+SCRIPT       : 22:20:50.304 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'mag_vss_10rnd' does not exist!
+SCRIPT       : 22:20:50.468 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'mag_svd_10rnd' does not exist!
+SCRIPT       : 22:20:50.468 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'twp_ammo_338lapua_magnum' does not exist!
+SCRIPT       : 22:20:50.617 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'mag_expansion_kedr_20rnd' does not exist!
+SCRIPT       : 22:20:50.617 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'mag_expansion_vityaz_30rnd' does not exist!
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.583514
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:23:03.476 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:23:04.476 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:23:22.398 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:23:23.398 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.847438
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:24:42.898 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:24:43.890 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:26:32.671 [EXPANSION DEBUG]: HAMMER_H1_black_rust<5b62a020>::ExpansionSetLastDriverUID - ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+SCRIPT       : 22:26:33.671 [EXPANSION DEBUG]: HAMMER_H1_black_rust<5b62a020>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.444288
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:27:40.898 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:27:41.890 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : 22:27:53.359 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK74:8782 at location { type=HANDS item=AK74:17175 parent=eAI_SurvivorM_Mirek:29:INSTANCETYPE_AI_SERVER }
+SCRIPT       : 22:27:53.367 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_AK74_30Rnd:11731 at location { type=ATTACHMENT item=null parent=AK74:8782 slot=magazine }
+SCRIPT       : 22:27:53.367 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created PSO1Optic:10760 at location { type=ATTACHMENT item=null parent=AK74:8782 slot=weaponOpticsAK }
+SCRIPT       : 22:27:53.367 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Battery9V:10761 at location { type=ATTACHMENT item=null parent=PSO1Optic:10760 slot=BatteryD }
+SCRIPT       : 22:27:53.367 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK_WoodBttstck:24478 at location { type=ATTACHMENT item=null parent=AK74:8782 slot=weaponButtstockAK }
+SCRIPT       : 22:27:53.367 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK_WoodHndgrd:12668 at location { type=ATTACHMENT item=null parent=AK74:8782 slot=weaponHandguardAK }
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:28:56.820 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:28:57.820 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:30:10.539 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.302896
+SCRIPT       : 22:30:11.539 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 0 Actual: 0.620835 Change: 0 Time: 0.106906
+SCRIPT       : m_clearWeatherChance: 55
+SCRIPT       : m_badWeatherChance  : 85
+SCRIPT       : Setting Overcast to: 0.175594 Time: 620 Length: 838
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:32:36.453 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:32:37.453 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Lunchmeat:17994 parent=SurvivorM_Taiki:26:INSTANCETYPE_SERVER }
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.586138
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=BrisketSpread:23392 parent=SurvivorM_Peter:27:INSTANCETYPE_SERVER }
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.86343
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:37:25.007 [EXPANSION DEBUG]: Player is prone w/ item in hand, applying workaround for T176038 by dropping hand item to ground prematurely AKS74U<4a5288f0>
+SCRIPT       : 22:37:25.007 [EXPANSION DEBUG]: Player is prone w/ item in hand, applying workaround for T176038 by dropping hand item to ground prematurely SVD_Base<53aeba80>
+SCRIPT       : 22:37:25.015 [EXPANSION DEBUG]: Player is prone w/ item in hand, applying workaround for T176038 by dropping hand item to ground prematurely SVD_Base<4a50f6f0>
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:37:54.875 [EXPANSION DEBUG]: Player is prone w/ item in hand, applying workaround for T176038 by dropping hand item to ground prematurely AKS74U<47a47730>
+SCRIPT       : 22:37:54.875 [EXPANSION DEBUG]: Player is prone w/ item in hand, applying workaround for T176038 by dropping hand item to ground prematurely MakarovIJ70_Base<459ff510>
+SCRIPT       : 22:37:54.875 [EXPANSION DEBUG]: Player is prone w/ item in hand, applying workaround for T176038 by dropping hand item to ground prematurely AK101<47a6d230>
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.458235
+SCRIPT       : 22:39:15.281 [ExpansionEntityStorage] HITCH: 25.7263ms
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [Logout]: New player ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= with logout time 15
+SCRIPT       : 22:39:36.781 [EXPANSION DEBUG]: ExpansionPartyData<32abe830>::OnLeave party Loosey Goosey (ID 28) player Lou Sassole (ID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+SCRIPT       : 22:39:36.781 [EXPANSION DEBUG]: ExpansionQuestPersistentData<ac0bca80>~ExpansionQuestPersistentData (6)
+SCRIPT       : [Logout]: Player ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= finished
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:41:03.585 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:41:04.585 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.639515
+SCRIPT       : 22:42:13.234 [EXPANSION DEBUG]: Player is prone w/ item in hand, applying workaround for T176038 by dropping hand item to ground prematurely AK74<53aed3a0>
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 1 Actual: 0 Change: 0 Time: 0.106906
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:45:04.007 [EXPANSION DEBUG]: ExpansionHardlineModule<c57f510> ::LoadPlayerData - Loaded player hardline data for player Capt Chaos[KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=]
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.0435499
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [FBF_Config] MissionServer --> Sending instance of cfg to client: Capt Chaos
+SCRIPT       : [CP] -> Sucessfully sent: Capt Chaos CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [EditorLoader] Sent Deleted objects in 0.001s
+SCRIPT       : 22:46:19.765 [EXPANSION DEBUG]: ExpansionPartyData<32abee70>::OnJoin party Dirty Crew (ID 23) player Capt Chaos (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)
+SCRIPT       : Sending ClassicWalkConfig to Player: Capt Chaos RPC: 192837
+SCRIPT       : Sending SMK_Config to Player: Capt Chaos RPC: 978241
+SCRIPT       : Sending DivingLootConfig to Player: Capt Chaos RPC: 827716
+SCRIPT       : 22:46:19.781 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending 69 quest configs to client with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+SCRIPT       : 22:46:19.781 [EXPANSION DEBUG]: ExpansionQuestModule<10cdd810> Sending player quest data for 0 quests to player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:46:31.968 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:46:32.968 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.108951
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:48:48.406 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:48:49.406 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.937559
+SCRIPT       : 22:51:19.914 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionSetLastDriverUID - jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+SCRIPT       : 22:51:20.914 [EXPANSION DEBUG]: MUSTANG_red<26bddc60>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:53:11.609 [ExpansionEntityStorage] HITCH: 17.8794ms
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:53:19.554 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:53:20.554 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.537492
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 22:55:54.515 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:55:55.515 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 0 Actual: 0.175594 Change: 0 Time: 0.568224
+SCRIPT       : m_clearWeatherChance: 55
+SCRIPT       : m_badWeatherChance  : 85
+SCRIPT       : Setting Overcast to: 0.282623 Time: 750 Length: 639
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.112613
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<47728150> closes stable state=Pistol_CLO_CHG_BU1_MA1<47724e50> id=9
+SCRIPT       : 22:58:48.937 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 22:58:49.937 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.861293
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 23:00:47.070 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<529d0a80> (parent=NULL)
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [Logout]: New player jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= with logout time 15
+SCRIPT       : 23:01:06.945 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<53c778d0> (parent=NULL)
+SCRIPT       : 23:01:11.445 [EXPANSION DEBUG]: ExpansionPartyData<32abf7d0>::OnLeave party OldDog (ID 42) player OrdepRoinuj (ID jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)
+SCRIPT       : 23:01:11.445 [EXPANSION DEBUG]: ExpansionQuestPersistentData<a9345d80>~ExpansionQuestPersistentData (0)
+SCRIPT       : [Logout]: Player jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= finished
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.0668661
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 23:04:33.820 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 23:04:34.820 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.408429
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 23:07:09.335 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 23:07:10.335 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: 0.409803
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7682c40> closes stable state=RBL_CLO_BU1_MA1<7681740> id=3
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : 23:10:14.601 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionSetLastDriverUID - VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+SCRIPT       : 23:10:15.601 [EXPANSION DEBUG]: MotorHome_rust<bea99d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<7542850> closes stable state=Pistol_CLO_CHG_BU1_MA1<753eb30> id=9
+SCRIPT       : DeerisleWorld:WeatherOnBeforeChange() called.
+SCRIPT       : EWeatherPhenomenon: 2 Actual: 0 Change: 0 Time: -0.292276
