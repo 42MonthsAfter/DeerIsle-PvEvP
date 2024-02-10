@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 80,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to the Crater",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        14160.2,  
-        137.44,
-        2622.73
+        14160.2001953125,
+        137.44000244140626,
+        2622.72998046875
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

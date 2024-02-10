@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 68,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the Stash at Camp Bear",
@@ -12,28 +12,34 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            8907.91,  
-            20.9044,
-            5953.52
+            8907.91015625,
+            20.904399871826173,
+            5953.52001953125
         ],
         [
-            8720.47,  
-            12.4441,
-            6051.77
+            8720.4697265625,
+            12.444100379943848,
+            6051.77001953125
         ],
         [
-            8592.94,  
-            1.65726,
-            6076.61
+            8592.9404296875,
+            1.6572599411010743,
+            6076.60986328125
         ]
     ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "TWP_ThompsonMK2",
-            "Attachments": [
-                "TWP_ThompsonMK2_mag_50Rnd"
-            ],
             "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_ThompsonMK2_mag_50Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -41,10 +47,14 @@
         },
         {
             "Name": "Rangefinder",
-            "Attachments": [
-                "Battery9V"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -52,10 +62,14 @@
         },
         {
             "Name": "TWP_AK47Blue",
-            "Attachments": [
-                "TWP_AK47Blue_mag_35Rnd"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_AK47Blue_mag_35Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -63,14 +77,12 @@
         },
         {
             "Name": "WeaponCleaningKit",
-            "Attachments": [],
             "Chance": 0.05000000074505806,
+            "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 0,
-    "MaxDistance": 10.0
+    ]
 }

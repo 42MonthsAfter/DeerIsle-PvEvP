@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 20,
     "ObjectiveType": 3,
     "ObjectiveText": "Visit the Temple",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        364.643, 
-        54.3806, 
-        877.744
+        364.64300537109377,
+        54.38059997558594,
+        877.7440185546875
     ],
     "MaxDistance": 20.0,
     "MarkerName": "The Temple",

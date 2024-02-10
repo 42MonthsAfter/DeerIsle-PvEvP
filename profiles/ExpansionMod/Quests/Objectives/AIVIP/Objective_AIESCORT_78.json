@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 78,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Camp Bear",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        8886.76, 
-        22.2646, 
-        5973.45
+        8886.759765625,
+        22.26460075378418,
+        5973.4501953125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

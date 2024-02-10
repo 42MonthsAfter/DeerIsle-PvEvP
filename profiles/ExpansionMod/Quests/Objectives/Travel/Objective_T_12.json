@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 12,
     "ObjectiveType": 3,
     "ObjectiveText": "Visit Kushville",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        7532.27,
-        24.3073,
-        3902.67
+        7532.27001953125,
+        24.307300567626954,
+        3902.669921875
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Kushville",

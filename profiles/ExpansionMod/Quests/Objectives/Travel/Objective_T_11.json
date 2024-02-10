@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 11,
     "ObjectiveType": 3,
     "ObjectiveText": "Visit Portland",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        6046.64, 
-        5.88,
-        14835.1
+        6046.64013671875,
+        5.880000114440918,
+        14835.099609375
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Portland",

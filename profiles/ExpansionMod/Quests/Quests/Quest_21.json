@@ -1,4 +1,4 @@
- {
+{
     "ConfigVersion": 21,
     "ID": 21,
     "Type": 1,
@@ -44,7 +44,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
+            "ConfigVersion": 27,
             "ID": 21,
             "ObjectiveType": 4
         }

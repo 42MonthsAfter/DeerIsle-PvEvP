@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 14,
     "ObjectiveType": 3,
     "ObjectiveText": "Visit Oldtown",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        1863.33, 
-        9.19, 
-        9083.02
+        1863.3299560546876,
+        9.1899995803833,
+        9083.01953125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Oldtown",

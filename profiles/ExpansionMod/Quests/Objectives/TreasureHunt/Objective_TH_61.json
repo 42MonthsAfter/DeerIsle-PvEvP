@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 61,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the Stash in Old Town",
@@ -12,28 +12,34 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            1811.84, 
-            9.2025, 
-            9084.49
+            1811.8399658203126,
+            9.202500343322754,
+            9084.490234375
         ],
         [
-            1914.52,
-            9.2025,
-            9039.89
+            1914.52001953125,
+            9.202500343322754,
+            9039.8896484375
         ],
         [
-            2019,  
-            9.19,
-            8984.11
+            2019.0,
+            9.1899995803833,
+            8984.1103515625
         ]
     ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "TWP_ScarDragon",
-            "Attachments": [
-                "TWP_ScarDragon_mag_50Rnd"
-            ],
             "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_ScarDragon_mag_50Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -41,10 +47,14 @@
         },
         {
             "Name": "Rangefinder",
-            "Attachments": [
-                "Battery9V"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -52,10 +62,14 @@
         },
         {
             "Name": "TWP_ScarL",
-            "Attachments": [
-                "TWP_ScarL_mag_30Rnd"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_ScarL_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -63,14 +77,12 @@
         },
         {
             "Name": "WeaponCleaningKit",
-            "Attachments": [],
             "Chance": 0.05000000074505806,
+            "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 0,
-    "MaxDistance": 10.0
+    ]
 }

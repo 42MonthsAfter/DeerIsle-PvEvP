@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 72,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Paris Island",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        2931.95, 
-        22.45, 
-        3545.33
+        2931.949951171875,
+        22.450000762939454,
+        3545.330078125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

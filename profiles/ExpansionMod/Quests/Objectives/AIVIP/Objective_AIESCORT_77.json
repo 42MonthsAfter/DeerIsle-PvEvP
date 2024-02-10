@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 77,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Old Town",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        1864.16,  
-        9.19,
-        9083.38
+        1864.1600341796876,
+        9.1899995803833,
+        9083.3798828125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 65,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the Stash on Area 42",
@@ -12,28 +12,34 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            13589.3,  
-            18.4162,
-            9791.53
+            13589.2998046875,
+            18.416200637817384,
+            9791.5302734375
         ],
         [
-            13345.3,  
-            12.91,
-            9924.66
+            13345.2998046875,
+            12.90999984741211,
+            9924.66015625
         ],
         [
-            13163.9,  
-            12.1457,
-            9818.18
+            13163.900390625,
+            12.145700454711914,
+            9818.1796875
         ]
     ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "TWP_STG58",
-            "Attachments": [
-                "TWP_STG58_mag_20Rnd"
-            ],
             "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_STG58_mag_20Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -41,10 +47,14 @@
         },
         {
             "Name": "Rangefinder",
-            "Attachments": [
-                "Battery9V"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -52,10 +62,14 @@
         },
         {
             "Name": "TWP_Thompson",
-            "Attachments": [
-                "TWP_Thompson_mag_50Rnd"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_Thompson_mag_50Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -63,14 +77,12 @@
         },
         {
             "Name": "WeaponCleaningKit",
-            "Attachments": [],
             "Chance": 0.05000000074505806,
+            "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 0,
-    "MaxDistance": 10.0
+    ]
 }

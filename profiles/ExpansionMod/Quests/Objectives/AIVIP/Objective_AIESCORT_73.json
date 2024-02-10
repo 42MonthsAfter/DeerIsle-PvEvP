@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 73,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Camp Eagle",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        8899.53,  
-        45.9071,
-        3847.66
+        8899.5302734375,
+        45.907100677490237,
+        3847.659912109375
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

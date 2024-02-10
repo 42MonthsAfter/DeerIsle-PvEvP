@@ -44,7 +44,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
+            "ConfigVersion": 27,
             "ID": 73,
             "ObjectiveType": 9
         }

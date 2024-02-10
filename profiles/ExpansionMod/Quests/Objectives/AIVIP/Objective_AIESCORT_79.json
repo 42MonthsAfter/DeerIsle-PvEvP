@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 79,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Power Plant",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        4637.44,  
-        20.57,
-        7070.7
+        4637.43994140625,
+        20.56999969482422,
+        7070.7001953125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

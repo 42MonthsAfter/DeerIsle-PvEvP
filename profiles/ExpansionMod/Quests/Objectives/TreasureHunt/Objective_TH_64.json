@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 64,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the Stash on Prison Island",
@@ -12,28 +12,34 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            5330.92,  
-            34.3575,
-            678.855
+            5330.919921875,
+            34.35749816894531,
+            678.85498046875
         ],
         [
-            5454.43, 
-            34.8525, 
-            712.77
+            5454.43017578125,
+            34.852500915527347,
+            712.77001953125
         ],
         [
-            5575.03, 
-            34.8525, 
-            628.695
+            5575.02978515625,
+            34.852500915527347,
+            628.6950073242188
         ]
     ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "TWP_SR47",
-            "Attachments": [
-                "TWP_SR47_mag_30Rnd"
-            ],
             "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_SR47_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -41,10 +47,14 @@
         },
         {
             "Name": "Rangefinder",
-            "Attachments": [
-                "Battery9V"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -52,10 +62,14 @@
         },
         {
             "Name": "TWP_StenGun",
-            "Attachments": [
-                "TWP_StenGun_mag_32Rnd"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_StenGun_mag_32Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -63,14 +77,12 @@
         },
         {
             "Name": "WeaponCleaningKit",
-            "Attachments": [],
             "Chance": 0.05000000074505806,
+            "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 0,
-    "MaxDistance": 10.0
+    ]
 }

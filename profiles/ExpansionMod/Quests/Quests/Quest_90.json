@@ -44,7 +44,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
+            "ConfigVersion": 27,
             "ID": 90,
             "ObjectiveType": 7
         }
@@ -61,5 +61,4 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 1,
-    "Active": 1
-}
+    "Active": 0

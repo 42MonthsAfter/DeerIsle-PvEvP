@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 17,
     "ObjectiveType": 3,
     "ObjectiveText": "Visit Camp Eagle",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        8840.44,  
-        45.42,
-        3797.07
+        8840.4404296875,
+        45.41999816894531,
+        3797.070068359375
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Camp Eagle",

@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 74,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to RCFI",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        3685.81, 
-        13.7242, 
-        8917.2
+        3685.81005859375,
+        13.724200248718262,
+        8917.2001953125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

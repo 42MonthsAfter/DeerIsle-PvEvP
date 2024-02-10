@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 76,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Area 42",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        13615,  
-        13.0908,
-        10004.9
+        13615.0,
+        13.090800285339356,
+        10004.900390625
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

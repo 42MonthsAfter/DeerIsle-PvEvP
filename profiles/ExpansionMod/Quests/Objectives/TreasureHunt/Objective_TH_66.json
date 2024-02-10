@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 66,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the Stash at the Crater",
@@ -12,28 +12,34 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            13441.7, 
-            50.75, 
-            3258.02
+            13441.7001953125,
+            50.75,
+            3258.02001953125
         ],
         [
-            12253.6, 
-            27.3918, 
-            2256.9
+            12253.599609375,
+            27.391799926757814,
+            2256.89990234375
         ],
         [
-            13004.1,  
-            21.1125,
-            1513.2
+            13004.099609375,
+            21.112499237060548,
+            1513.199951171875
         ]
     ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "TWP_Type64",
-            "Attachments": [
-                "TWP_Type64_mag_20Rnd"
-            ],
             "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_Type64_mag_20Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -41,10 +47,14 @@
         },
         {
             "Name": "Rangefinder",
-            "Attachments": [
-                "Battery9V"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -52,10 +62,14 @@
         },
         {
             "Name": "TWP_Type89",
-            "Attachments": [
-                "TWP_Type89_mag_30Rnd"
-            ],
             "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_Type89_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -63,14 +77,12 @@
         },
         {
             "Name": "WeaponCleaningKit",
-            "Attachments": [],
             "Chance": 0.05000000074505806,
+            "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 0,
-    "MaxDistance": 10.0
+    ]
 }

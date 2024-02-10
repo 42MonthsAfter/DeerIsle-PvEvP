@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 75,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort a survivor to Prison Island",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        5525.24,  
-        34.84,
-        682.65
+        5525.240234375,
+        34.84000015258789,
+        682.6500244140625
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Escort VIP",

@@ -1,33 +1,33 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 84,
     "ObjectiveType": 7,
     "ObjectiveText": "Kill all 4 units of the bandit patrol at the marked location",
     "TimeLimit": -1,
-    "Active": 1,
+    "Active": 0,
     "AISpawn": {
         "NumberOfAI": 4,
         "NPCName": "Quest Target",
         "Waypoints": [
             [
-                2027.37,  
-                9.19,
-                8931.31
+                2027.3699951171876,
+                9.1899995803833,
+                8931.3095703125
             ],
             [
-                2020.01, 
-                9.19, 
-                8829.51
+                2020.010009765625,
+                9.1899995803833,
+                8829.509765625
             ],
             [
-                1839.72,  
-                9.19,
-                8829.51
+                1839.719970703125,
+                9.1899995803833,
+                8829.509765625
             ],
             [
-                1837.76,  
-                9.19,
-                9012.26
+                1837.760009765625,
+                9.1899995803833,
+                9012.259765625
             ]
         ],
         "Behaviour": 2,
