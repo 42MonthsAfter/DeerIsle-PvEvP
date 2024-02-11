@@ -5825,4 +5825,787 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
+    
+	<!-- Flags -->
+  <type name="Expansion_Flag_Expansion">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_White">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Australia">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Canada">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Chernarus">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_France">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Germany">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Latvia">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Luxembourg">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Mexico">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Netherlands">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_NewZealand">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Norway">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Poland">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Russia">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_UK">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_USA">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Scotland">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Scottish">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Sweden">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Spain">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Denmark">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Brazil">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Portugal">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Belgium">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Livonia">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Japan">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_SouthKorea">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_UN">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_NATO">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Pirate">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Chedaki">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_NAPA">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_CDF">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_NuevoRico">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Borduria">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Borduriens">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Biohazard">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_AnyInCherno">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Ireland">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Italy">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Irish">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Whales">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Switzerland">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_SriLanka">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Skilanka">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_SouthAfrica">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Sicily">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_OffWithHead">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Gibraltar">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Gubraltar">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Czechia">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Czech">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Fari">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Fainland">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Finnish">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Argentina">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Turkey">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Ukraine">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_DayZWhite">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_DayZBlack">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_DoubleAxe">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Grenade">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Red">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Blue">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Green">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Yellow">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Orange">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Pink">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Purple">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="Expansion_Flag_Rainbow">
+    <nominal>0</nominal>
+    <lifetime>60800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
 </types>
