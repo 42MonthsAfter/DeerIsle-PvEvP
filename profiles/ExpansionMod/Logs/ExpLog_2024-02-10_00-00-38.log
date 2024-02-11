@@ -1,0 +1,92 @@
+00:01:41.629 [Party] Player "Whytebreed" (id=Bz9YCERKcFLXFZx6APEjb4-0HqG9nEBAeGU2NxpVI08=) joinded the party "Homies" (id=44 ownerUID=twsKA3r59pc3Pjy1yYKVfo8zEIDzB7W5gmjQaKzkIr4= ownerName=Sexy_Beast)
+00:01:41.637 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Bz9YCERKcFLXFZx6APEjb4-0HqG9nEBAeGU2NxpVI08=
+00:01:41.638 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 44
+00:01:41.640 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3185.676514, 22.340000, 4305.525879>
+00:01:42.614 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 44
+00:01:44.982 [Party] Player "Sexy_Beast" (id=twsKA3r59pc3Pjy1yYKVfo8zEIDzB7W5gmjQaKzkIr4=) joinded the party "Homies" (id=44 ownerUID=twsKA3r59pc3Pjy1yYKVfo8zEIDzB7W5gmjQaKzkIr4= ownerName=Sexy_Beast)
+00:01:44.987 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: twsKA3r59pc3Pjy1yYKVfo8zEIDzB7W5gmjQaKzkIr4=
+00:01:44.987 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 44
+00:01:45.975 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 44
+00:01:47.509 [Party] Player "JJSwampbilly" (id=geQtSleUR6hvrIm80vhmE8LaBuFIZSWeSQyBG-f9YdU=) joinded the party "Homies" (id=44 ownerUID=twsKA3r59pc3Pjy1yYKVfo8zEIDzB7W5gmjQaKzkIr4= ownerName=Sexy_Beast)
+00:01:47.514 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: geQtSleUR6hvrIm80vhmE8LaBuFIZSWeSQyBG-f9YdU=
+00:01:47.514 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 44
+00:01:48.499 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 44
+00:01:50.996 [Safezone] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5616.231934, 28.722498, 5375.910156>) Entered the safezone
+00:01:50.998 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:01:51.002 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+00:01:51.003 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 23
+00:01:51.989 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:02:02.246 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+00:02:02.251 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+00:02:02.251 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+00:02:03.217 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+00:02:07.018 [AI Patrol] Spawning 3 Temple Patrol bots at <337.009674, 47.070000, 834.299133>
+00:02:07.034 [AI Patrol] Spawning 3 Temple Patrol bots at <364.450745, 47.070000, 784.340942>
+00:02:07.047 [AI Patrol] Spawning 3 Temple Patrol bots at <409.958282, 55.318298, 698.818542>
+00:02:08.717 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle Interceptor (id=C1B85B95D54F7D5CD8A403B2FA9CD32E pos=<5601.260742, 28.600664, 5357.838867>) as driver
+00:02:13.345 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle Interceptor (Locked) (id=C1B85B95D54F7D5CD8A403B2FA9CD32E pos=<5601.260742, 28.600662, 5357.838867>)
+00:02:41.990 [Safezone] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<5835.606934, 30.774355, 5193.047363>) Left the safezone
+00:02:46.589 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:02:46.597 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:02:46.597 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:02:47.563 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:03:03.780 [AI Patrol] Spawning 3 Paris Island Patrol bots at <2973.594727, 22.450001, 3535.854736>
+00:03:07.692 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7459.498047, 6.662448, 8469.697266>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=F8E39FD247400FA55955C38F3ACBE372 pos=<7462.902344, 6.654764, 8468.619141>)
+00:03:43.364 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle Interceptor (id=C1B85B95D54F7D5CD8A403B2FA9CD32E pos=<5789.671875, 25.734976, 5202.174316>)
+00:04:03.652 [Party] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+00:04:03.666 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+00:04:03.667 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 39
+00:04:04.633 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 39
+00:04:13.636 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle Interceptor (id=C1B85B95D54F7D5CD8A403B2FA9CD32E pos=<5789.671875, 25.734974, 5202.174316>) as driver
+00:04:24.502 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Interceptor (id=C1B85B95D54F7D5CD8A403B2FA9CD32E pos=<5789.671875, 25.734974, 5202.174316>) as passenger
+00:04:43.669 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle Interceptor (id=C1B85B95D54F7D5CD8A403B2FA9CD32E pos=<5789.671875, 25.734976, 5202.174316>)
+00:04:53.483 [VehicleCarKey] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5845.662598, 31.013155, 5199.282715>) used the  ExpansionCarKey to unlock ChevroletCorvette (id=1A0552ABC44F1100383F169487C94139 pos=<5844.089844, 30.879368, 5197.898438>)
+00:05:15.549 [VehicleEnter] Player {BtWF}_Raziel [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle Chevrolet Corvette (id=1A0552ABC44F1100383F169487C94139 pos=<5844.089844, 30.879358, 5197.898438>) as driver
+00:05:18.294 [VehicleEngine] Player {BtWF}_Raziel [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle Chevrolet Corvette (id=1A0552ABC44F1100383F169487C94139 pos=<5844.089844, 30.879368, 5197.898438>)
+00:09:20.187 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7464.256348, 6.662500, 8465.589844>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=F8E39FD247400FA55955C38F3ACBE372 pos=<7462.902344, 6.654764, 8468.619141>)
+00:10:16.597 [VehicleLeave] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Interceptor (id=C1B85B95D54F7D5CD8A403B2FA9CD32E pos=<5518.924805, 73.890671, 3461.103271>)
+00:10:28.278 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle STR_Camaro_Egor134v2_name (id=7FFFC899CF4719F9A66D4A9AC4B7168D pos=<5523.771973, 73.988762, 3465.400391>) as driver
+00:10:29.846 [VehicleEngine] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle STR_Camaro_Egor134v2_name (id=7FFFC899CF4719F9A66D4A9AC4B7168D pos=<5523.772461, 73.988754, 3465.400146>)
+00:11:33.455 [VehicleCover] Player "Whytebreed" (id=Bz9YCERKcFLXFZx6APEjb4-0HqG9nEBAeGU2NxpVI08= pos=<3253.831787, 30.287058, 4739.162598>) uncovered vehicle "HAMMER_H1_rust" (GlobalID=80000000800000008000000080021C7B pos=<3256.140381, 30.319313, 4739.349609>)!
+00:11:58.230 [VehicleCarKey] Player "Sexy_Beast" (id=twsKA3r59pc3Pjy1yYKVfo8zEIDzB7W5gmjQaKzkIr4= pos=<3258.512695, 30.292500, 4739.687500>) used the  ExpansionCarKey to unlock HAMMER_H1_rust (id=A139C6E49D45293C01A6659A4A2A01F8 pos=<3256.140381, 30.319315, 4739.351563>)
+00:12:26.687 [VehicleLeave] Player {BtWF}_Raziel [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle Chevrolet Corvette (id=1A0552ABC44F1100383F169487C94139 pos=<5686.556641, 32.513199, 5254.188477>)
+00:12:38.045 [VehicleDeleted] ChevroletCorvette (id=F1D3E295DB4C71C1F7B2E397D126BFD6 pos=<0.001472, 0.502685, -0.010375>)
+00:12:38.053 [VehicleDeleted] ChevroletCorvette (id=1A0552ABC44F1100383F169487C94139 pos=<5686.556641, 32.513199, 5254.188477>)
+00:12:38.053 [VirtualGarage] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5687.645020, 32.658432, 5257.451172>) stored a vehicle "ChevroletCorvette" (GlobalID=8000000080000000800000008000BEED pos=<5686.556641, 32.513199, 5254.188477>)
+00:12:41.597 [Safezone] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5680.015137, 32.531292, 5263.831543>) Entered the safezone
+00:14:03.005 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 1
+00:14:18.969 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 22
+00:14:26.946 [ATM] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has withdrawn 25000 from his ATM account.
+00:14:35.780 [VehicleCarKey] Player "Whytebreed" (id=Bz9YCERKcFLXFZx6APEjb4-0HqG9nEBAeGU2NxpVI08= pos=<3254.190430, 30.501999, 4740.324707>) used the  ExpansionCarKey to lock HAMMER_H1_rust (id=A139C6E49D45293C01A6659A4A2A01F8 pos=<3256.140381, 30.319315, 4739.351563>)
+00:14:54.674 [VehicleCarKey] Player "Whytebreed" (id=Bz9YCERKcFLXFZx6APEjb4-0HqG9nEBAeGU2NxpVI08= pos=<3256.161133, 30.292500, 4742.029785>) used the  ExpansionCarKey to unlock HAMMER_H1_rust (id=A139C6E49D45293C01A6659A4A2A01F8 pos=<3256.140381, 30.319315, 4739.351563>)
+00:14:55.063 [Market] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase wrench x4 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:14:55.109 [Market] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought wrench x4 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 12.
+00:15:28.498 [Market] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase bloodbagempty x1 from the trader "Medicals (Linda [MEDICAL])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:15:28.574 [Market] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought bloodbagempty x1 from the trader "Medicals (Linda [MEDICAL])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 180.
+00:15:29.340 [Market] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase bloodtestkit x1 from the trader "Medicals (Linda [MEDICAL])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:15:29.427 [Market] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought bloodtestkit x1 from the trader "Medicals (Linda [MEDICAL])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 50.
+00:15:55.746 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 22
+00:16:06.747 [Safezone] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5665.369141, 32.993999, 5266.195313>) Entered the safezone
+00:16:31.049 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 1
+00:16:36.294 [VehicleLeave] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle STR_Camaro_Egor134v2_name (id=7FFFC899CF4719F9A66D4A9AC4B7168D pos=<5601.780273, 28.758055, 5348.648926>)
+00:16:44.178 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer
+00:16:45.749 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 2
+00:16:58.902 [VehicleCarKey] Player "Whytebreed" (id=Bz9YCERKcFLXFZx6APEjb4-0HqG9nEBAeGU2NxpVI08= pos=<3254.749756, 30.289375, 4739.905273>) used the  ExpansionCarKey to lock HAMMER_H1_rust (id=A139C6E49D45293C01A6659A4A2A01F8 pos=<3256.140381, 30.319315, 4739.351563>)
+00:17:03.503 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 2
+00:17:07.698 [ATM] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has withdrawn 10000 from his ATM account.
+00:17:13.953 [ATM] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 24788 on his ATM account.
+00:17:28.600 [ATM] Player {BtWF}_Raziel (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has transfered 69 to the player Capt Chaos (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=).
+00:17:39.234 [Market] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase expansioncarkey x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:17:39.359 [Market] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought expansioncarkey x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 500.
+00:17:46.848 [VehicleDeleted] HAMMER_H1_rust (id=A139C6E49D45293C01A6659A4A2A01F8 pos=<3256.140381, 30.319315, 4739.351563>)
+00:17:46.848 [VehicleCover] Player "Whytebreed" (id=Bz9YCERKcFLXFZx6APEjb4-0HqG9nEBAeGU2NxpVI08= pos=<3253.736572, 30.286842, 4739.990234>) covered vehicle "HAMMER_H1_rust" (GlobalID=80000000800000008000000080021C7B pos=<3256.140381, 30.319315, 4739.351563>)!
+00:17:55.845 [VehicleCarKey] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5603.169922, 28.742289, 5351.478516>) paired a  ExpansionCarKey to Chevrolet_Camaro_Egor134v2 (id=7FFFC899CF4719F9A66D4A9AC4B7168D pos=<5601.779785, 28.758051, 5348.648926>)
+00:17:59.674 [VehicleCarKey] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5603.169922, 28.742289, 5351.478516>) used the  ExpansionCarKey to lock Chevrolet_Camaro_Egor134v2 (id=7FFFC899CF4719F9A66D4A9AC4B7168D pos=<5601.779785, 28.758051, 5348.648926>)
+00:18:16.468 [Safezone] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5614.208984, 28.056015, 5577.270996>) Left the safezone
+00:19:19.382 [Party] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+00:22:09.697 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5666.762695, 28.363695, 5402.445801>) Entered the safezone
+00:22:09.699 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+00:22:09.714 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+00:22:09.714 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 39
+00:22:10.681 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 39
+00:24:06.181 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<8412.102539, 144.086197, 10877.574219>) Left the safezone

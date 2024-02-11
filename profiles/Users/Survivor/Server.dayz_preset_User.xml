@@ -1190,6 +1190,11 @@
     <input name="eAICommandMenu">
         <btn name="kT" />
     </input>
+    <input name="eAISetWaypoint">
+        <btn name="kLControl">
+            <btn name="mBLeft" />
+        </btn>
+    </input>
     <input name="eAITestInput">
         <btn name="kY" />
     </input>

@@ -1,0 +1,35 @@
+18:08:09.589 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5618.622559, 29.020777, 5416.224121>) Entered the safezone
+18:08:09.593 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+18:08:09.593 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:08:09.597 [AI Patrol] Spawning 3 Shamans bots at <4849.531250, 65.798630, 5713.587891>
+18:10:03.945 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 41
+18:10:28.734 [AI Patrol] Spawning 3 Old Town Police Patrol bots at <1898.977051, 10.790872, 8883.977539>
+18:10:39.140 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2706.520508, 23.359409, 9337.716797>) Left the safezone
+18:13:39.617 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5642.650879, 28.693029, 5377.737305>) Entered the safezone
+18:14:00.789 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 41
+18:15:47.859 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<8909.611328, 12.167833, 8674.467773>) Left the safezone
+18:17:21.171 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5649.434082, 28.709999, 5387.563477>) Entered the safezone
+18:17:55.125 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 61
+18:18:17.078 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2015.904053, 9.284118, 9025.788086>) Left the safezone
+18:20:58.734 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) joinded the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)
+18:20:58.742 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=
+18:20:58.742 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 43
+18:20:58.742 [Expansion Quests] - Create new quest instance for quest: 48 - Player UID: pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=
+18:20:59.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 43
+18:21:24.328 [VehicleCarKey] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= pos=<6601.903809, 15.133771, 6542.412109>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=D4B2B296F941B3DA8248589F65FD170A pos=<6601.040527, 15.134905, 6544.412598>)
+18:21:35.781 [AI Patrol] Spawning 3 Temple Patrol bots at <421.747620, 47.070000, 788.236145>
+18:21:35.796 [AI Patrol] Spawning 3 Temple Patrol bots at <400.870605, 47.070000, 849.716248>
+18:21:35.804 [AI Patrol] Spawning 3 Temple Patrol bots at <336.561768, 47.070000, 846.695557>
+18:21:37.484 [VehicleEnter] Player Sarco [uid=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=] entered vehicle ToyotaHilux rust (id=D4B2B296F941B3DA8248589F65FD170A pos=<6601.040039, 15.134923, 6544.416016>) as driver
+18:21:41.351 [VehicleEngine] Player Sarco [uid=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=] started vehicle ToyotaHilux rust (id=D4B2B296F941B3DA8248589F65FD170A pos=<6601.041016, 15.134925, 6544.414551>)
+18:22:25.187 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+18:22:25.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:22:25.187 [Expansion Quests] - Create new quest instance for quest: 61 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+18:22:42.664 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5657.594727, 28.709999, 5403.382813>) Entered the safezone
+18:23:14.453 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Military
+18:25:25.164 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+18:25:25.171 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:25:25.171 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 23
+18:25:26.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+18:27:31.601 [VehicleEngine] Player Sarco [uid=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=] stopped vehicle ToyotaHilux rust (id=D4B2B296F941B3DA8248589F65FD170A pos=<7547.533691, 31.414370, 3567.452148>)
+18:27:38.281 [VehicleLeave] Player Sarco [uid=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=] left vehicle ToyotaHilux rust (id=D4B2B296F941B3DA8248589F65FD170A pos=<7547.534180, 31.414370, 3567.452881>)

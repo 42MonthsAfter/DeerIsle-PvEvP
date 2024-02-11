@@ -79,4 +79,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ModTypes/Collectibles">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="ModTypes/MMG">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>

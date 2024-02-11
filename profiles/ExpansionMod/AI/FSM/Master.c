@@ -201,7 +201,7 @@ class Expansion_Vehicles_Sitting_OpenVehicleDoor_Transition_0: eAITransition {
 	override int Guard() {
 		auto group = unit.GetGroup();
 		if (!group) return FAIL;
-		auto leader = group.GetLeader();
+		auto leader = group.GetFormationLeader();
 		if (leader && leader != unit)
 		{
 			if (group.GetFormationState() != eAIGroupFormationState.IN || leader.GetParent() == unit.GetParent())
@@ -443,18 +443,24 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			{
 				shouldBeMeleeing = true;
 			}
+			float minDist;
 			if (shouldBeMeleeing)
 			{
 				if (fsm.DistanceToTargetSq <= 3.24)
 				wantsRaise = true;
 				else
 				wantsLower = true;
+				auto player = PlayerBase.Cast(targetEntity);
+				if (player && player.IsUnconscious())
+				minDist = 4.0;
+				else
+				minDist = 1.0;
 			}
-			float minDist = 1.0;
-			auto player = PlayerBase.Cast(targetEntity);
-			if (player && player.IsUnconscious())
-			minDist = 4.0;
-			if (targetEntity && !itemTarget && fsm.DistanceToTargetSq <= minDist)
+			else if (!wantsLower)
+			{
+				minDist = 4.0;
+			}
+			if (targetEntity && !itemTarget && (fsm.DistanceToTargetSq <= minDist || unit.eAI_IsUnreachable(fsm.DistanceToTargetSq, minDist, position)))
 			{
 				time += DeltaTime;
 				if (!movementDirection || time > Math.RandomIntInclusive(1, 3))
@@ -626,7 +632,7 @@ class Expansion_Fighting_Melee_State_0: eAIState {
 			return CONTINUE;
 		}
 		auto direction = vector.Direction(unit.GetPosition(), lowPosition).Normalized();
-		if (vector.Dot(unit.GetDirection(), direction) < 0.9)
+		if (vector.Dot(unit.GetDirection(), direction) < 0.9 && !target.info.IsInanimate())
 		{
 			if (time >= Math.RandomIntInclusive(1, 3))
 			{
@@ -674,7 +680,6 @@ class Expansion_Fighting__Melee_Transition_0: eAITransition {
 		// we are targetting an entity?
 		dst.target = unit.GetTarget();
 		if (!dst.target || !dst.target.IsMeleeViable(unit) || dst.target.GetThreat(unit) < 0.4) return FAIL;
-		if (unit.IsBleeding() && unit.GetHealth01("", "Blood") < 0.7) return FAIL;
 		return SUCCESS;
 	}
 	override ExpansionState GetSource() { return src; }
@@ -747,6 +752,10 @@ class Expansion_Fighting__FireWeapon_Transition_0: eAITransition {
 			if (itemTarget.Expansion_CanBeUsedToBandage())
 			return FAIL;
 			if (itemTarget.IsMagazine())
+			return FAIL;
+			if (itemTarget.IsWeapon())
+			return FAIL;
+			if (itemTarget.Expansion_IsMeleeWeapon())
 			return FAIL;
 		}
 		if (unit.IsFighting()) return FAIL;
@@ -854,7 +863,7 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 				if (!unit.eAI_IsSideStepping() && unit.eAI_HasLOS(target))
 				{
 					float distSq = target.GetDistanceSq(unit, true);
-					if (distSq <= 2.25)
+					if (distSq <= 4.0)
 					{
 						float movementDirection;
 						if (Math.RandomIntInclusive(0, 1))
@@ -875,7 +884,7 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 				auto group = unit.GetGroup();
 				if (group)
 				{
-					if (group.GetLeader() != unit)
+					if (group.GetFormationLeader() != unit)
 					position = group.GetFormationPosition(unit);
 					else
 					position = group.GetCurrentWaypoint();
@@ -1086,13 +1095,6 @@ class Expansion_Master_Idle_State_0: eAIState {
 		m_Name = "Idle";
 	}
 	override void OnEntry(string Event, ExpansionState From) {
-		if (!unit.GetTarget())
-		{
-			if (unit.GetLookDirectionRecalculate())
-			unit.LookAtDirection("0 0 1");
-			if (unit.GetAimDirectionRecalculate())
-			unit.AimAtDirection("0 0 1");
-		}
 		auto hands = unit.GetItemInHands();
 		if (hands && hands.HasEnergyManager() && hands.GetCompEM().IsWorking() && hands.GetCompEM().CanSwitchOff())
 		{
@@ -1204,18 +1206,26 @@ class Expansion_Master_TraversingWaypoints_State_0: eAIState {
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
 	}
 	override int OnUpdate(float DeltaTime, int SimulationPrecision) {
-		eAIWaypointBehavior behaviour = unit.GetGroup().GetWaypointBehaviour();
-		if (behaviour == eAIWaypointBehavior.HALT)
-		return EXIT;
 		TVectorArray path = unit.GetGroup().GetWaypoints();
 		if (path.Count() == 0)
 		{
+			unit.Expansion_DeleteDebugObjects();
 			return EXIT;
 			//path = { unit.GetPosition() + unit.GetDirection() * unit.Expansion_GetMovementSpeed() };
 		}
 		index = unit.GetGroup().m_CurrentWaypointIndex;
+		eAIWaypointBehavior behaviour = unit.GetGroup().GetWaypointBehaviour();
+		if (behaviour == eAIWaypointBehavior.HALT)
+		{
+			unit.OverrideTargetPosition(path[index], true);
+			unit.OverrideMovementDirection(false, 0);
+			unit.OverrideMovementSpeed(false, 0);
+			return EXIT;
+		}
+		vector position = unit.GetPosition();
+		position[1] = path[index][1];
 		bool backtracking = unit.GetGroup().m_BackTracking;
-		float distance = vector.DistanceSq(unit.GetPosition(), path[index]);
+		float distance = vector.DistanceSq(position, path[index]);
 		if (distance < threshold)
 		{
 			previousWayPoint = path[index];
@@ -1237,9 +1247,13 @@ class Expansion_Master_TraversingWaypoints_State_0: eAIState {
 				backtracking = false;
 				index = 1;
 			}
-			else
+			else if (behaviour == eAIWaypointBehavior.LOOP)
 			{
 				index = path.Count() - 1;
+			}
+			else
+			{
+				index = 0;
 			}
 		}
 		else if (index == path.Count())
@@ -1253,11 +1267,15 @@ class Expansion_Master_TraversingWaypoints_State_0: eAIState {
 			{
 				index = 0;
 			}
+			else
+			{
+				index = path.Count() - 1;
+			}
 		}
 		index = Math.Clamp(index, 0, path.Count() - 1);
 		bool isFinal;
-		if (behaviour != eAIWaypointBehavior.LOOP)
-		isFinal = index == 0 || index == path.Count() - 1;
+		if (behaviour != eAIWaypointBehavior.LOOP && (index == 0 || index == path.Count() - 1))
+		isFinal = true;
 		unit.OverrideTargetPosition(path[index], isFinal);
 		unit.OverrideMovementDirection(false, 0);
 		unit.OverrideMovementSpeed(false, 0);
@@ -1265,8 +1283,11 @@ class Expansion_Master_TraversingWaypoints_State_0: eAIState {
 		if (path.Count() > 1)
 		{
 			if (previousWayPoint == vector.Zero)
-			previousWayPoint = path[0] - vector.Direction(path[0], path[1]).Normalized();
-			direction = vector.Direction(previousWayPoint, path[index]).Normalized();
+			previousWayPoint = path[0] - vector.Direction(path[0], path[1]);
+			direction = vector.Direction(previousWayPoint, path[index]).VectorToAngles();
+			direction[1] = 0.0;
+			direction[2] = 0.0;
+			direction = direction.AnglesToVector();
 		}
 		else
 		{
@@ -1300,7 +1321,7 @@ class Expansion_Master_Vehicles_State_0: eAIState {
 		if (m_SubFSM.Update(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 		auto group = unit.GetGroup();
 		if (!group) return EXIT;
-		auto leader = group.GetLeader();
+		auto leader = group.GetFormationLeader();
 		//! @note leader can only briefly be null (disconnected/killed).
 		//! We wait until a new leader has been determined (which may be the current unit).
 		if (!leader) return CONTINUE;
@@ -1425,10 +1446,14 @@ class Expansion_Master_TakeItemToHands_State_0: eAIState {
 	override void OnEntry(string Event, ExpansionState From) {
 		EXTrace.Print(EXTrace.AI, unit, "TakeItemToHands " + item.ToString());
 		time = 0;
+		if (unit.GetEmoteManager().IsEmotePlaying())
+		unit.GetEmoteManager().ServerRequestEmoteCancel();
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
 	}
 	override int OnUpdate(float DeltaTime, int SimulationPrecision) {
+		if (unit.GetActionManager().GetRunningAction())
+		return CONTINUE;
 		if (item && unit.GetItemInHands() != item)
 		{
 			if (item.Expansion_IsInventoryLocked())
@@ -1458,10 +1483,14 @@ class Expansion_Master_TakeItemToInventory_State_0: eAIState {
 	override void OnEntry(string Event, ExpansionState From) {
 		EXTrace.Print(EXTrace.AI, unit, "TakeItemToInventory " + item.ToString());
 		time = 0;
+		if (unit.GetEmoteManager().IsEmotePlaying())
+		unit.GetEmoteManager().ServerRequestEmoteCancel();
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
 	}
 	override int OnUpdate(float DeltaTime, int SimulationPrecision) {
+		if (unit.GetActionManager().GetRunningAction())
+		return CONTINUE;
 		if (item && !item.GetHierarchyRootPlayer())
 		{
 			if (item.Expansion_IsInventoryLocked())
@@ -1485,6 +1514,7 @@ class Expansion_Master_Bandaging_Self_State_0: eAIState {
 	ItemBase bandage;
 	float timeout;
 	float time;
+	int bleedingSourceCount;
 	void Expansion_Master_Bandaging_Self_State_0(ExpansionFSM _fsm) {
 		Class.CastTo(fsm, _fsm);
 		m_ClassName = "Expansion_Master_Bandaging_Self_State_0";
@@ -1492,13 +1522,13 @@ class Expansion_Master_Bandaging_Self_State_0: eAIState {
 	}
 	override void OnEntry(string Event, ExpansionState From) {
 		last_bandage_attempt_time = GetGame().GetTime();
+		bleedingSourceCount = unit.GetBleedingSourceCount();
 		time = 0;
 		float effectivity = bandage.GetBandagingEffectivity();
 		if (effectivity > 0)
 		timeout = UATimeSpent.BANDAGE / effectivity + 8.0;
 		else
 		timeout = 16.0;
-		if (unit.IsPlayerInStance(DayZPlayerConstants.STANCEMASK_PRONE | DayZPlayerConstants.STANCEMASK_RAISEDPRONE))
 		unit.OverrideStance(DayZPlayerConstants.STANCEIDX_CROUCH);
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
@@ -1516,6 +1546,11 @@ class Expansion_Master_Bandaging_Self_State_0: eAIState {
 		return CONTINUE;
 		if (unit.GetActionManager().GetRunningAction())
 		{
+			if (unit.GetBleedingSourceCount() != bleedingSourceCount)
+			{
+				bleedingSourceCount = unit.GetBleedingSourceCount();
+				time = 0;
+			}
 			time += DeltaTime;
 			if (time > timeout)  //! Looks like something went terribly wrong
 			{
@@ -1526,7 +1561,7 @@ class Expansion_Master_Bandaging_Self_State_0: eAIState {
 			}
 			return CONTINUE;
 		}
-		else
+		else if (unit.eAI_ShouldBandage())
 		{
 			if (bandage)
 			{
@@ -1645,7 +1680,7 @@ class Expansion_Master__Bandaging_Self_Transition_0: eAITransition {
 	override int Guard() {
 		if (unit.IsFighting()) return FAIL;
 		if (unit.IsRestrained()) return FAIL;
-		if (!unit.IsBleeding()) return FAIL;
+		if (!unit.eAI_ShouldBandage()) return FAIL;
 		if (GetGame().GetTime() - dst.last_bandage_attempt_time < 4000) return FAIL;
 		auto hands = unit.GetItemInHands();
 		if (!hands) return FAIL;
@@ -1719,6 +1754,8 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 		if (unit.IsRestrained()) return FAIL;
 		//! Taking items to hands while raised breaks hands! Wait until lowered
 		if (unit.IsRaised()) return FAIL;
+		if (unit.GetWeaponManager().IsRunning()) return FAIL;
+		if (unit.GetActionManager().GetRunningAction()) return FAIL;
 		ItemBase hands = unit.GetItemInHands();
 		//! If ruined, drop
 		if (hands && hands.IsDamageDestroyed())
@@ -1727,7 +1764,7 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 			hands = null;
 		}
 		//! First check if we want to switch to bandage
-		if (unit.IsBleeding() && (unit.GetThreatToSelf() < 0.4 || (unit.GetHealth01("", "Blood") < 0.7 && GetGame().GetTickTime() - unit.m_eAI_LastHitTime > 10)))
+		if (unit.eAI_ShouldBandage())
 		{
 			if (!hands || !hands.Expansion_CanBeUsedToBandage())
 			{
@@ -1751,7 +1788,7 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 		ItemBase targetItem;
 		if (target && Class.CastTo(targetItem, target.GetEntity()) && (targetItem.IsWeapon() || targetItem.Expansion_IsMeleeWeapon()) && !targetItem.GetHierarchyRootPlayer() && !targetItem.IsSetForDeletion())
 		{
-			if (target.GetDistanceSq(unit, true) < 2.25 && target.GetThreat(unit) > 0.1)
+			if (target.GetDistanceSq(unit, true) <= 4.0 && target.GetThreat(unit) > 0.1 && unit.eAI_HasLOS(target.info))
 			{
 				dst.item = targetItem;
 				return SUCCESS;
@@ -1797,11 +1834,13 @@ class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 		if (unit.IsFighting()) return FAIL;
 		if (unit.IsRestrained()) return FAIL;
 		if (unit.IsRaised()) return FAIL;
+		if (unit.GetWeaponManager().IsRunning()) return FAIL;
+		if (unit.GetActionManager().GetRunningAction()) return FAIL;
 		eAITarget target = unit.GetTarget();
 		ItemBase targetItem;
 		if (!target || !Class.CastTo(targetItem, target.GetEntity()) || targetItem.GetHierarchyRootPlayer() || targetItem.IsSetForDeletion())
 		return FAIL;
-		if (target.GetDistanceSq(unit, true) >= 2.25)
+		if (target.GetDistanceSq(unit, true) > 4.0 || !unit.eAI_HasLOS(target.info))
 		return FAIL;
 		ItemBase hands;
 		InventoryLocation dstLoc;
@@ -1810,7 +1849,7 @@ class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 			//! PREPARE SWAP FROM CURRENT HAND ITEM TO GUN IN INV OR ON GROUND
 			//! If target is gun or magazine (latter means gun w/o ammo is in inventory) and we have melee in hand, prepare swap
 			hands = unit.GetItemInHands();
-			if (hands && hands.Expansion_IsMeleeWeapon())
+			if (hands && (hands.Expansion_IsMeleeWeapon() || hands.Expansion_CanBeUsedToBandage()))
 			{
 				//! Only drop if destroyed, target is gun, or target is mag that fits in inventory, else might take current hand item again...
 				if (hands.IsDamageDestroyed() || targetItem.IsWeapon() || (targetItem.IsMagazine() && !unit.eAI_GetItemThreatOverride(targetItem) && unit.eAI_FindFreeInventoryLocationFor(targetItem, 0, dstLoc)))
@@ -1994,7 +2033,7 @@ class Expansion_Master__Vehicles_Transition_0: eAITransition {
 		auto group = unit.GetGroup();
 		if (!group) return FAIL;
 		if (group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
-		auto leader = group.GetLeader();
+		auto leader = group.GetFormationLeader();
 		if (!leader || leader == unit) return FAIL;
 		if (!leader.IsInTransport()) return FAIL;
 		CarScript car;
@@ -2078,7 +2117,7 @@ class Expansion_Master_Idle_FollowFormation_Transition_0: eAITransition {
 		dst.group = unit.GetGroup();
 		if (!dst.group) return FAIL;
 		if (dst.group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
-		auto leader = dst.group.GetLeader();
+		auto leader = dst.group.GetFormationLeader();
 		if (!leader || leader == unit) return FAIL;
 		return SUCCESS;
 	}
@@ -2101,7 +2140,7 @@ class Expansion_Master_FollowFormation_FollowFormation_Transition_0: eAITransiti
 		dst.group = unit.GetGroup();
 		if (!dst.group) return FAIL;
 		if (dst.group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
-		auto leader = dst.group.GetLeader();
+		auto leader = dst.group.GetFormationLeader();
 		if (!leader || leader == unit) return FAIL;
 		return SUCCESS;
 	}
@@ -2123,9 +2162,11 @@ class Expansion_Master_Idle_TraversingWaypoints_Transition_0: eAITransition {
 		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		auto group = unit.GetGroup();
 		if (!group) return FAIL;
+		if (group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
 		// we are the leader so we traverse the waypoints
-		auto leader = group.GetLeader();
+		auto leader = group.GetFormationLeader();
 		if (leader && leader != unit) return FAIL;
+		if (group.GetWaypoints().Count() == 0) return FAIL;
 		return SUCCESS;
 	}
 	override ExpansionState GetSource() { return src; }
@@ -2146,9 +2187,11 @@ class Expansion_Master_TraversingWaypoints_TraversingWaypoints_Transition_0: eAI
 		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		auto group = unit.GetGroup();
 		if (!group) return FAIL;
+		if (group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
 		// we are the leader so we traverse the waypoints
-		auto leader = group.GetLeader();
+		auto leader = group.GetFormationLeader();
 		if (leader && leader != unit) return FAIL;
+		if (group.GetWaypoints().Count() == 0) return FAIL;
 		return SUCCESS;
 	}
 	override ExpansionState GetSource() { return src; }
@@ -2167,7 +2210,8 @@ class Expansion_Master_TraversingWaypoints_Idle_Transition_0: eAITransition {
 	}
 	override int Guard() {
 		auto group = unit.GetGroup();
-		if (unit.GetThreatToSelf() >= 0.4 || !group || group.GetLeader() != unit) return SUCCESS;
+		if (group.GetFormationState() != eAIGroupFormationState.IN) return SUCCESS;
+		if (unit.GetThreatToSelf() >= 0.4 || !group || group.GetFormationLeader() != unit || group.GetWaypoints().Count() == 0) return SUCCESS;
 		return FAIL;
 	}
 	override ExpansionState GetSource() { return src; }
@@ -2186,7 +2230,7 @@ class Expansion_Master_FollowFormation_Idle_Transition_0: eAITransition {
 	}
 	override int Guard() {
 		auto group = unit.GetGroup();
-		if (!group || group.GetLeader() == unit || group.GetFormationState() != eAIGroupFormationState.IN) return SUCCESS;
+		if (!group || group.GetFormationLeader() == unit || group.GetFormationState() != eAIGroupFormationState.IN) return SUCCESS;
 		if (unit.GetThreatToSelf() >= 0.4) return SUCCESS;
 		return FAIL;
 	}

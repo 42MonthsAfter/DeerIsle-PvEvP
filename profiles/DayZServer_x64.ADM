@@ -1,92 +1,88 @@
 
 
 ******************************************************************************
-AdminLog started on 2024-02-08 at 21:08:45
-21:11:06 | Player "[Admin] Bunker" is connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
-21:11:23 | Player "Lou Sassole" is connected (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
-21:11:48 | Player "Captain Sodomy" is connected (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)
-21:12:10 | [COT] 76561198036774377: Teleported to position <5644.443359, 28.678007, 5379.671875>
-21:12:19 | [COT] 76561198036774377: Set rain to 0 0 0
-21:12:19 | [COT] 76561198036774377: Set storm to 0 0.8 4000
-21:12:19 | [COT] 76561198036774377: Set fog to 0 0 0
-21:12:19 | [COT] 76561198036774377: Set overcast to 0.103251 0 0
-21:12:19 | [COT] 76561198036774377: Set the date to 2024/10/15 6:14
-21:12:19 | [COT] 76561198036774377: Set wind to 12.1273 12.1273 1
-21:12:32 | Player "OrdepRoinuj" is connected (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)
-21:13:30 | Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<9762.9, 4339.4, 6.1>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
-21:22:03 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167dfc60>, 100, 5, 0) at <5636.479492, 29.285004, 5400.037109>
-21:22:03 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167dce20>, 100, 5, 0) at <5636.478516, 29.338800, 5400.032715>
-21:22:04 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167e1f10>, 100, 5, 0) at <5636.476563, 29.397043, 5400.027344>
-21:22:04 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167df0d0>, 100, 5, 0) at <5636.474121, 29.455286, 5400.020996>
-21:22:04 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<167db700>, 100, 5, 0) at <5636.471191, 29.513529, 5400.014160>
-21:23:01 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ANYONE ELSE HAVE EAT THE VITAMINS QUEST ACTIVE?
-21:23:08 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): sorry caps lol
-21:23:31 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): quests?
-21:23:33 | [Chat - Global]("OrdepRoinuj"(id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)): not me
-21:23:46 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yes come to holler. we have quests now
-21:23:56 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): oh nice
-21:24:16 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya one of them is kill 4 bandits and the reward is a beowulf
-21:41:35 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ordep can you give me a push? ended up high centered cause opf lag lol
-21:46:26 | [COT] 76561198036774377: Set GodMode To true [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:46:27 | [COT] 76561198036774377: Set Invisibility To 1 [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:46:29 | [COT] 76561198036774377: Set Invisibility To 0 [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:46:31 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:46:31 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:47:10 | [COT] 76561198036774377: Teleported to position <2628.812988, 22.562180, 4989.627930>
-21:48:39 | [COT] 76561198036774377: Set GodMode To false [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:48:42 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2541.8, 4227.0, 22.6>)[HP: 85.75] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2542.0, 4226.0, 22.6>) into Torso(41) for 14.25 damage (MeleeFist_Heavy)
-21:48:46 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2546.3, 4227.6, 22.6>)[HP: 65.84] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2542.1, 4228.7, 22.6>) into Torso(25) for 20 damage (Bullet_22) with MK II from 4.40494 meters 
-21:48:47 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.3, 4227.5, 22.6>)[HP: 45.9301] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2542.2, 4229.3, 22.6>) into Torso(31) for 20 damage (Bullet_22) with MK II from 6.3373 meters 
-21:48:49 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2547.8, 4227.5, 22.6>)[HP: 25.9301] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2544.3, 4230.1, 22.6>) into Torso(32) for 20 damage (Bullet_22) with MK II from 4.3967 meters 
-21:48:49 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2547.6, 4226.7, 22.6>)[HP: 5.93005] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2544.4, 4230.2, 22.6>) into Torso(19) for 20 damage (Bullet_22) with MK II from 4.75494 meters 
-21:48:49 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2547.4, 4226.2, 22.6>) is unconscious
-21:48:55 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4226.1, 22.6>) regained consciousness
-21:48:57 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:49:00 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 80] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.5, 4220.8, 22.6>) into Torso(32) for 20 damage (Bullet_22) with MK II from 6.30545 meters 
-21:49:01 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 60] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.3, 4220.6, 22.6>) into Torso(1) for 20 damage (Bullet_22) with MK II from 6.31316 meters 
-21:49:01 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 40] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.2, 4220.5, 22.6>) into Torso(1) for 20 damage (Bullet_22) with MK II from 6.31741 meters 
-21:49:01 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>)[HP: 20] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2552.1, 4220.4, 22.6>) into Torso(25) for 20 damage (Bullet_22) with MK II from 6.32203 meters 
-21:49:02 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.2, 4225.4, 22.6>) is unconscious
-21:49:08 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:49:08 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.3, 4226.2, 22.6>) regained consciousness
-21:49:13 | Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2548.3, 4225.6, 22.7>)[HP: 80] hit by AI "Quest Target" (group="" faction="Shamans" pos=<2559.3, 4216.2, 22.4>) into Torso(32) for 20 damage (Bullet_22) with MK II from 14.5321 meters 
-21:49:25 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:49:26 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:49:26 | [COT] 76561198036774377: Healed [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
-21:49:53 | [COT] 76561198036774377: Teleported to position <5630.444336, 28.709999, 5416.634766>
-21:59:20 | Player "[Admin] Bunker"(id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has been disconnected
-22:02:47 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): my god the ai are relentless. chased me down shooting at me while i am just minding my own business driving past a heli crash lol
-22:03:02 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): haha love that shit
-22:03:38 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): man i looked back and i could see them chasing me down the road like wtf give up already lol
-22:04:13 | Player "[Admin] Bunker" is connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
-22:05:29 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): sucks when you buy the merlin it doesnt come with wheels 
-22:06:04 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): for real? put a ticket in cause i bought a boat and it didn't come with the glow plug but they are fixing that lol
-22:06:32 | [Chat - Global]("Captain Sodomy"(id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)): the motorhome comes with a car battery but it takes a truck battery
-22:06:40 | [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): strange lol
-22:06:42 | [COT] 76561198036774377: Spawned Entity Pumpkin Seeds (PumpkinSeeds<3d2d1620>, 20, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:42 | [COT] 76561198036774377: Spawned Entity Pumpkin Seeds (PumpkinSeeds<3d2d21b0>, 20, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:43 | [COT] 76561198036774377: Spawned Entity Pumpkin Seeds (PumpkinSeeds<3d2cd0c0>, 20, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:43 | [COT] 76561198036774377: Spawned Entity Pumpkin Seeds (PumpkinSeeds<3d2da0e0>, 20, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:43 | [COT] 76561198036774377: Spawned Entity Pumpkin Seeds (PumpkinSeeds<3d2ddab0>, 20, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:44 | [COT] 76561198036774377: Spawned Entity Pumpkin Seeds (PumpkinSeeds<3d2d72a0>, 20, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:54 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<3d2e42c0>, 100, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:55 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<a42fd140>, 100, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:55 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<a4302230>, 100, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:55 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<a4305070>, 100, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:55 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<a42fff80>, 100, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:06:55 | [COT] 76561198036774377: Spawned Entity Packed Pumpkin Seeds (PumpkinSeedsPack<a4308a40>, 100, 5, 0) at <5636.341797, 29.285002, 5400.362793>
-22:07:34 | [COT] 76561198036774377: Spawned Entity Wrench (Wrench<fb7e0310>, 100, 100, 0) at <5636.341797, 29.285002, 5400.362793>
-22:07:34 | [COT] 76561198036774377: Spawned Entity Wrench (Wrench<fb7e6b20>, 100, 100, 0) at <5636.341797, 29.285002, 5400.362793>
-22:07:35 | [COT] 76561198036774377: Spawned Entity Wrench (Wrench<fb7e76b0>, 100, 100, 0) at <5636.341797, 29.285002, 5400.362793>
-22:07:35 | [COT] 76561198036774377: Spawned Entity Wrench (Wrench<fb7e8240>, 100, 100, 0) at <5636.341797, 29.285002, 5400.362793>
-22:07:35 | [COT] 76561198036774377: Spawned Entity Wrench (Wrench<fb7e25c0>, 100, 100, 0) at <5636.341797, 29.285002, 5400.362793>
-22:39:37 | Player "Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has been disconnected
-22:45:02 | Player "Capt Chaos" is connected (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)
-22:51:30 | Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10287.3, 11927, 3.3>)[HP: 100] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
-22:54:40 | Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10007.5, 11859.8, 7.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
-22:54:41 | Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10010.5, 11861.7, 7.7>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
-22:54:43 | Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10014, 11863.7, 7.8>)[HP: 99.4475] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
-22:54:46 | Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10017.6, 11864.8, 7.8>)[HP: 99.5325] hit by Infected into Block(-1) for 0 damage 
-22:54:47 | Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10021.6, 11865.9, 7.8>)[HP: 99.6176] hit by Infected into Block(-1) for 0 damage 
-22:58:37 | Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9969.8, 11259.7, 20.2>)[HP: 98.6188] hit by Infected into Torso(1) for 1.38125 damage (MeleeInfected)
-23:01:11 | Player "OrdepRoinuj"(id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has been disconnected
+AdminLog started on 2024-02-11 at 06:00:11
+06:01:57 | Player "brailsford40" is connected (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)
+06:03:12 | Player "brailsford40"(id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) has been disconnected
+06:09:08 | Player "Sarco" is connected (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=)
+06:25:09 | Player "Sarco"(id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) has been disconnected
+06:44:39 | Player "Jasper"(id=Unknown) has been disconnected
+06:46:56 | Player "Jasper" is connected (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=)
+07:02:13 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7080.1, 5439.6, 7.8>)[HP: 98.6188] hit by Infected into Torso(1) for 1.38125 damage (MeleeInfected)
+07:02:14 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7081.0, 5439.2, 7.8>)[HP: 97.8962] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+07:02:58 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7093.6, 5451.9, 8.4>)[HP: 97.8654] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+07:02:59 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7091.1, 5450.8, 8.4>)[HP: 96.4842] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+07:03:01 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7090.0, 5449.2, 8.3>)[HP: 95.1929] hit by Infected into Torso(1) for 1.38125 damage (MeleeInfected)
+07:03:05 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7095.7, 5436.4, 7.3>)[HP: 94.7305] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+07:04:57 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7097.6, 5369.5, 2.6>)[HP: 96.7702] hit by Infected into Torso(1) for 1.38125 damage (MeleeInfected)
+07:07:43 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7130.3, 5282.6, 2.6>)[HP: 98.6188] hit by Infected into Torso(1) for 1.38125 damage (MeleeInfected)
+07:07:44 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7131.6, 5281.5, 2.6>)[HP: 96.8125] hit by Infected into RightLeg(3) for 7.225 damage (MeleeInfectedLong)
+07:07:47 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7133.1, 5279.7, 2.6>)[HP: 95.5213] hit by Infected into Torso(1) for 1.38125 damage (MeleeInfected)
+07:07:52 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7129.1, 5278.6, 2.7>)[HP: 94.3201] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+07:08:20 | Player "Jasper"(id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) has been disconnected
+07:10:29 | Player "Mansbridge" is connected (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=)
+07:12:47 | Player "Jasper" is connected (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=)
+07:22:07 | Player "tearsofdawn1066" is connected (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)
+07:30:53 | Player "Stahlhelm Sturm" is connected (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=)
+07:46:15 | Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5746.7, 3233.1, 74.3>)[HP: 98.1937] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+07:47:23 | Player "OrdepRoinuj" is connected (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)
+07:51:41 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<11290.9, 10048.7, 14.8>)[HP: 97.9812] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+07:51:42 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<11289.1, 10050.2, 14.8>)[HP: 89.9063] hit by Infected into Torso(1) for 8.075 damage (MeleeSoldierInfected)
+07:56:25 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<11390.2, 10024, 16.2>)[HP: 90.2941] hit by Infected into Torso(1) for 8.075 damage (MeleeSoldierInfected)
+07:56:26 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<11389.7, 10023.8, 16.2>)[HP: 79.9341] hit by Infected into Torso(1) for 10.45 damage (MeleeSoldierInfectedLong)
+07:56:29 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<11390.2, 10021.6, 16.2>)[HP: 71.8591] hit by Infected into Torso(1) for 8.075 damage (MeleeSoldierInfected)
+08:03:34 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<11129.5, 10230.4, 5.3>)[HP: 80.1244] hit by Infected into RightLeg(3) for 8.075 damage (MeleeSoldierInfected)
+08:13:50 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<10926, 10346.8, 5.5>)[HP: 90.505] hit by Infected into Torso(1) for 8.075 damage (MeleeSoldierInfected)
+08:14:51 | Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<10908.3, 10304.1, 5.6>)[HP: 91.7781] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+08:22:32 | Player "OrdepRoinuj"(id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has been disconnected
+08:24:20 | Player "Stahlhelm Sturm"(id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has been disconnected
+08:40:17 | Player "OrdepRoinuj" is connected (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)
+08:51:06 | Player "Delgo" is connected (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=)
+08:52:56 | Player "[NBY2] grenfell" is connected (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=)
+08:56:06 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5826.9, 5798.4, 102.9>)[HP: 90.2985] hit by AI "Linda" (group="" faction="Shamans" pos=<5862.6, 5893.8, 109.1>) into LeftLeg(10) for 38.8061 damage (Bullet_380) with Bizon from 102.043 meters 
+08:56:55 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5786.4, 5765.3, 62.3>)[HP: 90.9934] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+08:57:25 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5777.5, 5754.6, 52.9>)[HP: 89.996] hit by Infected into Torso(1) for 1.80625 damage (MeleeSoldierInfected)
+08:57:36 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5776.8, 5751.9, 52.7>)[HP: 89.5167] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+08:57:37 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5776.5, 5751.2, 52.7>)[HP: 88.6628] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+08:57:44 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5775.8, 5748.6, 52.5>)[HP: 88.1015] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+08:57:46 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5775.5, 5747.4, 52.5>)[HP: 87.4581] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+08:57:49 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5773.9, 5746.5, 50.8>)[HP: 85.7298] hit by Infected into Torso(1) for 1.80625 damage (MeleeSoldierInfected)
+08:57:49 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5773.5, 5746.2, 50.5>)[HP: 85.0073] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+08:57:50 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5772.8, 5746.1, 49.7>)[HP: 82.6698] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+08:57:51 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5771.8, 5746.0, 48.6>)[HP: 80.8635] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+08:57:52 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5771.4, 5746.3, 48.1>)[HP: 79.0573] hit by Infected into Torso(1) for 1.80625 damage (MeleeSoldierInfected)
+08:57:54 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5771.1, 5745.7, 48.0>)[HP: 77.3279] hit by Infected into Torso(1) for 1.80625 damage (MeleeSoldierInfected)
+08:57:55 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5770.3, 5745.6, 47.1>)[HP: 76.6054] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+08:57:55 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5770.2, 5745.6, 47.0>)[HP: 75.6704] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+08:57:56 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5769.8, 5745.5, 46.6>)[HP: 73.4088] hit by Infected into Torso(1) for 2.3375 damage (MeleeSoldierInfectedLong)
+08:57:56 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5769.6, 5745.5, 46.5>)[HP: 72.6863] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+08:57:58 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5769.2, 5745.3, 46.0>)[HP: 70.3488] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+08:57:58 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5769.0, 5745.3, 45.8>) is unconscious
+08:57:59 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5769, 5746.4, 45.5>)[HP: 69.7011] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+08:57:59 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5769.0, 5746.8, 45.4>)[HP: 67.8949] hit by Infected into Torso(1) for 1.80625 damage (MeleeSoldierInfected)
+08:58:06 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5770.5, 5746.8, 46.9>)[HP: 67.6163] hit by Infected into RightArm(17) for 4.25 damage (MeleeZombie)
+08:58:57 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<5771.1, 5747.0, 47.4>) regained consciousness
+09:01:13 | Player "Mansbridge"(id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has been disconnected
+09:11:54 | Player "tearsofdawn1066"(id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) has been disconnected
+09:14:23 | Player "brailsford40" is connected (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)
+09:20:50 | Chat("Delgo"(id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=)): where do we park helicopters?
+09:21:15 | [Chat - Global]("Delgo"(id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=)): where do we park helos?
+09:22:01 | [Chat - Global]("brailsford40"(id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)): just lock them you can ude the garrage if you want
+09:22:15 | [Chat - Global]("OrdepRoinuj"(id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)): i guess you can cover vith canno net
+09:22:32 | [Chat - Global]("brailsford40"(id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)): no como net fits
+09:22:43 | [Chat - Global]("OrdepRoinuj"(id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)): only in cars?
+09:22:50 | [Chat - Global]("brailsford40"(id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)): yea
+09:22:58 | [Chat - Global]("OrdepRoinuj"(id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=)): ah...good to know
+09:23:19 | [Chat - Global]("brailsford40"(id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)): just remember to lock it ,or free for the taking
+09:32:29 | Player "tearsofdawn1066" is connected (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)
+09:32:53 | Player "Delgo" (id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg= pos=<5992.1, 5609.3, 161.4>)[HP: 89.8577] hit by AI "Helga" (group="" faction="Shamans" pos=<5935.4, 5562.2, 134.8>) into RightLeg(4) for 40.5693 damage (Bullet_380) with Bizon from 78.3072 meters 
+09:35:01 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7925.6, 4232.6, 6.0>)[HP: 99.15] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+09:42:41 | [Chat - Global]("Delgo"(id=jaPCBpN1nUBe4Uv5JA2Nr4WwX4PD-EFUIf5Lecl7DBg=)): great cheers 
+09:45:47 | Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI= pos=<7285.7, 4648.7, 38.2>)[HP: 99.15] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+09:46:57 | Player "{BtWF}_Raziel" is connected (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)
+09:58:10 | Player "[NBY2] grenfell"(id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=) has been disconnected
+10:01:27 | Player "[NBY2] grenfell" is connected (id=vnjWBbRwLkW1bumrD-dNL7nkbY0k6-v-jypFGiunjXE=)
+10:11:48 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7448.5, 8470.4, 6.6>)[HP: 99.7238] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+10:11:51 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7444.2, 8474.6, 6.6>)[HP: 99.5375] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+10:11:54 | Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7445.3, 8480.1, 6.6>)[HP: 98.9369] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+10:22:28 | Player "tearsofdawn1066" (DEAD) (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= pos=<6186.3, 6207.0, 15.4>) died. Stats> Water: 869.615 Energy: 1873.65 Bleed sources: 0

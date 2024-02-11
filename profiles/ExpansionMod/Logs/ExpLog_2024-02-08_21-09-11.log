@@ -385,3 +385,65 @@
 23:07:59.070 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<9286.985352, 16.288212, 10889.609375>)
 23:10:16.328 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<9286.984375, 16.288214, 10889.609375>) as driver
 23:10:18.492 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<9286.985352, 16.288212, 10889.609375>)
+23:13:00.468 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8863.024414, 2.462670, 12085.244141>)
+23:24:24.585 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to purchase interceptor x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:24:24.671 [VehicleDeleted] Interceptor (id=DF97A5070946AC82C959C9AEDD926081 pos=<0.005533, 0.635597, -0.120973>)
+23:24:24.679 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has bought interceptor x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 61550.
+23:25:28.250 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to sell interceptor x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:25:28.312 [VehicleDeleted] Interceptor (id=7E2EE166134D02C1B445D18FD0C2167B pos=<5601.271484, 28.485249, 5357.826172>)
+23:25:28.312 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has sold interceptor x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 46161.
+23:25:34.804 [VehicleCarKey] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8716.965820, 5.733685, 12084.636719>) used the  ExpansionCarKey to unlock Expansion_Landrover_Blue (id=60261F3BF54AD9F27454C6BE2CD53F61 pos=<8714.674805, 5.662937, 12085.822266>)
+23:25:42.812 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to purchase azlk_rust x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:25:42.875 [VehicleDeleted] AZLK_rust (id=71EFAB55F4481F50FC668CAD45440032 pos=<0.002641, 0.486728, -0.310961>)
+23:25:42.882 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has bought azlk_rust x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 39300.
+23:25:56.984 [VehicleCarKey] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8716.965820, 5.733685, 12084.636719>) used the  ExpansionCarKey to lock Expansion_Landrover_Blue (id=60261F3BF54AD9F27454C6BE2CD53F61 pos=<8714.674805, 5.662937, 12085.822266>)
+23:26:10.968 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5625.088379, 32.332108, 5341.179688>) Entered the safezone
+23:26:10.976 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+23:26:10.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:27:36.968 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5703.288086, 29.935368, 5235.477051>) Left the safezone
+23:28:08.750 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to sell azlk_rust x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:28:08.812 [VehicleDeleted] AZLK_rust (id=88388634684D55E3ABEC7EABADBF81DD pos=<5601.250000, 28.587601, 5357.652832>)
+23:28:08.812 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has sold azlk_rust x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 29472.
+23:28:48.617 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5672.294922, 32.390381, 5262.385254>) Entered the safezone
+23:30:00.625 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to purchase expansiongyrocopter x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:30:00.718 [VehicleDeleted] ExpansionGyrocopter (id=899CCA2DC24B501A1B319BA77ADE4264 pos=<-0.000894, 0.401785, 0.034805>)
+23:30:00.718 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has bought expansiongyrocopter x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 812600.
+23:30:14.382 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to sell expansiongyrocopter x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:30:14.445 [VehicleDeleted] ExpansionGyrocopter (id=0BD05BC3424111ED5943CCA78C1C0F54 pos=<5611.097656, 28.813740, 5352.775391>)
+23:30:14.453 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has sold expansiongyrocopter x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 609450.
+23:30:55.539 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8863.024414, 2.462669, 12085.244141>) as driver
+23:30:57.195 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8863.024414, 2.462670, 12085.244141>)
+23:31:29.781 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to purchase expansionmerlin x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:31:29.859 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has bought expansionmerlin x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3013800.
+23:32:24.117 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8731.985352, 4.426594, 12062.771484>)
+23:32:39.851 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to sell expansionmerlin x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:32:39.921 [VehicleDeleted] ExpansionMerlin (id=A089616EA848E383C9684E8F8D9E62F5 pos=<5611.175293, 28.591684, 5356.352539>)
+23:32:39.937 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has sold expansionmerlin x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 2260350.
+23:32:44.695 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= for quest 51
+23:32:49.789 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to purchase expansionmh6 x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:32:49.851 [VehicleDeleted] ExpansionMh6 (id=716C040A0443D39132E7C6960E379BB3 pos=<0.000861, 1.692845, 0.535123>)
+23:32:49.867 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has bought expansionmh6 x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 2513800.
+23:32:50.976 [Expansion Quests] - CancelQuestServer - Player with UID QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= has cancelled quest 51
+23:32:59.562 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to sell expansionmh6 x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+23:32:59.656 [VehicleDeleted] ExpansionMh6 (id=932FD7D1B3434FD1CB2FFDBDA8FDD392 pos=<5611.136230, 28.815214, 5353.278320>)
+23:32:59.664 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has sold expansionmh6 x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1885350.
+23:33:10.906 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8731.985352, 4.426603, 12062.771484>) as driver
+23:33:28.226 [ATM] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has deposited 2389733 on his ATM account.
+23:33:31.898 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= for quest 81
+23:33:42.992 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8743.365234, 5.875392, 12083.495117>)
+23:33:52.085 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 81
+23:34:10.781 [Expansion Quests] - CancelQuestServer - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has cancelled quest 81
+23:34:44.578 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8743.365234, 5.875391, 12083.495117>) as driver
+23:34:45.906 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8743.365234, 5.875393, 12083.495117>)
+23:34:54.750 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8737.418945, 5.874794, 12083.679688>)
+23:35:03.765 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5685.587891, 32.792561, 5243.250488>) Left the safezone
+23:36:30.031 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 71
+23:42:51.492 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5645.611816, 28.722498, 5403.972656>) Entered the safezone
+23:42:51.492 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+23:42:51.507 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+23:42:51.507 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+23:42:52.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+23:49:18.562 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5702.271973, 29.409462, 5219.162109>) Left the safezone
+23:57:31.765 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+23:59:15.007 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+23:59:15.015 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)

@@ -1,0 +1,322 @@
+00:01:22.460 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+00:01:22.460 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:01:22.460 [Expansion Quests] - Create new quest instance for quest: 81 - Player UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+00:01:29.300 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:01:29.305 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:29.305 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 23
+00:01:30.275 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:01:32.578 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:01:32.583 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+00:01:32.583 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:01:33.545 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:01:35.095 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+00:01:35.100 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:01:35.100 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:01:36.065 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+00:04:17.028 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5648.191406, 28.722496, 5403.294922>) Entered the safezone
+00:04:17.038 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:04:17.038 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:06:09.331 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 68
+00:06:12.815 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3088.350342, 22.450001, 4206.640137>
+00:06:43.227 [Expansion Quests] - CancelQuestServer - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has cancelled quest 68
+00:07:02.076 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6205.408203, 31.562498, 2198.367676>) uncovered vehicle "SCOUT_Veh" (GlobalID=8000000080000000800000008000D9F6 pos=<6203.226074, 31.539448, 2198.972900>)!
+00:08:12.487 [VehicleDeleted] SCOUT_Veh (id=1D41B558764736C4DABE409DA2B9C2DB pos=<6203.226074, 31.539448, 2198.972900>)
+00:08:12.488 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6204.786133, 31.562494, 2195.997803>) covered vehicle "SCOUT_Veh" (GlobalID=8000000080000000800000008000D9F6 pos=<6203.226074, 31.539448, 2198.972900>)!
+00:10:02.569 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 9
+00:10:12.267 [Expansion Quests] - CancelQuestServer - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has cancelled quest 9
+00:16:25.263 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Medical
+00:16:29.980 [AI Patrol] Spawning 3 Shamans bots at <7518.211914, 47.185661, 2089.784668>
+00:23:12.034 [AI Patrol] Spawning 3 Prison Island Patrol bots at <5496.536133, 14.197513, 785.805298>
+00:28:15.487 [AI Patrol] Spawning 3 Paris Island Patrol bots at <3029.931396, 24.505022, 3637.087402>
+00:29:13.287 [AI Patrol] Spawning 4 Shamans bots at <2528.179932, 22.629601, 4186.100098>
+00:29:55.427 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5166.206055, 18.535196, 666.885620>) uncovered vehicle "ToyotaHilux_rust" (GlobalID=8000000080000000800000008001D238 pos=<5163.289551, 18.087345, 664.931885>)!
+00:30:08.470 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5165.106934, 18.460327, 664.992920>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<5163.285156, 18.086653, 664.929260>)
+00:30:20.473 [AI Patrol] Spawning 3 Temple Patrol bots at <466.653107, 55.318100, 758.872742>
+00:30:20.484 [AI Patrol] Spawning 3 Temple Patrol bots at <443.732758, 47.070000, 759.363159>
+00:30:20.494 [AI Patrol] Spawning 3 Temple Patrol bots at <418.187134, 47.070000, 835.330627>
+00:30:22.182 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle ToyotaHilux rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<5163.284668, 18.086649, 664.926880>) as driver
+00:30:25.053 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle ToyotaHilux rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<5163.282715, 18.086376, 664.925293>)
+00:38:13.513 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle ToyotaHilux rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<6652.725586, 15.095587, 6322.564453>)
+00:38:26.877 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle ToyotaHilux rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<6652.723633, 15.094761, 6322.564453>) as driver
+00:38:29.645 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle ToyotaHilux rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<6652.726563, 15.094746, 6322.564453>)
+00:38:36.942 [VehicleCover] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8735.852539, 5.696235, 12080.200195>) uncovered vehicle "M35a2_Rust" (GlobalID=8000000080000000800000008000F36C pos=<8739.168945, 5.660614, 12079.926758>)!
+00:39:37.088 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4698.892578, 20.430000, 6968.967773>
+00:41:21.063 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5662.591309, 29.797516, 5516.775879>) Entered the safezone
+00:41:38.583 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle ToyotaHilux rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<5595.692871, 28.714760, 5362.770508>)
+00:41:42.047 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle ToyotaHilux rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<5595.690430, 28.714743, 5362.769043>)
+00:41:53.285 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached Car Battery (type=CarBattery) from vehicle ToyotaHilux rust(id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<5595.690430, 28.714741, 5362.768066>)
+00:42:04.842 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to sell toyotahilux_rust x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:42:05.023 [VehicleDeleted] ToyotaHilux_rust (id=4D4EC06C3D45232E7DCC6E9C0D9D9608 pos=<5595.690430, 28.714741, 5362.768066>)
+00:42:05.025 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has sold toyotahilux_rust x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 17283.
+00:42:48.001 [ATM] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has deposited 17283 on his ATM account.
+00:43:42.566 [VehicleDeleted] ExpansionMh6_Speedy (id=4D718753CF4F4140A4E1579DB51A94DB pos=<0.000861, 1.692845, 0.535123>)
+00:43:42.587 [VirtualGarage] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5687.434082, 32.632618, 5256.534668>) retrieved a vehicle "ExpansionMh6_Speedy" (GlobalID=800000008000000080000000800196E6 pos=<5679.458496, 32.905174, 5249.128418>)
+00:43:47.645 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5680.184082, 33.070599, 5247.387207>) Left the safezone
+00:43:49.507 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<5679.458984, 32.905128, 5249.128906>) as pilot
+00:43:54.876 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<5679.458984, 32.905113, 5249.128906>)
+00:44:05.153 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<5679.458008, 32.905079, 5249.129395>) as pilot
+00:44:10.966 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<5679.457520, 32.905064, 5249.129395>)
+00:46:39.142 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<5679.456543, 32.905029, 5249.130371>) as pilot
+00:46:42.235 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<5679.456055, 32.904957, 5249.130371>)
+00:47:03.380 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5687.276855, 91.185135, 5266.822266>) Entered the safezone
+00:47:18.353 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<5812.950684, 116.387321, 4946.321777>) Left the safezone
+00:51:19.188 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<6144.423828, 33.763680, 2335.596436>)
+00:52:04.493 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<6142.865723, 31.607626, 2336.150391>)
+00:54:15.988 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<6142.866211, 31.608208, 2336.150146>) as pilot
+00:54:18.039 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<6142.865723, 31.607700, 2336.150391>)
+01:00:27.540 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5678.780762, 32.488281, 5263.918945>) Entered the safezone
+01:00:36.520 [VehicleCover] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8741.216797, 22.877132, 12107.135742>) uncovered vehicle "ExpansionUh1h" (GlobalID=800000008000000080000000800137E1 pos=<8743.757813, 22.495731, 12113.435547>)!
+01:01:18.920 [VehicleDeleted] MotorHome_rust (id=90AB6B2B464F299C1D1C35A29E64A775 pos=<8737.418945, 5.874795, 12083.679688>)
+01:01:18.920 [VehicleCover] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8731.875977, 5.695763, 12083.167969>) covered vehicle "MotorHome_rust" (GlobalID=8000000080000000800000008001A6C2 pos=<8737.418945, 5.874795, 12083.679688>)!
+01:01:26.428 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.664063, 42.812492, 11329.296875>)
+01:01:32.538 [VehicleDeleted] M35a2_Rust (id=B7B2E5519B4194D31C7703A22FAD3573 pos=<8739.168945, 5.660614, 12079.926758>)
+01:01:32.538 [VehicleCover] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8734.689453, 5.735565, 12079.235352>) covered vehicle "M35a2_Rust" (GlobalID=8000000080000000800000008000F36C pos=<8739.168945, 5.660614, 12079.926758>)!
+01:01:38.695 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to sell ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:01:38.761 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has sold ak74 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1124.
+01:01:52.159 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.939453, 42.811977, 11329.312500>)
+01:02:12.560 [Expansion Quests] - CompleteQuest - Player with UID QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= has completed quest 81
+01:02:41.186 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.997070, 42.825401, 11329.559570>)
+01:02:50.193 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.980469, 42.824791, 11329.553711>)
+01:02:58.989 [VehicleCover] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8734.507813, 5.729839, 12081.289063>) uncovered vehicle "MotorHome_rust" (GlobalID=8000000080000000800000008001A6C2 pos=<8737.418945, 5.874795, 12083.679688>)!
+01:03:12.112 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8737.425781, 5.874795, 12083.679688>) as driver
+01:03:15.556 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8737.425781, 5.874794, 12083.679688>)
+01:03:21.094 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.955078, 42.819912, 11329.483398>) as passenger
+01:03:30.194 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.955078, 42.819912, 11329.483398>)
+01:03:36.928 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.955078, 42.819912, 11329.483398>) as passenger
+01:03:39.927 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.955078, 42.819912, 11329.483398>)
+01:04:04.294 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.955078, 42.819912, 11329.483398>) as passenger
+01:04:06.726 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.955078, 42.819912, 11329.483398>)
+01:04:13.431 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.951172, 42.819614, 11329.475586>) as pilot
+01:04:15.627 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9198.952148, 42.819225, 11329.470703>)
+01:04:52.325 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= for quest 2
+01:05:15.574 [Expansion Quests] - CancelQuestServer - Player with UID QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= has cancelled quest 2
+01:08:39.152 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9177.264648, 39.369995, 11329.958984>)
+01:08:57.029 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9193.250977, 42.582928, 11330.586914>)
+01:09:36.577 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9177.264648, 39.369999, 11329.958984>) as driver
+01:09:39.332 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9177.264648, 39.369999, 11329.958984>)
+01:10:51.438 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9194.166016, 42.706730, 11332.088867>)
+01:11:46.629 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to sell twp_beowulf x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:11:46.758 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has sold twp_beowulf x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 17295.
+01:11:51.752 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9193.575195, 42.557106, 11328.858398>)
+01:11:59.319 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9163.504883, 39.263916, 11324.478516>)
+01:11:59.482 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Mh-6 Little Bird (id=66AACF5E43430A43382A9092376CAED0 pos=<9193.587891, 42.555126, 11328.781250>)
+01:12:22.956 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9163.504883, 39.263924, 11324.478516>) as driver
+01:12:29.423 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9163.504883, 39.263916, 11324.478516>)
+01:12:30.595 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to purchase mag_glock_15rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:12:30.662 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has bought mag_glock_15rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 70.
+01:12:31.458 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to purchase mag_glock_15rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:12:31.541 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has bought mag_glock_15rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 70.
+01:12:44.054 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644268, 11330.654297>)
+01:12:51.870 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644264, 11330.654297>) as passenger
+01:13:02.420 [VehicleDestroyed] ExpansionMh6_Speedy (id=66AACF5E43430A43382A9092376CAED0 pos=<9195.392578, 42.565994, 11326.773438>)
+01:13:24.969 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644264, 11330.654297>)
+01:13:28.573 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644264, 11330.654297>) as passenger
+01:13:30.617 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644272, 11330.654297>) as passenger
+01:13:33.072 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644260, 11330.654297>)
+01:13:43.025 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644268, 11330.654297>)
+01:13:52.940 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644264, 11330.654297>) as passenger
+01:13:57.935 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to sell expansion_m9 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:13:58.064 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has sold expansion_m9 x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 98.
+01:13:58.895 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644264, 11330.654297>)
+01:14:00.818 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644268, 11330.654297>) as passenger
+01:14:05.465 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644264, 11330.654297>) as driver
+01:14:08.718 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9186.679688, 39.644264, 11330.654297>)
+01:14:09.493 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to sell mag_expansion_m9_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:14:09.616 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has sold mag_expansion_m9_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 45.
+01:14:10.476 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to sell mag_expansion_m9_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+01:14:10.560 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has sold mag_expansion_m9_15rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 45.
+01:14:40.651 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<9170.699219, 39.332092, 11325.988281>) as passenger
+01:18:05.939 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8734.129883, 5.898498, 12082.090820>)
+01:18:10.206 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8734.128906, 5.897819, 12082.090820>)
+01:19:06.684 [VehicleDeleted] ExpansionMh6_Speedy (id=66AACF5E43430A43382A9092376CAED0 pos=<9195.257813, 42.552841, 11327.180664>)
+01:20:09.057 [AI Patrol] Spawning 3 RCFI Patrol bots at <3666.850830, 11.568501, 8867.290039>
+01:20:40.234 [VehicleDeleted] Chevrolet_Camaro_Egor (id=C8720232F842ACC337B530B3D1F5D1C4 pos=<8743.576172, 3.362265, 12076.114258>)
+01:20:40.234 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<8741.144531, 3.152585, 12075.207031>) covered vehicle "Chevrolet_Camaro_Egor" (GlobalID=8000000080000000800000008000BF50 pos=<8743.576172, 3.362265, 12076.114258>)!
+01:22:16.942 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle UH-1H (id=324108C3EF46ABB3F1963BADEDDFBB9D pos=<8743.754883, 22.489582, 12113.436523>) as pilot
+01:22:19.258 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle UH-1H (id=324108C3EF46ABB3F1963BADEDDFBB9D pos=<8743.752930, 22.489107, 12113.435547>)
+01:22:25.689 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle UH-1H (id=187584F1F0434951F27F27B640BA95A3 pos=<8752.131836, 23.700169, 12097.994141>) as pilot
+01:22:27.705 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle UH-1H (id=187584F1F0434951F27F27B640BA95A3 pos=<8752.131836, 23.700176, 12097.994141>)
+01:23:03.629 [VehicleDeleted] MotorHome_rust (id=5607121C944A557CB80B7793BDE203C3 pos=<0.017024, 0.515875, 0.809919>)
+01:23:08.849 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+01:23:08.867 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+01:23:08.867 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 32
+01:23:09.810 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+01:23:47.970 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle UH-1H (id=324108C3EF46ABB3F1963BADEDDFBB9D pos=<8743.708008, 22.486736, 12113.431641>) as pilot
+01:23:49.967 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle UH-1H (id=324108C3EF46ABB3F1963BADEDDFBB9D pos=<8743.707031, 22.486637, 12113.431641>)
+01:24:40.619 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] stopped vehicle UH-1H (id=324108C3EF46ABB3F1963BADEDDFBB9D pos=<8725.314453, 16.010973, 12081.370117>)
+01:24:44.840 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle UH-1H (id=324108C3EF46ABB3F1963BADEDDFBB9D pos=<8725.336914, 15.056397, 12081.266602>)
+01:25:07.974 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle UH-1H (id=187584F1F0434951F27F27B640BA95A3 pos=<8752.103516, 23.700554, 12097.997070>) as pilot
+01:25:11.716 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle UH-1H (id=187584F1F0434951F27F27B640BA95A3 pos=<8752.103516, 23.700548, 12097.997070>)
+01:25:56.884 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<8741.908203, 3.152474, 12075.061523>) uncovered vehicle "Chevrolet_Camaro_Egor" (GlobalID=8000000080000000800000008000BF50 pos=<8743.576172, 3.362265, 12076.114258>)!
+01:26:00.308 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] stopped vehicle UH-1H (id=187584F1F0434951F27F27B640BA95A3 pos=<8743.154297, 15.056792, 12074.660156>)
+01:26:03.195 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle UH-1H (id=187584F1F0434951F27F27B640BA95A3 pos=<8743.161133, 15.068896, 12074.655273>)
+01:26:04.476 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<8741.641602, 3.450211, 12076.942383>) used the  ExpansionCarKey to unlock Chevrolet_Camaro_Egor (id=5CA5C077CD4F56493DE9B78D4D11A237 pos=<8743.580078, 3.362622, 12076.116211>)
+01:26:26.267 [VehicleDeleted] ExpansionUh1h (id=81BA13ED6541C8DA2B6AED8FF7F87489 pos=<-0.010394, 1.483437, 1.416728>)
+01:26:26.272 [VehicleDeleted] ExpansionUh1h (id=187584F1F0434951F27F27B640BA95A3 pos=<8743.165039, 15.072840, 12074.655273>)
+01:26:26.273 [VirtualGarage] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8725.957031, 5.694348, 12071.136719>) stored a vehicle "ExpansionUh1h" (GlobalID=80000000800000008000000080013430 pos=<8743.165039, 15.072840, 12074.655273>)
+01:26:29.567 [VirtualGarage] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8726.035156, 5.694259, 12070.698242>) retrieved a vehicle "ExpansionUh1h" (GlobalID=80000000800000008000000080013430 pos=<8743.165039, 15.072840, 12074.655273>)
+01:26:33.360 [VehicleDeleted] ExpansionUh1h (id=324108C3EF46ABB3F1963BADEDDFBB9D pos=<8725.337891, 15.055898, 12081.266602>)
+01:26:33.361 [VirtualGarage] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8726.035156, 5.694259, 12070.698242>) stored a vehicle "ExpansionUh1h" (GlobalID=800000008000000080000000800137E1 pos=<8725.337891, 15.055898, 12081.266602>)
+01:26:36.042 [VehicleDeleted] ExpansionUh1h (id=318EB22BF0432A17568A7A8FC0663CD3 pos=<8743.164063, 15.079705, 12074.652344>)
+01:26:36.043 [VirtualGarage] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8726.035156, 5.694259, 12070.698242>) stored a vehicle "ExpansionUh1h" (GlobalID=80000000800000008000000080013430 pos=<8743.164063, 15.079705, 12074.652344>)
+01:27:49.028 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8734.127930, 5.890972, 12082.096680>) as driver
+01:27:51.847 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8734.140625, 5.870727, 12082.119141>)
+01:28:19.658 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<8740.863281, 3.316337, 12076.308594>) used the  ExpansionCarKey to lock Chevrolet_Camaro_Egor (id=5CA5C077CD4F56493DE9B78D4D11A237 pos=<8743.580078, 3.362622, 12076.116211>)
+01:28:22.859 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle MotorHome rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8741.129883, 5.875387, 12082.681641>)
+01:28:32.859 [VehicleDeleted] MotorHome_rust (id=810ED7689D4F4FC68962AE9B4D10C53E pos=<8741.129883, 5.875387, 12082.681641>)
+01:28:32.860 [VirtualGarage] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8726.597656, 5.694351, 12071.087891>) stored a vehicle "MotorHome_rust" (GlobalID=8000000080000000800000008001A6C2 pos=<8741.129883, 5.875387, 12082.681641>)
+01:28:37.302 [VehicleDeleted] Chevrolet_Camaro_Egor (id=5CA5C077CD4F56493DE9B78D4D11A237 pos=<8743.580078, 3.362622, 12076.116211>)
+01:28:37.302 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<8741.582031, 3.145348, 12075.074219>) covered vehicle "Chevrolet_Camaro_Egor" (GlobalID=8000000080000000800000008000BF50 pos=<8743.580078, 3.362622, 12076.116211>)!
+01:29:40.525 [VehicleCover] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8737.500977, 5.696237, 12078.034180>) uncovered vehicle "M35a2_Rust" (GlobalID=8000000080000000800000008000F36C pos=<8739.168945, 5.660614, 12079.926758>)!
+01:33:46.544 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:33:46.544 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3822.81, 11.69, 9745.56> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:33:46.544 [BaseBuildingRaiding] They dealt 91.0012 * 1 = 91.0012 damage with Bullet_556x45 from AugShort
+01:33:46.545 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29801.3 to 29710.3
+01:33:46.545 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:33:48.028 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:33:48.028 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3822.81, 11.69, 9745.56> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:33:48.029 [BaseBuildingRaiding] They dealt 91.0064 * 1 = 91.0064 damage with Bullet_556x45 from AugShort
+01:33:48.029 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29710.3 to 29619.3
+01:33:48.029 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:33:48.030 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:33:48.031 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3822.81, 11.69, 9745.56> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:33:48.031 [BaseBuildingRaiding] They dealt 4.54414 * 1 = 4.54414 damage with Bullet_556x45 from AugShort
+01:33:48.031 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29619.3 to 29614.8
+01:33:48.031 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:33:48.774 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:33:48.775 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3822.81, 11.69, 9745.56> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:33:48.775 [BaseBuildingRaiding] They dealt 91.0183 * 1 = 91.0183 damage with Bullet_556x45 from AugShort
+01:33:48.775 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29614.8 to 29523.8
+01:33:48.775 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:33:49.613 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:33:49.613 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3822.81, 11.69, 9745.56> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:33:49.613 [BaseBuildingRaiding] They dealt 90.9199 * 1 = 90.9199 damage with Bullet_556x45 from AugShort
+01:33:49.613 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29523.8 to 29432.9
+01:33:49.613 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:34:59.960 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:34:59.960 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3822.62, 11.69, 9745.52> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:34:59.960 [BaseBuildingRaiding] They dealt 91.0326 * 1 = 91.0326 damage with Bullet_556x45 from AugShort
+01:34:59.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29432.9 to 29341.8
+01:34:59.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:35:00.913 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:35:00.913 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3822.62, 11.69, 9745.52> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:35:00.914 [BaseBuildingRaiding] They dealt 91.0579 * 1 = 91.0579 damage with Bullet_556x45 from AugShort
+01:35:00.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29341.8 to 29250.8
+01:35:00.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:35:12.098 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:35:12.098 [BaseBuildingRaiding] Player "Capt Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <3821.8, 11.69, 9745.12> damaged ExpansionWall6x3 at <3818.69, 11.69, 9744.68>
+01:35:12.098 [BaseBuildingRaiding] They dealt 89.853 * 1 = 89.853 damage with Bullet_762x39 from TWP_AK47Dragon
+01:35:12.098 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29250.8 to 29160.9
+01:35:12.099 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:35:13.695 [VehicleDeleted] M35a2_Rust (id=57DF744AF943CC5BA8B78EBCA1F7EA0F pos=<8739.168945, 5.660620, 12079.926758>)
+01:35:13.695 [VehicleCover] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= pos=<8737.344727, 5.696167, 12077.565430>) covered vehicle "M35a2_Rust" (GlobalID=8000000080000000800000008000F36C pos=<8739.168945, 5.660620, 12079.926758>)!
+01:36:37.678 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+01:37:24.210 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+01:37:45.802 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+01:53:08.984 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5618.333984, 29.020763, 5418.515625>) Entered the safezone
+01:53:08.990 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+01:53:08.990 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+01:53:56.913 [BaseRaiding] ExpansionSafeMedium (<3791.880127, 10.257076, 9706.041992>) player "Capt Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <3790.969727, 10.296997, 9705.416016>) failed to enter the correct code.
+01:53:56.913 [BaseRaiding] ExpansionSafeMedium (<3791.880127, 10.257076, 9706.041992>) The correct code was 9883 and the player tried 1776
+01:54:04.164 [BaseRaiding] ExpansionSafeMedium (<3791.880127, 10.257076, 9706.041992>) player "Capt Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <3790.969727, 10.296997, 9705.416016>) failed to enter the correct code.
+01:54:04.164 [BaseRaiding] ExpansionSafeMedium (<3791.880127, 10.257076, 9706.041992>) The correct code was 9883 and the player tried 1989
+01:54:13.904 [BaseRaiding] ExpansionSafeMedium (<3791.880127, 10.257076, 9706.041992>) player "Capt Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <3790.969727, 10.296997, 9705.416016>) failed to enter the correct code.
+01:54:13.904 [BaseRaiding] ExpansionSafeMedium (<3791.880127, 10.257076, 9706.041992>) The correct code was 9883 and the player tried 1776
+01:58:52.943 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+04:31:04.700 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+04:31:04.705 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+04:31:04.705 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+04:31:05.311 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Medical
+04:31:05.665 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+04:48:06.572 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7446.943848, 6.662499, 8465.508789>) uncovered vehicle "ToyotaHilux_rust" (GlobalID=80000000800000008000000080013459 pos=<7446.917480, 6.654740, 8461.634766>)!
+04:48:23.269 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7446.943848, 6.662499, 8465.508789>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.914551, 6.654740, 8461.635742>)
+04:49:08.060 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7446.943848, 6.662499, 8465.508789>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.914551, 6.654740, 8461.635742>)
+04:53:44.757 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7447.216797, 6.662493, 8465.460938>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.914551, 6.654740, 8461.635742>)
+04:54:09.556 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7447.016602, 6.662500, 8464.808594>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.914551, 6.654740, 8461.635742>)
+04:54:11.460 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7447.016602, 6.662500, 8464.808594>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.914551, 6.654740, 8461.635742>)
+04:54:18.931 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7447.117188, 6.662499, 8465.302734>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.914551, 6.654740, 8461.635742>)
+04:56:27.316 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7445.375000, 6.662488, 8461.901367>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.914551, 6.654740, 8461.635742>)
+04:56:38.916 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.917480, 6.654764, 8461.635742>) as driver
+04:56:48.953 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.916016, 6.654758, 8461.635742>)
+04:57:01.578 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.913574, 6.654745, 8461.635742>)
+04:58:09.916 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7445.692871, 6.662500, 8459.723633>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.913086, 6.654740, 8461.635742>)
+04:58:11.562 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7445.692871, 6.662500, 8459.723633>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.913086, 6.654740, 8461.635742>)
+04:58:18.281 [VehicleAttachments] Player brailsford40 (uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) detached Car Battery (type=CarBattery) from vehicle ToyotaHilux rust(id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.913086, 6.654740, 8461.635742>)
+04:58:37.044 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.913086, 6.654747, 8461.635742>) as driver
+04:58:43.445 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7446.913086, 6.654747, 8461.635742>)
+04:59:08.320 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] stopped vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7451.487305, 6.654747, 8439.248047>)
+04:59:13.441 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7451.486328, 6.654741, 8439.248047>)
+05:01:50.273 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7451.489258, 6.654758, 8439.246094>) as driver
+05:01:52.285 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7451.489746, 6.654762, 8439.244141>)
+05:02:06.457 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7459.206055, 6.650778, 8443.142578>)
+05:02:24.580 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7464.553711, 6.662500, 8440.179688>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.347656, 6.654764, 8442.741211>)
+05:08:42.464 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7464.301758, 6.662500, 8440.733398>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.347656, 6.654764, 8442.741211>)
+05:09:05.634 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7464.301758, 6.662500, 8440.733398>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.347656, 6.654764, 8442.741211>)
+05:09:07.400 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7464.301758, 6.662500, 8440.733398>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.347656, 6.654764, 8442.741211>)
+05:09:14.228 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7464.283203, 6.662500, 8440.810547>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.347656, 6.654764, 8442.741211>)
+05:29:19.677 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7461.145508, 6.662500, 8441.227539>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.347656, 6.654764, 8442.741211>)
+05:29:25.996 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.348633, 6.654745, 8442.743164>) as driver
+05:29:31.812 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<7461.348145, 6.654756, 8442.741211>)
+05:29:39.117 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<5638.894043, 32.023247, 5399.235352>) Entered the safezone
+05:29:39.117 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+05:29:39.132 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+05:29:39.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+05:29:40.064 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+05:31:49.798 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= for quest 27
+05:33:35.099 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= for quest 48
+05:33:48.853 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase carradiator x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:33:49.021 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought carradiator x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 1200.
+05:34:13.644 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase sparkplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:34:13.789 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought sparkplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+05:34:14.208 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase sparkplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:34:14.412 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought sparkplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 600.
+05:38:00.777 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase twp_hk417 x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:38:00.958 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought twp_hk417 x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 5960.
+05:38:19.052 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:38:19.240 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 960.
+05:38:19.613 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:38:19.773 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 960.
+05:38:20.273 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:38:20.457 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 960.
+05:38:50.476 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to sell mag_cmag_30rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:38:50.660 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has sold mag_cmag_30rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 165.
+05:38:55.820 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to sell mag_stanag_30rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:38:55.996 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has sold mag_stanag_30rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 165.
+05:38:59.187 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to sell mag_stanag_60rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:38:59.363 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has sold mag_stanag_60rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 360.
+05:38:59.882 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to sell mag_stanag_60rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:39:00.058 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has sold mag_stanag_60rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 420.
+05:39:00.761 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to sell mag_stanag_60rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:39:00.933 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has sold mag_stanag_60rnd x1 at the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 420.
+05:40:11.476 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:40:11.685 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 960.
+05:40:12.535 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:40:12.705 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought twp_hk417_mag_30rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 960.
+05:41:20.664 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase ammo_308win x200 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:41:20.857 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought ammo_308win x200 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 400.
+05:42:17.771 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<5661.925781, 29.913406, 5526.652344>) Entered the safezone
+05:42:54.453 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has withdrawn 282235 from his ATM account.
+05:43:03.894 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has deposited 250000 on his ATM account.
+05:43:19.738 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase m4_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:43:19.896 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought m4_suppressor x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 425.
+05:43:34.613 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase acogoptic_6x x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:43:34.808 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought acogoptic_6x x1 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 2200.
+05:44:13.498 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] stopped vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<5631.813477, 28.704397, 5419.875000>)
+05:44:20.906 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<5631.813965, 28.704403, 5419.874512>)
+05:44:21.033 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<5631.811523, 28.704340, 5419.877441>) as passenger
+05:45:11.578 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<5749.378906, 24.822575, 5198.601563>) Left the safezone
+05:45:11.654 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<5750.258789, 24.787918, 5198.303711>) Left the safezone
+05:51:51.304 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] stopped vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<6504.659180, 31.663885, 1892.755981>)
+05:51:53.927 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<6504.659180, 31.663857, 1892.756104>)
+05:52:01.917 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle ToyotaHilux rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<6504.659180, 31.663868, 1892.755981>)
+05:52:08.558 [VehicleCover] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<6507.898926, 31.562498, 1880.076538>) uncovered vehicle "Expansion_Landrover_Red" (GlobalID=800000008000000080000000800127B1 pos=<6510.007813, 31.619205, 1880.636353>)!
+05:52:26.683 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<6507.206055, 31.562498, 1882.322510>) used the  ExpansionCarKey to unlock Expansion_Landrover_Red (id=5D10413CB84BBD22F6414095D0AFC2CE pos=<6510.005859, 31.619207, 1880.636719>)
+05:54:00.533 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Land Rover Defender (id=5D10413CB84BBD22F6414095D0AFC2CE pos=<6510.005859, 31.619205, 1880.636719>) as driver
+05:54:09.312 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Land Rover Defender (id=5D10413CB84BBD22F6414095D0AFC2CE pos=<6510.005371, 31.619110, 1880.636597>)
+05:54:51.310 [VehicleAttachments] Player brailsford40 (uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) detached Spark Plug (type=SparkPlug) from vehicle Land Rover Defender(id=5D10413CB84BBD22F6414095D0AFC2CE pos=<6510.005371, 31.619104, 1880.636597>)
+05:55:08.031 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Land Rover Defender (id=5D10413CB84BBD22F6414095D0AFC2CE pos=<6510.005371, 31.619118, 1880.636597>) as driver
+05:55:33.865 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Land Rover Defender (id=5D10413CB84BBD22F6414095D0AFC2CE pos=<6510.005859, 31.619209, 1880.636719>)
+05:56:30.017 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<6502.351563, 31.562498, 1895.635742>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=6F55E11AA34749E36C015B9493EEB19C pos=<6504.659180, 31.663858, 1892.756104>)
+05:57:03.753 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Land Rover Defender (id=5D10413CB84BBD22F6414095D0AFC2CE pos=<6510.005859, 31.619200, 1880.636719>)
+05:58:07.091 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+05:58:09.449 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

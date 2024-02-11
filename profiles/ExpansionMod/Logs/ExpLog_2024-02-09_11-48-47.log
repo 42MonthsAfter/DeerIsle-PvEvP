@@ -1,0 +1,17 @@
+11:52:43.136 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+11:52:43.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=
+11:52:43.140 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 23
+11:52:44.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+11:54:11.710 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+11:54:11.714 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+11:54:11.714 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+11:54:12.675 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 23
+11:57:08.746 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:57:08.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+11:57:08.750 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+11:57:09.707 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:57:46.367 [VehicleDeleted] ToyotaHilux_rust (id=87078B5168409B39F82E5CB06F1AF834 pos=<10822.593750, 5.384765, 10556.817383>)
+11:57:46.367 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10825.276367, 5.392476, 10557.829102>) covered vehicle "ToyotaHilux_rust" (GlobalID=80000000800000008000000080013459 pos=<10822.593750, 5.384765, 10556.817383>)!
+11:58:29.171 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:59:15.609 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)
+11:59:15.613 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "Dirty Crew" (id=23 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Condom Breath)

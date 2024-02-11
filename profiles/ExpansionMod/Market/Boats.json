@@ -16,8 +16,19 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "truckbattery",
-                "glowplug"
+                "GlowPlug"
             ],
+            "Variants": []
+        },
+        {
+            "ClassName": "GlowPlug",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]

@@ -266,6 +266,30 @@
             ]
         },
         {
+            "ClassName": "expansionmerlinfrontwheel",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "expansionmerlinbackwheel",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
             "ClassName": "M35a2_Wheel_Rust",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1250,
@@ -351,6 +375,18 @@
         },
         {
             "ClassName": "AZLK_Doors_trunk_rust",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "AZLK_Wheel",
             "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
@@ -531,6 +567,18 @@
         },
         {
             "ClassName": "Interceptor_Doors_hood",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Interceptor_Wheel",
             "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1250,
             "SellPricePercent": -60.0,
