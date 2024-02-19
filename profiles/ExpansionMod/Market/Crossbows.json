@@ -20,6 +20,17 @@
                 "crossbow_summer",
                 "crossbow_wood"
             ]
+        },
+        {
+            "ClassName": "Expansion_Crossbow",
+            "MaxPriceThreshold": 8600,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

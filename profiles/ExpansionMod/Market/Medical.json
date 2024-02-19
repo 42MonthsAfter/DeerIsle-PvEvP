@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "bandagedressing",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 300,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "disinfectantalcohol",
-            "MaxPriceThreshold": 800,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 400,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "purificationtablets",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 50,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "bloodtestkit",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 50,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "thermometer",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "vitaminbottle",
-            "MaxPriceThreshold": 520,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 460,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "disinfectantspray",
-            "MaxPriceThreshold": 160,
+            "MaxPriceThreshold": 575,
             "MinPriceThreshold": 80,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "tetracyclineantibiotics",
-            "MaxPriceThreshold": 2600,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1800,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -107,7 +107,7 @@
         },
         {
             "ClassName": "painkillertablets",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 400,
             "SellPricePercent": -35.0,
             "MaxStockThreshold": 1,
@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "startkitiv",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 550,
             "MinPriceThreshold": 100,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -140,7 +140,7 @@
         },
         {
             "ClassName": "salinebag",
-            "MaxPriceThreshold": 300,
+            "MaxPriceThreshold": 750,
             "MinPriceThreshold": 150,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "bloodbagempty",
-            "MaxPriceThreshold": 360,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 180,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,
@@ -162,7 +162,7 @@
         },
         {
             "ClassName": "firstaidkit",
-            "MaxPriceThreshold": 400,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 200,
             "SellPricePercent": -45.0,
             "MaxStockThreshold": 1,

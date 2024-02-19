@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "mp133shotgun",
-            "MaxPriceThreshold": 1800,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "izh43shotgun",
-            "MaxPriceThreshold": 2800,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 1900,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "izh18shotgun",
-            "MaxPriceThreshold": 1700,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -55,7 +55,7 @@
         },
         {
             "ClassName": "expansion_benellim4",
-            "MaxPriceThreshold": 7000,
+            "MaxPriceThreshold": 10500,
             "MinPriceThreshold": 6500,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -66,7 +66,7 @@
         },
         {
             "ClassName": "expansion_dt11",
-            "MaxPriceThreshold": 3600,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 1800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -88,7 +88,7 @@
         },
         {
             "ClassName": "TWP_AA12",
-            "MaxPriceThreshold": 12000,
+            "MaxPriceThreshold": 17550,
             "MinPriceThreshold": 9800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -101,7 +101,7 @@
         },
         {
             "ClassName": "TWP_AA12Dragon",
-            "MaxPriceThreshold": 13200,
+            "MaxPriceThreshold": 17550,
             "MinPriceThreshold": 12800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -114,7 +114,7 @@
         },
         {
             "ClassName": "TWP_AA12HellDragon",
-            "MaxPriceThreshold": 13200,
+            "MaxPriceThreshold": 17550,
             "MinPriceThreshold": 12800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -139,7 +139,7 @@
         },
         {
             "ClassName": "TWP_BenelliM3",
-            "MaxPriceThreshold": 5200,
+            "MaxPriceThreshold": 7250,
             "MinPriceThreshold": 3800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -163,7 +163,7 @@
         },
         {
             "ClassName": "TWP_ImprovisedShotgun",
-            "MaxPriceThreshold": 3200,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 2800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -308,7 +308,7 @@
         },
         {
             "ClassName": "TWP_AA12Black",
-            "MaxPriceThreshold": 14200,
+            "MaxPriceThreshold": 17500,
             "MinPriceThreshold": 12800,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -321,7 +321,7 @@
         },
         {
             "ClassName": "TWP_Toz34",
-            "MaxPriceThreshold": 6300,
+            "MaxPriceThreshold": 9500,
             "MinPriceThreshold": 5000,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,

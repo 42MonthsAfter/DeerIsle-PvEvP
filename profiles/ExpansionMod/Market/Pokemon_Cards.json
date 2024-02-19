@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Pikachu",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 8500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Eevee",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 7550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_GrassEnergy",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Machamp",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Mew",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Charizard",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 75500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Jolteon",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_ShinyMewtwo",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 15500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -107,7 +107,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Volcanion",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Abra",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -129,7 +129,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Alakazam",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 6550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -140,7 +140,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Arcanine",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 8550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Beedrill",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -162,7 +162,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Bill",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 6500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -173,7 +173,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Blastoise",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 9500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -184,7 +184,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Bulbasaur",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -195,7 +195,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Caterpie",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -206,7 +206,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Chansey",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4575,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -217,7 +217,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Charmander",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -228,7 +228,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Clefairy",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 9580,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -239,7 +239,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_ComputerSearch",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3250,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -250,7 +250,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Defender",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3275,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -261,7 +261,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Dewgong",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -272,7 +272,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Diglett",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 7550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -283,7 +283,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Doduo",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -294,7 +294,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Dragonair",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -305,7 +305,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Dratini",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -316,7 +316,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Dugtrio",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -327,7 +327,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Drowzee",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 10500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -338,7 +338,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Electrode",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -349,7 +349,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_EnergyRemoval",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -360,7 +360,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_EnergyRetrieval",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -371,7 +371,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_FightingEnergy",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -382,7 +382,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_FullHeal",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -393,7 +393,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Gastly",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -404,7 +404,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Growlithe",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -415,7 +415,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_GustOfWind",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -426,7 +426,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Gyarados",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3650,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -437,7 +437,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Haunter",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3650,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -448,7 +448,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Hitmonchan",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -459,7 +459,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_ItemFinder",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -470,7 +470,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Ivysaur",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -481,7 +481,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Jynx",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -492,7 +492,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Kadabra",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 7550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -503,7 +503,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Kakuna",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5650,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -514,7 +514,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Koffing",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 8550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -525,7 +525,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Machoke",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -536,7 +536,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Lass",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -547,7 +547,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Machop",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 8550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -558,7 +558,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Magmar",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -569,7 +569,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Magnemite",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3210,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -580,7 +580,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Maintenance",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -591,7 +591,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Metapod",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 2575,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -602,7 +602,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Mewtwo",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 35500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -613,7 +613,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Nidoran",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -624,7 +624,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Nidoking",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 7000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -635,7 +635,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Nidorino",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -646,7 +646,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Ninetales",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 6500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -657,7 +657,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Onix",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -668,7 +668,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Pidgeotto",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -679,7 +679,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Pidgey",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -690,7 +690,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_PikachuBS",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 7550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -701,7 +701,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Pluspower",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -712,7 +712,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Pokedex",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -723,7 +723,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Breeder",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -734,7 +734,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Center",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -745,7 +745,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Flute",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -756,7 +756,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Trader",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -767,7 +767,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Poliwag",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -778,7 +778,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Poliwrath",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5150,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -789,7 +789,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Ponyta",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -800,7 +800,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Potion",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -811,7 +811,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_PsychicEnergy",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -822,7 +822,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Raichu",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 8500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -833,7 +833,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Rattata",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 10150,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -844,7 +844,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Raticate",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 10150,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -855,7 +855,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Revive",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -866,7 +866,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Sandshrew",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -877,7 +877,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_ScoopUp",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4150,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -888,7 +888,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Seel",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -899,7 +899,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Squirtle",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5650,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -910,7 +910,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Starmie",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3560,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -921,7 +921,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Staryu",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 6550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -932,7 +932,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_SuperEnergy",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -943,7 +943,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_SuperPotion",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -954,7 +954,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_SwitchBase",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -976,7 +976,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Venusaur",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4150,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -987,7 +987,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Voltorb",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4560,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -998,7 +998,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Vulpix",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4250,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -1009,7 +1009,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Wartortle",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -1020,7 +1020,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_WaterEnergy",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3560,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -1031,7 +1031,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Weedle",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3350,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,
@@ -1042,7 +1042,7 @@
         },
         {
             "ClassName": "Collectable_PokemonCard_Zapdos",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 9550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -30.0,
             "MaxStockThreshold": 1,

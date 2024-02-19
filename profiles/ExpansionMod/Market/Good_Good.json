@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "CP_CannabisBagSkunk",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2150,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "CP_CannabisBagBlue",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "CP_CannabisBagKush",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "CP_CannabisBagStardawg",
-            "MaxPriceThreshold": 2500,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 2500,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "CP_CannabisBagFuture",
-            "MaxPriceThreshold": 3000,
+            "MaxPriceThreshold": 6500,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "CP_CannabisBagS1",
-            "MaxPriceThreshold": 3250,
+            "MaxPriceThreshold": 7000,
             "MinPriceThreshold": 3250,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "CP_CannabisBagNomad",
-            "MaxPriceThreshold": 3750,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 3750,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "CP_CannabisBagBlackFrost",
-            "MaxPriceThreshold": 4500,
+            "MaxPriceThreshold": 9500,
             "MinPriceThreshold": 4500,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "CP_CannabisBrickSkunk",
-            "MaxPriceThreshold": 16000,
+            "MaxPriceThreshold": 16500,
             "MinPriceThreshold": 16000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -107,7 +107,7 @@
         },
         {
             "ClassName": "CP_CannabisBrickBlue",
-            "MaxPriceThreshold": 24000,
+            "MaxPriceThreshold": 25500,
             "MinPriceThreshold": 24000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "CP_CannabisBrickKush",
-            "MaxPriceThreshold": 32000,
+            "MaxPriceThreshold": 35000,
             "MinPriceThreshold": 32000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -129,7 +129,7 @@
         },
         {
             "ClassName": "CP_CannabisBrickStardawg",
-            "MaxPriceThreshold": 40000,
+            "MaxPriceThreshold": 45000,
             "MinPriceThreshold": 40000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "CP_CannabisBrickS1",
-            "MaxPriceThreshold": 52000,
+            "MaxPriceThreshold": 52500,
             "MinPriceThreshold": 52000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -162,7 +162,7 @@
         },
         {
             "ClassName": "CP_CannabisBrickNomad",
-            "MaxPriceThreshold": 60000,
+            "MaxPriceThreshold": 60500,
             "MinPriceThreshold": 60000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,
@@ -173,7 +173,7 @@
         },
         {
             "ClassName": "CP_CannabisBrickBlackFrost",
-            "MaxPriceThreshold": 72000,
+            "MaxPriceThreshold": 75000,
             "MinPriceThreshold": 72000,
             "SellPricePercent": -50.0,
             "MaxStockThreshold": 1,

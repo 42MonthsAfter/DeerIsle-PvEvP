@@ -1,0 +1,22 @@
+11:46:34.031 [Party] Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) joinded the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)
+11:46:34.035 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=
+11:46:34.035 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 43
+11:46:34.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 43
+11:48:41.679 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+11:48:41.687 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+11:48:41.687 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 42
+11:48:42.664 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+11:48:54.562 [VehicleCover] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<11529.668945, 5.518398, 10443.386719>) uncovered vehicle "MBw140_white" (GlobalID=80000000800000008000000080021057 pos=<11527.681641, 5.515977, 10442.115234>)!
+11:49:01.414 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<11529.260742, 5.642037, 10443.194336>) used the  ExpansionCarKey to unlock MBw140_white (id=EE50F3120541206ECB7A189875371F6E pos=<11527.678711, 5.515838, 10442.114258>)
+11:49:13.214 [AI Patrol] Spawning 3 Temple Patrol bots at <335.404572, 48.908298, 662.003845>
+11:49:13.308 [AI Patrol] Spawning 3 Temple Patrol bots at <351.518433, 47.070000, 835.505859>
+11:49:13.320 [AI Patrol] Spawning 3 Temple Patrol bots at <286.323883, 55.318100, 839.257690>
+11:49:14.914 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=EE50F3120541206ECB7A189875371F6E pos=<11527.678711, 5.515756, 10442.115234>) as driver
+11:49:16.414 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] started vehicle Mercedes-Benz W140 White (id=EE50F3120541206ECB7A189875371F6E pos=<11527.678711, 5.515756, 10442.115234>)
+11:52:35.000 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] stopped vehicle Mercedes-Benz W140 White (id=EE50F3120541206ECB7A189875371F6E pos=<10153.837891, 21.789553, 10905.151367>)
+11:52:38.964 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=EE50F3120541206ECB7A189875371F6E pos=<10153.837891, 21.789551, 10905.149414>)
+11:55:04.656 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=EE50F3120541206ECB7A189875371F6E pos=<10153.837891, 21.789553, 10905.150391>) as driver
+11:55:07.468 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=EE50F3120541206ECB7A189875371F6E pos=<10153.837891, 21.789549, 10905.148438>)
+11:55:13.531 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<10154.411133, 21.782499, 10904.041016>) used the  ExpansionCarKey to lock MBw140_white (id=EE50F3120541206ECB7A189875371F6E pos=<10153.837891, 21.789553, 10905.150391>)
+11:58:20.687 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+11:59:15.671 [Party] Player "Jasper" (id=yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) left the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)

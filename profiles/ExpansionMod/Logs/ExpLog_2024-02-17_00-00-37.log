@@ -1,0 +1,84 @@
+01:09:30.440 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+01:09:30.440 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+01:09:30.440 [Expansion Quests] - Create new quest instance for quest: 20 - Player UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+01:24:30.839 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+01:33:45.852 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+01:33:45.864 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+01:33:45.865 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+01:33:46.809 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+01:38:01.705 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+01:38:01.705 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+01:38:01.706 [Expansion Quests] - Create new quest instance for quest: 20 - Player UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+02:06:47.806 [AI Patrol] Spawning 3 Camp Eagle Patrol bots at <8876.862305, 45.478069, 3782.809082>
+02:20:41.424 [VehicleCover] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<10355.627930, 2.095539, 5609.062500>) uncovered vehicle "ToyotaHilux_rust" (GlobalID=800000008000000080000000800271DA pos=<10354.344727, 2.042060, 5606.745117>)!
+02:20:47.343 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<10355.627930, 2.095539, 5609.062500>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<10354.343750, 2.042038, 5606.745605>)
+02:20:51.916 [AI Patrol] Spawning 3 Temple Patrol bots at <271.121918, 55.318100, 781.079407>
+02:20:51.927 [AI Patrol] Spawning 3 Temple Patrol bots at <307.511139, 47.068779, 801.744507>
+02:20:51.937 [AI Patrol] Spawning 3 Temple Patrol bots at <449.643494, 47.070000, 743.445862>
+02:20:53.718 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<10354.342773, 2.042008, 5606.745117>) as driver
+02:20:57.643 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<10354.344727, 2.042041, 5606.747559>)
+02:25:45.360 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7637.107910, 22.988251, 3775.406738>)
+02:25:48.735 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7637.110352, 22.988062, 3775.407227>)
+02:26:02.349 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<7636.370605, 22.920841, 3773.058105>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<7637.106934, 22.988298, 3775.406250>)
+02:26:37.317 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<7635.873047, 23.065069, 3774.612549>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<7637.106934, 22.988298, 3775.406250>)
+02:26:43.254 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7637.104004, 22.988653, 3775.406250>) as driver
+02:26:49.048 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7637.106445, 22.988443, 3775.407227>)
+02:28:03.032 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7474.621094, 21.944342, 4135.751465>)
+02:28:07.092 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7474.623535, 21.944302, 4135.749512>)
+02:28:20.624 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7474.619629, 21.944305, 4135.750000>) as driver
+02:28:26.968 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<7474.619629, 21.944311, 4135.750000>)
+02:33:42.038 [Safezone] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5662.118652, 29.962900, 5523.098633>) Entered the safezone
+02:33:53.951 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<5631.025879, 28.659651, 5422.290039>)
+02:33:57.195 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<5631.024414, 28.659592, 5422.291992>)
+02:34:02.789 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5633.288086, 28.671949, 5422.087891>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<5631.026367, 28.659687, 5422.289551>)
+02:34:21.242 [Market] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has send a requested to sell pelt_whitestag x1 at the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+02:34:21.372 [Market] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has sold pelt_whitestag x1 at the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 7125.
+02:34:30.115 [ATM] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has deposited 7125 on his ATM account.
+02:37:14.525 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5632.642090, 28.692257, 5421.250977>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<5631.026367, 28.659687, 5422.289551>)
+02:39:54.330 [ATM] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has withdrawn 7125 from his ATM account.
+02:40:22.522 [Market] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has send a requested to purchase ammo_556x45 x200 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+02:40:22.631 [Market] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has bought ammo_556x45 x200 from the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 400.
+02:40:33.326 [ATM] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has deposited 6725 on his ATM account.
+02:40:45.808 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<5631.026367, 28.659674, 5422.289551>) as driver
+02:40:49.135 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<5631.025391, 28.659618, 5422.291504>)
+02:41:20.208 [Safezone] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5746.245117, 22.558273, 5184.553223>) Left the safezone
+02:45:24.884 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<3766.219971, 5.562722, 2507.153564>)
+02:45:28.201 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<3766.218262, 5.562711, 2507.153564>)
+02:45:47.105 [VehicleCover] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3760.348145, 5.635032, 2521.738281>) uncovered vehicle "Interceptor" (GlobalID=8000000080000000800000008002A9DB pos=<3757.855957, 5.525716, 2521.559570>)!
+02:46:07.609 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3756.275635, 5.635036, 2519.793213>) used the  ExpansionCarKey to unlock Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3757.855713, 5.525692, 2521.559814>)
+02:46:14.603 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3757.855713, 5.525716, 2521.559814>) as driver
+02:46:16.599 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3757.855713, 5.525716, 2521.559814>)
+02:46:33.070 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3755.473389, 5.525719, 2530.131836>)
+02:46:37.297 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3755.473145, 5.525716, 2530.131836>)
+02:46:48.747 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3755.645508, 5.525716, 2529.518799>)
+02:46:58.907 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3755.645508, 5.525717, 2529.518799>)
+02:47:01.412 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3756.405029, 5.635046, 2531.630127>) used the  ExpansionCarKey to lock Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3755.645508, 5.525716, 2529.518799>)
+02:47:27.462 [VehicleDeleted] Interceptor (id=B11B1ED0C245CB267E38449B336020B5 pos=<3755.645508, 5.525716, 2529.518799>)
+02:47:27.463 [VehicleCover] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3753.513916, 5.635048, 2528.690674>) covered vehicle "Interceptor" (GlobalID=8000000080000000800000008002A9DB pos=<3755.645508, 5.525716, 2529.518799>)!
+02:47:36.807 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<3766.216064, 5.562708, 2507.153809>) as driver
+02:47:40.703 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<3766.216309, 5.562710, 2507.153809>)
+02:48:07.788 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<3750.596191, 5.639795, 2527.302979>)
+02:48:12.052 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=A1243F3522477F14A936409BB8146B8F pos=<3750.597900, 5.639808, 2527.304199>)
+02:48:17.180 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3750.634521, 5.635049, 2529.946045>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<3750.599121, 5.639816, 2527.304932>)
+02:51:42.452 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3748.371582, 5.635047, 2526.804443>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<3750.599121, 5.639816, 2527.304932>)
+02:55:50.411 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+03:06:00.170 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3748.865723, 5.635047, 2527.268066>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<3750.599121, 5.639816, 2527.304932>)
+03:06:17.178 [VehicleDeleted] ToyotaHilux_rust (id=A1243F3522477F14A936409BB8146B8F pos=<3750.599121, 5.639816, 2527.304932>)
+03:06:17.178 [VehicleCover] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3748.568359, 5.635047, 2527.075439>) covered vehicle "ToyotaHilux_rust" (GlobalID=800000008000000080000000800271DA pos=<3750.599121, 5.639816, 2527.304932>)!
+04:49:41.837 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+04:49:41.845 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+04:49:41.845 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+04:49:42.789 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+04:53:33.576 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7428.599121, 6.662478, 8439.454102>) uncovered vehicle "M35a2_Rust" (GlobalID=80000000800000008000000080027CC9 pos=<7426.305176, 6.585360, 8438.676758>)!
+04:53:55.072 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7428.246582, 6.662500, 8439.858398>) used the  ExpansionCarKey to unlock M35a2_Rust (id=42F9D86AAB4C16135BF660A55D36451D pos=<7426.309082, 6.585355, 8438.680664>)
+04:55:48.087 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7427.320313, 6.662480, 8440.518555>) used the  ExpansionCarKey to lock M35a2_Rust (id=42F9D86AAB4C16135BF660A55D36451D pos=<7426.309082, 6.585355, 8438.680664>)
+04:56:01.656 [VehicleDeleted] M35a2_Rust (id=42F9D86AAB4C16135BF660A55D36451D pos=<7426.309082, 6.585355, 8438.680664>)
+04:56:01.656 [VehicleCover] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7428.004883, 6.662500, 8440.939453>) covered vehicle "M35a2_Rust" (GlobalID=80000000800000008000000080027CC9 pos=<7426.309082, 6.585355, 8438.680664>)!
+04:59:35.712 [AI Patrol] Spawning 3 Shamans bots at <6259.335938, 13.223232, 8313.919922>
+05:02:21.904 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+05:11:15.445 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+05:20:13.357 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+05:20:13.361 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+05:20:13.361 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+05:20:14.308 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+05:27:12.869 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

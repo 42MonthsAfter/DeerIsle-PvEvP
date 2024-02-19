@@ -460,7 +460,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			{
 				minDist = 4.0;
 			}
-			if (targetEntity && !itemTarget && (fsm.DistanceToTargetSq <= minDist || unit.eAI_IsUnreachable(fsm.DistanceToTargetSq, minDist, position)))
+			if (targetEntity && !itemTarget && (fsm.DistanceToTargetSq <= minDist || (unit.m_eAI_PositionIsFinal && unit.eAI_IsUnreachable(fsm.DistanceToTargetSq, minDist, position))))
 			{
 				time += DeltaTime;
 				if (!movementDirection || time > Math.RandomIntInclusive(1, 3))
@@ -541,8 +541,11 @@ class Expansion_Fighting_FireWeapon_State_0: eAIState {
 		unit.RaiseWeapon(true);
 		time = 0;
 		fsm.LastFireTime = GetGame().GetTime();
-		if (unit.eAI_AdjustStance(weapon, fsm.DistanceToTargetSq))
+		bool adjustStance = unit.eAI_AdjustStance(weapon, fsm.DistanceToTargetSq);
+		#ifdef DIAG
+		if (adjustStance)
 		EXTrace.Print(EXTrace.AI, unit, "eAI_AdjustStance " + typename.EnumToString(eAIStance, unit.eAI_GetStance()));
+		#endif
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
 	}
@@ -677,6 +680,7 @@ class Expansion_Fighting__Melee_Transition_0: eAITransition {
 	override int Guard() {
 		if (unit.IsRestrained()) return FAIL;
 		if (!unit.CanRaiseWeapon() || !unit.eAI_HasLOS()) return FAIL;
+		if (unit.eAI_ShouldBandage() && unit.GetBandageToUse()) return FAIL;
 		// we are targetting an entity?
 		dst.target = unit.GetTarget();
 		if (!dst.target || !dst.target.IsMeleeViable(unit) || dst.target.GetThreat(unit) < 0.4) return FAIL;
@@ -852,7 +856,7 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 			time += DeltaTime;
 			if (time > 12)  //! Looks like something went terribly wrong
 			{
-				EXTrace.Print(true, unit, "Weapon_Reloading - Reloading - timeout");
+				EXPrint(unit.ToString() + " Weapon_Reloading - Reloading - timeout");
 				unit.eAI_Unbug("reload");
 				return EXIT;
 			}
@@ -902,7 +906,7 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 		else if (fsm.weapon.IsChamberEmpty(fsm.weapon.GetCurrentMuzzle()))
 		{
 			fsm.failed_attempts++;
-			EXTrace.Print(true, unit, "Weapon_Reloading - Reloading - failed (" + fsm.failed_attempts + ")");
+			EXPrint(unit.ToString() + " Weapon_Reloading - Reloading - failed (" + fsm.failed_attempts + ")");
 			fsm.weapon.ValidateAndRepair();
 		}
 		else
@@ -967,10 +971,12 @@ class Expansion_Reloading_Start_Reloading_Transition_0: eAITransition {
 		if (!fsm.weapon || fsm.weapon.IsDamageDestroyed())
 		return FAIL;
 		if (!unit.eAI_HasAmmoForFirearm(fsm.weapon, dst.magazine)) return FAIL;
+		#ifdef DIAG
 		if (!dst.magazine)
 		EXTrace.Start0(EXTrace.AI, this, "Reloading " + fsm.weapon + " from internal mag");
 		else
 		EXTrace.Start0(EXTrace.AI, this, "Reloading " + fsm.weapon + " from mag " + dst.magazine);
+		#endif
 		return SUCCESS;
 	}
 	override ExpansionState GetSource() { return src; }
@@ -1410,7 +1416,7 @@ class Expansion_Master_Weapon_Unjamming_State_0: eAIState {
 			time += DeltaTime;
 			if (time > 10)  //! Looks like something went terribly wrong
 			{
-				EXTrace.Print(true, unit, "Weapon_Unjamming - timeout");
+				EXPrint(unit.ToString() + " Weapon_Unjamming - timeout");
 				unit.eAI_Unbug("unjam");
 				return EXIT;
 			}
@@ -1424,7 +1430,7 @@ class Expansion_Master_Weapon_Unjamming_State_0: eAIState {
 		if (unit.GetWeaponManager().CanUnjam(weapon))
 		{
 			failed_attempts++;
-			EXTrace.Print(true, unit, "Weapon_Unjamming - failed (" + failed_attempts + ")");
+			EXPrint(unit.ToString() + " Weapon_Unjamming - failed (" + failed_attempts + ")");
 			weapon.ValidateAndRepair();
 		}
 		else
@@ -1444,7 +1450,9 @@ class Expansion_Master_TakeItemToHands_State_0: eAIState {
 		m_Name = "TakeItemToHands";
 	}
 	override void OnEntry(string Event, ExpansionState From) {
+		#ifdef DIAG
 		EXTrace.Print(EXTrace.AI, unit, "TakeItemToHands " + item.ToString());
+		#endif
 		time = 0;
 		if (unit.GetEmoteManager().IsEmotePlaying())
 		unit.GetEmoteManager().ServerRequestEmoteCancel();
@@ -1481,7 +1489,9 @@ class Expansion_Master_TakeItemToInventory_State_0: eAIState {
 		m_Name = "TakeItemToInventory";
 	}
 	override void OnEntry(string Event, ExpansionState From) {
+		#ifdef DIAG
 		EXTrace.Print(EXTrace.AI, unit, "TakeItemToInventory " + item.ToString());
+		#endif
 		time = 0;
 		if (unit.GetEmoteManager().IsEmotePlaying())
 		unit.GetEmoteManager().ServerRequestEmoteCancel();
@@ -1554,7 +1564,7 @@ class Expansion_Master_Bandaging_Self_State_0: eAIState {
 			time += DeltaTime;
 			if (time > timeout)  //! Looks like something went terribly wrong
 			{
-				EXTrace.Print(true, unit, "Bandaging_Self - timeout");
+				EXPrint(unit.ToString() + " Bandaging_Self - timeout");
 				unit.eAI_Unbug("bandage");
 				time = 0;
 				return EXIT;
@@ -1788,7 +1798,7 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 		ItemBase targetItem;
 		if (target && Class.CastTo(targetItem, target.GetEntity()) && (targetItem.IsWeapon() || targetItem.Expansion_IsMeleeWeapon()) && !targetItem.GetHierarchyRootPlayer() && !targetItem.IsSetForDeletion())
 		{
-			if (target.GetDistanceSq(unit, true) <= 4.0 && target.GetThreat(unit) > 0.1 && unit.eAI_HasLOS(target.info))
+			if (target.GetDistanceSq(unit, true) <= 4.0 && target.GetThreat(unit) > 0.1 && !unit.eAI_IsItemObstructed(targetItem))
 			{
 				dst.item = targetItem;
 				return SUCCESS;
@@ -1840,7 +1850,7 @@ class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 		ItemBase targetItem;
 		if (!target || !Class.CastTo(targetItem, target.GetEntity()) || targetItem.GetHierarchyRootPlayer() || targetItem.IsSetForDeletion())
 		return FAIL;
-		if (target.GetDistanceSq(unit, true) > 4.0 || !unit.eAI_HasLOS(target.info))
+		if (target.GetDistanceSq(unit, true) > 4.0 || unit.eAI_IsItemObstructed(targetItem))
 		return FAIL;
 		ItemBase hands;
 		InventoryLocation dstLoc;

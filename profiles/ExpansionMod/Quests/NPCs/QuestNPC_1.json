@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 1,
+    "ClassName": "ExpansionQuestBoardLarge",
+    "Position": [
+        5649.34,  
+        30, 
+        5401.6 
+    ],
+    "Orientation": [
+        234.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Quest Board",
+    "DefaultNPCText": "There is nothing to do here for you...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}

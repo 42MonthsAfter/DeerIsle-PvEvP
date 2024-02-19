@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "sewingkit",
-            "MaxPriceThreshold": 120,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 95,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "leathersewingkit",
-            "MaxPriceThreshold": 150,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 110,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "weaponcleaningkit",
-            "MaxPriceThreshold": 300,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 280,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,

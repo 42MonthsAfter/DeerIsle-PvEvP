@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "MVS_Helmet_01_OD",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 530,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -28,7 +28,7 @@
         },
         {
             "ClassName": "MVS_OpsCore_OD",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 530,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -53,7 +53,7 @@
         },
         {
             "ClassName": "MVS_ArmoredHelmet_OD",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 530,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -79,7 +79,7 @@
         },
         {
             "ClassName": "MVS_WarriorHelmet_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 980,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -104,7 +104,7 @@
         },
         {
             "ClassName": "MVS_Helmet_02_OD",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 300,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -130,7 +130,7 @@
         },
         {
             "ClassName": "MVS_6B47_Helmet_OD",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 300,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "MVS_Altyn_OD",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1150,
             "MinPriceThreshold": 300,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,

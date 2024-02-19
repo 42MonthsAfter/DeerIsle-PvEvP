@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "MVS_Magazine_Pouch_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2150,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -34,7 +34,7 @@
         },
         {
             "ClassName": "MVS_Admin_Pouch_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -60,7 +60,7 @@
         },
         {
             "ClassName": "MVS_Utility_Pouch_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -86,7 +86,7 @@
         },
         {
             "ClassName": "MVS_Medical_Pouch_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2250,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -109,7 +109,7 @@
         },
         {
             "ClassName": "MVS_Medical_Pouch_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2350,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -132,7 +132,7 @@
         },
         {
             "ClassName": "MVS_Holster_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2750,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "MVS_Sheath_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -170,7 +170,7 @@
         },
         {
             "ClassName": "MVS_Heavy_Pouch_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -189,7 +189,7 @@
         },
         {
             "ClassName": "MVS_Taco_Pouch_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 2250,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,
@@ -215,7 +215,7 @@
         },
         {
             "ClassName": "MVS_Molle_Panel_OD",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 600,
             "SellPricePercent": -75.0,
             "MaxStockThreshold": 1,

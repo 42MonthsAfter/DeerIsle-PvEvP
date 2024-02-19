@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "mag_fal_20rnd",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "mag_akm_30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "mag_akm_palm30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "mag_akm_drum75rnd",
-            "MaxPriceThreshold": 960,
+            "MaxPriceThreshold": 2350,
             "MinPriceThreshold": 480,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "mag_ak101_30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "mag_ak74_30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "mag_ak74_45rnd",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "mag_stanag_30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1750,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "mag_stanagcoupled_30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 2350,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -107,7 +107,7 @@
         },
         {
             "ClassName": "mag_stanag_60rnd",
-            "MaxPriceThreshold": 960,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 480,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "mag_cmag_10rnd",
-            "MaxPriceThreshold": 240,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -129,7 +129,7 @@
         },
         {
             "ClassName": "mag_cmag_20rnd",
-            "MaxPriceThreshold": 360,
+            "MaxPriceThreshold": 1950,
             "MinPriceThreshold": 180,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -140,7 +140,7 @@
         },
         {
             "ClassName": "mag_cmag_30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1550,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "mag_cmag_40rnd",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1950,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -162,7 +162,7 @@
         },
         {
             "ClassName": "mag_val_20rnd",
-            "MaxPriceThreshold": 560,
+            "MaxPriceThreshold": 1450,
             "MinPriceThreshold": 280,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -173,7 +173,7 @@
         },
         {
             "ClassName": "mag_famas_25rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1575,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -184,7 +184,7 @@
         },
         {
             "ClassName": "mag_aug_30rnd",
-            "MaxPriceThreshold": 440,
+            "MaxPriceThreshold": 1575,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -195,7 +195,7 @@
         },
         {
             "ClassName": "mag_expansion_m14_10rnd",
-            "MaxPriceThreshold": 400,
+            "MaxPriceThreshold": 1550,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -206,7 +206,7 @@
         },
         {
             "ClassName": "mag_expansion_m14_20rnd",
-            "MaxPriceThreshold": 520,
+            "MaxPriceThreshold": 1550,
             "MinPriceThreshold": 260,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -217,7 +217,7 @@
         },
         {
             "ClassName": "mag_expansion_g36_30rnd",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 1575,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -228,7 +228,7 @@
         },
         {
             "ClassName": "TWP_Vepr_Sok94_mag_10Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1950,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -239,7 +239,7 @@
         },
         {
             "ClassName": "TWP_AR15Cannabis_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -250,7 +250,7 @@
         },
         {
             "ClassName": "TWP_ACE23_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -261,7 +261,7 @@
         },
         {
             "ClassName": "TWP_Ash12_mag_10Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -272,7 +272,7 @@
         },
         {
             "ClassName": "TWP_Tar21_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -283,7 +283,7 @@
         },
         {
             "ClassName": "TWP_Stoner63_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -294,7 +294,7 @@
         },
         {
             "ClassName": "TWP_ACR_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -305,7 +305,7 @@
         },
         {
             "ClassName": "TWP_ACWR_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -316,7 +316,7 @@
         },
         {
             "ClassName": "TWP_AK9_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -327,7 +327,7 @@
         },
         {
             "ClassName": "TWP_AK12Green_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -338,7 +338,7 @@
         },
         {
             "ClassName": "TWP_AK12_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -349,7 +349,7 @@
         },
         {
             "ClassName": "TWP_AK12Tan_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -360,7 +360,7 @@
         },
         {
             "ClassName": "TWP_AK47Blue_mag_35Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -371,7 +371,7 @@
         },
         {
             "ClassName": "TWP_AK47Boar_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -382,7 +382,7 @@
         },
         {
             "ClassName": "TWP_AK47Dragon_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -393,7 +393,7 @@
         },
         {
             "ClassName": "TWP_AK47Spider_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -404,7 +404,7 @@
         },
         {
             "ClassName": "TWP_AK47Wolf_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -415,7 +415,7 @@
         },
         {
             "ClassName": "TWP_AK47WhiteWolf_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -426,7 +426,7 @@
         },
         {
             "ClassName": "TWP_AMD_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -437,7 +437,7 @@
         },
         {
             "ClassName": "TWP_AMDSpaceship_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -448,7 +448,7 @@
         },
         {
             "ClassName": "TWP_AN94_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -459,7 +459,7 @@
         },
         {
             "ClassName": "TWP_AR15_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -470,7 +470,7 @@
         },
         {
             "ClassName": "TWP_AR70_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -481,7 +481,7 @@
         },
         {
             "ClassName": "TWP_ARX160_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1950,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -492,7 +492,7 @@
         },
         {
             "ClassName": "TWP_ASR_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2575,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -503,7 +503,7 @@
         },
         {
             "ClassName": "TWP_ASVal_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -514,7 +514,7 @@
         },
         {
             "ClassName": "TWP_SteyrAug_mag_45Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -525,7 +525,7 @@
         },
         {
             "ClassName": "TWP_CZScorpion_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1575,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -536,7 +536,7 @@
         },
         {
             "ClassName": "TWP_Famas_mag_35Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -547,7 +547,7 @@
         },
         {
             "ClassName": "TWP_FamasSpecialOps_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -558,7 +558,7 @@
         },
         {
             "ClassName": "TWP_FamasTan_mag_35Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -569,7 +569,7 @@
         },
         {
             "ClassName": "TWP_FG42_mag_25Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2750,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -580,7 +580,7 @@
         },
         {
             "ClassName": "TWP_FNFNC_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2750,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -591,7 +591,7 @@
         },
         {
             "ClassName": "TWP_FNM29_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -602,7 +602,7 @@
         },
         {
             "ClassName": "TWP_G3A3_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2575,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -613,7 +613,7 @@
         },
         {
             "ClassName": "TWP_G36_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -624,7 +624,7 @@
         },
         {
             "ClassName": "TWP_G36c_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2150,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -635,7 +635,7 @@
         },
         {
             "ClassName": "TWP_HK33_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2575,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -646,7 +646,7 @@
         },
         {
             "ClassName": "TWP_HK416_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -657,7 +657,7 @@
         },
         {
             "ClassName": "TWP_HK417_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -668,7 +668,7 @@
         },
         {
             "ClassName": "TWP_HKCarabine_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 4500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -679,7 +679,7 @@
         },
         {
             "ClassName": "TWP_HoneyBadger_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -690,7 +690,7 @@
         },
         {
             "ClassName": "TWP_HoneyBadgerGold_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 8500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -701,7 +701,7 @@
         },
         {
             "ClassName": "TWP_IA2_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2350,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -712,7 +712,7 @@
         },
         {
             "ClassName": "TWP_K2C_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -723,7 +723,7 @@
         },
         {
             "ClassName": "TWP_LR300_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 8750,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -734,7 +734,7 @@
         },
         {
             "ClassName": "TWP_M4V5_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -745,7 +745,7 @@
         },
         {
             "ClassName": "TWP_M16_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -756,7 +756,7 @@
         },
         {
             "ClassName": "TWP_M16A3_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -767,7 +767,7 @@
         },
         {
             "ClassName": "TWP_M16A4_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 4150,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -778,7 +778,7 @@
         },
         {
             "ClassName": "TWP_MK14_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3150,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -789,7 +789,7 @@
         },
         {
             "ClassName": "TWP_MK18_mag_100Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 9000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -800,7 +800,7 @@
         },
         {
             "ClassName": "TWP_MSBSGrotC_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3525,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -811,7 +811,7 @@
         },
         {
             "ClassName": "TWP_MSBSGrotBGold_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -822,7 +822,7 @@
         },
         {
             "ClassName": "TWP_OTSGrosa_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -833,7 +833,7 @@
         },
         {
             "ClassName": "TWP_ParaSA58_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3225,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -844,7 +844,7 @@
         },
         {
             "ClassName": "TWP_PindadSS2_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -855,7 +855,7 @@
         },
         {
             "ClassName": "TWP_PPSH_mag_50Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3750,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -866,7 +866,7 @@
         },
         {
             "ClassName": "TWP_QBZ03_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3225,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -877,7 +877,7 @@
         },
         {
             "ClassName": "TWP_RemingtonR5_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3350,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -888,7 +888,7 @@
         },
         {
             "ClassName": "TWP_RK62_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 4550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -899,7 +899,7 @@
         },
         {
             "ClassName": "TWP_RPK16_mag_100Rnd",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 9250,
             "MinPriceThreshold": 1400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -910,7 +910,7 @@
         },
         {
             "ClassName": "TWP_RPK16Green_mag_100Rnd",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 9250,
             "MinPriceThreshold": 1400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -921,7 +921,7 @@
         },
         {
             "ClassName": "TWP_RPK16tan_mag_100Rnd",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 9250,
             "MinPriceThreshold": 1400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -932,7 +932,7 @@
         },
         {
             "ClassName": "TWP_ScarL_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5600,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -943,7 +943,7 @@
         },
         {
             "ClassName": "TWP_ScarH_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -954,7 +954,7 @@
         },
         {
             "ClassName": "TWP_ScarDragon_mag_50Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -965,7 +965,7 @@
         },
         {
             "ClassName": "TWP_SG550_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -976,7 +976,7 @@
         },
         {
             "ClassName": "TWP_SG553_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3525,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -987,7 +987,7 @@
         },
         {
             "ClassName": "TWP_SR47_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -998,7 +998,7 @@
         },
         {
             "ClassName": "TWP_StenGun_mag_32Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1009,7 +1009,7 @@
         },
         {
             "ClassName": "TWP_STG58_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3200,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1020,7 +1020,7 @@
         },
         {
             "ClassName": "TWP_Thompson_mag_50Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 4250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1031,7 +1031,7 @@
         },
         {
             "ClassName": "TWP_Type64_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1042,7 +1042,7 @@
         },
         {
             "ClassName": "TWP_Type89_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1053,7 +1053,7 @@
         },
         {
             "ClassName": "TWP_XM8_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 4525,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1064,7 +1064,7 @@
         },
         {
             "ClassName": "TWP_G56_mag_32Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3750,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1075,7 +1075,7 @@
         },
         {
             "ClassName": "TWP_ThompsonMK2_mag_50Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 4230,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1086,7 +1086,7 @@
         },
         {
             "ClassName": "TWP_MiniGun_mag_300Rnd",
-            "MaxPriceThreshold": 2500,
+            "MaxPriceThreshold": 9500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1097,7 +1097,7 @@
         },
         {
             "ClassName": "TWP_M60_mag_200Rnd",
-            "MaxPriceThreshold": 2500,
+            "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1108,7 +1108,7 @@
         },
         {
             "ClassName": "TWP_M249_mag_200Rnd",
-            "MaxPriceThreshold": 2500,
+            "MaxPriceThreshold": 7550,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1119,7 +1119,7 @@
         },
         {
             "ClassName": "TWP_FG42Old_mag_25Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1130,7 +1130,7 @@
         },
         {
             "ClassName": "TWP_G36x_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2950,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1141,7 +1141,7 @@
         },
         {
             "ClassName": "TWP_M4A1_mag_35Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5450,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1152,7 +1152,7 @@
         },
         {
             "ClassName": "TWP_L85A2_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3670,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1163,7 +1163,7 @@
         },
         {
             "ClassName": "TWP_SG556_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3650,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1174,7 +1174,7 @@
         },
         {
             "ClassName": "TWP_AK103_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3210,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1185,7 +1185,7 @@
         },
         {
             "ClassName": "TWP_AK105_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2875,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1196,7 +1196,7 @@
         },
         {
             "ClassName": "TWP_GalilSAR_mag_35Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2485,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1207,7 +1207,7 @@
         },
         {
             "ClassName": "TWP_HoneyBadgerBW_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5600,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1218,7 +1218,7 @@
         },
         {
             "ClassName": "TWP_M16A1_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1229,7 +1229,7 @@
         },
         {
             "ClassName": "TWP_M134_mag_500Rnd",
-            "MaxPriceThreshold": 2500,
+            "MaxPriceThreshold": 7500,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1240,7 +1240,7 @@
         },
         {
             "ClassName": "TWP_M134_mag_750Rnd",
-            "MaxPriceThreshold": 3000,
+            "MaxPriceThreshold": 8500,
             "MinPriceThreshold": 2800,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1251,7 +1251,7 @@
         },
         {
             "ClassName": "TWP_MAB38_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3575,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1262,7 +1262,7 @@
         },
         {
             "ClassName": "TWP_PP19Bison_mag_64Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1273,7 +1273,7 @@
         },
         {
             "ClassName": "TWP_Ruger556_MagPul",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2100,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1284,7 +1284,7 @@
         },
         {
             "ClassName": "TWP_Ruger556_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1295,7 +1295,7 @@
         },
         {
             "ClassName": "TWP_STG44_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2785,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1306,7 +1306,7 @@
         },
         {
             "ClassName": "TWP_SteyrAug_mag_45Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2260,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1317,7 +1317,7 @@
         },
         {
             "ClassName": "TWP_Sterling_mag_34Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1328,7 +1328,7 @@
         },
         {
             "ClassName": "TWP_PKM_mag_100Rnd",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 1200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1339,7 +1339,7 @@
         },
         {
             "ClassName": "TWP_AK47Tactical_mag_45Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1350,7 +1350,7 @@
         },
         {
             "ClassName": "TWP_AK47_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1361,7 +1361,7 @@
         },
         {
             "ClassName": "TWP_CalifasNomad_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2750,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1372,7 +1372,7 @@
         },
         {
             "ClassName": "TWP_MG42_mag_150Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1383,7 +1383,7 @@
         },
         {
             "ClassName": "TWP_AK107_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1394,7 +1394,7 @@
         },
         {
             "ClassName": "TWP_AK107Camouflage_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1405,7 +1405,7 @@
         },
         {
             "ClassName": "TWP_FNFAL_mag_25Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1416,7 +1416,7 @@
         },
         {
             "ClassName": "TWP_MAB38_mag_40Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2950,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1427,7 +1427,7 @@
         },
         {
             "ClassName": "TWP_Browning1928_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 5250,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1438,7 +1438,7 @@
         },
         {
             "ClassName": "TWP_PKP_mag_200Rnd",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 8500,
             "MinPriceThreshold": 1200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1449,7 +1449,7 @@
         },
         {
             "ClassName": "TWP_MK14_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1460,7 +1460,7 @@
         },
         {
             "ClassName": "TWP_AR15USA_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1471,7 +1471,7 @@
         },
         {
             "ClassName": "TWP_AR15Aztec_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1482,7 +1482,7 @@
         },
         {
             "ClassName": "TWP_AR15Urban_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1493,7 +1493,7 @@
         },
         {
             "ClassName": "TWP_AR15Snow_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1504,7 +1504,7 @@
         },
         {
             "ClassName": "TWP_AR15Skull_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1515,7 +1515,7 @@
         },
         {
             "ClassName": "TWP_Bushmaster_M17S_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1526,7 +1526,7 @@
         },
         {
             "ClassName": "TWP_LAR_mag_20Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 2750,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1537,7 +1537,7 @@
         },
         {
             "ClassName": "TWP_ARX160_mag_30Rnd",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 12550,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -1548,7 +1548,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_BLUE",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1559,7 +1559,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_LIGHTBLUE",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1570,7 +1570,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_PINK",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1581,7 +1581,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_PURPLE",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1592,7 +1592,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_YELLOW",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1603,7 +1603,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_RED",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1614,7 +1614,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_GREEN",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1625,7 +1625,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_WHITE",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1636,7 +1636,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_BLACK",
-            "MaxPriceThreshold": 1500,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 1350,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1647,7 +1647,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_CRUSHEDFOIL",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1850,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1658,7 +1658,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_OILFOIL",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1850,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1669,7 +1669,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_NIGHTFOIL",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1850,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1680,7 +1680,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_ROYALFOIL",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1850,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -1691,7 +1691,7 @@
         },
 		{
             "ClassName": "DOC_STANAG69_GALAXY",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1850,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,

@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "MVS_Pants_BDU",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -21,7 +21,7 @@
         },
         {
             "ClassName": "MVS_GorkaPants",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5750,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -37,7 +37,7 @@
         },
         {
             "ClassName": "MVS_CombatPants_OD",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 5750,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,

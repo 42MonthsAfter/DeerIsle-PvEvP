@@ -90,6 +90,17 @@
             "Variants": []
         },
         {
+            "ClassName": "diana_m27_mung",
+            "MaxPriceThreshold": 2600,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": -60.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "winchester70",
             "MaxPriceThreshold": 2900,
             "MinPriceThreshold": 2650,

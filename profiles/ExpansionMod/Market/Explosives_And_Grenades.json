@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "rgd5grenade",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "m67grenade",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 900,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "flashgrenade",
-            "MaxPriceThreshold": 700,
+            "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 550,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "remotedetonator",
-            "MaxPriceThreshold": 1600,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 1300,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "remotedetonatortrigger",
-            "MaxPriceThreshold": 1600,
+            "MaxPriceThreshold": 2150,
             "MinPriceThreshold": 1300,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "improvisedexplosive",
-            "MaxPriceThreshold": 6000,
+            "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 5300,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "plastic_explosive",
-            "MaxPriceThreshold": 6000,
+            "MaxPriceThreshold": 8500,
             "MinPriceThreshold": 5300,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -113,7 +113,7 @@
         },
         {
             "ClassName": "expansion_m18smokegrenade_teargas",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 960,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,
@@ -137,7 +137,7 @@
         },
         {
             "ClassName": "expansionsatchel",
-            "MaxPriceThreshold": 100000,
+            "MaxPriceThreshold": 17500,
             "MinPriceThreshold": 97500,
             "SellPricePercent": -60.0,
             "MaxStockThreshold": 1,

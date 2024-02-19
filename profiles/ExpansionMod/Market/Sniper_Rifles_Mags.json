@@ -62,6 +62,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Mag_SVD_10Rnd",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "TWP_FRF2_mag_5Rnd",
             "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 1000,
