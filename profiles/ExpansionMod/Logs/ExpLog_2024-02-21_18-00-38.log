@@ -1,0 +1,84 @@
+18:02:59.628 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:02:59.632 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:02:59.632 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+18:03:00.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:18:01.007 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical
+18:53:48.281 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10803.247070, 7.502728, 10666.218750>) uncovered vehicle "Interceptor" (GlobalID=8000000080000000800000008002D888 pos=<10804.779297, 7.664676, 10667.276367>)!
+18:53:58.937 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10804.002930, 7.791323, 10665.134766>) used the  ExpansionCarKey to unlock Interceptor (id=0181D42B5849119E416C45A050B64777 pos=<10804.778320, 7.664446, 10667.275391>)
+18:54:14.687 [AI Patrol] Spawning 3 Temple Patrol bots at <368.368530, 47.070000, 805.373718>
+18:54:14.781 [AI Patrol] Spawning 3 Temple Patrol bots at <359.811737, 47.070000, 714.682617>
+18:54:14.796 [AI Patrol] Spawning 3 Temple Patrol bots at <471.800598, 55.318199, 814.183533>
+18:54:16.390 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Interceptor (id=0181D42B5849119E416C45A050B64777 pos=<10804.778320, 7.664478, 10667.275391>) as driver
+18:54:22.726 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Interceptor (id=0181D42B5849119E416C45A050B64777 pos=<10804.778320, 7.664515, 10667.275391>)
+19:01:11.578 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Interceptor (id=0181D42B5849119E416C45A050B64777 pos=<8905.335938, 5.172177, 8694.528320>)
+19:01:22.250 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Interceptor (id=0181D42B5849119E416C45A050B64777 pos=<8905.335938, 5.172178, 8694.528320>)
+19:01:43.031 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8903.409180, 5.535639, 8694.586914>) used the  ExpansionCarKey to lock Interceptor (id=0181D42B5849119E416C45A050B64777 pos=<8905.335938, 5.172177, 8694.528320>)
+19:02:05.007 [VehicleDeleted] Interceptor (id=0181D42B5849119E416C45A050B64777 pos=<8905.335938, 5.172177, 8694.528320>)
+19:02:05.007 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8903.208008, 5.281478, 8694.857422>) covered vehicle "Interceptor" (GlobalID=8000000080000000800000008002D888 pos=<8905.335938, 5.172177, 8694.528320>)!
+19:02:18.484 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8903.161133, 5.281514, 8694.882813>) uncovered vehicle "Interceptor" (GlobalID=8000000080000000800000008002D888 pos=<8905.335938, 5.172177, 8694.528320>)!
+19:02:46.796 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8903.771484, 5.281477, 8694.896484>) used the  ExpansionCarKey to unlock Interceptor (id=83FDFAA3EC4F3051769DB5AD557ACE5F pos=<8905.335938, 5.172153, 8694.528320>)
+19:03:09.632 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8903.800781, 5.281479, 8694.915039>) used the  ExpansionCarKey to lock Interceptor (id=83FDFAA3EC4F3051769DB5AD557ACE5F pos=<8905.335938, 5.172153, 8694.528320>)
+19:03:27.609 [VehicleDeleted] Interceptor (id=83FDFAA3EC4F3051769DB5AD557ACE5F pos=<8905.335938, 5.172153, 8694.528320>)
+19:03:27.609 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8903.655273, 5.281479, 8695.129883>) covered vehicle "Interceptor" (GlobalID=8000000080000000800000008002D888 pos=<8905.335938, 5.172153, 8694.528320>)!
+19:12:08.093 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+20:00:53.906 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<5623.984863, 28.722481, 5400.884766>) Entered the safezone
+20:00:53.906 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+20:00:53.921 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+20:00:53.921 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 46
+20:00:54.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 46
+20:01:53.523 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+20:56:09.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=
+20:56:09.320 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+20:57:05.718 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4247.040039, 20.607618, 7284.292969>) uncovered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4247.424316, 20.608257, 7282.072266>)!
+20:57:13.312 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4247.040039, 20.607618, 7284.292969>) used the  ExpansionCarKey to unlock BMW_X5_red (id=6A0265D0D84014803641C6A183D14BE6 pos=<4247.426270, 20.608255, 7282.073242>)
+21:03:58.156 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<4247.426270, 20.608255, 7282.073242>) as driver
+21:03:59.609 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<4247.426270, 20.608257, 7282.073242>)
+21:04:15.859 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<4258.217773, 20.466581, 7276.787109>)
+21:04:22.726 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<4258.217773, 20.466597, 7276.786621>) as driver
+21:04:49.187 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4505.385742, 20.430000, 7184.784180>
+21:05:54.695 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3705.217041, 20.430632, 6471.181152>)
+21:06:08.750 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3705.217041, 20.430632, 6471.181152>) as driver
+21:06:17.984 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3723.680664, 20.430635, 6437.737793>)
+21:06:48.156 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3723.680664, 20.430634, 6437.737793>) as driver
+21:07:01.148 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3764.856445, 20.430632, 6383.642090>)
+21:09:44.828 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3764.856445, 20.430632, 6383.642578>) as driver
+21:10:57.984 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+21:10:57.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:11:39.859 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<6282.544922, 15.090631, 6196.670410>)
+21:13:44.242 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<6282.544922, 15.090632, 6196.670410>) as driver
+21:14:19.281 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<6615.065918, 15.090631, 6340.573730>)
+21:15:26.718 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3775.371582, 0.504977, 2423.836426>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=D087AD0D9F4C76CCE8AF4782E65FECB9 pos=<3775.615479, 0.451323, 2423.648682>)
+21:15:29.312 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<6615.065918, 15.090631, 6340.573730>) as driver
+21:15:37.554 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle PBX (id=D087AD0D9F4C76CCE8AF4782E65FECB9 pos=<3775.615479, 0.172380, 2423.648682>) as driver
+21:15:40.781 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle PBX (id=D087AD0D9F4C76CCE8AF4782E65FECB9 pos=<3775.615479, 0.175577, 2423.648682>)
+21:22:39.796 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle PBX (id=D087AD0D9F4C76CCE8AF4782E65FECB9 pos=<72.991638, 0.187988, 2226.227539>)
+21:22:42.789 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle PBX (id=D087AD0D9F4C76CCE8AF4782E65FECB9 pos=<72.670654, 0.237928, 2226.461426>)
+21:22:53.289 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<71.070198, -0.233102, 2222.159668>) used the  ExpansionCarKey to lock ExpansionZodiacBoat (id=D087AD0D9F4C76CCE8AF4782E65FECB9 pos=<72.670654, 0.237928, 2226.461426>)
+21:23:39.835 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<6615.065918, 15.090632, 6340.573730>)
+21:32:47.906 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3066.735596, 2.163608, 7181.518066>)
+21:32:52.828 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<3066.735596, 2.163615, 7181.518066>) as driver
+21:34:36.968 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2152.857178, 1.746070, 7092.476074>)
+21:36:11.726 [VehicleAttachments] Player FARRIS (uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) detached BMW X5 Wheel (type=BMW_X5_Wheel) from vehicle BMW X5 Red(id=6A0265D0D84014803641C6A183D14BE6 pos=<2152.772949, 1.747834, 7092.421875>)
+21:36:20.898 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2152.748047, 1.757127, 7092.430664>) as driver
+21:36:24.453 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2152.748047, 1.757039, 7092.430664>)
+21:36:38.953 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2144.842285, 1.580189, 7094.745117>)
+21:36:53.234 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2144.841309, 1.619841, 7094.744141>) as driver
+21:39:03.164 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2228.651123, 2.390372, 7082.576172>)
+21:39:40.195 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2228.683350, 0.479111, 7082.532227>) as driver
+21:39:42.726 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2228.683350, 0.479120, 7082.532227>)
+21:40:07.796 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2366.252686, 1.940627, 7227.223633>)
+21:40:22.132 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<2363.691162, 1.923895, 7225.505371>) used the  ExpansionCarKey to lock BMW_X5_red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2366.252686, 1.940627, 7227.223633>)
+21:40:36.718 [VehicleDeleted] BMW_X5_red (id=6A0265D0D84014803641C6A183D14BE6 pos=<2366.252686, 1.940627, 7227.223633>)
+21:40:36.718 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<2363.312012, 1.938806, 7225.239258>) covered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<2366.252686, 1.940627, 7227.223633>)!
+21:46:44.109 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+21:58:27.054 [Killfeed] MrGreen530 got killed.
+21:59:20.562 [SpawnSelection] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) spawned at <4867.339844, 8.270000, 1577.310059>
+22:21:53.921 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+22:21:53.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+22:21:53.929 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 46
+22:21:53.937 [AI Patrol] Spawning 3 Shamans bots at <9298.222656, 49.656643, 12034.641602>
+22:21:54.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 46
+22:22:39.046 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+22:33:42.671 [Killfeed] MrGreen530 got killed.
+22:34:13.476 [SpawnSelection] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) spawned at <4613.680176, 14.754800, 1560.599976>
+22:42:39.039 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3748.445068, 5.635047, 2526.008545>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<3750.909424, 5.639815, 2526.786865>)

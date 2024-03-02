@@ -1,0 +1,53 @@
+06:03:55.117 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) joinded the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)
+06:03:55.123 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=
+06:03:55.123 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 43
+06:03:56.082 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 43
+06:16:05.812 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) left the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)
+06:18:55.802 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+06:54:49.548 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+06:54:49.550 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+06:54:49.550 [Expansion Quests] - Create new quest instance for quest: 18 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+06:54:49.550 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:07:21.171 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:07:21.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+07:07:21.171 [Expansion Quests] - Create new quest instance for quest: 18 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:07:21.171 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:14:09.755 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:14:09.755 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+07:14:09.755 [Expansion Quests] - Create new quest instance for quest: 18 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:14:09.755 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+08:12:19.572 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+08:12:19.580 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+08:12:19.580 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 42
+08:12:20.541 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+08:14:59.781 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+10:03:59.304 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:03:59.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+10:03:59.320 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+10:03:59.324 [Expansion Quests] - Create new quest instance for quest: 16 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+10:04:00.269 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+10:04:02.082 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Military
+10:06:57.144 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<10248.707031, 23.781731, 7969.817871>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=81E2E0C54C40FB23B1B8B0828B0FDA5F pos=<10249.323242, 23.703705, 7968.739258>)
+10:07:01.585 [AI Patrol] Spawning 3 Temple Patrol bots at <319.157104, 47.070000, 844.695068>
+10:07:01.679 [AI Patrol] Spawning 3 Temple Patrol bots at <341.282104, 47.070000, 756.128296>
+10:07:01.691 [AI Patrol] Spawning 3 Temple Patrol bots at <358.802032, 47.070000, 844.756836>
+10:07:03.281 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle ToyotaHilux rust (id=81E2E0C54C40FB23B1B8B0828B0FDA5F pos=<10249.322266, 23.703588, 7968.738770>) as driver
+10:07:12.554 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=81E2E0C54C40FB23B1B8B0828B0FDA5F pos=<10249.321289, 23.703697, 7968.739258>)
+10:15:33.953 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] stopped vehicle ToyotaHilux rust (id=81E2E0C54C40FB23B1B8B0828B0FDA5F pos=<7455.871582, 6.654762, 8471.330078>)
+10:15:43.082 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle ToyotaHilux rust (id=81E2E0C54C40FB23B1B8B0828B0FDA5F pos=<7455.889160, 6.637119, 8471.349609>)
+10:17:48.777 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7456.933594, 6.662500, 8472.422852>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=81E2E0C54C40FB23B1B8B0828B0FDA5F pos=<7455.907715, 6.654741, 8471.331055>)
+10:21:04.882 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:04:33.773 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:04:33.785 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+11:04:33.789 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:04:34.734 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:10:20.925 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:13:46.800 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:13:46.808 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:13:46.808 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:13:46.808 [Expansion Quests] - Create new quest instance for quest: 41 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:13:47.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:54:26.824 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8887.859375, 5.211762, 8676.065430>) uncovered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8885.146484, 5.220794, 8675.645508>)!
+11:54:39.867 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8886.915039, 5.383284, 8678.524414>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=87E70B11834A05792A7B49BAB5AA96CC pos=<8885.146484, 5.220794, 8675.645508>)
+11:56:59.390 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8886.786133, 5.211754, 8676.012695>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=87E70B11834A05792A7B49BAB5AA96CC pos=<8885.146484, 5.220794, 8675.645508>)
+11:59:14.929 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

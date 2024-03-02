@@ -1,0 +1,32 @@
+12:04:41.828 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+12:04:41.832 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+12:04:41.832 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+12:04:41.832 [Expansion Quests] - Create new quest instance for quest: 44 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+12:04:42.804 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+12:08:42.593 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+12:08:42.593 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:19:42.179 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Medical
+12:22:38.125 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4609.071289, 20.430000, 7097.128418>
+12:27:30.769 [Killfeed] Dragonhunter got killed.
+12:28:17.218 [SpawnSelection] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) spawned at <3060.449951, 11.511600, 6255.330078>
+12:59:39.382 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+12:59:39.394 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+12:59:39.398 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 46
+12:59:40.347 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 46
+13:00:49.164 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+13:55:36.445 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+14:43:47.851 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+14:43:47.851 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+15:33:18.718 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+15:33:18.726 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:33:18.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 46
+15:33:19.683 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 46
+15:34:03.648 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "69TH Survivors Company" (id=46 ownerUID=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8= ownerName=Captain Sodomy)
+15:42:34.773 [AI Patrol] Spawning 3 RCFI Patrol bots at <3858.973389, 11.345399, 8901.947266>
+16:26:17.937 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) joinded the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)
+16:26:17.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=
+16:26:17.953 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 43
+16:26:18.898 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 43
+16:26:27.363 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Medical
+16:29:28.492 [BaseRaiding] ExpansionWall6x3 (<7534.431152, 31.540846, 3555.105469>) Code set by player "Sarco" (ID = "pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=" at <7535.714844, 31.790930, 3553.689941>) and the code is 656173
+16:31:01.726 [Party] Player "Sarco" (id=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) left the party "Carrots" (id=43 ownerUID=pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU= ownerName=Sarco)

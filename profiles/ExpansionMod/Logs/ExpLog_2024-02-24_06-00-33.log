@@ -1,0 +1,35 @@
+06:03:01.224 [Safezone] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= pos=<5615.505371, 29.020767, 5416.457031>) Entered the safezone
+06:03:01.230 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+06:03:01.230 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+06:04:13.406 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has send a requested to purchase geb_angelshark x1 from the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+06:04:13.587 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has bought geb_angelshark x1 from the trader "Hunting (Helga [HUNTING & FISHING])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3000.
+06:04:56.197 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+06:04:56.197 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+06:04:56.197 [Expansion Quests] - Create new quest instance for quest: 20 - Player UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+06:06:46.644 [VehicleCarKey] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<6017.335449, 13.008574, 5004.415527>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=E1A9E95E29460418508849B7D1605D85 pos=<6015.905273, 12.998385, 5007.312500>)
+06:06:58.552 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= for quest 14
+06:07:14.880 [VehicleCarKey] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<6017.335449, 13.008574, 5004.415527>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=E1A9E95E29460418508849B7D1605D85 pos=<6015.905273, 12.998385, 5007.312500>)
+06:07:28.679 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= for quest 13
+06:09:54.427 [Expansion Quests] - CancelQuestServer - Player with UID 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= has cancelled quest 13
+06:10:03.220 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= for quest 18
+06:11:27.085 [Safezone] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= pos=<5538.631836, 17.256620, 5549.227051>) Left the safezone
+06:18:05.728 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+06:18:51.533 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4722.551270, 20.430000, 7107.250977>
+07:50:36.416 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+07:50:36.429 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+07:50:36.429 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+07:50:36.429 [Expansion Quests] - Create new quest instance for quest: 41 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+07:50:37.380 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+07:58:47.458 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8885.795898, 5.211726, 8675.813477>) uncovered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8883.951172, 5.179872, 8675.598633>)!
+07:59:03.884 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8885.308594, 5.211762, 8674.657227>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=7D6A24257E4A3CA65711E58171C3D1AF pos=<8883.951172, 5.179879, 8675.598633>)
+08:00:19.423 [AI Patrol] Spawning 3 Temple Patrol bots at <440.551331, 46.855862, 812.805054>
+08:00:19.433 [AI Patrol] Spawning 3 Temple Patrol bots at <310.436218, 48.908298, 612.106934>
+08:00:19.445 [AI Patrol] Spawning 3 Temple Patrol bots at <470.265503, 47.070000, 766.270081>
+08:00:21.470 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=7D6A24257E4A3CA65711E58171C3D1AF pos=<8883.951172, 5.179877, 8675.598633>) as driver
+08:00:27.533 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=7D6A24257E4A3CA65711E58171C3D1AF pos=<8883.951172, 5.179878, 8675.598633>)
+08:06:30.992 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=7D6A24257E4A3CA65711E58171C3D1AF pos=<10831.985352, 9.333749, 10668.306641>)
+08:06:41.062 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=7D6A24257E4A3CA65711E58171C3D1AF pos=<10831.985352, 9.333801, 10668.306641>)
+08:07:08.056 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10832.232422, 9.242583, 10666.452148>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=7D6A24257E4A3CA65711E58171C3D1AF pos=<10831.985352, 9.333801, 10668.306641>)
+08:07:36.707 [VehicleDeleted] OffroadRangeRover_green (id=7D6A24257E4A3CA65711E58171C3D1AF pos=<10831.985352, 9.333801, 10668.306641>)
+08:07:36.707 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10832.922852, 9.295323, 10666.482422>) covered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<10831.985352, 9.333801, 10668.306641>)!
+08:35:25.914 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

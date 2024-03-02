@@ -1,0 +1,79 @@
+00:01:46.311 [Safezone] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5645.120605, 30.600796, 5426.028809>) Entered the safezone
+00:01:46.312 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:01:46.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+00:01:46.320 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 49
+00:01:46.320 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+00:01:47.290 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:02:14.300 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5645.205566, 28.668444, 5423.101563>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5645.173340, 28.531000, 5425.924805>)
+00:02:18.428 [AI Patrol] Spawning 3 Temple Patrol bots at <306.991058, 45.439625, 737.679016>
+00:02:18.527 [AI Patrol] Spawning 3 Temple Patrol bots at <365.577393, 47.070000, 838.061462>
+00:02:18.540 [AI Patrol] Spawning 3 Temple Patrol bots at <419.990082, 46.391041, 735.460449>
+00:02:20.131 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5645.174316, 28.530848, 5425.927734>) as driver
+00:02:26.479 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5645.174316, 28.530893, 5425.927246>)
+00:03:09.216 [Safezone] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5646.821289, 28.721485, 5420.055176>) Entered the safezone
+00:03:09.217 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:03:09.221 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+00:03:09.222 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:03:09.222 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+00:03:10.199 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:03:41.564 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5645.612305, 27.016155, 5450.445801>) as passenger
+00:04:02.708 [Safezone] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5623.829590, 16.395777, 5692.612305>) Left the safezone
+00:04:02.812 [Safezone] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5624.581055, 16.315973, 5694.506348>) Left the safezone
+00:04:24.158 [AI Patrol] Spawning 1 Shamans bots at <5002.903320, 25.657513, 6864.607910>
+00:06:11.381 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<6378.530762, 15.094744, 6388.110352>)
+00:06:23.790 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<6378.529297, 15.094762, 6388.116699>) as driver
+00:06:28.320 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<6378.531250, 15.094741, 6388.113281>)
+00:07:35.845 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4726.585449, 20.430000, 7264.614258>
+00:08:55.921 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5942.772461, 14.364748, 8688.639648>)
+00:08:59.106 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5942.773438, 14.364739, 8688.641602>)
+00:10:30.360 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5942.773438, 14.364739, 8688.641602>) as passenger
+00:10:34.200 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+00:10:34.205 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+00:10:34.205 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+00:10:34.205 [Expansion Quests] - Create new quest instance for quest: 16 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+00:10:35.174 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+00:10:37.914 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5942.774414, 14.364743, 8688.643555>) as driver
+00:10:41.065 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5942.774414, 14.364743, 8688.643555>)
+00:10:46.819 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<6417.178223, 19.272364, 5481.280273>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6417.940918, 19.183779, 5479.620117>)
+00:10:52.743 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle ToyotaHilux rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6417.941895, 19.183737, 5479.618164>) as driver
+00:10:58.851 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6417.940430, 19.183872, 5479.620117>)
+00:11:20.034 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5663.618164, 4.932267, 9295.006836>)
+00:11:28.940 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5663.618164, 4.932264, 9295.006836>)
+00:12:21.260 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle ToyotaHilux rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6846.286133, 35.752060, 5822.024414>)
+00:12:26.587 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<6845.974609, 35.851837, 5823.253906>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6846.288086, 35.751762, 5822.021973>)
+00:12:28.167 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5663.618164, 4.932264, 9295.006836>) as passenger
+00:12:29.222 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<6845.974609, 35.851837, 5823.253906>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6846.288086, 35.751762, 5822.021973>)
+00:12:50.426 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<6845.974609, 35.851837, 5823.253906>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6846.288086, 35.751762, 5822.021973>)
+00:13:07.927 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5663.620117, 4.932287, 9295.005859>) as driver
+00:13:10.897 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<5663.621582, 4.932278, 9295.006836>)
+00:16:51.198 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Medical
+00:24:24.744 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<10012.610352, 27.982004, 12586.999023>)
+00:24:28.633 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<10012.608398, 27.982006, 12586.999023>)
+00:24:31.728 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle ToyotaHilux rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<10012.605469, 27.982073, 12586.999023>)
+00:24:38.297 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<10010.351563, 27.975025, 12586.377930>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=3E4DFEC0BB465FDB797A2FB3A8E55287 pos=<10012.605469, 27.982073, 12586.999023>)
+00:26:19.978 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:26:45.752 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:26:59.993 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:26:59.998 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+00:26:59.998 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:26:59.998 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+00:27:00.970 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:27:49.811 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:27:49.816 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+00:27:49.816 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:27:49.816 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+00:27:50.797 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:37:26.343 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<6845.653809, 35.896313, 5823.873535>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6846.288086, 35.751762, 5822.021973>)
+00:37:32.137 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle ToyotaHilux rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6846.288574, 35.751640, 5822.019043>) as driver
+00:37:42.437 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle ToyotaHilux rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<6846.288574, 35.751648, 5822.019043>)
+00:38:32.802 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:38:38.436 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:45:51.866 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle ToyotaHilux rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<7453.534180, 6.654764, 8474.143555>)
+00:48:35.198 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<7452.848145, 6.662500, 8476.324219>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=0BD16DAE2243A75B11E93D9118382B57 pos=<7453.533203, 6.654742, 8474.138672>)
+01:11:16.532 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+05:50:03.406 [Safezone] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= pos=<5615.596191, 29.020821, 5415.402344>) Entered the safezone
+05:50:03.423 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+05:50:03.423 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+05:50:05.248 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Basebuilding
+05:53:17.410 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has send a requested to sell twp_sledgehammer x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+05:53:17.515 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has sold twp_sledgehammer x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 646.

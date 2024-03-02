@@ -1,9 +1,0 @@
-************************** 2024-02-14T16:42:28+00:00 **************************
-2024-02-14T16:42:28+00:00 | [INFO	] GameLabs v1.932 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
-2024-02-14T16:42:38+00:00 | [INFO	] Server up (GameLabs v1.932)
-2024-02-14T16:42:38+00:00 | [INFO	] RPC interface initiated and handler registered
-2024-02-14T16:42:38+00:00 | [INFO	] Experimental speed check is enabled
-2024-02-14T16:46:34+00:00 | [ERROR	] PlayerConnect errorCode(5)
-2024-02-14T16:59:15+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<263e6d80>> fired for already disconnected player [steam64=76561198065439876]
-2024-02-14T17:00:02+00:00 | [INFO	] (Reporter) Disabled
-2024-02-14T17:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

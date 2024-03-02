@@ -138,8 +138,12 @@
         <btn name="x1Y" />
     </input>
     <input name="UAADSToggle">
-        <btn name="kLShift" />
-        <btn name="x1ThumbRight" />
+        <btn name="kLShift">
+            <event name="click" />
+        </btn>
+        <btn name="x1ThumbRight">
+            <event name="click" />
+        </btn>
     </input>
     <input name="UAZoomInOptics">
         <btn name="mWheelUp" />
@@ -189,6 +193,9 @@
     </input>
     <input name="UAHeavyMeleeAttack">
         <btn name="x1Y" />
+    </input>
+    <input name="UAMeleeAttackModifier">
+        <btn name="kLShift" />
     </input>
     <input name="UAWeaponMeleeAttack">
         <btn name="kF" />

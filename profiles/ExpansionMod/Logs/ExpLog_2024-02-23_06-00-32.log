@@ -1,0 +1,6 @@
+06:28:09.226 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+06:28:09.240 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+06:28:09.242 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+06:28:10.191 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+06:43:14.837 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer
+06:51:09.509 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

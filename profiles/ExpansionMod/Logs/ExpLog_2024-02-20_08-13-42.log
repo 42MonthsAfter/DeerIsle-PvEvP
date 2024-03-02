@@ -1,0 +1,39 @@
+08:16:45.279 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+08:16:45.285 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+08:16:45.285 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 42
+08:16:46.253 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+08:17:57.468 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<4427.139160, 2.324311, 11914.100586>) used the  ExpansionCarKey to unlock MBw140_white (id=68B939B7A143EAE6C095B48508C7B399 pos=<4425.835938, 2.272748, 11915.112305>)
+08:18:11.585 [AI Patrol] Spawning 3 Temple Patrol bots at <430.947601, 55.318199, 726.331970>
+08:18:11.708 [AI Patrol] Spawning 3 Temple Patrol bots at <325.972839, 47.070000, 849.031494>
+08:18:11.722 [AI Patrol] Spawning 3 Temple Patrol bots at <323.477875, 48.908298, 687.155884>
+08:18:13.337 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=68B939B7A143EAE6C095B48508C7B399 pos=<4425.836426, 2.272841, 11915.109375>) as driver
+08:18:18.476 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] started vehicle Mercedes-Benz W140 White (id=68B939B7A143EAE6C095B48508C7B399 pos=<4425.836426, 2.272828, 11915.109375>)
+08:20:38.519 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=68B939B7A143EAE6C095B48508C7B399 pos=<5242.344238, 4.789550, 12397.500000>)
+08:21:04.326 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=68B939B7A143EAE6C095B48508C7B399 pos=<5242.342773, 4.789547, 12397.500000>) as driver
+08:24:16.685 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] stopped vehicle Mercedes-Benz W140 White (Locked) (id=68B939B7A143EAE6C095B48508C7B399 pos=<6291.173340, 41.879551, 14144.076172>)
+08:24:22.832 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=68B939B7A143EAE6C095B48508C7B399 pos=<6291.173340, 41.879551, 14144.076172>)
+08:24:29.160 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<6291.318848, 41.872498, 14147.045898>) used the  ExpansionCarKey to lock MBw140_white (id=68B939B7A143EAE6C095B48508C7B399 pos=<6291.173828, 41.879547, 14144.076172>)
+08:29:02.357 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:29:02.361 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+08:29:02.363 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+08:29:03.328 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+08:30:24.783 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+08:31:54.976 [MissionAirdrop] An airdrop is heading towards "Mountainville" (pos=<7911.000000, 0.000000, 8864.000000> type=Random_Mountainville) with a ExpansionAirdropContainer_Medical
+08:46:50.951 [VehicleCover] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<10861.664063, 5.543443, 10483.884766>) uncovered vehicle "Interceptor" (GlobalID=8000000080000000800000008002D367 pos=<10863.238281, 5.434176, 10485.055664>)!
+08:46:54.798 [VehicleCarKey] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<10861.664063, 5.543443, 10483.884766>) used the  ExpansionCarKey to unlock Interceptor (id=1A0BB3E79C49370A4B3412AD5851F6C1 pos=<10863.238281, 5.434153, 10485.055664>)
+08:47:00.496 [VehicleEnter] Player TomInTheNorth [uid=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=] entered vehicle Interceptor (id=1A0BB3E79C49370A4B3412AD5851F6C1 pos=<10863.238281, 5.434175, 10485.055664>) as driver
+08:48:55.261 [VehicleLeave] Player TomInTheNorth [uid=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=] left vehicle Interceptor (id=1A0BB3E79C49370A4B3412AD5851F6C1 pos=<10863.238281, 5.434177, 10485.055664>)
+08:49:00.597 [VehicleCarKey] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<10861.723633, 5.543444, 10484.085938>) used the  ExpansionCarKey to lock Interceptor (id=1A0BB3E79C49370A4B3412AD5851F6C1 pos=<10863.238281, 5.434175, 10485.055664>)
+08:49:12.740 [VehicleDeleted] Interceptor (id=1A0BB3E79C49370A4B3412AD5851F6C1 pos=<10863.238281, 5.434175, 10485.055664>)
+08:49:12.740 [VehicleCover] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<10861.723633, 5.543444, 10484.085938>) covered vehicle "Interceptor" (GlobalID=8000000080000000800000008002D367 pos=<10863.238281, 5.434175, 10485.055664>)!
+08:56:55.279 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:11:48.128 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: kfDhTUDzjcMnJhZc1gwdYwvHGRAj8FY7Y-YwNDv-PiQ=
+10:11:48.128 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+10:12:00.726 [SpawnSelection] Player "SrLimoncio" (id=kfDhTUDzjcMnJhZc1gwdYwvHGRAj8FY7Y-YwNDv-PiQ=) spawned at <6913.919922, 25.018900, 1707.739990>
+10:56:04.789 [Safezone] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5635.067871, 29.285002, 5391.133301>) Entered the safezone
+10:56:04.789 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:56:04.792 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+10:56:04.792 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+10:56:05.753 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:00:39.468 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5607.207031, 28.722490, 5373.479004>) used the  ExpansionCarKey to unlock Interceptor (id=6A5A25266E41FBE72325ACAFDB83E837 pos=<5608.117188, 28.600664, 5374.702637>)
+11:00:50.039 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

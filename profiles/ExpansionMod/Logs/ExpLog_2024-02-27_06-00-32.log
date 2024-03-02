@@ -1,0 +1,13 @@
+10:47:49.765 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+10:47:49.765 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+10:47:49.765 [Expansion Quests] - Create new quest instance for quest: 18 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+10:47:49.765 [AI Patrol] Spawning 3 RCFI Patrol bots at <3804.852051, 16.000000, 9024.462891>
+11:02:54.828 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Medical
+11:43:35.062 [Killfeed] Dragonhunter got killed by RCFI Patrol with KA-74 from a distance of 3 m.
+11:44:03.554 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:44:03.566 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:44:03.570 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+11:44:03.570 [Expansion Quests] - Create new quest instance for quest: 44 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:44:04.523 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:44:23.046 [SpawnSelection] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) spawned at <3469.290039, 22.379999, 6083.919922>
+11:59:14.765 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

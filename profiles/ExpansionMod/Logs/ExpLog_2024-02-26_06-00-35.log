@@ -1,0 +1,59 @@
+06:56:45.769 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+06:56:45.769 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+06:56:45.769 [Expansion Quests] - Create new quest instance for quest: 18 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+06:56:45.769 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:01:42.769 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:01:42.769 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+07:01:42.769 [Expansion Quests] - Create new quest instance for quest: 18 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:01:42.769 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+07:05:08.683 [AI Patrol] Spawning 3 RCFI Patrol bots at <3757.466309, 10.901937, 8800.920898>
+07:08:03.240 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+07:08:03.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+07:08:03.251 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+07:08:03.251 [Expansion Quests] - Create new quest instance for quest: 41 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+07:08:04.203 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+07:11:47.457 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer
+07:56:30.152 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8887.931641, 5.211762, 8676.037109>) uncovered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8886.121094, 5.219668, 8675.850586>)!
+07:56:40.335 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8887.956055, 5.439721, 8676.065430>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=397D5A2CDA419900DFF6A3A08B5C5489 pos=<8886.121094, 5.219371, 8675.852539>)
+07:58:13.341 [AI Patrol] Spawning 3 Temple Patrol bots at <309.731079, 48.908298, 639.921082>
+07:58:13.355 [AI Patrol] Spawning 3 Temple Patrol bots at <299.600586, 55.318100, 724.580566>
+07:58:13.367 [AI Patrol] Spawning 3 Temple Patrol bots at <426.928589, 47.070000, 678.752441>
+07:58:15.041 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=397D5A2CDA419900DFF6A3A08B5C5489 pos=<8886.020508, 5.220795, 8675.860352>) as driver
+07:58:21.574 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=397D5A2CDA419900DFF6A3A08B5C5489 pos=<8886.020508, 5.220795, 8675.860352>)
+08:01:45.144 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=397D5A2CDA419900DFF6A3A08B5C5489 pos=<8911.701172, 5.139034, 8718.654297>)
+08:01:59.824 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=397D5A2CDA419900DFF6A3A08B5C5489 pos=<8911.701172, 5.139034, 8718.654297>)
+08:02:40.173 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8911.130859, 5.142496, 8716.625977>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=397D5A2CDA419900DFF6A3A08B5C5489 pos=<8911.701172, 5.139034, 8718.654297>)
+08:02:58.724 [VehicleDeleted] OffroadRangeRover_green (id=397D5A2CDA419900DFF6A3A08B5C5489 pos=<8911.701172, 5.139034, 8718.654297>)
+08:02:58.724 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8915.027344, 5.142490, 8717.696289>) covered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8911.701172, 5.139034, 8718.654297>)!
+08:11:54.710 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:48:46.906 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:48:46.921 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+10:48:46.921 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+10:48:46.921 [Expansion Quests] - Create new quest instance for quest: 41 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+10:48:47.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+10:48:53.531 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Basebuilding
+10:56:36.820 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8914.720703, 5.142501, 8718.958008>) uncovered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8911.701172, 5.139034, 8718.654297>)!
+10:56:46.046 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8914.428711, 5.142493, 8716.991211>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=557D7DEEE946937494B50BB15BB94A65 pos=<8911.701172, 5.139034, 8718.654297>)
+10:57:22.265 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<8911.701172, 5.139034, 8718.654297>) as driver
+10:57:26.859 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<8911.701172, 5.139034, 8718.654297>)
+10:57:50.812 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<8896.375977, 5.139035, 8725.843750>)
+10:57:56.898 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<8896.375977, 5.139035, 8725.843750>)
+10:58:15.070 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<8896.375977, 5.139035, 8725.843750>) as driver
+10:58:19.406 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<8896.375977, 5.139035, 8725.843750>)
+11:01:23.015 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<7258.041016, 4.982877, 8807.295898>)
+11:02:37.687 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<7258.041016, 4.982878, 8807.295898>) as driver
+11:02:40.949 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<7258.041016, 4.982877, 8807.295898>)
+11:07:35.105 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4435.480957, 20.430000, 7251.879395>
+11:09:07.562 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<5238.842773, 10.716288, 7647.673340>)
+11:09:15.664 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<5238.842773, 10.716288, 7647.673340>)
+11:09:24.187 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5239.867676, 11.331338, 7647.180176>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=557D7DEEE946937494B50BB15BB94A65 pos=<5238.842773, 10.716291, 7647.673340>)
+11:14:45.656 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5241.613281, 10.809589, 7649.137695>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=557D7DEEE946937494B50BB15BB94A65 pos=<5238.842773, 10.716291, 7647.673340>)
+11:16:11.605 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<5238.823242, 10.716305, 7647.672852>) as driver
+11:16:16.125 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<5238.823242, 10.716314, 7647.672852>)
+11:19:45.664 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<4959.805176, 15.973681, 7545.592285>)
+11:19:51.765 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=557D7DEEE946937494B50BB15BB94A65 pos=<4959.805176, 15.973681, 7545.592285>)
+11:20:21.695 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<4959.178223, 15.993401, 7546.733887>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=557D7DEEE946937494B50BB15BB94A65 pos=<4959.805664, 15.973684, 7545.592285>)
+11:20:40.656 [VehicleDeleted] OffroadRangeRover_green (id=557D7DEEE946937494B50BB15BB94A65 pos=<4959.805664, 15.973684, 7545.592285>)
+11:20:40.656 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<4958.700684, 15.939098, 7547.054199>) covered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<4959.805664, 15.973684, 7545.592285>)!
+11:24:04.132 [AI Patrol] Spawning 1 Shamans bots at <3895.908203, 26.432480, 7022.176758>
+11:27:06.109 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

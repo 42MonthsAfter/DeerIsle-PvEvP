@@ -1,0 +1,61 @@
+00:27:47.744 [Safezone] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= pos=<5648.643066, 28.722498, 5405.979004>) Entered the safezone
+00:27:47.751 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+00:27:47.751 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:27:47.751 [Expansion Quests] - Create new quest instance for quest: 18 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+00:33:31.027 [ATM] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has deposited 103178 on his ATM account.
+00:34:17.121 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has send a requested to sell hammer x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:34:17.245 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has sold hammer x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 5.
+00:34:20.255 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has send a requested to sell hammer x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:34:20.384 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has sold hammer x1 at the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 5.
+00:38:13.086 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has send a requested to sell ammobox_22_50rnd x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:38:13.217 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has sold ammobox_22_50rnd x1 at the trader "WeaponAccessories (Rolf [WEAPON ACCESSORIES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 60.
+00:38:37.100 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has send a requested to sell collectable_smartphone_black x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:38:37.232 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has sold collectable_smartphone_black x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 60000.
+00:38:44.454 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has send a requested to sell personalradio x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:38:44.582 [Market] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=) has sold personalradio x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 37.
+00:42:53.014 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+00:42:59.510 [Safezone] Player "Dragonhunter" (id=8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso= pos=<5488.751953, 10.009309, 5506.212402>) Left the safezone
+00:46:42.179 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4670.836914, 20.430000, 6977.737305>
+01:16:41.660 [AI Patrol] Spawning 1 Shamans bots at <4141.297852, 32.237820, 7607.610840>
+01:49:56.092 [AI Patrol] Spawning 3 RCFI Patrol bots at <3829.997070, 11.283609, 8896.637695>
+04:40:20.285 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+04:40:20.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+04:40:20.285 [Expansion Quests] - Create new quest instance for quest: 20 - Player UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+04:40:25.121 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer
+04:44:59.345 [VehicleCarKey] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<6025.682129, 13.020114, 4997.720215>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6026.049805, 13.013251, 4996.150391>)
+04:45:05.248 [AI Patrol] Spawning 3 Temple Patrol bots at <384.235748, 55.318298, 687.597717>
+04:45:05.261 [AI Patrol] Spawning 3 Temple Patrol bots at <367.117737, 54.383801, 790.651367>
+04:45:05.271 [AI Patrol] Spawning 3 Temple Patrol bots at <451.441437, 38.309887, 824.663391>
+04:45:06.939 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6026.045410, 13.013311, 4996.153320>) as driver
+04:45:14.636 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6026.037109, 13.013432, 4996.153320>)
+04:46:54.451 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5671.609863, 33.425259, 5263.780762>) Entered the safezone
+04:47:37.244 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<5623.233887, 28.714758, 5408.934082>)
+04:48:22.636 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to sell collectable_gameboy_yoshi x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+04:48:22.750 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has sold collectable_gameboy_yoshi x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 30937.
+04:48:24.671 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has send a requested to sell collectable_smartphone_blue x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+04:48:24.794 [Market] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has sold collectable_smartphone_blue x1 at the trader "Special (Eva [SPECIALTY ITEMS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 30000.
+04:49:05.185 [ATM] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=) has deposited 60937 on his ATM account.
+04:49:14.945 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<5623.234863, 28.714758, 5408.933594>) as driver
+04:49:21.812 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<5623.233398, 28.714745, 5408.935547>)
+04:50:03.968 [Safezone] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<5829.562012, 30.570431, 5195.360840>) Left the safezone
+04:57:08.496 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<7072.945313, 8.191900, 5540.166016>)
+05:01:01.099 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<7072.940430, 8.191691, 5540.166016>) as driver
+05:01:04.326 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<7072.943848, 8.191837, 5540.166016>)
+05:08:08.388 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] stopped vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<8583.202148, 7.404757, 8920.504883>)
+05:08:12.208 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<8583.203125, 7.404764, 8920.504883>)
+05:08:42.009 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<8583.201172, 7.404756, 8920.504883>) as driver
+05:08:45.244 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<8583.199219, 7.404745, 8920.504883>)
+05:16:21.437 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] stopped vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10026.374023, 21.774746, 10817.793945>)
+05:16:24.625 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10026.375000, 21.774761, 10817.791992>)
+05:16:40.289 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10026.374023, 21.774748, 10817.794922>) as driver
+05:16:43.615 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10026.375000, 21.774757, 10817.792969>)
+05:17:18.876 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10111.880859, 21.774740, 10879.699219>)
+05:19:20.140 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10111.880859, 21.774759, 10879.703125>) as driver
+05:19:22.308 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10111.880859, 21.774765, 10879.704102>)
+05:19:41.570 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10111.880859, 21.774744, 10879.700195>) as driver
+05:19:45.101 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<10111.880859, 21.774761, 10879.703125>)
+05:28:14.195 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6910.758789, 38.780960, 6007.566895>)
+05:28:35.457 [VehicleEnter] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] entered vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6910.762695, 38.781124, 6007.566895>) as driver
+05:28:38.880 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] started vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6910.765625, 38.781254, 6007.568848>)
+05:30:53.886 [VehicleEngine] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] stopped vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6030.236816, 12.939538, 4994.905273>)
+05:30:57.564 [VehicleLeave] Player Mansbridge [uid=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=] left vehicle ToyotaHilux rust (id=EE126C3D5244B7991B116CA54AA405A2 pos=<6030.237793, 12.939512, 4994.903320>)
