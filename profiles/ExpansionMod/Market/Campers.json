@@ -1,0 +1,92 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CAMPERS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "MotorHome_rust",
+            "MaxPriceThreshold": 120000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "MotorHome_Wheel",
+                "MotorHome_Wheel",
+                "MotorHome_Wheel",
+                "MotorHome_Wheel",
+                "MotorHome_Wheel",
+                "MotorHome_Doors_Driver_rust",
+                "MotorHome_Doors_hood_left_rust",
+                "MotorHome_Doors_hood_right_rust",
+                "headlighth7",
+                "headlighth7",
+                "carradiator",
+                "sparkplug",
+                "TruckBattery",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Camper",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Camper_Doors_Driver",
+                "Camper_Doors_coDriver",
+                "Camper_Doors_hood",
+                "Camper_Doors_cargo1",
+                "Camper_Wheel",
+                "Camper_Wheel",
+                "Camper_Wheel",
+                "Camper_Wheel",
+                "Camper_Wheel",
+                "TruckBattery",
+                "headlighth7",
+                "headlighth7",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "PAZprison_white",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "PAZprison_Doors_Driver_white",
+                "PAZprison_Door_white",
+                "PAZprison_Doors_Hood_white",
+                "PAZprison_Wheel",
+                "PAZprison_Wheel",
+                "PAZprison_Wheel",
+                "PAZprison_Wheel_2",
+                "PAZprison_Wheel_2",
+                "carBattery",
+                "headlighth7",
+                "headlighth7",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        }
+    ]
+}

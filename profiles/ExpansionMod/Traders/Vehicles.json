@@ -13,7 +13,13 @@
     "DisplayCurrencyName": "",
     "Categories": [
         "Cars",
+        "Trucks",
+        "SUVs",
+        "Campers",
+        "Military",
         "Helicopters",
+        "Vehicle_Wheels",
+        "Vehicle_Accessories:3",
         "Vehicle_Parts"
     ],
     "Items": {}
