@@ -1,0 +1,49 @@
+10:27:24.324 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk=
+10:28:30.906 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+10:29:05.007 [SpawnSelection] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) spawned at <3258.810059, 20.430000, 6600.620117>
+10:29:05.007 [AI Patrol] Spawning 3 Shamans bots at <4045.497559, 38.499035, 6838.117188>
+10:32:03.839 [VehicleCover] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<11097.915039, 3.188696, 8740.562500>) uncovered vehicle "BMW" (GlobalID=80000000800000008000000080008830 pos=<11099.080078, 2.898526, 8742.829102>)!
+10:32:29.804 [VehicleCarKey] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<11100.095703, 2.899193, 8739.237305>) used the  ExpansionCarKey to unlock BMW (id=058D1B0B47460E115B2714832C39DEF4 pos=<11099.080078, 2.898494, 8742.829102>)
+10:32:31.492 [VehicleCarKey] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<11099.957031, 2.864368, 8739.542969>) used the  ExpansionCarKey to lock BMW (id=058D1B0B47460E115B2714832C39DEF4 pos=<11099.080078, 2.898494, 8742.829102>)
+10:32:32.492 [VehicleCarKey] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<11099.957031, 2.864368, 8739.542969>) used the  ExpansionCarKey to unlock BMW (id=058D1B0B47460E115B2714832C39DEF4 pos=<11099.080078, 2.898494, 8742.829102>)
+10:36:14.187 [VehicleCarKey] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<11098.796875, 2.872489, 8739.765625>) used the  ExpansionCarKey to lock BMW (id=058D1B0B47460E115B2714832C39DEF4 pos=<11099.080078, 2.898494, 8742.829102>)
+10:36:27.437 [VehicleDeleted] BMW (id=058D1B0B47460E115B2714832C39DEF4 pos=<11099.080078, 2.898494, 8742.829102>)
+10:36:27.437 [VehicleCover] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<11098.814453, 2.862016, 8739.596680>) covered vehicle "BMW" (GlobalID=80000000800000008000000080008830 pos=<11099.080078, 2.898494, 8742.829102>)!
+10:39:07.710 [Safezone] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<5627.918945, 28.910000, 5360.131836>) Entered the safezone
+10:42:26.378 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Medical
+10:47:50.839 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4730.326660, 20.430000, 6980.802734>
+10:58:50.531 [Safezone] Player "og" (id=Cc0wZ2VHa5_wA30qgzbiev1UMzKqgpWqAgS0wYga8Rk= pos=<5657.581055, 33.305222, 5246.665527>) Left the safezone
+11:03:53.957 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+11:03:53.957 [BaseBuildingRaiding] Player "" (ID ) at <4754.68, 20.44, 7044.18> damaged ExpansionBarbedWire at <4828.81, 20.43, 7081.78>
+11:03:53.957 [BaseBuildingRaiding] They dealt 48.3319 * 1 = 48.3319 damage with Bullet_545x39 from AK74
+11:03:53.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 251.668
+11:03:53.960 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:04:14.359 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+11:04:14.363 [BaseBuildingRaiding] Player "Tiozao" (ID Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) at <4817, 24.24, 7095.49> damaged ExpansionBarbedWire at <4788.29, 20.45, 7073.77>
+11:04:14.363 [BaseBuildingRaiding] They dealt 27.943 * 1 = 27.943 damage with Bullet_9x19 from TWP_Auto9
+11:04:14.363 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 272.057
+11:04:14.363 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:22:02.929 [SpawnSelection] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) spawned at <6936.180176, 42.099998, 2250.149902>
+11:26:46.179 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:26:46.191 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:26:46.195 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+11:26:47.148 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:38:15.523 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8888.217773, 5.211761, 8679.298828>) uncovered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8886.768555, 5.213110, 8675.600586>)!
+11:38:22.953 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8888.250000, 5.274777, 8679.341797>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=C8B59EEB2E45136220B761A1A27D9562 pos=<8886.768555, 5.213109, 8675.600586>)
+11:39:01.156 [AI Patrol] Spawning 3 Temple Patrol bots at <388.555145, 47.070000, 798.196777>
+11:39:01.164 [AI Patrol] Spawning 3 Temple Patrol bots at <287.608459, 55.318100, 771.971069>
+11:39:02.859 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=C8B59EEB2E45136220B761A1A27D9562 pos=<8886.768555, 5.213109, 8675.600586>) as driver
+11:39:07.054 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=C8B59EEB2E45136220B761A1A27D9562 pos=<8886.768555, 5.213109, 8675.600586>)
+11:41:13.140 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=C8B59EEB2E45136220B761A1A27D9562 pos=<7957.778320, 3.947225, 8649.152344>)
+11:44:30.808 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=C8B59EEB2E45136220B761A1A27D9562 pos=<7957.763672, 3.946826, 8649.245117>) as driver
+11:44:35.089 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=C8B59EEB2E45136220B761A1A27D9562 pos=<7957.763672, 3.946825, 8649.245117>)
+11:54:34.148 [Safezone] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5660.104004, 29.683607, 5529.718262>) Entered the safezone
+11:55:21.023 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=C8B59EEB2E45136220B761A1A27D9562 pos=<5614.267090, 28.724520, 5348.703613>)
+11:55:26.023 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=C8B59EEB2E45136220B761A1A27D9562 pos=<5614.267090, 28.724520, 5348.703125>)
+11:56:45.851 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<5612.980469, 28.736507, 5350.257324>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=C8B59EEB2E45136220B761A1A27D9562 pos=<5614.267090, 28.724520, 5348.703125>)
+11:57:52.308 [ATM] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has withdrawn 10000 from his ATM account.
+11:58:54.167 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has send a requested to purchase expansionhydraulichoses x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:58:54.375 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has bought expansionhydraulichoses x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 800.
+11:58:58.371 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has send a requested to purchase expansionigniterplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+11:58:58.523 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has bought expansionigniterplug x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 1000.
+11:59:15.460 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

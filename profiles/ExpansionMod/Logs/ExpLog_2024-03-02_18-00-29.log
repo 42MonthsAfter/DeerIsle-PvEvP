@@ -1,0 +1,61 @@
+18:01:27.781 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:01:27.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:01:27.789 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+18:01:27.789 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:01:28.753 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:03:07.890 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:16:32.625 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Medical
+18:16:39.507 [Safezone] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5662.563965, 28.722435, 5416.483887>) Entered the safezone
+18:16:39.507 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+18:16:39.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+18:16:39.507 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+18:16:40.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+18:17:03.484 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5662.041016, 28.722498, 5417.815918>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<5661.230469, 28.714762, 5419.898926>)
+18:17:07.656 [AI Patrol] Spawning 3 Temple Patrol bots at <412.580444, 47.070000, 792.145081>
+18:17:07.757 [AI Patrol] Spawning 3 Temple Patrol bots at <335.756897, 47.070000, 816.504211>
+18:17:07.773 [AI Patrol] Spawning 3 Temple Patrol bots at <463.787781, 47.070000, 781.173340>
+18:17:09.359 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<5661.230469, 28.714756, 5419.898926>) as driver
+18:17:11.726 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<5661.229492, 28.714746, 5419.899902>)
+18:18:12.328 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<5611.770020, 28.715643, 5368.396973>)
+18:18:15.742 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<5611.769531, 28.715639, 5368.396484>)
+18:19:15.898 [VehicleAttachments] Player Golden (uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) detached Jerrycan (type=CanisterGasoline) from vehicle ToyotaHilux rust(id=571B5FFEDE46DD4746241386E05869E6 pos=<5611.771973, 28.715656, 5368.398438>)
+18:19:25.812 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<5611.773438, 28.715651, 5368.398438>) as driver
+18:19:28.648 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<5611.770996, 28.715635, 5368.396973>)
+18:19:56.085 [Safezone] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5740.463867, 21.628845, 5179.016602>) Left the safezone
+18:22:16.062 [AI Patrol] Spawning 3 Shamans bots at <5466.287598, 74.000000, 3545.071289>
+18:27:23.234 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<3804.891113, 5.605100, 2505.170898>)
+18:27:32.976 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<3804.893799, 5.605115, 2505.168945>) as driver
+18:27:34.320 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<3804.891357, 5.605096, 2505.169922>)
+18:27:53.101 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<3812.398193, 5.659739, 2522.962891>)
+18:27:57.445 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle ToyotaHilux rust (id=571B5FFEDE46DD4746241386E05869E6 pos=<3812.398193, 5.659738, 2522.962891>)
+18:48:39.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+18:48:39.859 [Expansion Quests] - Create new quest instance for quest: 20 - Player UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+18:51:19.640 [VehicleCarKey] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<6017.286133, 13.008856, 5004.434570>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=E1A9E95E29460418508849B7D1605D85 pos=<6015.905273, 12.998385, 5007.312500>)
+18:51:25.304 [VehicleCarKey] Player "Mansbridge" (id=QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50= pos=<6017.069336, 13.004692, 5004.826172>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=E1A9E95E29460418508849B7D1605D85 pos=<6015.905273, 12.998385, 5007.312500>)
+19:02:50.960 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3775.513916, 0.124268, 2423.537598>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=9496B121C5427227ED3F0A9BF639C409 pos=<3775.385010, 0.077793, 2423.592529>)
+19:02:58.687 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3775.385010, 0.382255, 2423.592529>) as driver
+19:03:04.796 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3775.385010, 0.132490, 2423.592529>)
+19:10:59.562 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3771.965820, 0.147671, 2422.942383>)
+19:11:02.906 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3771.658936, 0.015625, 2422.855713>)
+19:13:57.859 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3771.395752, 0.001346, 2421.157959>) as driver
+19:14:03.304 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3771.199707, 0.475834, 2420.459717>)
+19:18:52.015 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<1178.859009, 0.398958, 752.855225>)
+19:18:56.351 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<1178.509888, -0.037025, 753.101379>)
+19:19:01.882 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<1177.670044, 0.169578, 752.430664>) used the  ExpansionCarKey to lock ExpansionZodiacBoat (id=9496B121C5427227ED3F0A9BF639C409 pos=<1178.509888, -0.037025, 753.101379>)
+19:23:21.703 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: CZPM_JNB7vYnsFVBaseZtvWiF9zYok86218LvoulzsU=
+19:34:20.359 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=
+19:34:20.359 [AI Patrol] Spawning 1 Shamans bots at <4630.171875, 18.019741, 7535.621582>
+19:34:37.453 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4253.825684, 20.454409, 7272.188965>) uncovered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.405273, 20.457853, 7272.839355>)!
+19:34:45.679 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4255.646484, 20.462500, 7269.692871>) used the  ExpansionCarKey to unlock BMW_X5_red (id=3D9872C9CA41412328134F8E2473B352 pos=<4256.405273, 20.457851, 7272.837891>)
+19:39:58.632 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+19:48:44.625 [VehicleAttachments] Player FARRIS (uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) detached Car Battery (type=CarBattery) from vehicle BMW X5 Red(id=3D9872C9CA41412328134F8E2473B352 pos=<4256.405273, 20.457851, 7272.837891>)
+19:48:54.351 [VehicleAttachments] Player FARRIS (uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) detached Jerrycan (type=CanisterGasoline) from vehicle BMW X5 Red(id=3D9872C9CA41412328134F8E2473B352 pos=<4256.405273, 20.457851, 7272.837891>)
+19:54:57.179 [AI Patrol] Spawning 3 Crater Patrol bots at <13230.433594, 25.062460, 4253.110352>
+20:05:01.578 [Killfeed] Jasper Frost got killed by Crater Patrol with KA-101 from a distance of 5 m.
+20:06:07.226 [SpawnSelection] Player "Jasper Frost" (id=CZPM_JNB7vYnsFVBaseZtvWiF9zYok86218LvoulzsU=) spawned at <10171.602539, 33.866161, 4771.109863>
+20:55:30.726 [AI Patrol] Spawning 3 Crater Patrol bots at <14277.575195, 143.842667, 2586.100098>
+21:00:06.406 [AI Patrol] Spawning 1 Shamans bots at <13931.702148, 3.986178, 2216.936768>
+21:03:05.445 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4254.235352, 20.454409, 7272.674805>) used the  ExpansionCarKey to lock BMW_X5_red (id=3D9872C9CA41412328134F8E2473B352 pos=<4256.405273, 20.457851, 7272.837891>)
+21:03:16.328 [VehicleDeleted] BMW_X5_red (id=3D9872C9CA41412328134F8E2473B352 pos=<4256.405273, 20.457851, 7272.837891>)
+21:03:16.328 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4254.235352, 20.454409, 7272.674805>) covered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.405273, 20.457851, 7272.837891>)!
+21:47:39.640 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical

@@ -1,0 +1,85 @@
+00:01:34.895 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:01:34.904 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+00:01:34.904 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+00:01:35.869 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:01:38.075 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:01:38.082 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+00:01:38.082 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:01:39.055 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:01:46.168 [AI Patrol] Spawning 3 Temple Patrol bots at <334.802032, 48.908298, 628.845825>
+00:01:46.270 [AI Patrol] Spawning 3 Temple Patrol bots at <403.121887, 47.070000, 791.514771>
+00:01:46.287 [AI Patrol] Spawning 3 Temple Patrol bots at <376.033966, 47.070000, 885.348022>
+00:01:47.894 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6212.974609, 6.358968, 13422.424805>) as pilot
+00:01:49.874 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6212.974609, 6.358943, 13422.424805>)
+00:01:50.760 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6212.974609, 6.358952, 13422.424805>) as passenger
+00:03:21.130 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6670.831543, 33.542423, 14356.506836>)
+00:03:24.906 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6670.865234, 32.091145, 14357.038086>)
+00:03:28.284 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6670.872070, 32.095131, 14357.034180>)
+00:05:31.929 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<6326.165527, 37.387901, 14808.703125>) paired a  ExpansionCarKey to ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.525391, 37.890434, 14805.066406>)
+00:05:41.489 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<6321.985352, 37.388866, 14811.378906>) used the  ExpansionCarKey to lock ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.525391, 37.890434, 14805.066406>)
+00:05:43.059 [VehicleCarKey] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<6321.985352, 37.388866, 14811.378906>) used the  ExpansionCarKey to unlock ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.525391, 37.890434, 14805.066406>)
+00:06:03.650 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<6322.609375, 37.389988, 14812.436523>) used the  ExpansionCarKey to lock ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.525391, 37.890434, 14805.066406>)
+00:06:05.366 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<6321.940430, 37.388901, 14811.966797>) used the  ExpansionCarKey to unlock ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.525391, 37.890434, 14805.066406>)
+00:06:06.771 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<6321.940430, 37.388901, 14811.966797>) used the  ExpansionCarKey to lock ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.525391, 37.890434, 14805.066406>)
+00:07:51.870 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<6324.425781, 38.676590, 14810.280273>) used the  ExpansionCarKey to unlock ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.575195, 37.892101, 14805.023438>)
+00:08:03.807 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Merlin (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.548340, 37.890564, 14805.042969>) as passenger
+00:08:35.848 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Merlin (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.555176, 37.890484, 14805.038086>)
+00:08:41.843 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Merlin (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.555176, 37.890617, 14805.038086>) as pilot
+00:08:48.778 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle Merlin (id=B1D32872E745B8DD14F12C981C21D5DB pos=<6320.557129, 37.890484, 14805.037109>)
+00:10:27.850 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6671.056152, 32.067513, 14357.054688>) as pilot
+00:10:29.928 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<6671.056152, 32.067478, 14357.054688>)
+00:11:43.288 [AI Patrol] Spawning 3 KMUC Patrol bots at <7096.746094, 626.788879, 11749.583984>
+00:11:47.289 [AI Patrol] Spawning 3 KMUC Patrol bots at <7078.106934, 601.570007, 11581.551758>
+00:11:50.468 [AI Patrol] Spawning 3 KMUC Patrol bots at <7176.067871, 570.987915, 11624.788086>
+00:11:51.829 [AI Patrol] Spawning 3 KMUC Patrol bots at <7208.071777, 505.154724, 11660.367188>
+00:15:00.651 [Safezone] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5664.765137, 221.674759, 5522.762695>) Entered the safezone
+00:15:12.953 [Safezone] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5652.814941, 205.941223, 5529.548340>) Entered the safezone
+00:15:35.139 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle Merlin (id=B1D32872E745B8DD14F12C981C21D5DB pos=<5621.426270, 28.772078, 5359.589844>)
+00:15:41.482 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Merlin (id=B1D32872E745B8DD14F12C981C21D5DB pos=<5621.535645, 28.524458, 5359.502441>)
+00:16:04.665 [Market] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has send a requested to sell expansionmerlin x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+00:16:04.806 [VehicleDeleted] ExpansionMerlin_Wave (id=B1D32872E745B8DD14F12C981C21D5DB pos=<5621.536621, 28.524336, 5359.500000>)
+00:16:04.819 [Market] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has sold expansionmerlin x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 2252887.
+00:16:09.237 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<5601.836426, 29.110785, 5387.205078>)
+00:16:14.109 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<5601.682129, 28.767570, 5387.018066>)
+00:16:35.463 [MissionAirdrop] An airdrop is heading towards "Old-Town" (pos=<1849.000000, 0.000000, 8830.000000> type=Random_Old-Town) with a ExpansionAirdropContainer
+00:16:48.929 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has deposited 2252887 on his ATM account.
+00:16:59.884 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has withdrawn 1125000 from his ATM account.
+00:17:15.188 [ATM] Player Golden (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has transfered 1125000 to the player MrGreen530 (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=).
+00:17:35.398 [ATM] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has deposited 51127 on his ATM account.
+00:17:58.296 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has deposited 1125000 on his ATM account.
+00:18:50.535 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has withdrawn 1 from his ATM account.
+00:18:54.464 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has deposited 1 on the party "G's" (partyid=49 | ownerid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) ATM account.
+00:19:09.398 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has deposited 1 on the party "G's" (partyid=49 | ownerid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) ATM account.
+00:19:13.916 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has deposited 1 on his ATM account.
+00:19:15.843 [ATM] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has withdrawn 1 from his ATM account.
+00:19:25.151 [ATM] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has deposited 1 on his ATM account.
+00:19:37.420 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has deposited 1 on the party "G's" (partyid=49 | ownerid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) ATM account.
+00:19:40.702 [ATM] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) has deposited 1 on the party "G's" (partyid=49 | ownerid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) ATM account.
+00:20:27.858 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has withdrawn 2095226 from his ATM account.
+00:20:29.245 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<5601.682129, 28.767609, 5387.018066>) as pilot
+00:20:31.463 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<5601.682129, 28.767567, 5387.018066>)
+00:20:35.914 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<5601.682129, 28.767563, 5387.018066>)
+00:21:25.357 [ATM] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) has deposited 2095226 on his ATM account.
+00:21:41.117 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<5601.682129, 28.767597, 5387.018066>) as passenger
+00:21:42.430 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<5601.682129, 28.767569, 5387.018066>)
+00:22:44.828 [Safezone] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<5641.946289, 426.873291, 5905.750488>) Left the safezone
+00:22:44.854 [Safezone] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5642.772461, 427.398621, 5906.132324>) Left the safezone
+00:30:38.411 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 3eyYy5tg_oWtcbqlf-N7AihkH0rRfuwz298_jdaq6Eo=
+00:31:00.949 [SpawnSelection] Player "Beamin" (id=3eyYy5tg_oWtcbqlf-N7AihkH0rRfuwz298_jdaq6Eo=) spawned at <8956.400391, 5.130000, 8931.730469>
+00:34:39.680 [AI Patrol] Spawning 3 Old Town Police Patrol bots at <1948.064941, 9.388098, 8947.148438>
+00:34:48.535 [AI Patrol] Spawning 3 RCFI Patrol bots at <3850.515625, 13.854223, 8985.185547>
+00:35:36.591 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4674.370117, 20.430000, 7018.345703>
+00:36:54.257 [AI Patrol] Spawning 3 Shamans bots at <4746.237793, 25.482796, 2860.660156>
+00:38:24.261 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<4787.805664, 63.180859, 3072.556641>)
+00:38:26.468 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<4787.787109, 61.131786, 3072.302246>)
+00:38:33.298 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<4787.785156, 61.124786, 3072.304932>)
+00:41:54.534 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<4787.785645, 61.124237, 3072.299561>) as pilot
+00:41:57.591 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<4787.785645, 61.124321, 3072.299316>)
+00:41:58.246 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<4787.785645, 61.124302, 3072.299072>) as passenger
+00:43:13.568 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<3786.795654, 8.148418, 2498.574707>)
+00:43:18.578 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<3785.994873, 5.695435, 2498.293701>)
+00:43:21.544 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Mh-6 Little Bird (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<3785.994873, 5.695452, 2498.293701>)
+00:50:02.814 [VehicleDeleted] ExpansionMh6 (id=8A9D980392454BF8C1F5C3A9D7CFC130 pos=<3785.994873, 5.695451, 2498.293701>)
+00:50:02.815 [VehicleCover] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= pos=<3786.388184, 5.640716, 2496.682617>) covered vehicle "ExpansionMh6" (GlobalID=80000000800000008000000080039F84 pos=<3785.994873, 5.695451, 2498.293701>)!
+00:51:27.606 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:51:48.545 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)

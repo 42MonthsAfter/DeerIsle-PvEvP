@@ -1,0 +1,40 @@
+12:23:07.367 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+12:23:07.371 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+12:23:07.371 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+12:23:08.339 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+12:38:16.750 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+13:08:40.531 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+14:10:00.070 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+14:10:00.078 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+14:10:00.078 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 42
+14:10:01.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+14:10:17.167 [VehicleCover] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<6593.042480, 22.830797, 1722.603271>) uncovered vehicle "MBw140_white" (GlobalID=80000000800000008000000080021057 pos=<6592.229004, 22.609737, 1720.399536>)!
+14:10:24.714 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<6592.679199, 23.005600, 1721.932983>) used the  ExpansionCarKey to unlock MBw140_white (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6592.227051, 22.609303, 1720.397217>)
+14:10:31.226 [AI Patrol] Spawning 3 Temple Patrol bots at <279.620697, 47.070000, 780.004395>
+14:10:31.320 [AI Patrol] Spawning 3 Temple Patrol bots at <463.495087, 55.318199, 840.993774>
+14:10:31.332 [AI Patrol] Spawning 3 Temple Patrol bots at <442.763580, 48.364700, 672.221313>
+14:10:32.921 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6592.226563, 22.609180, 1720.397095>) as driver
+14:10:34.242 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] started vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6592.227051, 22.609350, 1720.398071>)
+14:11:14.441 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6505.046875, 31.569550, 1884.114868>)
+14:11:47.539 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6505.046875, 31.569550, 1884.113892>) as driver
+14:14:13.222 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<7460.978027, 34.315018, 3603.971191>)
+14:15:52.625 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<7460.980469, 34.315094, 3603.964600>) as driver
+14:19:48.781 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4846.900879, 20.430000, 7218.664551>
+14:21:47.527 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6132.205078, 8.990001, 8438.593750>)
+14:22:29.847 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6132.199707, 8.989883, 8438.592773>) as driver
+14:23:40.671 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<5676.826172, 4.949552, 9272.010742>)
+14:24:04.894 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<5676.826660, 4.949552, 9272.010742>) as driver
+14:30:17.734 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] stopped vehicle Mercedes-Benz W140 White (Locked) (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6291.633301, 41.879551, 14149.713867>)
+14:30:32.242 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6291.634766, 41.879551, 14149.713867>)
+14:30:41.929 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<6293.504395, 41.872498, 14150.067383>) used the  ExpansionCarKey to lock MBw140_white (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6291.635254, 41.879547, 14149.713867>)
+14:30:53.156 [VehicleDeleted] MBw140_white (id=4268EF22674FFA30CF3CB1AEC8111910 pos=<6291.635254, 41.879547, 14149.713867>)
+14:30:53.160 [VehicleCover] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<6293.504395, 41.872498, 14150.067383>) covered vehicle "MBw140_white" (GlobalID=80000000800000008000000080021057 pos=<6291.635254, 41.879547, 14149.713867>)!
+14:40:14.617 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+16:08:29.589 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+16:08:29.593 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+16:08:29.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+16:08:29.898 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+16:08:30.554 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+17:13:12.406 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+17:55:52.781 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: SvXLzCMcjxS2RV7IUwSju2mpgXFiXglZbtt4OsUBBk8=
+17:56:21.113 [SpawnSelection] Player "Bobert" (id=SvXLzCMcjxS2RV7IUwSju2mpgXFiXglZbtt4OsUBBk8=) spawned at <6913.919922, 25.018900, 1707.739990>

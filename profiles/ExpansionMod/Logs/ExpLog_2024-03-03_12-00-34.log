@@ -1,0 +1,36 @@
+12:37:04.265 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+12:37:04.281 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+12:37:04.281 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+12:37:04.285 [AI Patrol] Spawning 3 Temple Patrol bots at <275.873413, 55.318100, 818.205994>
+12:37:04.378 [AI Patrol] Spawning 3 Temple Patrol bots at <379.340332, 55.318298, 787.314453>
+12:37:04.390 [AI Patrol] Spawning 3 Temple Patrol bots at <428.235046, 37.245285, 730.276733>
+12:37:05.238 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+12:52:07.421 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Basebuilding
+13:10:26.023 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<1177.982788, 0.032587, 753.078674>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=9496B121C5427227ED3F0A9BF639C409 pos=<1178.509888, -0.037025, 753.101379>)
+13:10:43.238 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<1178.509888, 0.203685, 753.101318>) as driver
+13:10:47.929 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<1178.509888, 0.637658, 753.101318>)
+13:12:17.925 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<1708.761841, 0.459755, 1092.884521>)
+13:12:50.054 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<1708.864380, 0.392345, 1092.952026>) as driver
+13:17:05.570 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3775.495361, 0.396790, 2423.640381>)
+13:17:13.238 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle PBX (id=9496B121C5427227ED3F0A9BF639C409 pos=<3776.179932, 0.432150, 2423.753418>)
+13:17:55.226 [AI Patrol] Spawning 3 Shamans bots at <4313.061523, 24.607822, 1821.331543>
+13:30:25.078 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+13:31:44.011 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+13:31:44.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+13:31:44.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+13:31:44.996 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+13:39:45.054 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+14:30:16.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=
+14:39:45.976 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4255.438477, 20.462465, 7269.594727>) uncovered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.405273, 20.457851, 7272.837891>)!
+14:39:51.828 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4255.438477, 20.462465, 7269.594727>) used the  ExpansionCarKey to unlock BMW_X5_red (id=C6895E421D4C8B3723DF2FAAF4869A26 pos=<4256.405273, 20.457851, 7272.836426>)
+14:44:35.730 [VehicleAttachments] Player FARRIS (uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) detached Car Battery (type=CarBattery) from vehicle BMW X5 Red(id=C6895E421D4C8B3723DF2FAAF4869A26 pos=<4256.405273, 20.457851, 7272.836426>)
+15:32:40.277 [VehicleAttachments] Player FARRIS (uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) detached Jerrycan (type=CanisterGasoline) from vehicle BMW X5 Red(id=C6895E421D4C8B3723DF2FAAF4869A26 pos=<4256.405273, 20.457851, 7272.836426>)
+15:52:19.796 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4254.459473, 20.454409, 7272.942383>) used the  ExpansionCarKey to lock BMW_X5_red (id=C6895E421D4C8B3723DF2FAAF4869A26 pos=<4256.405273, 20.457851, 7272.836426>)
+15:52:30.433 [VehicleDeleted] BMW_X5_red (id=C6895E421D4C8B3723DF2FAAF4869A26 pos=<4256.405273, 20.457851, 7272.836426>)
+15:52:30.433 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4254.459473, 20.454409, 7272.942383>) covered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.405273, 20.457851, 7272.836426>)!
+16:16:02.285 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+16:16:02.289 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+16:16:02.289 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+16:16:03.234 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+16:21:57.644 [MissionAirdrop] An airdrop is heading towards "Old-Town" (pos=<1849.000000, 0.000000, 8830.000000> type=Random_Old-Town) with a ExpansionAirdropContainer_Medical
+16:37:16.851 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

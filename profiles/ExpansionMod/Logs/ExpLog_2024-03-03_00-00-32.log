@@ -1,0 +1,11 @@
+00:55:26.376 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: IPFSKTAJLT8jBbjcr04sapvQkWsdZbMICtme4fNgJh0=
+00:56:21.104 [SpawnSelection] Player "Sethx" (id=IPFSKTAJLT8jBbjcr04sapvQkWsdZbMICtme4fNgJh0=) spawned at <7508.879883, 24.460300, 3819.979980>
+01:10:27.497 [MissionAirdrop] An airdrop is heading towards "Mountainville" (pos=<7911.000000, 0.000000, 8864.000000> type=Random_Mountainville) with a ExpansionAirdropContainer_Military
+01:38:31.474 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+01:38:31.490 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+01:38:31.490 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+01:38:31.493 [AI Patrol] Spawning 3 Temple Patrol bots at <405.489563, 47.070000, 825.076843>
+01:38:31.591 [AI Patrol] Spawning 3 Temple Patrol bots at <378.516113, 48.908298, 658.085999>
+01:38:31.604 [AI Patrol] Spawning 3 Temple Patrol bots at <346.850006, 47.070000, 838.783569>
+01:38:32.451 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+01:52:21.265 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)

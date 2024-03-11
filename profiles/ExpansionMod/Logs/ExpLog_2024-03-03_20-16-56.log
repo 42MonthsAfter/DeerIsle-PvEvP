@@ -1,0 +1,30 @@
+20:18:38.296 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=
+20:18:38.296 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4829.680664, 13.300791, 7196.673340>
+20:23:37.851 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4253.539551, 20.454409, 7272.273926>) uncovered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<4256.405273, 20.457851, 7272.836426>)!
+20:23:42.968 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4253.539551, 20.454409, 7272.273926>) used the  ExpansionCarKey to unlock BMW_X5_red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<4256.405273, 20.457853, 7272.834961>)
+20:25:36.710 [AI Patrol] Spawning 3 Temple Patrol bots at <366.229401, 47.070000, 821.663452>
+20:25:36.726 [AI Patrol] Spawning 3 Temple Patrol bots at <372.168091, 48.364700, 652.280945>
+20:25:36.734 [AI Patrol] Spawning 3 Temple Patrol bots at <415.403442, 55.318100, 719.069702>
+20:25:38.406 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<4256.405273, 20.457853, 7272.834961>) as driver
+20:25:39.773 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<4256.404785, 20.457853, 7272.834961>)
+20:29:34.289 [Safezone] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5660.939941, 29.690466, 5518.924316>) Entered the safezone
+20:29:52.812 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5604.859863, 28.710630, 5395.803711>)
+20:30:47.351 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell cp_cannabisbrickblackfrost x81 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:30:47.460 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold cp_cannabisbrickblackfrost x81 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 4374000.
+20:30:59.523 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to sell cp_tobaccoseedspack x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:30:59.625 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has sold cp_tobaccoseedspack x1 at the trader "Weed (Naomi [WEED])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 15.
+20:31:13.109 [ATM] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has deposited 4374015 on his ATM account.
+20:33:14.867 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5604.859863, 28.710632, 5395.803711>) as driver
+20:33:24.914 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5596.478516, 28.710630, 5363.098145>)
+20:33:28.773 [VehicleAttachments] Player FARRIS (uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) detached Jerrycan (type=CanisterGasoline) from vehicle BMW X5 Red(id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5596.478516, 28.710630, 5363.098145>)
+20:33:41.406 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Medical
+20:40:12.703 [ATM] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has withdrawn 500 from his ATM account.
+20:40:30.515 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has send a requested to purchase bmw_x5_wheel_black x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+20:40:30.609 [Market] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) has bought bmw_x5_wheel_black x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 500.
+20:43:55.046 [VehicleEnter] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] entered vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5596.478516, 28.710632, 5363.098145>) as driver
+20:43:58.460 [VehicleEngine] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] started vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5596.478516, 28.710630, 5363.098145>)
+20:44:24.351 [VehicleLeave] Player FARRIS [uid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=] left vehicle BMW X5 Red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5677.131348, 32.878571, 5250.004883>)
+20:44:24.726 [Safezone] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5675.407227, 32.854015, 5251.283691>) Left the safezone
+20:44:41.148 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5676.224121, 32.786102, 5251.975586>) used the  ExpansionCarKey to lock BMW_X5_red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5677.131348, 32.878563, 5250.004883>)
+20:44:51.445 [VehicleDeleted] BMW_X5_red (id=2A67869BF3431AD9EA2728B1C32D04AE pos=<5677.131348, 32.878563, 5250.004883>)
+20:44:51.445 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<5676.224121, 32.786102, 5251.975586>) covered vehicle "BMW_X5_red" (GlobalID=8000000080000000800000008000A2BE pos=<5677.131348, 32.878563, 5250.004883>)!

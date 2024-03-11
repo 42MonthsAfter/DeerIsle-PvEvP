@@ -1,0 +1,112 @@
+18:01:28.375 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:01:28.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+18:01:28.382 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+18:01:29.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:01:33.835 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:01:33.839 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+18:01:33.839 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 52
+18:01:33.839 [AI Patrol] Spawning 2 Shamans bots at <3487.836426, 27.590000, 6773.573242>
+18:01:33.941 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4433.559570, 20.761395, 7236.409180>
+18:01:34.824 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+18:01:38.867 [AI Patrol] Spawning 3 Temple Patrol bots at <374.287811, 45.406296, 791.862305>
+18:01:38.882 [AI Patrol] Spawning 3 Temple Patrol bots at <388.002716, 47.070000, 757.431763>
+18:01:38.890 [AI Patrol] Spawning 3 Temple Patrol bots at <438.881622, 48.908298, 653.972473>
+18:01:40.570 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.338867, 74.057961, 3721.178467>) as pilot
+18:01:50.605 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.339355, 74.057564, 3721.178711>)
+18:02:16.550 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:02:16.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:02:16.554 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:02:17.527 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:02:19.683 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.339355, 74.057571, 3721.178711>)
+18:03:08.636 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] switched seats in vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.338867, 74.057564, 3721.179199>) to passenger
+18:03:13.972 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:03:13.976 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+18:03:13.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:03:14.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:03:21.355 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4830.713867, 105.157837, 3377.815430>) as pilot
+18:03:21.660 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.338867, 74.057556, 3721.179199>)
+18:03:29.218 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:03:29.222 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=
+18:03:29.222 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+18:03:30.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+18:03:30.625 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.337402, 74.059959, 3721.177246>) as pilot
+18:03:32.628 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.337402, 74.059959, 3721.177246>)
+18:03:35.117 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4830.546387, 105.100723, 3377.563477>)
+18:04:17.414 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.337402, 74.059868, 3721.177490>)
+18:04:26.816 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.337402, 74.059883, 3721.177490>) as pilot
+18:04:41.289 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.337402, 74.059875, 3721.177490>)
+18:05:37.093 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.337402, 74.059921, 3721.177490>) as pilot
+18:05:39.613 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle Mh-6 Little Bird (id=8EF70F274A49BE9065E67A905243BCFE pos=<5448.337402, 74.059883, 3721.177490>)
+18:06:17.382 [Killfeed] brailsford40 didn't survive flying their Mh-6 Little Bird.
+18:07:22.289 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:07:23.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:07:34.097 [SpawnSelection] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) spawned at <5638.890137, 27.349701, 5438.060059>
+18:07:34.402 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<5638.890137, 27.349701, 5438.060059>) Entered the safezone
+18:08:15.882 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<5597.886719, 216.916733, 5275.503906>) Entered the safezone
+18:09:08.761 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<5625.856934, 28.789536, 5357.103027>)
+18:09:11.785 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<5625.747070, 28.767775, 5357.127930>) as passenger
+18:09:14.796 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<5625.746582, 28.767567, 5357.127930>)
+18:10:11.761 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<5548.854980, 229.853104, 4847.263672>) Left the safezone
+18:10:11.839 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<5548.343262, 229.491043, 4842.850098>) Left the safezone
+18:12:07.164 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:12:56.835 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4833.796387, 113.577904, 3411.005127>)
+18:13:54.117 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4834.873047, 112.825401, 3408.353271>)
+18:14:11.476 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4835.223145, 112.578918, 3407.510742>) as pilot
+18:16:37.242 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+18:17:43.609 [Killfeed] Zookyook got killed by Power Plant Patrol with M16-A2 from a distance of 10 m.
+18:18:17.859 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:18:18.851 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+18:18:22.492 [SpawnSelection] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) spawned at <3469.290039, 22.379999, 6083.919922>
+18:18:23.757 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): need lift to power station to get your stuff Zook
+18:18:42.015 [Chat - Global]("Zookyook"(id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=)): I'm not far but thanks man 
+18:19:04.703 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): cool, you at Hollers?
+18:19:16.351 [Chat - Global]("Zookyook"(id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=)): idk what that is lol
+18:19:35.437 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): the trader
+18:19:40.304 [Killfeed] Ding Chavez got killed by Power Plant Patrol with M16-A2 from a distance of 2 m.
+18:19:45.562 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): its a spawn point after you die
+18:19:58.976 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): can get equipment and go back in
+18:20:08.460 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:20:09.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+18:20:10.187 [Chat - Global]("Zookyook"(id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=)): ohhh I see... nice to know 
+18:20:37.679 [SpawnSelection] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) spawned at <3703.820068, 20.430000, 6472.259766>
+18:22:39.054 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:22:39.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+18:22:39.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:22:40.046 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+18:23:09.328 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4836.012207, 111.846718, 3404.899170>)
+18:27:28.726 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4911.164063, 72.452492, 3232.969238>)
+18:28:12.851 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10840.724609, 12.096754, 10688.540039>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=C33F21F22E4027811E12D898AAA96A3B pos=<10841.941406, 11.622095, 10688.147461>)
+18:28:23.117 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle Offroad Range Rover green  (id=C33F21F22E4027811E12D898AAA96A3B pos=<10841.941406, 11.622092, 10688.147461>) as driver
+18:28:27.281 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle Offroad Range Rover green  (id=C33F21F22E4027811E12D898AAA96A3B pos=<10841.941406, 11.622094, 10688.147461>)
+18:29:32.898 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4912.117188, 72.184219, 3230.621338>) as passenger
+18:29:51.898 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<4912.148926, 72.167526, 3230.436768>)
+18:30:51.937 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+18:30:51.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+18:30:51.945 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 42
+18:30:52.906 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+18:33:27.187 [AI Patrol] Spawning 3 Old Town Police Patrol bots at <1808.135010, 9.190000, 9085.258789>
+18:33:55.218 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle Offroad Range Rover green  (id=C33F21F22E4027811E12D898AAA96A3B pos=<8886.159180, 5.220798, 8675.345703>)
+18:33:59.382 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle Offroad Range Rover green  (id=C33F21F22E4027811E12D898AAA96A3B pos=<8886.159180, 5.220798, 8675.345703>)
+18:34:22.257 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8887.957031, 5.211718, 8675.048828>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=C33F21F22E4027811E12D898AAA96A3B pos=<8886.159180, 5.220798, 8675.345703>)
+18:34:34.421 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8887.666992, 5.209705, 8678.273438>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=C33F21F22E4027811E12D898AAA96A3B pos=<8886.159180, 5.220798, 8675.345703>)
+18:34:52.250 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8887.579102, 5.225775, 8678.018555>) used the  ExpansionCarKey to lock OffroadRangeRover_green (id=C33F21F22E4027811E12D898AAA96A3B pos=<8886.159180, 5.220798, 8675.345703>)
+18:35:12.343 [VehicleDeleted] OffroadRangeRover_green (id=C33F21F22E4027811E12D898AAA96A3B pos=<8886.159180, 5.220798, 8675.345703>)
+18:35:12.343 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8887.582031, 5.211761, 8678.390625>) covered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8886.159180, 5.220798, 8675.345703>)!
+18:36:08.195 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+18:36:08.210 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+18:36:08.210 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+18:36:09.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+18:36:32.593 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5599.067383, 28.722498, 5363.310547>) Entered the safezone
+18:36:32.609 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+18:37:28.554 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<6332.903320, 38.202095, 14807.952148>)
+18:37:58.875 [VehicleCover] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3821.763428, 5.656738, 2497.824219>) uncovered vehicle "ExpansionUh1h_Resistance" (GlobalID=80000000800000008000000080039FE3 pos=<3830.905273, 5.759696, 2499.032959>)!
+18:38:18.523 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3830.282959, 5.744396, 2497.107910>) used the  ExpansionCarKey to unlock ExpansionUh1h_Resistance (id=31E2FD51314973D1E320F4995C17D08C pos=<3830.906006, 5.769007, 2499.033447>)
+18:38:25.281 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle UH-1H (id=31E2FD51314973D1E320F4995C17D08C pos=<3830.905518, 5.759805, 2499.033447>) as pilot
+18:38:28.273 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle UH-1H (id=31E2FD51314973D1E320F4995C17D08C pos=<3830.905518, 5.759717, 2499.033203>)
+18:38:39.937 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Mh-6 Little Bird (id=8B88E178E94FDF441E5BCA8E21523AA7 pos=<6332.916992, 37.453316, 14807.920898>) as passenger
+18:38:49.132 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to purchase expansionmh6 x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:38:49.218 [VehicleDeleted] ExpansionMh6 (id=97023FE674459B324BE28D99F5B969C4 pos=<0.000861, 1.692845, 0.535123>)
+18:38:49.234 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has bought expansionmh6 x1 from the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 2513800.
+18:39:13.859 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has send a requested to sell expansionmh6 x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+18:39:13.898 [VehicleDeleted] ExpansionMh6 (id=EF66C43DC04A675F23BD63BA267A123A pos=<5611.137695, 28.815174, 5353.280273>)
+18:39:13.914 [Market] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has sold expansionmh6 x1 at the trader "Vehicles (Lewis [VEHICLES])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) and got 1886850.

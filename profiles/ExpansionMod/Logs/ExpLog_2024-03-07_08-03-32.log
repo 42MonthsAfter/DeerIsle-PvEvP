@@ -1,0 +1,7 @@
+11:53:12.453 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:53:12.468 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:53:12.468 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+11:53:13.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:57:55.695 [VehicleCover] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8888.458008, 5.211761, 8678.779297>) uncovered vehicle "OffroadRangeRover_green" (GlobalID=80000000800000008000000080016FB4 pos=<8886.526367, 5.220797, 8676.042969>)!
+11:58:14.105 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<8883.949219, 5.211721, 8674.569336>) used the  ExpansionCarKey to unlock OffroadRangeRover_green (id=9D6518E8814FFD2E7D93E496A330C4A1 pos=<8886.526367, 5.220797, 8676.042969>)
+11:59:15.664 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

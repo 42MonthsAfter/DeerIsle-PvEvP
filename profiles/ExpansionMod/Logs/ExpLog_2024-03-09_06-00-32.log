@@ -1,0 +1,6 @@
+11:51:20.851 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:51:20.867 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:51:20.867 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+11:51:21.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+11:56:53.812 [BaseRaiding] ExpansionSafeLarge (<8917.130859, 5.130854, 8674.403320>) Code set by player "Stahlhelm Sturm" (ID = "Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=" at <8916.229492, 5.169866, 8674.816406>) and the code is 0414
+11:59:15.144 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

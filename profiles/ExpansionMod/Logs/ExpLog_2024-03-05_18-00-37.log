@@ -1,0 +1,17 @@
+19:57:25.796 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+19:57:25.804 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+19:57:25.812 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+19:57:26.781 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+20:12:30.945 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Medical
+20:21:49.531 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+21:15:47.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=
+21:15:47.789 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4645.137207, 20.430000, 7031.131348>
+21:26:41.468 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4252.539063, 20.462494, 7267.955566>) uncovered vehicle "G65_black" (GlobalID=80000000800000008000000080036E6D pos=<4255.000977, 20.384775, 7267.719727>)!
+21:26:48.390 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4252.539063, 20.462494, 7267.955566>) used the  ExpansionCarKey to unlock G65_black (id=AEE8C7004442E3C21FBCA782CA31602C pos=<4255.000977, 20.384733, 7267.719727>)
+21:28:05.359 [VehicleCarKey] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4255.496582, 20.462500, 7264.527832>) used the  ExpansionCarKey to lock G65_black (id=AEE8C7004442E3C21FBCA782CA31602C pos=<4255.000977, 20.384733, 7267.719727>)
+21:28:17.703 [VehicleDeleted] G65_black (id=AEE8C7004442E3C21FBCA782CA31602C pos=<4255.000977, 20.384733, 7267.719727>)
+21:28:17.703 [VehicleCover] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q= pos=<4255.496582, 20.462500, 7264.527832>) covered vehicle "G65_black" (GlobalID=80000000800000008000000080036E6D pos=<4255.000977, 20.384733, 7267.719727>)!
+21:32:16.054 [AI Patrol] Spawning 2 Shamans bots at <3506.159668, 27.590000, 6794.351074>
+22:14:11.734 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+22:15:15.585 [SpawnSelection] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) spawned at <3060.449951, 11.511600, 6255.330078>
+22:29:15.234 [AI Patrol] Spawning 2 Shamans bots at <4231.278809, 25.996439, 6904.638672>

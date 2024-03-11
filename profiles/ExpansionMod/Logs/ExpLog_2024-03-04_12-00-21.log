@@ -1,0 +1,46 @@
+12:07:32.910 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+12:07:32.914 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+12:07:32.914 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 32
+12:07:32.917 [AI Patrol] Spawning 3 Shamans bots at <9012.752930, 25.248903, 7997.179199>
+12:07:33.871 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+12:22:33.460 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Basebuilding
+13:19:25.246 [Safezone] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10312.533203, 1.464305, 5630.127441>) Entered the safezone
+13:20:08.984 [ATM] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has withdrawn 100000 from his ATM account.
+13:20:24.835 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has send a requested to purchase expansionzodiacboat x1 from the trader "Boats (Rolf [BOATS])" in market zone "Fisher Camp Marina" (pos=<10319.200195, 1.455190, 5636.520996>).
+13:20:25.035 [VehicleDeleted] ExpansionZodiacBoat (id=F4E7A31E134D1260C7D7B0897110176A pos=<-0.004938, 0.609635, -1.417695>)
+13:20:25.035 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has bought expansionzodiacboat x1 from the trader "Boats (Rolf [BOATS])" in market zone "Fisher Camp Marina" (pos=<10319.200195, 1.455190, 5636.520996>) for a price of 81200.
+13:20:39.195 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has send a requested to purchase glowplug x2 from the trader "Boats (Rolf [BOATS])" in market zone "Fisher Camp Marina" (pos=<10319.200195, 1.455190, 5636.520996>).
+13:20:39.347 [Market] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has bought glowplug x2 from the trader "Boats (Rolf [BOATS])" in market zone "Fisher Camp Marina" (pos=<10319.200195, 1.455190, 5636.520996>) for a price of 400.
+13:21:10.968 [ATM] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) has deposited 18400 on his ATM account.
+13:22:13.613 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10324.998047, 0.677614, 5636.899902>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<10324.395508, 0.191899, 5637.522461>)
+13:22:25.019 [AI Patrol] Spawning 3 Temple Patrol bots at <305.847168, 47.005688, 785.852356>
+13:22:25.031 [AI Patrol] Spawning 3 Temple Patrol bots at <456.375488, 47.070000, 682.387451>
+13:22:25.046 [AI Patrol] Spawning 3 Temple Patrol bots at <354.762665, 47.070000, 725.986511>
+13:22:27.007 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<10324.288086, 0.604712, 5637.468262>) as driver
+13:22:33.519 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<10323.828125, 0.274900, 5637.404785>)
+13:22:49.097 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<10323.681641, 0.450800, 5637.354492>)
+13:22:52.500 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<10323.956055, 0.588623, 5637.354004>)
+13:23:28.386 [Safezone] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<10327.695313, 1.072028, 5668.604004>) Left the safezone
+13:30:56.425 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.512695, 1.606342, 5465.458496>)
+13:31:02.359 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.516602, 1.606290, 5465.457520>)
+13:31:53.394 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<12508.103516, 0.990307, 5466.251465>) used the  ExpansionCarKey to lock ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.918945, 1.538868, 5465.110352>)
+13:32:03.792 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<12508.060547, 0.969548, 5466.068848>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.918945, 1.538868, 5465.110352>)
+13:32:32.859 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.916992, 1.538568, 5465.107910>) as driver
+13:32:35.746 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.914063, 1.537924, 5465.103516>)
+13:33:06.941 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<12507.799805, 0.981012, 5466.292480>) used the  ExpansionCarKey to lock ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.913086, 1.537775, 5465.102539>)
+13:34:14.976 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+16:18:49.933 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) joinded the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+16:18:49.937 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+16:18:49.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+16:18:50.894 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 32
+16:18:54.523 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Military
+16:21:22.382 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<12507.410156, 1.056632, 5467.191895>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.913086, 1.537775, 5465.102539>)
+16:21:50.835 [VehicleEnter] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] entered vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.915039, 1.538170, 5465.105957>) as driver
+16:21:54.867 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] started vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12506.920898, 1.539473, 5465.114258>)
+16:22:45.367 [VehicleEngine] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] stopped vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.013672, 1.556383, 5465.229004>)
+16:22:52.371 [VehicleLeave] Player Stahlhelm Sturm [uid=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=] left vehicle PBX (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.028320, 1.558777, 5465.244629>)
+16:23:12.902 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<12508.332031, 1.076013, 5466.981934>) used the  ExpansionCarKey to lock ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.027344, 1.558905, 5465.244141>)
+16:34:38.281 [VehicleCarKey] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk= pos=<12509.618164, 0.978047, 5465.430176>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.027344, 1.558905, 5465.244141>)
+16:38:23.148 [VehicleDestroyed] ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.027344, 1.558905, 5465.244141>)
+16:44:38.742 [VehicleDeleted] ExpansionZodiacBoat (id=E0EB28993F42EC8B4916228AA1CB7C20 pos=<12507.027344, 1.558905, 5465.244141>)
+17:19:30.617 [Party] Player "Stahlhelm Sturm" (id=Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=) left the party "DIEHARD" (id=32 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
