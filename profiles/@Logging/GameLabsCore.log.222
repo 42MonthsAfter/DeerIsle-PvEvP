@@ -1,0 +1,39 @@
+************************** 2024-02-16T11:00:26+00:00 **************************
+2024-02-16T11:00:26+00:00 | [INFO	] GameLabs v1.932 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-02-16T11:00:36+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-02-16T11:00:36+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-02-16T11:00:36+00:00 | [INFO	] Experimental speed check is enabled
+2024-02-16T12:00:37+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-16T12:00:37+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-16T12:00:38+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-16T12:53:19+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-16T12:53:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-16T12:53:19+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199000254969, distance=9511.04u, unitsPerSecond=3804.42 [threshold=8, inVehicle=0, triggers=1])
+2024-02-16T12:53:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-16T12:53:19+00:00 | [WARN	] ****************************************
+2024-02-16T13:00:42+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-16T13:00:42+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-16T13:00:43+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-16T14:00:48+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-16T14:00:48+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-16T14:00:48+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-16T15:00:53+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-16T15:00:53+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-16T15:00:53+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-16T16:00:58+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-16T16:00:58+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-16T16:00:58+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-16T16:42:53+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:42:58+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:03+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:08+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:13+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:18+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:23+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:28+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:33+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:38+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:43+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T16:43:48+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-16T17:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-02-16T17:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

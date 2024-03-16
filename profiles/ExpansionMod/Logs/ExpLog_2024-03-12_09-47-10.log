@@ -1,0 +1,7 @@
+11:44:54.847 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+11:44:54.863 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+11:44:54.863 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 39
+11:44:55.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 39
+11:47:13.804 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5621.416016, 28.709999, 5400.304688>) Entered the safezone
+11:47:31.203 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "WitheringFlesh" (id=39 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=BtWF_Raziel)
+11:59:55.691 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer

@@ -1,0 +1,75 @@
+************************** 2024-01-09T05:10:03+00:00 **************************
+2024-01-09T05:10:03+00:00 | [INFO	] GameLabs v1.920 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-01-09T05:10:14+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-01-09T05:10:14+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-01-09T05:10:14+00:00 | [INFO	] Experimental speed check is enabled
+2024-01-09T05:16:01+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T05:16:01+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:16:01+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198940915030, distance=22.5467u, unitsPerSecond=9.01867 [threshold=8, inVehicle=0, triggers=1])
+2024-01-09T05:16:01+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:16:01+00:00 | [WARN	] ****************************************
+2024-01-09T05:39:27+00:00 | [WARN	] [Spawn] Spawning ExpansionCodeLock (x2) for SurvivorBase<89a37a0>
+2024-01-09T05:40:32+00:00 | [WARN	] [Spawn] Spawning HatchbackHood_Blue (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:41:07+00:00 | [WARN	] [Spawn] Spawning ROVER (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:41:42+00:00 | [WARN	] [Spawn] Spawning ROVER_Wheel (x4) for SurvivorBase<89a37a0>
+2024-01-09T05:42:17+00:00 | [WARN	] [Spawn] Spawning CarBattery (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:42:42+00:00 | [WARN	] [Spawn] Spawning CarRadiator (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:43:02+00:00 | [WARN	] [Spawn] Spawning SparkPlug (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:43:32+00:00 | [WARN	] [Spawn] Spawning Msp_WaterBarrel (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:44:07+00:00 | [WARN	] [Spawn] Spawning Barrel_Green (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:45:27+00:00 | [WARN	] [Spawn] Spawning Msp_WaterBarrel_Plastic (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:46:37+00:00 | [WARN	] [Spawn] Spawning WaterBottle (x1) for SurvivorBase<89a37a0>
+2024-01-09T05:47:22+00:00 | [WARN	] [Spawn] Spawning WaterBottle (x9) for SurvivorBase<89a37a0>
+2024-01-09T05:52:07+00:00 | [WARN	] [Teleport] SurvivorBase<89a37a0> position=0x000000007ae09c60 {<5634.91,28.91,5387.65>}
+2024-01-09T05:52:09+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T05:52:09+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:52:09+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=28.91u, unitsPerSecond=11.564 [threshold=8, inVehicle=0, triggers=1])
+2024-01-09T05:52:09+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:52:09+00:00 | [WARN	] ****************************************
+2024-01-09T05:52:32+00:00 | [WARN	] [Teleport] SurvivorBase<89a37a0> position=0x000000007ae09c60 {<5655.47,28.91,5413.83>}
+2024-01-09T05:52:34+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T05:52:34+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:52:34+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=29.6555u, unitsPerSecond=11.8622 [threshold=8, inVehicle=0, triggers=2])
+2024-01-09T05:52:34+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:52:34+00:00 | [WARN	] ****************************************
+2024-01-09T05:53:52+00:00 | [WARN	] [Teleport] SurvivorBase<89a37a0> position=0x000000007ae09c60 {<10148.9,52.7055,5072.11>}
+2024-01-09T05:53:54+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T05:53:54+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:53:54+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=52.7055u, unitsPerSecond=21.0822 [threshold=8, inVehicle=0, triggers=3])
+2024-01-09T05:53:54+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:53:54+00:00 | [WARN	] ****************************************
+2024-01-09T05:54:42+00:00 | [WARN	] [Teleport] SurvivorBase<89a37a0> position=0x000000007ae09c60 {<5605.47,28.91,5385.05>}
+2024-01-09T05:54:44+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T05:54:44+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:54:44+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=28.91u, unitsPerSecond=11.564 [threshold=8, inVehicle=0, triggers=4])
+2024-01-09T05:54:44+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:54:44+00:00 | [WARN	] ****************************************
+2024-01-09T05:55:42+00:00 | [WARN	] [Teleport] SurvivorBase<89a37a0> position=0x000000007ae09c60 {<10144.6,52.8143,5076.09>}
+2024-01-09T05:55:44+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T05:55:44+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:55:44+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=52.8284u, unitsPerSecond=21.1314 [threshold=8, inVehicle=0, triggers=5])
+2024-01-09T05:55:44+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:55:44+00:00 | [WARN	] ****************************************
+2024-01-09T05:58:17+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-09T05:58:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:58:17+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=3010.63u, unitsPerSecond=1204.25 [threshold=8, inVehicle=0, triggers=1])
+2024-01-09T05:58:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-09T05:58:17+00:00 | [WARN	] ****************************************
+2024-01-09T05:59:02+00:00 | [WARN	] [Spawn] Spawning CarRadiator (x1) for SurvivorBase<a710070>
+2024-01-09T06:10:17+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T06:10:17+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T06:10:18+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T07:10:22+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T07:10:22+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T07:10:23+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T08:10:27+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T08:10:27+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T08:10:28+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T09:10:33+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T09:10:33+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T09:10:33+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T10:10:38+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-09T10:10:38+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-09T10:10:38+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-09T11:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-01-09T11:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

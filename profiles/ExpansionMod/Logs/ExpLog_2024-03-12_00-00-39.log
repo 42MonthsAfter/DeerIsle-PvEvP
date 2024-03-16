@@ -1,0 +1,31 @@
+00:01:50.926 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:01:50.935 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+00:01:50.936 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+00:01:51.897 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:01:58.179 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:01:58.184 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=
+00:01:58.184 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:01:59.149 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:06:44.050 [AI Patrol] Spawning 3 KMUC Patrol bots at <7069.299316, 601.570007, 11569.284180>
+00:16:55.063 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+00:19:11.703 [AI Patrol] Spawning 3 Temple Patrol bots at <427.459564, 55.318100, 707.877563>
+00:19:11.714 [AI Patrol] Spawning 3 Temple Patrol bots at <326.855103, 48.908298, 543.694580>
+00:19:13.401 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7249.663574, 224.877960, 11617.882813>) as pilot
+00:19:19.921 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7249.663574, 224.877960, 11617.882813>)
+00:21:15.322 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7249.663574, 224.877991, 11617.882813>) as pilot
+00:21:47.733 [AI Patrol] Spawning 3 Temple Patrol bots at <454.359467, 47.070000, 892.699219>
+00:21:51.768 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7249.663574, 224.877975, 11617.882813>)
+00:22:28.359 [VehicleEnter] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] entered vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7249.663086, 224.877975, 11617.882813>) as pilot
+00:22:34.837 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7249.663086, 224.878021, 11617.882813>) as passenger
+00:22:44.384 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] started vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7249.663086, 224.878021, 11617.882813>)
+00:25:27.427 [VehicleEngine] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] stopped vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7247.848145, 228.091217, 11613.958984>)
+00:25:31.202 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7247.848145, 224.878448, 11613.953125>)
+00:25:43.826 [VehicleLeave] Player MrGreen530 [uid=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=] left vehicle Mh-6 Little Bird (id=A84C48AD324FF566EB7A0E832AEAFCF2 pos=<7247.848145, 224.878677, 11613.953125>)
+00:40:55.756 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+00:42:07.503 [Party] Player "MrGreen530" (id=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:42:12.041 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:47:06.027 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+00:47:06.027 [Expansion Quests] - Create new quest instance for quest: 20 - Player UID: QM7LViVt5sZd0hja19cF2rW2mCNEG7w2k3AFdalcF50=
+01:02:42.654 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: TWa92GjeUJ73RM0TAtvmwIIHYio08KUy6ObhTD80ZwM=
+01:03:29.944 [SpawnSelection] Player "PabloErectus" (id=TWa92GjeUJ73RM0TAtvmwIIHYio08KUy6ObhTD80ZwM=) spawned at <3703.820068, 20.430000, 6472.259766>
+01:33:17.168 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4739.735352, 20.430000, 7207.359375>

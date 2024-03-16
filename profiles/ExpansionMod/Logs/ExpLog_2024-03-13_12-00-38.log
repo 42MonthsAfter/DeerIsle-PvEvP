@@ -1,0 +1,162 @@
+12:01:49.035 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:01:49.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+12:01:49.039 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 52
+12:01:50.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:03:20.882 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2847.356445, 6.031311, 6192.587402>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2850.962402, 5.505406, 6192.791992>)
+12:03:59.121 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2851.067383, 5.425842, 6194.366699>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2850.962402, 5.505406, 6192.791992>)
+12:04:15.289 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2847.455078, 5.989608, 6192.898926>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2850.962402, 5.505406, 6192.791992>)
+12:10:13.187 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:11:04.875 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:11:04.878 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:11:04.878 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 42
+12:11:04.882 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:11:05.851 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:11:26.507 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.212891, 41.872498, 14142.181641>) used the  ExpansionCarKey to unlock Conqueror (id=64F483E29C43A56798672DADC5F031B7 pos=<6290.026367, 41.896862, 14142.225586>)
+12:12:05.902 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.212891, 41.872498, 14142.181641>) used the  ExpansionCarKey to lock Conqueror (id=64F483E29C43A56798672DADC5F031B7 pos=<6290.026367, 41.896862, 14142.225586>)
+12:12:18.804 [VehicleDeleted] Conqueror (id=64F483E29C43A56798672DADC5F031B7 pos=<6290.026367, 41.896862, 14142.225586>)
+12:12:18.804 [VehicleCover] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.133301, 41.872498, 14142.161133>) covered vehicle "Conqueror" (GlobalID=8000000080000000800000008003B1E2 pos=<6290.026367, 41.896862, 14142.225586>)!
+12:15:50.523 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:15:50.527 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+12:15:50.527 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:15:51.507 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:16:54.093 [MissionAirdrop] An airdrop is heading towards "Portland" (pos=<6055.000000, 0.000000, 13429.000000> type=Random_Portland) with a ExpansionAirdropContainer_Military
+12:17:19.195 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:17:19.242 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:18:06.113 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:18:06.117 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+12:18:06.117 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:18:07.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:18:29.105 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:18:29.109 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:18:29.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:18:29.109 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:18:30.082 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:21:32.695 [VehicleCover] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6287.954590, 41.869236, 14141.470703>) uncovered vehicle "Conqueror" (GlobalID=8000000080000000800000008003B1E2 pos=<6290.026367, 41.896862, 14142.225586>)!
+12:21:45.562 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.327148, 41.872498, 14141.967773>) used the  ExpansionCarKey to unlock Conqueror (id=BCD3C30BF24DBE5C80C6609E69B54683 pos=<6290.026367, 41.896854, 14142.225586>)
+12:22:02.988 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.327148, 41.872498, 14141.967773>) used the  ExpansionCarKey to lock Conqueror (id=BCD3C30BF24DBE5C80C6609E69B54683 pos=<6290.026367, 41.896854, 14142.225586>)
+12:22:15.222 [VehicleDeleted] Conqueror (id=BCD3C30BF24DBE5C80C6609E69B54683 pos=<6290.026367, 41.896854, 14142.225586>)
+12:22:15.222 [VehicleCover] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.200684, 41.872498, 14141.932617>) covered vehicle "Conqueror" (GlobalID=8000000080000000800000008003B1E2 pos=<6290.026367, 41.896854, 14142.225586>)!
+12:22:38.921 [Safezone] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<5620.166504, 29.020760, 5417.104492>) Entered the safezone
+12:22:38.921 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:22:38.925 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+12:22:38.925 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:22:39.898 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:24:05.312 [VehicleCover] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6287.867676, 41.855556, 14141.073242>) uncovered vehicle "Conqueror" (GlobalID=8000000080000000800000008003B1E2 pos=<6290.026367, 41.896854, 14142.225586>)!
+12:24:15.386 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6287.867676, 41.855556, 14141.073242>) used the  ExpansionCarKey to unlock Conqueror (id=93071E1CB54FFD90A61C669AF3B3D058 pos=<6290.026367, 41.896854, 14142.225586>)
+12:24:54.046 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.338867, 41.872498, 14141.625000>) used the  ExpansionCarKey to lock Conqueror (id=93071E1CB54FFD90A61C669AF3B3D058 pos=<6290.026367, 41.896854, 14142.225586>)
+12:24:54.511 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has send a requested to purchase wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:24:54.742 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has bought wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3.
+12:25:05.613 [VehicleDeleted] Conqueror (id=93071E1CB54FFD90A61C669AF3B3D058 pos=<6290.026367, 41.896854, 14142.225586>)
+12:25:05.613 [VehicleCover] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.338867, 41.872498, 14141.625000>) covered vehicle "Conqueror" (GlobalID=8000000080000000800000008003B1E2 pos=<6290.026367, 41.896854, 14142.225586>)!
+12:26:44.636 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:26:44.636 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:26:44.742 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:27:21.109 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:27:21.113 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+12:27:21.113 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:27:22.089 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:27:35.960 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:27:35.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:27:35.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:27:35.968 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:27:36.933 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:27:53.386 [Safezone] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<5634.887207, 29.285000, 5390.989258>) Entered the safezone
+12:27:53.386 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:27:53.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+12:27:53.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:27:54.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:27:59.613 [VehicleCover] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.033691, 41.872498, 14141.895508>) uncovered vehicle "Conqueror" (GlobalID=8000000080000000800000008003B1E2 pos=<6290.026367, 41.896854, 14142.225586>)!
+12:28:08.355 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.033691, 41.872498, 14141.895508>) used the  ExpansionCarKey to unlock Conqueror (id=ADBF5A82E94137CD3E3080BF642CD834 pos=<6290.026367, 41.896862, 14142.225586>)
+12:28:35.335 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.033691, 41.872498, 14141.895508>) used the  ExpansionCarKey to lock Conqueror (id=ADBF5A82E94137CD3E3080BF642CD834 pos=<6290.026367, 41.896862, 14142.225586>)
+12:28:40.468 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.033691, 41.872498, 14141.895508>) used the  ExpansionCarKey to unlock Conqueror (id=ADBF5A82E94137CD3E3080BF642CD834 pos=<6290.026367, 41.896862, 14142.225586>)
+12:28:53.839 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.033691, 41.872498, 14141.895508>) used the  ExpansionCarKey to lock Conqueror (id=ADBF5A82E94137CD3E3080BF642CD834 pos=<6290.026367, 41.896862, 14142.225586>)
+12:29:39.371 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has send a requested to purchase twp_minigun_mag_300rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:29:39.601 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has bought twp_minigun_mag_300rnd x1 from the trader "Weapons (Oliver [WEAPONS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 2600.
+12:31:20.976 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.285156, 41.872498, 14141.282227>) used the  ExpansionCarKey to unlock Conqueror (id=ADBF5A82E94137CD3E3080BF642CD834 pos=<6290.026367, 41.896862, 14142.225586>)
+12:31:46.066 [VehicleCarKey] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.521484, 41.872498, 14141.547852>) used the  ExpansionCarKey to lock Conqueror (id=ADBF5A82E94137CD3E3080BF642CD834 pos=<6290.026367, 41.896862, 14142.225586>)
+12:32:13.156 [VehicleDeleted] Conqueror (id=ADBF5A82E94137CD3E3080BF642CD834 pos=<6290.026367, 41.896862, 14142.225586>)
+12:32:13.156 [VehicleCover] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8= pos=<6288.095703, 41.872498, 14141.857422>) covered vehicle "Conqueror" (GlobalID=8000000080000000800000008003B1E2 pos=<6290.026367, 41.896862, 14142.225586>)!
+12:32:43.792 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has send a requested to purchase wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:32:44.058 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has bought wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3.
+12:32:44.726 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has send a requested to purchase wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:32:44.945 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has bought wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3.
+12:32:45.730 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has send a requested to purchase wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:32:45.984 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has bought wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3.
+12:32:46.750 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has send a requested to purchase wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>).
+12:32:46.984 [Market] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has bought wrench x1 from the trader "BuildingSupplies (Indar [BUILDINGS])" in market zone "The Holler" (pos=<5632.000000, 32.000000, 5392.000000>) for a price of 3.
+12:33:29.308 [ATM] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) has deposited 85610 on his ATM account.
+12:33:51.812 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<5634.645508, 28.510490, 5341.570801>) used the  ExpansionCarKey to unlock MBw140_white (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5636.537598, 28.535126, 5341.976563>)
+12:35:32.613 [AI Patrol] Spawning 3 Temple Patrol bots at <416.142914, 47.070000, 778.488525>
+12:35:32.707 [AI Patrol] Spawning 3 Temple Patrol bots at <357.584778, 48.364700, 669.010315>
+12:35:32.718 [AI Patrol] Spawning 3 Temple Patrol bots at <405.692902, 47.070000, 787.305847>
+12:35:34.316 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5636.539063, 28.535133, 5341.976563>) as driver
+12:35:38.402 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] started vehicle Mercedes-Benz W140 White (Locked) (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5636.538574, 28.535126, 5341.976563>)
+12:37:33.484 [Safezone] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<5768.494141, 24.940939, 5201.160645>) Left the safezone
+12:38:05.851 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2846.953613, 6.091938, 6193.114746>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2850.962402, 5.505406, 6192.791992>)
+12:40:00.515 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle ToyotaHilux rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2850.963379, 5.505331, 6192.790527>) as driver
+12:40:03.277 [VehicleEngine] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] started vehicle ToyotaHilux rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2850.962646, 5.505360, 6192.793457>)
+12:40:11.179 [VehicleEngine] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] stopped vehicle ToyotaHilux rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827148, 5.430696, 6193.044922>)
+12:40:13.914 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle ToyotaHilux rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.826416, 5.430712, 6193.047363>)
+12:40:22.113 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2851.397949, 5.425835, 6194.501465>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:40:28.144 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2848.531982, 5.703682, 6193.518555>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:40:35.378 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2848.833740, 6.193707, 6192.604980>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:40:37.343 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2848.833740, 6.193707, 6192.604980>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:40:55.714 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2847.772705, 5.935723, 6192.583008>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:40:59.707 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2847.772705, 5.935723, 6192.583008>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:41:02.847 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2847.772705, 5.935723, 6192.583008>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:41:40.914 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4834.156250, 19.850048, 7258.857910>
+12:45:37.847 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2851.764648, 5.425833, 6195.010254>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:45:46.250 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2848.308105, 5.812868, 6192.574707>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:46:03.753 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:47:06.246 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:47:06.253 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+12:47:06.253 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:47:07.230 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:47:13.632 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2848.510742, 5.746531, 6192.895996>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430691, 6193.043457>)
+12:47:19.531 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle ToyotaHilux rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827393, 5.430695, 6193.041504>) as driver
+12:47:23.882 [VehicleEngine] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] started vehicle ToyotaHilux rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827393, 5.430695, 6193.041504>)
+12:47:35.039 [VehicleEngine] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] stopped vehicle ToyotaHilux rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.827637, 5.430694, 6193.041504>)
+12:48:07.792 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:48:07.972 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:48:07.988 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:48:52.957 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:48:52.964 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+12:48:52.964 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:48:53.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:48:58.992 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<5141.207520, 4.782460, 12011.597656>) used the  ExpansionCarKey to unlock MBw140_white (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5143.290039, 4.789550, 12012.249023>)
+12:49:09.562 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5143.289551, 4.789550, 12012.249023>) as driver
+12:49:14.199 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] started vehicle Mercedes-Benz W140 White (Locked) (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5143.291016, 4.789551, 12012.249023>)
+12:49:56.765 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5184.376953, 4.789552, 12149.510742>)
+12:50:11.167 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<5184.374512, 4.789552, 12149.510742>) as driver
+12:52:38.523 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:52:38.527 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+12:52:38.527 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:52:39.503 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:54:08.593 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:54:08.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:54:08.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:54:08.601 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=
+12:54:09.570 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:54:43.585 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:55:29.179 [Party] Player "Tiozao" (id=Q0Hb5mrxmqogNrrk_AeKzYN-EPz1bMAy4tU2qyNEZO8=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:55:30.277 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:56:53.878 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:56:53.882 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+12:56:53.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:56:54.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+12:57:02.863 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2851.458740, 5.425838, 6194.885742>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.826660, 5.430715, 6193.044922>)
+12:57:12.898 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2850.677246, 6.280720, 6192.564453>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.826660, 5.430715, 6193.044922>)
+12:57:15.027 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) joinded the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)
+12:57:15.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=
+12:57:15.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:57:16.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 42
+12:57:23.320 [VehicleCarKey] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= pos=<6542.168945, 28.804512, 13986.927734>) used the  ExpansionCarKey to unlock MBw140_white (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<6542.309082, 28.834686, 13988.997070>)
+12:57:28.113 [VehicleEnter] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] entered vehicle Mercedes-Benz W140 White (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<6542.309082, 28.834688, 13988.998047>) as driver
+12:57:33.492 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] started vehicle Mercedes-Benz W140 White (Locked) (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<6542.309082, 28.834686, 13988.997070>)
+12:57:36.796 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2850.065430, 6.277082, 6192.193848>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.826660, 5.430715, 6193.044922>)
+12:58:58.261 [VehicleEngine] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] stopped vehicle Mercedes-Benz W140 White (Locked) (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<6297.412109, 41.999935, 14159.821289>)
+12:59:06.085 [VehicleLeave] Player OrdepRoinuj [uid=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=] left vehicle Mercedes-Benz W140 White (id=2BCE58CD8E4F557015CEA6AFF9BC7DBB pos=<6297.411621, 41.999935, 14159.821289>)
+12:59:15.164 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2850.606934, 5.425859, 6194.828613>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.826660, 5.430715, 6193.044922>)
+12:59:23.429 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<2849.395996, 5.481473, 6194.418945>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<2851.826660, 5.430715, 6193.044922>)
+12:59:54.066 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+12:59:54.066 [Party] Player "OrdepRoinuj" (id=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY=) left the party "OldDog" (id=42 ownerUID=jho7WUBGAZrvFnn8RJJsJvDzNHi4rQTd5HHL__KErjY= ownerName=Old Dog)

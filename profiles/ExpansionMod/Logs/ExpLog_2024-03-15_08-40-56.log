@@ -1,0 +1,9 @@
+08:42:57.019 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+08:42:57.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+08:42:57.031 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 52
+08:42:57.033 [AI Patrol] Spawning 3 Power Plant Patrol bots at <4546.693359, 20.430000, 7163.914063>
+08:42:57.990 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 52
+08:51:00.806 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<4848.777344, 19.090082, 7611.169922>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=CA281DAD1149F970B820E388C0D42D06 pos=<4847.989258, 18.484951, 7607.852051>)
+08:57:58.609 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Military
+09:08:36.792 [AI Patrol] Spawning 2 Shamans bots at <3836.440674, 31.177509, 6806.318848>
+09:09:38.574 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=52 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)

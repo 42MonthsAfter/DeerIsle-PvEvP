@@ -1,0 +1,28 @@
+00:04:35.990 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+00:04:35.998 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+00:04:35.999 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+00:04:36.962 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+00:04:47.078 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<5666.050781, 33.294151, 5234.270020>) used the  ExpansionCarKey to unlock ExpansionUh1h_Resistance (id=E79438C0734DC91F81C41C88504DE385 pos=<5663.515625, 33.411381, 5232.153809>)
+00:04:51.276 [AI Patrol] Spawning 3 Temple Patrol bots at <269.862823, 47.070000, 764.235168>
+00:04:51.372 [AI Patrol] Spawning 3 Temple Patrol bots at <408.253418, 48.908298, 567.633423>
+00:04:51.385 [AI Patrol] Spawning 3 Temple Patrol bots at <376.016663, 47.070000, 737.535767>
+00:04:52.991 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle UH-1H (id=E79438C0734DC91F81C41C88504DE385 pos=<5663.515625, 33.411366, 5232.153809>) as pilot
+00:04:56.697 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle UH-1H (id=E79438C0734DC91F81C41C88504DE385 pos=<5663.515625, 33.411366, 5232.153809>)
+00:08:02.955 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle UH-1H (id=E79438C0734DC91F81C41C88504DE385 pos=<3830.842529, 6.133371, 2502.461670>)
+00:08:07.327 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle UH-1H (id=E79438C0734DC91F81C41C88504DE385 pos=<3830.855225, 5.750503, 2502.467285>)
+00:08:14.729 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3829.552979, 5.663245, 2499.996094>) used the  ExpansionCarKey to lock ExpansionUh1h_Resistance (id=E79438C0734DC91F81C41C88504DE385 pos=<3830.858154, 5.754777, 2502.468018>)
+00:19:41.583 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+00:22:58.402 [AI Patrol] Spawning 2 Shamans bots at <3953.809814, 16.149441, 3439.955322>
+00:40:41.112 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3816.150391, 5.654960, 2519.763428>) used the  ExpansionCarKey to lock Gelenvagen_flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3815.146484, 5.739124, 2520.526123>)
+00:40:42.680 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3816.150391, 5.654960, 2519.763428>) used the  ExpansionCarKey to unlock Gelenvagen_flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3815.146484, 5.739124, 2520.526123>)
+00:40:49.721 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3815.146484, 5.739124, 2520.526123>) as driver
+00:40:52.293 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3815.146484, 5.739123, 2520.526123>)
+00:41:17.726 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3786.211670, 5.630791, 2517.270996>)
+00:41:22.952 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3786.211670, 5.630791, 2517.270996>)
+00:41:55.828 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3784.154053, 7.066142, 2517.398193>) used the  ExpansionCarKey to lock Gelenvagen_flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3786.211670, 5.630790, 2517.270996>)
+00:52:05.695 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3784.791016, 5.548928, 2516.118408>) used the  ExpansionCarKey to unlock Gelenvagen_flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3786.211670, 5.630790, 2517.270996>)
+00:52:12.248 [VehicleEnter] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] entered vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3786.211670, 5.630790, 2517.270996>) as driver
+00:52:14.920 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] started vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3786.211670, 5.630790, 2517.270996>)
+00:52:58.975 [VehicleEngine] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] stopped vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3815.425781, 5.739123, 2520.613281>)
+00:53:06.227 [VehicleLeave] Player Golden [uid=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=] left vehicle Gelenvagen flecktarn (id=8A684D1B5A40C1125A92E98E6ED893FE pos=<3815.425781, 5.739123, 2520.613281>)
+00:57:24.277 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) left the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)

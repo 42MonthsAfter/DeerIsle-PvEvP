@@ -426,7 +426,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			auto hands = unit.GetHumanInventory().GetEntityInHands();
 			auto targetEntity = target.GetEntity();
 			auto itemTarget = ItemBase.Cast(targetEntity);
-			if (!targetEntity || itemTarget)
+			if (itemTarget && (!itemTarget.IsExplosive() || unit.eAI_GetTargetThreat(target.info, true) > 0.4))
 			{
 				wantsLower = true;
 			}
@@ -471,18 +471,28 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 					movementDirection = Math.RandomFloat(-135, -180);
 				}
 				unit.OverrideMovementDirection(true, movementDirection);
-				unit.OverrideMovementSpeed(true, Math.RandomIntInclusive(1, 2));
+				unit.OverrideMovementSpeed(true, 2);
 			}
 			else
 			{
 				unit.OverrideMovementDirection(false, 0);
+				if (itemTarget && itemTarget.IsExplosive() && wantsLower)
+				unit.OverrideMovementSpeed(true, 3);
+				else
 				unit.OverrideMovementSpeed(false, 0);
 				time = 0;
 				movementDirection = 0;
 			}
 			unit.LookAtPosition(aimPosition);
 			unit.AimAtPosition(aimPosition);
-			unit.OverrideTargetPosition(position);
+			if ((!itemTarget && hands && hands.IsWeapon()) || (itemTarget && itemTarget.IsExplosive()))
+			{
+				unit.OverrideTargetPosition(target);
+			}
+			else
+			{
+				unit.OverrideTargetPosition(position);
+			}
 			if (hands && (hands.IsWeapon() || fsm.DistanceToTargetSq <= 100.0))
 			{
 				if (hands.HasEnergyManager() && !hands.GetCompEM().IsWorking() && hands.GetCompEM().CanSwitchOn())
@@ -499,7 +509,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 		{
 			unit.RaiseWeapon(true);
 		}
-		else if (wantsLower || !unit.CanRaiseWeapon() || !unit.eAI_HasLOS(target))
+		else if (wantsLower || !unit.CanRaiseWeapon())
 		{
 			unit.RaiseWeapon(false);
 			unit.eAI_AdjustStance(fsm.LastFireTime, timeSinceLastFire, fsm.TimeBetweenFiringAndGettingUp);
@@ -517,6 +527,9 @@ class Expansion_Fighting_Evade_State_0: eAIState {
 	override void OnEntry(string Event, ExpansionState From) {
 		unit.eAI_ForceSideStep(Math.RandomFloat(0.3, 0.5));
 		unit.OverrideMovementSpeed(true, 3);
+		auto target = unit.GetTarget();
+		if (target)
+		unit.OverrideTargetPosition(target);
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
 		unit.OverrideMovementSpeed(false, 0);
@@ -557,7 +570,7 @@ class Expansion_Fighting_FireWeapon_State_0: eAIState {
 		auto lowPosition = target.GetPosition(unit, false);
 		auto aimPosition = lowPosition + target.GetAimOffset(unit);
 		time += DeltaTime;
-		unit.OverrideTargetPosition(lowPosition);
+		unit.OverrideTargetPosition(target);
 		unit.LookAtPosition(aimPosition);
 		unit.AimAtPosition(aimPosition);
 		if (!unit.IsRaised() || !unit.IsWeaponRaiseCompleted())
@@ -572,7 +585,7 @@ class Expansion_Fighting_FireWeapon_State_0: eAIState {
 		}
 		auto neck = unit.GetBonePositionWS(unit.GetBoneIndexByName("neck"));
 		auto direction = vector.Direction(neck, aimPosition).Normalized();
-		if (vector.Dot(unit.GetAimDirection(), direction) < 0.75)
+		if (vector.Dot(unit.GetAimDirection(), direction) < 0.875)
 		{
 			if (time >= 0.5)
 			{
@@ -653,7 +666,7 @@ class Expansion_Fighting_Melee_State_0: eAIState {
 				movementDirection = Math.RandomFloat(-135, -180);
 			}
 			unit.OverrideMovementDirection(true, movementDirection);
-			unit.OverrideMovementSpeed(true, Math.RandomIntInclusive(1, 2));
+			unit.OverrideMovementSpeed(true, 2);
 			return CONTINUE;
 		}
 		if (unit.IsFighting() && time < 0.3)
@@ -761,6 +774,12 @@ class Expansion_Fighting__FireWeapon_Transition_0: eAITransition {
 			return FAIL;
 			if (itemTarget.Expansion_IsMeleeWeapon())
 			return FAIL;
+			if (itemTarget.IsExplosive())
+			{
+				float dist = dst.target.GetDistance(unit);
+				if (dist < dst.target.GetMinDistance(unit))
+				return FAIL;
+			}
 		}
 		if (unit.IsFighting()) return FAIL;
 		if (!Class.CastTo(dst.weapon, unit.GetItemInHands()) || dst.weapon.IsDamageDestroyed()) return FAIL;
@@ -792,7 +811,7 @@ class Expansion_Fighting__Positioning_Transition_0: eAITransition {
 }
 class Expansion_Fighting_FSM_0: eAIFSM {
 	int LastFireTime;
-	int TimeBetweenFiring = 5000;
+	int TimeBetweenFiring = 10000;
 	int TimeBetweenFiringAndGettingUp = 15000;
 	int LastEvadeTime;
 	float DistanceToTargetSq;
@@ -843,14 +862,18 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 	}
 	override void OnEntry(string Event, ExpansionState From) {
 		time = 0;
-		unit.RaiseWeapon(false);
+		if (unit.m_eAI_IsInCover && unit.eAI_GetStance() == eAIStance.ERECT)
+		unit.OverrideStance(DayZPlayerConstants.STANCEIDX_CROUCH);
 		unit.ReloadWeaponAI(fsm.weapon, magazine);
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
 		unit.eAI_CancelSidestep();
+		if (unit.eAI_ShouldGetUp())
+		unit.Expansion_GetUp();
 	}
 	override int OnUpdate(float DeltaTime, int SimulationPrecision) {
 		if (!unit.GetWeaponManager() || unit.IsUnconscious()) return EXIT;
+		if (!fsm.weapon) return EXIT;
 		if (unit.GetWeaponManager().IsRunning())
 		{
 			time += DeltaTime;
@@ -864,10 +887,12 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 			auto target = unit.GetTarget();
 			if (target && unit.GetThreatToSelf() >= 0.4)
 			{
+				if (!unit.m_eAI_IsInCover)
+				unit.OverrideTargetPosition(target, true);
 				if (!unit.eAI_IsSideStepping() && unit.eAI_HasLOS(target))
 				{
 					float distSq = target.GetDistanceSq(unit, true);
-					if (distSq <= 4.0)
+					if (distSq <= 9.0)
 					{
 						float movementDirection;
 						if (Math.RandomIntInclusive(0, 1))
@@ -875,13 +900,15 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 						else
 						movementDirection = Math.RandomFloat(-135, -180);
 						unit.eAI_ForceSideStep(Math.RandomFloat(1, 1.5), null, movementDirection);
+						unit.OverrideMovementSpeed(false, 0);
 					}
-					else if (distSq < 100.0)
+					//! If we have a bolt action rifle with ammo in internal or attached mag, circle around player while cycling action
+					else if (distSq < 100.0 && fsm.weapon.IsInherited(BoltActionRifle_Base) && fsm.weapon.Expansion_HasAmmo())
 					{
 						unit.eAI_ForceSideStep(Math.RandomFloat(1, 1.5), null, 0.0, false);
+						unit.OverrideMovementSpeed(false, 0);
 					}
 				}
-				position = target.GetPosition(unit, false);
 			}
 			else
 			{
@@ -893,12 +920,11 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 					else
 					position = group.GetCurrentWaypoint();
 				}
+				if (position != vector.Zero)
+				unit.OverrideTargetPosition(position);
 			}
-			if (position != vector.Zero)
-			unit.OverrideTargetPosition(position);
 			return CONTINUE;
 		}
-		if (!fsm.weapon) return EXIT;
 		if (fsm.weapon.IsDamageDestroyed())
 		{
 			unit.eAI_DropItem(fsm.weapon);
@@ -1859,7 +1885,7 @@ class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 			//! PREPARE SWAP FROM CURRENT HAND ITEM TO GUN IN INV OR ON GROUND
 			//! If target is gun or magazine (latter means gun w/o ammo is in inventory) and we have melee in hand, prepare swap
 			hands = unit.GetItemInHands();
-			if (hands && (hands.Expansion_IsMeleeWeapon() || hands.Expansion_CanBeUsedToBandage()))
+			if (hands && (hands.Expansion_IsMeleeWeapon() || (hands.Expansion_CanBeUsedToBandage() && !unit.eAI_ShouldBandage())))
 			{
 				//! Only drop if destroyed, target is gun, or target is mag that fits in inventory, else might take current hand item again...
 				if (hands.IsDamageDestroyed() || targetItem.IsWeapon() || (targetItem.IsMagazine() && !unit.eAI_GetItemThreatOverride(targetItem) && unit.eAI_FindFreeInventoryLocationFor(targetItem, 0, dstLoc)))

@@ -1,0 +1,47 @@
+************************** 2024-01-28T05:00:28+00:00 **************************
+2024-01-28T05:00:28+00:00 | [INFO	] GameLabs v1.920 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-01-28T05:00:38+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-01-28T05:00:38+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-01-28T05:00:38+00:00 | [INFO	] Experimental speed check is enabled
+2024-01-28T06:00:40+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-28T06:00:40+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-28T06:00:40+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-28T07:00:45+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-28T07:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-28T07:00:45+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-28T08:00:50+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-28T08:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-28T08:00:50+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-28T09:00:55+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-28T09:00:55+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-28T09:00:56+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-28T09:09:50+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-28T09:09:50+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:09:50+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=8309.49u, unitsPerSecond=3323.79 [threshold=8, inVehicle=0, triggers=1])
+2024-01-28T09:09:50+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:09:50+00:00 | [WARN	] ****************************************
+2024-01-28T09:11:48+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-28T09:11:48+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:11:48+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=144.194u, unitsPerSecond=57.6774 [threshold=8, inVehicle=0, triggers=2])
+2024-01-28T09:11:48+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:11:48+00:00 | [WARN	] ****************************************
+2024-01-28T09:11:50+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-28T09:11:50+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:11:50+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=20.3823u, unitsPerSecond=8.1529 [threshold=8, inVehicle=0, triggers=3])
+2024-01-28T09:11:50+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:11:50+00:00 | [WARN	] ****************************************
+2024-01-28T09:13:18+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-28T09:13:18+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:13:18+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=448.041u, unitsPerSecond=179.216 [threshold=8, inVehicle=0, triggers=4])
+2024-01-28T09:13:18+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:13:18+00:00 | [WARN	] ****************************************
+2024-01-28T09:26:48+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-28T09:26:48+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:26:48+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=196.849u, unitsPerSecond=78.7395 [threshold=8, inVehicle=0, triggers=5])
+2024-01-28T09:26:48+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-28T09:26:48+00:00 | [WARN	] ****************************************
+2024-01-28T10:01:01+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-28T10:01:01+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-28T10:01:01+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-28T11:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-01-28T11:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

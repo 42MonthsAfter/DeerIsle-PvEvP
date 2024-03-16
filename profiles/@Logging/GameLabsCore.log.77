@@ -1,0 +1,40 @@
+************************** 2024-01-19T11:00:26+00:00 **************************
+2024-01-19T11:00:26+00:00 | [INFO	] GameLabs v1.920 start for server 723c1eeb-31ae-43d3-b405-0e97f527c6d2
+2024-01-19T11:00:35+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-01-19T11:00:35+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-01-19T11:00:35+00:00 | [INFO	] Experimental speed check is enabled
+2024-01-19T12:00:36+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-19T12:00:36+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-19T12:00:36+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-19T13:00:41+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-19T13:00:41+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-19T13:00:41+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-19T14:00:46+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-19T14:00:46+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-19T14:00:46+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-19T14:31:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:31:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:31:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:32:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-01-19T14:34:11+00:00 | [WARN	] [Spawn] Spawning Roadflare (x2) for SurvivorBase<ee81b010>
+2024-01-19T14:40:26+00:00 | [WARN	] [Spawn] Spawning CamoNet (x1) for SurvivorBase<ee81b010>
+2024-01-19T15:00:51+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-19T15:00:51+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-19T15:00:51+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-19T16:00:56+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-01-19T16:00:56+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-01-19T16:00:57+00:00 | [WARN	] RegisterAsync re-authorized
+2024-01-19T16:31:12+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-01-19T16:31:12+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-19T16:31:12+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199591018529, distance=964.325u, unitsPerSecond=385.73 [threshold=8, inVehicle=0, triggers=1])
+2024-01-19T16:31:12+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-01-19T16:31:12+00:00 | [WARN	] ****************************************
+2024-01-19T17:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-01-19T17:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

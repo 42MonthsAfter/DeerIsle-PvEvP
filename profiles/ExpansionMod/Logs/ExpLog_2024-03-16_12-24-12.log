@@ -1,0 +1,9 @@
+12:25:51.894 [Party] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=) joinded the party "G's" (id=49 ownerUID=4LNvemhkvMsn3fCjiyhQQrToOar0_hhH9f302w8wMNY= ownerName=MrGreen530)
+12:25:51.917 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ=
+12:25:51.921 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 49
+12:25:52.863 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 49
+12:26:15.613 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5644.655273, 28.722498, 5405.449219>) Entered the safezone
+12:26:15.636 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+12:28:31.882 [VehicleCover] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3822.522217, 5.651187, 2502.427734>) uncovered vehicle "ExpansionUh1h_Resistance" (GlobalID=80000000800000008000000080039FE3 pos=<3831.119873, 5.756140, 2501.756104>)!
+12:28:40.800 [VehicleCarKey] Player "Golden" (id=8Xp2uj5ZxNF55GgpLiN2OARJVn6kKpJE53oZMkC9IiQ= pos=<3829.048828, 5.663622, 2499.289063>) used the  ExpansionCarKey to unlock ExpansionUh1h_Resistance (id=AAD61C14804454D62F245DAC223FA7D9 pos=<3831.120850, 5.764995, 2501.756592>)
+12:40:56.144 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Medical
