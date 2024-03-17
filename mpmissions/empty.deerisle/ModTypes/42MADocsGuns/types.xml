@@ -1048,7 +1048,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_CULT_SWORD1">
+	<type name="DOC_CULT_SWORD">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1059,7 +1059,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_DAYWALKERS_SWORD">
+	<type name="DOC_BladeVampiresword">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1103,7 +1103,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_BUSTER_SWORD">
+	<type name="DOC_BUSTER">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1136,7 +1136,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_ICHIGO_RAINBOWD">
+	<type name="DOC_ICHIGO_RAINBOW">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1180,7 +1180,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_KARAMBIT_KNIFE_BLACK">
+	<type name="DOC_KARAMBITKNIFE_BLACK">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1191,7 +1191,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_KARAMBIT_KNIFE_CARBON">
+	<type name="DOC_KARAMBITKNIFE_CARBON">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1202,7 +1202,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_KARAMBIT_KNIFE_GREEN">
+	<type name="DOC_KARAMBITKNIFE_GREEN">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1213,7 +1213,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 	</type>
-	<type name="DOC_KARAMBIT_KNIFE_GREENOLD">
+	<type name="DOC_KARAMBITKNIFE_GREENOLD">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -1324,6 +1324,94 @@
 		<category name="weapons" />
 	</type>
 	<type name="DOC_MASTERSWORD_BLACK">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_RAZIELSOULREAVER">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_BUSTER_FIREAGA">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+	<type name="DOC_BUSTER_THUNDAGA">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+		<type name="DOC_BUSTER_BLIZZAGA">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+		<type name="DOC_MASTERSWORD_BLACK1HAND">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+		<type name="DOC_BladeVampiresword1H">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+		<type name="DOC_GLOCK_FRESH1">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+	</type>
+		<type name="DOC_MASTERSWORD1H">
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
